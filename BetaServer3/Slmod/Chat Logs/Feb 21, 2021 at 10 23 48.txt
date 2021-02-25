@@ -1,0 +1,46 @@
+CHAT: Feb 21 13:17:51 {name  = "Wizard 1-1 | Archer ↭", ucid = "7c9df90d395f404aabfcd0e22e6d96ae", ip = "78.173.76.82:40427", id = 5} said "privet" to all
+CHAT: Feb 21 13:17:55 {name  = "Wizard 1-1 | Archer ↭", ucid = "7c9df90d395f404aabfcd0e22e6d96ae", ip = "78.173.76.82:40427", id = 5} said "good morningt" to all
+CHAT: Feb 21 13:18:29 {name  = "Wizard 1-1 | Archer ↭", ucid = "7c9df90d395f404aabfcd0e22e6d96ae", ip = "78.173.76.82:40427", id = 5} said "you guys wanna work together?_" to all
+TEAM HIT: Feb 21 19:52:10 {players = {1 = {name  = "Ace_wolf195", ucid = "41a1fef27c369d74ad65ba0a159bd570", ip = "105.232.65.244:46423", id = 6}1 = {name = Nour1543 with AIM-120C
+TEAM KILL: Feb 21 19:52:36 {players = {1 = {name  = "Ace_wolf195", ucid = "41a1fef27c369d74ad65ba0a159bd570", ip = "nil", id = 6}1 = {name = Nour1543 with AIM-120C
+CHAT: Feb 21 19:53:03 {name  = "Nour1543", ucid = "17ca71e8c1b805f067ab5a6ba646fc1a", ip = "217.120.74.181:50532", id = 5} said "-forgive" to all (output suppressed by Slmod)
+TEAM HIT: Feb 21 20:01:14 {players = {1 = {name  = "VARG kallibr44", ucid = "67a547e8e46a8a082681841d33ef926f", ip = "88.204.103.137:55102", id = 2}1 = {name = 10_WEST_CVN74 with F/A-18C Lot 20
+TEAM HIT: Feb 22 03:44:09 {players = {1 = {name  = "Rubble", ucid = "8e75eb749b0090c7ba93afe11c9263df", ip = "66.41.100.202:56686", id = 3}1 = {name = 10_WEST_CVN73 with F/A-18C Lot 20
+CHAT: Feb 22 10:01:28 {name  = "TheWildFish", ucid = "e67f8bbfca8594b4c8d5bf829fce162e", ip = "90.248.193.196:50322", id = 5} said "help" to all
+CHAT: Feb 23 04:17:13 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "raider are you heading to krasnodar?" to all
+CHAT: Feb 23 04:40:09 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "GOOSE go North let the SA-15 cover" to all
+CHAT: Feb 23 04:40:50 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "yeah sounds good" to all
+CHAT: Feb 23 04:44:21 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "I am going NW to KRASNADOR...Got anti-RADAR missiles...will follow up with laser w/night pod." to all
+CHAT: Feb 23 04:44:49 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "will return and rearm after taking out SAM" to all
+CHAT: Feb 23 04:44:54 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "allright" to all
+CHAT: Feb 23 04:45:42 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "going same route, planning to use mavericks" to all
+CHAT: Feb 23 04:48:59 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "Be advise..hornet coming in from the south east...I will wait for the SA-15 to get him" to all
+CHAT: Feb 23 04:49:12 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "rger" to all
+CHAT: Feb 23 04:49:24 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "Also SU-27 from the NW" to all
+CHAT: Feb 23 04:49:41 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "flanker coming from NW" to all
+CHAT: Feb 23 04:53:13 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "The flanker is coming in ...I might have to bait the hornet" to all
+CHAT: Feb 23 04:59:10 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "67.173.17.167:53048", id = 2} said "F-18 from the west" to all
+CHAT: Feb 23 05:06:04 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "that was unlucky" to all
+CHAT: Feb 23 05:06:37 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "gonna go ahead to clear those bandits" to all
+TEAM HIT: Feb 23 05:19:29 {players = {1 = {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3}1 = {name = Raider with AIM-120C
+CHAT: Feb 23 05:19:37 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "omg" to all
+CHAT: Feb 23 05:19:40 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "sorryyyy" to all
+CHAT: Feb 23 05:19:44 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said ":((((" to all
+CHAT: Feb 23 05:20:03 {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "179.6.197.119:38865", id = 3} said "fk" to all
+TEAM KILL: Feb 23 05:20:13 {players = {1 = {name  = "Goose", ucid = "38baf89366aa191d1ba953b516e3fa7c", ip = "nil", id = 3}1 = {name = Raider with AIM-120C
+CHAT: Feb 23 16:50:42 {name  = "vihreät kolahtaa", ucid = "ce01e5b2de6b9ed7b9157dd70048a2f8", ip = "91.152.50.65:55105", id = 4} said "h" to all
+CHAT: Feb 23 17:15:37 {name  = "Smasher 4-4 | GeneralSyb", ucid = "f639448100e19930c27a14c597ed0bb0", ip = "62.195.18.84:51657", id = 5} said "wtf, for some reason my control just locked up" to all
+CHAT: Feb 23 17:15:51 {name  = "vihreät kolahtaa", ucid = "ce01e5b2de6b9ed7b9157dd70048a2f8", ip = "91.152.50.65:55105", id = 4} said "wtf" to all
+CHAT: Feb 23 19:52:04 {name  = "[Phoenix] Laser", ucid = "22794a4101f132cab8561eacfabc3982", ip = "87.187.33.242:53805", id = 3} said "we need air cover" to all
+CHAT: Feb 23 19:52:16 {name  = "Dennis | TheRealOne", ucid = "257076b48af6fac5c7b05ea8e32e4d11", ip = "176.198.32.49:54225", id = 2} said "im out of sticks" to all
+CHAT: Feb 23 20:06:58 {name  = "Dennis | TheRealOne", ucid = "257076b48af6fac5c7b05ea8e32e4d11", ip = "176.198.32.49:54225", id = 2} said "phoenix i need your help" to all
+CHAT: Feb 23 20:16:50 {name  = "Dennis | TheRealOne", ucid = "257076b48af6fac5c7b05ea8e32e4d11", ip = "176.198.32.49:54225", id = 2} said "rtb" to all
+CHAT: Feb 24 03:37:33 {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3} said "````Hello" to all
+TEAM HIT: Feb 24 03:48:54 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:54 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:54 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:55 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:55 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:55 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+TEAM HIT: Feb 24 03:48:56 {players = {1 = {name  = "SenorPickle", ucid = "2248ec7e7434af1c1c7d8804137bb6c7", ip = "213.46.57.174:58193", id = 3}1 = {name = New Static Object #009 with F/A-18C Lot 20
+CHAT: Feb 24 07:41:37 {name  = "BreakneckPace", ucid = "28d47cdfc1f9b78416947573d48afd0c", ip = "107.3.188.73:64740", id = 3} said "nice shot" to all

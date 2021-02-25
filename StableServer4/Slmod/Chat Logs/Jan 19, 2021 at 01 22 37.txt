@@ -1,0 +1,299 @@
+CHAT: Jan 19 01:37:07 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "73.75.95.58:53626", id = 4} said "ststs" to all
+CHAT: Jan 19 01:37:14 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "73.75.95.58:53626", id = 4} said "stats" to all
+CHAT: Jan 19 02:39:11 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "73.75.95.58:49758", id = 2} said "stats" to all
+CHAT: Jan 19 02:39:17 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "73.75.95.58:49758", id = 2} said "STATS:" to all
+TEAM HIT: Jan 19 05:25:00 {players = {1 = {name  = "Ronin", ucid = "4ae8211aa964c47473f4802be2c3d31c", ip = "141.126.132.244:64173", id = 5}1 = {name = Wounded Pilot #3412 with CBU-97/CBU-105 SFW
+TEAM KILL: Jan 19 05:25:01 {players = {1 = {name  = "Ronin", ucid = "4ae8211aa964c47473f4802be2c3d31c", ip = "nil", id = 5}1 = {name = Wounded Pilot #3412 with CBU-97/CBU-105 SFW
+CHAT: Jan 19 07:24:07 {name  = "Raider", ucid = "acdbd0a815f6e0240ac0c2e4bb859d52", ip = "73.75.95.58:49752", id = 2} said "Scorp:::Think you have to be on Krasnador-Central to ream and refuel" to all
+CHAT: Jan 19 07:25:03 {name  = "Scorp", ucid = "2120a80476617931db72e2fde92a487a", ip = "46.246.143.206:60576", id = 6} said "it works here too but ineed to go anyway" to all
+CHAT: Jan 19 07:25:39 {name  = "Scorp", ucid = "2120a80476617931db72e2fde92a487a", ip = "46.246.143.206:60576", id = 6} said "have fun" to all
+CHAT: Jan 19 11:23:35 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "hI ALL вСЕМ ПРИВЕТ" to all
+CHAT: Jan 19 11:23:58 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "HIYA" to all
+CHAT: Jan 19 11:33:15 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "Русские есть?" to all
+CHAT: Jan 19 11:37:58 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "lobo if u circle round ill form up off ur left wing" to all
+CHAT: Jan 19 11:39:47 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "Hey people see on my" to all
+CHAT: Jan 19 11:40:10 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "COOL" to all
+CHAT: Jan 19 11:41:21 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "see on my missiles" to all
+CHAT: Jan 19 11:42:24 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "what's your ver.?2.55?" to all
+CHAT: Jan 19 11:42:48 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "yes" to all
+CHAT: Jan 19 11:43:07 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "niccccccce" to all
+CHAT: Jan 19 11:45:58 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "need help-2 bandits" to all
+CHAT: Jan 19 11:47:03 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "go back frist i m coming" to all
+CHAT: Jan 19 11:50:05 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "What mod do i need to fly the tu160" to all
+CHAT: Jan 19 11:50:23 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "Tu 160" to all
+CHAT: Jan 19 11:50:35 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "ok but do i need to alter any scripts or that" to all
+CHAT: Jan 19 11:50:55 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "maybe DCS
+ 2.5.5" to all
+CHAT: Jan 19 11:51:03 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "see brifing" to all
+CHAT: Jan 19 11:51:31 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "adress all mod for this server" to all
+CHAT: Jan 19 11:52:39 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "to many bandits" to all
+CHAT: Jan 19 11:52:40 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "kh how u get sd10 for su33" to all
+CHAT: Jan 19 11:52:42 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "su57 mod?" to all
+CHAT: Jan 19 11:54:53 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "good kill kh0 thanks for the clearing" to all
+CHAT: Jan 19 11:55:05 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "YOU NEED J 15 MOD" to all
+CHAT: Jan 19 11:55:28 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "OR ADD SD-10 INTO THE LUA OF SU33" to all
+CHAT: Jan 19 11:55:30 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "thx bb i need to download all these" to all
+CHAT: Jan 19 11:55:31 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "one more bandits on my" to all
+CHAT: Jan 19 11:55:34 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "do u need fc3" to all
+CHAT: Jan 19 11:56:25 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "F18-kill bandits on my" to all
+CHAT: Jan 19 11:56:59 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "Fuck dumb" to all
+CHAT: Jan 19 11:57:44 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "fuck dumb" to all
+CHAT: Jan 19 11:58:23 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "HELP i need to rtb now i lose one of my al31" to all
+CHAT: Jan 19 11:59:03 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "seading" to all
+CHAT: Jan 19 11:59:14 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "at krymsk" to all
+CHAT: Jan 19 12:03:41 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "see missile X65" to all
+CHAT: Jan 19 12:04:45 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "is the ty160 su25 copkit?" to all
+CHAT: Jan 19 12:04:57 {name  = "GazelleN", ucid = "dbbf992d51000fc08f8cfb6aea087bf4", ip = "159.146.18.148:62759", id = 10} said "fps drop OMG >(" to all
+CHAT: Jan 19 12:04:59 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "yes" to all
+CHAT: Jan 19 12:06:00 {name  = "TAKASHI123", ucid = "306bc52503ca2a28c177a62dd2b98182", ip = "111.90.28.14:60563", id = 14} said "dodge 1-1 engage enemy MLD" to all
+CHAT: Jan 19 12:06:18 {name  = "TAKASHI123", ucid = "306bc52503ca2a28c177a62dd2b98182", ip = "111.90.28.14:60563", id = 14} said "fox 3" to all
+CHAT: Jan 19 12:07:32 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "i m come 123" to all
+CHAT: Jan 19 12:08:16 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "WATCH YOUR SIX 123!" to all
+CHAT: Jan 19 12:08:58 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "can we be racist in chat?" to all
+CHAT: Jan 19 12:09:22 {name  = "TAKASHI123", ucid = "306bc52503ca2a28c177a62dd2b98182", ip = "111.90.28.14:60563", id = 14} said "damn" to all
+CHAT: Jan 19 12:09:42 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "is racism allowed here" to all
+CHAT: Jan 19 12:09:55 {name  = "TAKASHI123", ucid = "306bc52503ca2a28c177a62dd2b98182", ip = "111.90.28.14:60563", id = 14} said "fox 2!" to all
+CHAT: Jan 19 12:11:48 {name  = "TheSovietWombat", ucid = "88dad2e4dcc3b51b7cf71c6e915260e8", ip = "82.22.52.99:55169", id = 7} said "gazelle can u take out the fighters infront of me so i can conduct SEAD operations" to all
+CHAT: Jan 19 12:12:29 {name  = "TAKASHI123", ucid = "306bc52503ca2a28c177a62dd2b98182", ip = "111.90.28.14:60563", id = 14} said "eject" to all
+TEAM HIT: Jan 19 12:26:46 {players = {1 = {name  = "GazelleN", ucid = "dbbf992d51000fc08f8cfb6aea087bf4", ip = "159.146.18.148:62759", id = 10}1 = {name = KH0000 with AIM-120C
+TEAM KILL: Jan 19 12:27:13 {players = {1 = {name  = "GazelleN", ucid = "dbbf992d51000fc08f8cfb6aea087bf4", ip = "nil", id = 10}1 = {name = KH0000 with AIM-120C
+CHAT: Jan 19 12:27:31 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:52082", id = 5} said "WHAT THE HELLLLLLLLLLLLL" to all
+CHAT: Jan 19 12:32:10 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "See on X65" to all
+CHAT: Jan 19 12:33:19 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "She fl
+y 250 km" to all
+CHAT: Jan 19 12:34:59 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:36190", id = 6} said "Albeback" to all
+CHAT: Jan 19 13:56:40 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:49692", id = 6} said "Hi all .." to all
+CHAT: Jan 19 13:56:49 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:49692", id = 6} said "working south airport with KA50" to all
+CHAT: Jan 19 13:56:57 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "hello sir" to all
+TEAM HIT: Jan 19 14:30:38 {players = {1 = {name  = "MxIm77", ucid = "1ad7059fe12a1a04491edc03ede91654", ip = "80.83.21.146:5477", id = 9}1 = {name = PlatinumHarvester with kamikaze
+TEAM KILL: Jan 19 14:31:33 {players = {1 = {name  = "MxIm77", ucid = "1ad7059fe12a1a04491edc03ede91654", ip = "nil", id = 9}1 = {name = Pilot #184 with kamikaze
+CHAT: Jan 19 15:01:46 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:3150", id = 10} said "Всем привет-Hi all" to all
+CHAT: Jan 19 15:03:21 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "hello" to all
+TEAM HIT: Jan 19 15:03:57 {players = {1 = {name  = "Colquhoun-1", ucid = "ba7605742d7fdc50b7741cbf792982ed", ip = "78.105.79.123:7105", id = 3}1 = {name = 10_WEST_CVN73 with F/A-18C Lot 20
+CHAT: Jan 19 15:09:08 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "-intel" to all
+CHAT: Jan 19 15:09:15 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:3150", id = 10} said "4Х88-????" to all
+TEAM HIT: Jan 19 15:09:24 {players = {1 = {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7}1 = {name = Karoluukas with AIM-120C
+CHAT: Jan 19 15:09:35 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "bro wtf" to all
+CHAT: Jan 19 15:09:42 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "why did you shoot me" to all
+TEAM KILL: Jan 19 15:10:04 {players = {1 = {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "nil", id = 7}1 = {name = Karoluukas with AIM-120C
+CHAT: Jan 19 15:10:05 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "sry" to all
+CHAT: Jan 19 15:10:20 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "i targeting enemy" to all
+CHAT: Jan 19 15:10:34 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "you're in a f-15" to all
+CHAT: Jan 19 15:10:37 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "how" to all
+CHAT: Jan 19 15:10:43 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "did you mistake me for an enemy" to all
+CHAT: Jan 19 15:10:43 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "Aim120 are bugged atm" to all
+CHAT: Jan 19 15:10:47 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "-punish" to all (output suppressed by Slmod)
+CHAT: Jan 19 15:11:32 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "The missile goes stupid if it isn't supported in STT until active" to all
+CHAT: Jan 19 15:12:00 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "i locked the enemy" to all
+CHAT: Jan 19 15:12:19 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "Yeah I know" to all
+CHAT: Jan 19 15:13:02 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "    but sry" to all
+TEAM HIT: Jan 19 15:13:38 {players = {1 = {name  = "Incliningtoast9", ucid = "54e0df2b00fa5640ebafac1509eaf1a4", ip = "62.20.190.222:56029", id = 5}1 = {name = NORTH_LHA with Kh-58U
+TEAM HIT: Jan 19 15:14:37 {players = {1 = {name  = "Incliningtoast9", ucid = "54e0df2b00fa5640ebafac1509eaf1a4", ip = "62.20.190.222:56029", id = 5}1 = {name = NORTH_LHA with Kh-25MPU
+TEAM HIT: Jan 19 15:17:48 {players = {1 = {name  = "=91st= UnknownShadow", ucid = "4eb3a3c34031d781e021242f7f5ddb09", ip = "89.64.31.93:62049", id = 11}1 = {name = MxIm77 with F-16CM bl.50
+CHAT: Jan 19 15:20:07 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "can anyone do a mission with me because i have no idea what to do?" to all
+CHAT: Jan 19 15:21:14 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "^^" to all
+CHAT: Jan 19 15:24:38 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ANYONE?" to all
+CHAT: Jan 19 15:25:35 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "do you need body contact?" to all
+CHAT: Jan 19 15:30:01 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:3150", id = 10} said "GUIVER ARMOR-SEE ON MY SKIN" to all
+CHAT: Jan 19 15:30:31 {name  = "si", ucid = "2524e85fdae326a62693a8814c154763", ip = "78.173.6.127:13134", id = 4} said "120c lost lock" to all
+TEAM HIT: Jan 19 15:31:12 {players = {1 = {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14}1 = {name = Sifu with M-61
+TEAM HIT: Jan 19 15:31:13 {players = {1 = {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14}1 = {name = Sifu with M-61
+TEAM KILL: Jan 19 15:31:51 {players = {1 = {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "nil", id = 14}1 = {name = Sifu with M-61
+CHAT: Jan 19 15:32:47 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "Yo Karoluukas you salty or what" to all
+CHAT: Jan 19 15:32:52 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "That was deliberate" to all
+CHAT: Jan 19 15:32:58 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "helloo" to all
+CHAT: Jan 19 15:33:27 {name  = "Sifu", ucid = "c22d2c27998a7ef8ea6cd85027c72071", ip = "87.181.163.8:50975", id = 7} said "revenge finishe?^^" to all
+CHAT: Jan 19 15:33:43 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "sorry roman i was consentrated cleaning anapa how may i help you" to all
+CHAT: Jan 19 15:33:51 {name  = "si", ucid = "2524e85fdae326a62693a8814c154763", ip = "78.173.6.127:13134", id = 4} said "is it bug" to all
+CHAT: Jan 19 15:33:56 {name  = "si", ucid = "2524e85fdae326a62693a8814c154763", ip = "78.173.6.127:13134", id = 4} said "missiles lost lock" to all
+CHAT: Jan 19 15:34:40 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "guyver i need help with playing the game tbh" to all
+CHAT: Jan 19 15:34:58 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i just need someone with experience" to all
+CHAT: Jan 19 15:35:37 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "let me place my plane in auto pilot and ill explain to u" to all
+TEAM HIT: Jan 19 15:35:44 {players = {1 = {name  = "Colquhoun-1", ucid = "ba7605742d7fdc50b7741cbf792982ed", ip = "78.105.79.123:7105", id = 3}1 = {name = 10_WEST_CVN73 with F/A-18C Lot 20
+CHAT: Jan 19 15:35:49 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "OK THANKS" to all
+CHAT: Jan 19 15:36:37 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "Roman what u flying rn ?" to all
+CHAT: Jan 19 15:36:44 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "su-27" to all
+CHAT: Jan 19 15:37:08 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "ok first off all the main goal of this server is training here u have to conquer the enemy bases" to all
+CHAT: Jan 19 15:37:16 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:37:18 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "in order to finish the mission" to all
+CHAT: Jan 19 15:37:23 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "kk" to all
+CHAT: Jan 19 15:37:32 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i need a wingman" to all
+CHAT: Jan 19 15:37:38 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "most of the info u will find in briefing" to all
+CHAT: Jan 19 15:37:43 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:37:52 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "of course were are u located now" to all
+CHAT: Jan 19 15:38:17 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "the takeoff and landing training base atm" to all
+CHAT: Jan 19 15:38:20 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "in wish base u will spawn" to all
+CHAT: Jan 19 15:38:37 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "tbilisi" to all
+CHAT: Jan 19 15:38:43 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "ok ill be there in a second what plane" to all
+CHAT: Jan 19 15:38:50 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "su27" to all
+CHAT: Jan 19 15:39:19 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "Im in parking spot 14 if u wanna know" to all
+CHAT: Jan 19 15:39:52 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "here i am what do u want to know" to all
+CHAT: Jan 19 15:40:11 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "how to start and completa a mission" to all
+CHAT: Jan 19 15:40:44 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "thanks for this btw im such a noob but i wanna be a fighter pilot ahha" to all
+CHAT: Jan 19 15:41:02 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "ok here is what mission u wish to undertake most off the time everyone flies alone thats what they" to all
+CHAT: Jan 19 15:41:05 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "think" to all
+CHAT: Jan 19 15:41:20 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:41:26 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "always there is some one trying as same as u to conquer the bases" to all
+CHAT: Jan 19 15:41:34 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "kk" to all
+CHAT: Jan 19 15:41:59 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "should i put bombs and stuff on then?" to all
+CHAT: Jan 19 15:42:05 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "or some will take fighter sweep in order to have clear skies for the oders to finish" to all
+CHAT: Jan 19 15:42:15 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "destroying ground target" to all
+CHAT: Jan 19 15:42:15 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok awesome" to all
+CHAT: Jan 19 15:42:37 {name  = "SOF", ucid = "1350f37b462aac4f746a967caede067b", ip = "62.63.6.250:13855", id = 13} said "anutty how did yoo load crates?" to all
+CHAT: Jan 19 15:42:56 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "it all depends once people get to know u u will always find a wingman to help u" to all
+CHAT: Jan 19 15:43:07 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "so whats the first thing we should do then?" to all
+CHAT: Jan 19 15:43:31 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok i havent installed srs yet or discord." to all
+CHAT: Jan 19 15:43:35 {name  = "AnuttySquirrel", ucid = "1819ac6376d2289564f5960fb0c88c8d", ip = "109.70.144.150:65326", id = 8} said "request them then sling em to somewhere unpack then build" to all
+CHAT: Jan 19 15:43:36 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "remember there are people from diferent locatons and dont know a perfect english a little in order" to all
+CHAT: Jan 19 15:43:49 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:44:08 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "to get by so dont get frustrated i started alone and ive met a lot of very nice people here" to all
+CHAT: Jan 19 15:44:18 {name  = "SOF", ucid = "1350f37b462aac4f746a967caede067b", ip = "62.63.6.250:13855", id = 13} said "copy" to all
+CHAT: Jan 19 15:44:22 {name  = "SOF", ucid = "1350f37b462aac4f746a967caede067b", ip = "62.63.6.250:13855", id = 13} said "thanks" to all
+CHAT: Jan 19 15:44:24 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:45:14 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "main thing is always be polite if u shoot a friendly by mistake be corteos and apologize it is" to all
+CHAT: Jan 19 15:45:22 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "a training server after all" to all
+CHAT: Jan 19 15:45:29 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:45:55 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "here is perfect do u know how to iff on the flanker" to all
+CHAT: Jan 19 15:46:15 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "identify friend or foe" to all
+CHAT: Jan 19 15:46:17 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "not really sorry" to all
+CHAT: Jan 19 15:47:04 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "ok ill give u and advice on the ed site in user files there is a perfect skin for the cockpit data l" to all
+CHAT: Jan 19 15:47:12 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "link" to all
+CHAT: Jan 19 15:47:51 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "Ok and what do i do with that?" to all
+CHAT: Jan 19 15:47:53 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "it explains with simbols the distance altitude and speed of the data link targets" to all
+CHAT: Jan 19 15:47:58 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:48:21 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "my frames are terrible cuz of the amount of people on the server" to all
+CHAT: Jan 19 15:48:56 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "right now u just se a black sceen i see in mine the distance marks in mine" to all
+CHAT: Jan 19 15:49:12 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:49:38 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ive just turned on my electrics" to all
+CHAT: Jan 19 15:49:40 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "on the data link the targets that show with a stick with a circle at the end is friendly" to all
+CHAT: Jan 19 15:49:46 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:50:14 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "the one that is a stick and a kind of v at the end is enemy" to all
+CHAT: Jan 19 15:50:22 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:50:41 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "im starting up my engines" to all
+CHAT: Jan 19 15:50:56 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "on the hud when u see _-- is an enemy aircraft" to all
+CHAT: Jan 19 15:51:01 {name  = "Zappovitz", ucid = "1014da52866274133fc034ed4e5260a7", ip = "5.186.54.17:65284", id = 15} said "Hey Nutty" to all
+CHAT: Jan 19 15:51:15 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "yeah i know" to all
+CHAT: Jan 19 15:51:18 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "but make sure that ur radar is on" to all
+CHAT: Jan 19 15:51:29 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i know how to lock on and stuff" to all
+CHAT: Jan 19 15:52:33 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i cant turn on my radar for some reason, do i have to be in the air?" to all
+CHAT: Jan 19 15:52:50 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "yes u do" to all
+CHAT: Jan 19 15:52:58 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "have to be in the air" to all
+CHAT: Jan 19 15:53:01 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok lets taxi?" to all
+CHAT: Jan 19 15:53:49 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "you lead on ill follow" to all
+CHAT: Jan 19 15:54:42 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "Hi all" to all
+CHAT: Jan 19 15:54:44 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i have a mail how do i open it?" to all
+CHAT: Jan 19 15:54:51 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "wokring KA50 last airport east" to all
+CHAT: Jan 19 15:55:18 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "tab" to all
+CHAT: Jan 19 15:55:28 {name  = "AnuttySquirrel", ucid = "1819ac6376d2289564f5960fb0c88c8d", ip = "109.70.144.150:65326", id = 8} said "mail?" to all
+CHAT: Jan 19 15:55:50 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "u mean like a little envelope on the left of ur screen" to all
+CHAT: Jan 19 15:55:54 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "yeah it had a little letter icon its gone now" to all
+CHAT: Jan 19 15:55:56 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ye" to all
+CHAT: Jan 19 15:56:11 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "its gone now" to all
+CHAT: Jan 19 15:56:16 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "yes tab button" to all
+CHAT: Jan 19 15:56:30 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok you taxi ill follow" to all
+CHAT: Jan 19 15:56:36 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "it open mesage window or closes it" to all
+CHAT: Jan 19 15:56:47 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok" to all
+CHAT: Jan 19 15:59:16 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ok when y" to all
+CHAT: Jan 19 15:59:18 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "go afterburner with brake on than release" to all
+CHAT: Jan 19 16:00:15 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "guyver what u think... will they sink the Grisha or not ?" to all
+CHAT: Jan 19 16:00:24 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "who will be standing last" to all
+CHAT: Jan 19 16:01:45 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "is it 41" to all
+CHAT: Jan 19 16:01:52 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "liquidice" to all
+CHAT: Jan 19 16:02:01 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "whnmy framesw are terrible" to all
+CHAT: Jan 19 16:02:18 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "someone clever... shot against 5teh ship ive been flying out to get.. THANKS! very conciderate of my" to all
+CHAT: Jan 19 16:02:20 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "effort" to all
+CHAT: Jan 19 16:02:48 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "well it all depends on ur location im close but for some reason my ping is over 360" to all
+CHAT: Jan 19 16:03:29 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "and if u have install in an ssd it works better and 32 or more of ram" to all
+CHAT: Jan 19 16:03:49 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "i fired lkook" to all
+CHAT: Jan 19 16:03:55 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "and of course a good video card" to all
+CHAT: Jan 19 16:03:59 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "i play with 8gb ram" to all
+CHAT: Jan 19 16:04:07 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "i mean it could be better but it's fine" to all
+CHAT: Jan 19 16:04:14 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "i have a 1050" to all
+CHAT: Jan 19 16:04:21 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "same" to all
+CHAT: Jan 19 16:04:42 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "also" to all
+CHAT: Jan 19 16:04:48 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "try to get trackir" to all
+CHAT: Jan 19 16:04:50 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20} said "my first ship in a heli" to all
+CHAT: Jan 19 16:04:53 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "or a delan clip" to all
+CHAT: Jan 19 16:04:56 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "or make your own" to all
+CHAT: Jan 19 16:05:00 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "changes teh game" to all
+CHAT: Jan 19 16:05:04 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "that may be it im using a 1650 and it strugles a little" to all
+CHAT: Jan 19 16:05:10 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "ye but trackir is overpriced" to all
+CHAT: Jan 19 16:05:24 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "delan clip is like up to 50 euros" to all
+CHAT: Jan 19 16:05:31 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "i made my track irt for 3 euros" to all
+CHAT: Jan 19 16:05:37 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "legit 3 euros" to all
+CHAT: Jan 19 16:05:42 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "not 30" to all
+CHAT: Jan 19 16:05:44 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "3" to all
+CHAT: Jan 19 16:05:47 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "woah" to all
+CHAT: Jan 19 16:05:55 {name  = "ROMAN", ucid = "fa9fe1c91588cd26485e8648086a5683", ip = "79.68.248.58:50207", id = 19} said "where do i getr one then" to all
+CHAT: Jan 19 16:05:59 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "get opentrack look on evay there are people that make them in a 3d printer for a fair price" to all
+CHAT: Jan 19 16:06:25 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "i made my fram out of old clothes hanger" to all
+CHAT: Jan 19 16:06:31 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "bended the metal to sahpe" to all
+CHAT: Jan 19 16:06:39 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "got 3 infrared leds" to all
+CHAT: Jan 19 16:06:40 {name  = "Weasley", ucid = "7fbf317842c89b558c42e48980c3f576", ip = "128.0.100.63:63714", id = 6} said "lol" to all
+CHAT: Jan 19 16:06:52 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "an old webcam that has no ir filter on it" to all
+CHAT: Jan 19 16:06:58 {name  = "Weasley", ucid = "7fbf317842c89b558c42e48980c3f576", ip = "128.0.100.63:63714", id = 6} said "i made mine out of old bread" to all
+CHAT: Jan 19 16:07:04 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "attached the thing to my headset" to all
+CHAT: Jan 19 16:07:07 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "and get the part that u attach to ur headphone with usb connector" to all
+CHAT: Jan 19 16:07:08 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "Lmao" to all
+CHAT: Jan 19 16:07:39 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "i bought the one that u change the battery and is not bad but u have to change the battery" to all
+CHAT: Jan 19 16:07:53 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "every 3 days if u use it a lot like me" to all
+TEAM HIT: Jan 19 16:08:18 {players = {1 = {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50119", id = 20}1 = {name = Wounded Pilot #3670 with kamikaze
+TEAM KILL: Jan 19 16:08:19 {players = {1 = {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "nil", id = 20}1 = {name = Wounded Pilot #3670 with kamikaze
+CHAT: Jan 19 16:08:20 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "i have mine on an usb cable an i already regret it :DD\" to all
+CHAT: Jan 19 16:08:28 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "since my headset is wireless" to all
+CHAT: Jan 19 16:08:28 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "i order one the other day with usb conection im just waiting for it" to all
+CHAT: Jan 19 16:08:43 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "but i can detach mine easily" to all
+CHAT: Jan 19 16:08:47 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "from it" to all
+CHAT: Jan 19 16:09:06 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "yes mine 2 it has a velcro" to all
+CHAT: Jan 19 16:09:31 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "mine has playdough :DDD" to all
+CHAT: Jan 19 16:09:41 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "hahahaha" to all
+CHAT: Jan 19 16:09:51 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "the walls of my headset detach with a magnet" to all
+CHAT: Jan 19 16:10:43 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "I call it ghettoIR" to all
+CHAT: Jan 19 16:17:52 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "Roman when ur close is easier to use urhelmet to lock and change to guns u will have a better" to all
+CHAT: Jan 19 16:17:59 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "trageting circle" to all
+CHAT: Jan 19 16:18:39 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "when it unwinds a little more than half way is safer to hit ur target" to all
+CHAT: Jan 19 16:20:16 {name  = "Spamraam 1-7 MadFrench", ucid = "4e3f391e7035f7333a6c0b93f1553b1a", ip = "90.78.173.109:60003", id = 6} said "sifu" to all
+CHAT: Jan 19 16:20:29 {name  = "Spamraam 1-7 MadFrench", ucid = "4e3f391e7035f7333a6c0b93f1553b1a", ip = "90.78.173.109:60003", id = 6} said "did u see how im dead ?" to all
+CHAT: Jan 19 16:22:38 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "ok auto pilot landing lets see" to all
+CHAT: Jan 19 16:22:54 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "wait what" to all
+TEAM HIT: Jan 19 16:22:55 {players = {1 = {name  = "Slafey", ucid = "6afd11d4986fbbbfa3eb82df523f742a", ip = "24.132.61.20:54527", id = 24}1 = {name = Sterling with RB-24J
+CHAT: Jan 19 16:23:02 {name  = "Karoluukas", ucid = "58dec7f1cb4f3f27019345d483f383cf", ip = "84.15.182.201:36619", id = 14} said "there is auto pilot landing ?" to all
+TEAM KILL: Jan 19 16:23:04 {players = {1 = {name  = "Slafey", ucid = "6afd11d4986fbbbfa3eb82df523f742a", ip = "nil", id = 24}1 = {name = Sterling with RB-24J
+CHAT: Jan 19 16:23:25 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50637", id = 2} said "yes there is in some planes" to all
+TEAM HIT: Jan 19 16:23:30 {players = {1 = {name  = "LobotomMURIS", ucid = "1961fb523a07621f87ecf63900a1e68e", ip = "193.165.37.198:61590", id = 23}1 = {name = logtistic13 with kamikaze
+TEAM KILL: Jan 19 16:23:30 {players = {1 = {name  = "LobotomMURIS", ucid = "1961fb523a07621f87ecf63900a1e68e", ip = "nil", id = 23}1 = {name = logtistic13 with kamikaze
+TEAM HIT: Jan 19 16:31:50 {players = {1 = {name  = "si", ucid = "2524e85fdae326a62693a8814c154763", ip = "78.173.6.127:13134", id = 4}1 = {name = 10_WEST_CVN74 with F/A-18C Lot 20
+TEAM HIT: Jan 19 16:35:02 {players = {1 = {name  = "ondik1234", ucid = "50837969d44d466331fbc61883b673e9", ip = "86.49.251.100:6844", id = 28}1 = {name = New Static Object #154 with kamikaze
+TEAM HIT: Jan 19 16:35:02 {players = {1 = {name  = "ondik1234", ucid = "50837969d44d466331fbc61883b673e9", ip = "86.49.251.100:6844", id = 28}1 = {name = New Static Object #154 with kamikaze
+CHAT: Jan 19 16:42:10 {name  = "Spamraam 1-7 MadFrench", ucid = "4e3f391e7035f7333a6c0b93f1553b1a", ip = "90.78.173.109:60003", id = 6} said "this mission will fail" to all
+CHAT: Jan 19 16:42:15 {name  = "Spamraam 1-7 MadFrench", ucid = "4e3f391e7035f7333a6c0b93f1553b1a", ip = "90.78.173.109:60003", id = 6} said "XD" to all
+TEAM HIT: Jan 19 16:52:04 {players = {1 = {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17}1 = {name = Nomad 1-2 with M-61
+TEAM HIT: Jan 19 16:52:30 {players = {1 = {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17}1 = {name = Nomad 1-2 with M-61
+TEAM KILL: Jan 19 16:53:37 {players = {1 = {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "nil", id = 17}1 = {name = Nomad 1-2 with M-61
+CHAT: Jan 19 16:53:48 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "-forgive" to all (output suppressed by Slmod)
+CHAT: Jan 19 16:55:16 {name  = "Nomad 1-2", ucid = "d4bd496c8e8a8cf5c7cce9ae1a2291f8", ip = "90.3.48.245:59162", id = 12} said "-forgive" to all (output suppressed by Slmod)
+CHAT: Jan 19 16:55:48 {name  = "Shark Bait [H]", ucid = "275bed430b2ef41e06f176299a3c0f8c", ip = "70.189.84.231:50238", id = 2} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Colquhoun-1", ucid = "ba7605742d7fdc50b7741cbf792982ed", ip = "78.105.79.123:7105", id = 3} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Danisku", ucid = "e7d0799b8bc57c6897f36c5d0e4834c8", ip = "86.49.252.234:8434", id = 4} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "warrio5", ucid = "0c6792a805b7abf3c2e5adbba5f47ea0", ip = "123.21.227.164:56257", id = 5} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Spamraam 1-7 MadFrench", ucid = "4e3f391e7035f7333a6c0b93f1553b1a", ip = "90.78.173.109:60003", id = 6} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "andre", ucid = "7a3d835056a07f31322af336b14ba198", ip = "5.89.136.174:49848", id = 7} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50909", id = 8} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "hoknes", ucid = "6b16952b47779437407330bac969e10f", ip = "109.189.9.13:50114", id = 9} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Чарик80", ucid = "3c2eaf669dbfa904c9648cab4f761d59", ip = "176.59.73.36:3150", id = 10} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Murphy 1-1", ucid = "654dc3c8a59ffde820cb2063f427e44e", ip = "91.2.102.235:53012", id = 11} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Nomad 1-2", ucid = "d4bd496c8e8a8cf5c7cce9ae1a2291f8", ip = "90.3.48.245:59162", id = 12} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "SOF", ucid = "1350f37b462aac4f746a967caede067b", ip = "62.63.6.250:13855", id = 13} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "AFARSEK 3", ucid = "cb68025fb6c18ed825b557a4afbf6c74", ip = "77.137.126.20:4720", id = 15} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Okkuden", ucid = "b1b822fc8b762d0d4c811e0a2d4e6d9b", ip = "2.3.48.86:53918", id = 16} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Nomad 1-1 | Uxus", ucid = "8722fdf9398fd2d388805df537146991", ip = "93.0.48.103:50037", id = 17} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "FlakHunter", ucid = "b5d00fc5d3c7f677e44538033c69a444", ip = "73.77.210.238:50395", id = 18} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "LiquidIce", ucid = "cbee92e628c9d9769d8ddcb384a7a813", ip = "176.255.167.45:50229", id = 20} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "royjazz", ucid = "e55b8899e695863339eb316b5cfc565a", ip = "77.137.146.21:4791", id = 21} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Sailorwurst", ucid = "78847a7c956f4caa24d0cc5db41241d4", ip = "94.31.98.45:63831", id = 22} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "LobotomMURIS", ucid = "1961fb523a07621f87ecf63900a1e68e", ip = "193.165.37.198:61590", id = 23} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "cobra", ucid = "b949016cd9223be39dc8345eb01d8148", ip = "197.149.41.27:50901", id = 24} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "DrzX", ucid = "9061e5f4bb2eae9139f5230f2b5729b4", ip = "105.111.112.250:51474", id = 25} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Incliningtoast9", ucid = "54e0df2b00fa5640ebafac1509eaf1a4", ip = "62.20.190.222:56450", id = 26} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Splitsoul101", ucid = "2c1ff5f4d80815243cb7ac6283ace6ff", ip = "114.42.142.195:53090", id = 29} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all
+CHAT: Jan 19 16:55:48 {name  = "Marcus987", ucid = "1dd64ca5d05891e72370e6bfc4d285d3", ip = "80.7.68.251:55306", id = 32} said "SLMOD INFO: Player "Nomad 1-1 | Uxus" is getting autokicked back to spectator" to all

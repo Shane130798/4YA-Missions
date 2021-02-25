@@ -1,0 +1,231 @@
+
+Wed Feb 24 10:02:22 2021
+--- STARTING Log ---
+Version: 2.1.9-e398d1ea
+---
+2021-02-24 10:02:22.298 [0.003]: WARNING : [default] Logger: Filedump is true
+2021-02-24 10:02:22.298 [0.003]: DEBUG   : [perfs] Perfs output enabled: false
+2021-02-24 10:02:29.464 [7.161]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer2/LotAtc Data/Server/Licenses"
+2021-02-24 10:02:48.198 [25.892]: WARNING : [default] Logger: Filedump is true
+2021-02-24 10:02:48.198 [25.892]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer2\\Mods\\services\\LotAtc\\\\magvar"
+2021-02-24 10:02:48.198 [25.893]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer2\\Mods\\services\\LotAtc\\\\magvar"
+2021-02-24 10:02:48.198 [25.893]: WARNING : [default] [GM] Set Year 2011
+2021-02-24 10:02:48.198 [25.893]: WARNING : [default] [GM] Set Theather angle True false
+2021-02-24 10:02:48.198 [25.893]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.830 [17680.5]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.876 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.876 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.876 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.876 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.892 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.892 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 14:57:02.892 [17680.6]: WARNING : [client.main] Category not found  ""
+2021-02-24 17:49:10.252 [28008]: WARNING : [clienthandler] Init
+2021-02-24 17:49:10.268 [28008]: WARNING : [clientserver] ASK FOR REGISTRATION...
+2021-02-24 17:49:10.268 [28008]: WARNING : [client.auth] Check incoming IP QHostAddress("::ffff:92.237.96.233")
+2021-02-24 17:49:10.268 [28008]: WARNING : [client.auth] IP QHostAddress("::ffff:92.237.96.233") validated
+2021-02-24 17:49:10.268 [28008]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-24 17:49:10.283 [28008]: WARNING : [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+2021-02-24 17:49:10.283 [28008]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-24 17:49:10.299 [28008]: WARNING : [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+2021-02-24 17:49:10.315 [28008]: WARNING : [clientserver] REGISTRATION DONE
+2021-02-24 18:58:47.913 [32185.6]: WARNING : [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+2021-02-24 18:58:47.913 [32185.6]: WARNING : [clienthandler] Finish
+2021-02-24 18:58:47.913 [32185.6]: WARNING : [clientserver] CLIENT WILL BE DESTROYED
+2021-02-24 18:58:47.913 [32185.6]: WARNING : [clienthandler] Client deleted
+2021-02-25 09:03:16.420 [82854.1]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer2/LotAtc Data/Server/Licenses"
+2021-02-25 09:03:21.638 [82859.3]: WARNING : [default] Logger: Filedump is true
+2021-02-25 09:03:21.654 [82859.3]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer2\\Mods\\services\\LotAtc\\\\magvar"
+2021-02-25 09:03:21.654 [82859.3]: WARNING : [default] [GM] Set Year 2011
+2021-02-25 09:03:21.654 [82859.3]: WARNING : [default] [GM] Set Theather angle True false
+2021-02-25 09:03:21.654 [82859.3]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.731 [82860.4]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.778 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.778 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.778 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.778 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.778 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.794 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 09:03:22.794 [82860.5]: WARNING : [client.main] Category not found  ""
+2021-02-25 10:22:29.156 [87606.9]: WARNING : [clienthandler] Init
+2021-02-25 10:22:29.156 [87606.9]: WARNING : [clientserver] ASK FOR REGISTRATION...
+2021-02-25 10:22:29.156 [87606.9]: WARNING : [client.auth] Check incoming IP QHostAddress("::ffff:92.237.96.233")
+2021-02-25 10:22:29.156 [87606.9]: WARNING : [client.auth] IP QHostAddress("::ffff:92.237.96.233") validated
+2021-02-25 10:22:29.156 [87606.9]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-25 10:22:29.171 [87606.9]: WARNING : [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+2021-02-25 10:22:29.171 [87606.9]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-25 10:22:29.234 [87606.9]: WARNING : [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+2021-02-25 10:22:29.234 [87606.9]: WARNING : [clientserver] REGISTRATION DONE
+2021-02-25 10:43:59.957 [88897.7]: WARNING : [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+2021-02-25 10:43:59.957 [88897.7]: WARNING : [clienthandler] Finish
+2021-02-25 10:43:59.957 [88897.7]: WARNING : [clientserver] CLIENT WILL BE DESTROYED
+2021-02-25 10:43:59.957 [88897.7]: WARNING : [clienthandler] Client deleted
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [clienthandler] Init
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [clientserver] ASK FOR REGISTRATION...
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [client.auth] Check incoming IP QHostAddress("::ffff:92.237.96.233")
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [client.auth] IP QHostAddress("::ffff:92.237.96.233") validated
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+2021-02-25 10:55:24.038 [89581.7]: WARNING : [clientserver] REGISTRATION DONE
+2021-02-25 14:37:32.750 [102910]: WARNING : [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+2021-02-25 14:37:32.750 [102910]: WARNING : [clienthandler] Finish
+2021-02-25 14:37:32.750 [102910]: WARNING : [clientserver] CLIENT WILL BE DESTROYED
+2021-02-25 14:37:32.750 [102910]: WARNING : [clienthandler] Client deleted
+2021-02-25 18:52:00.943 [118176]: WARNING : [clienthandler] Init
+2021-02-25 18:52:00.975 [118176]: WARNING : [clientserver] ASK FOR REGISTRATION...
+2021-02-25 18:52:00.975 [118176]: WARNING : [client.auth] Check incoming IP QHostAddress("::ffff:92.237.96.233")
+2021-02-25 18:52:00.975 [118176]: WARNING : [client.auth] IP QHostAddress("::ffff:92.237.96.233") validated
+2021-02-25 18:52:00.975 [118176]: WARNING : [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+2021-02-25 18:52:00.990 [118177]: WARNING : [clientserver] REGISTRATION DONE
+2021-02-25 20:05:16.828 [122572]: WARNING : [clienthandler] Finish
+2021-02-25 20:05:16.828 [122572]: WARNING : [clientserver] CLIENT WILL BE DESTROYED
+2021-02-25 20:05:16.828 [122572]: WARNING : [clienthandler] Client deleted
+2021-02-25 20:05:32.804 [122588]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer2/LotAtc Data/Server/Licenses"
+2021-02-25 20:05:40.851 [122596]: WARNING : [default] Logger: Filedump is true
+2021-02-25 20:05:40.851 [122596]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer2\\Mods\\services\\LotAtc\\\\magvar"
+2021-02-25 20:05:40.851 [122596]: WARNING : [default] [GM] Set Year 2011
+2021-02-25 20:05:40.851 [122596]: WARNING : [default] [GM] Set Theather angle True false
+2021-02-25 20:05:40.851 [122596]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.324 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:05:42.386 [122598]: WARNING : [client.main] Category not found  ""
+2021-02-25 20:10:48.595 [122904]: WARNING : [clienthandler] Init
+2021-02-25 20:10:48.777 [122904]: WARNING : [clientserver] ASK FOR REGISTRATION...
+2021-02-25 20:10:48.777 [122904]: WARNING : [client.auth] Check incoming IP QHostAddress("::ffff:92.237.96.233")
+2021-02-25 20:10:48.777 [122904]: WARNING : [client.auth] IP QHostAddress("::ffff:92.237.96.233") validated
+2021-02-25 20:10:48.777 [122904]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-25 20:10:48.777 [122904]: WARNING : [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+2021-02-25 20:10:48.777 [122904]: WARNING : [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer2/Mods/services/LotAtc/userdb"
+2021-02-25 20:10:48.918 [122904]: WARNING : [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+2021-02-25 20:10:48.933 [122904]: WARNING : [clientserver] REGISTRATION DONE
+2021-02-25 21:43:55.948 [128491]: WARNING : [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+2021-02-25 21:43:55.948 [128491]: WARNING : [clienthandler] Finish
+2021-02-25 21:43:55.948 [128491]: WARNING : [clientserver] CLIENT WILL BE DESTROYED
+2021-02-25 21:43:55.948 [128491]: WARNING : [clienthandler] Client deleted

@@ -1,0 +1,1 @@
+BLUE_UNITS = SPAWN:New( "06_BLUE_UNITS_KIRYAT_SHAMONA" ) :InitRepeat():Spawn()

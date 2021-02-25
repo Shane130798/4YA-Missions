@@ -1,0 +1,16 @@
+# -------------- 20201218-160947 --------------
+DCS/2.5.6.59398 (x86_64; Windows NT 10.0.17763)
+D:\DCS World OpenBeta Server 1\bin\WorldGeneral.dll
+# C0000005 ACCESS_VIOLATION at 2738FBE9 00:00000000
+SymInit: Symbol-SearchPath: '.;D:\DCS World OpenBeta Server 1;D:\DCS World OpenBeta Server 1\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x190-0x3
+0x00000000000CFBE9 (WorldGeneral): MovingObject::~MovingObject + 0x69
+0x00000000000CD81B (Flight): woRunWay::~woRunWay + 0xFB
+0x000000000001D40B (edObjects): RegStorage::setHostID + 0x91B
+0x000000000001D524 (edObjects): RegStorage::setHostID + 0xA34
+0x000000000001EBD2 (edObjects): RegStorage::setHostID + 0x20E2
+0x00000000007AB8C8 (DCS): CoreUtils::TempFilesManager::operator= + 0x3B9C98
+0x00000000018573F3 (DCS): AmdPowerXpressRequestHighPerformance + 0xBEB3EF
+0x0000000000983C6E (DCS): CoreUtils::TempFilesManager::operator= + 0x59203E
+0x0000000000017974 (KERNEL32): BaseThreadInitThunk + 0x14
+0x000000000005A0B1 (ntdll): RtlUserThreadStart + 0x21

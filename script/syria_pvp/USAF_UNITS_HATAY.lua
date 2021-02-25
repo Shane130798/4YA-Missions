@@ -1,0 +1,1 @@
+USAF_HATAY = SPAWN:New( "USAF_HATAY" ) :InitRepeat():Spawn()

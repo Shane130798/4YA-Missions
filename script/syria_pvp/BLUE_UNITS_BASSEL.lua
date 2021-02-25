@@ -1,0 +1,1 @@
+BLUE_BASSEL = SPAWN:New( "BLUE_BASSEL" ) :InitRepeat():Spawn()

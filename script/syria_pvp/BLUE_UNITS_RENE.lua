@@ -1,0 +1,1 @@
+BLUE_RENE = SPAWN:New( "BLUE_RENE" ) :InitRepeat():Spawn()

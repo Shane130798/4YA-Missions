@@ -1,0 +1,39 @@
+TEAM HIT: Dec 01 18:32:15 {players = {1 = {name  = "Jabird", ucid = "b463fc3a0e4200e2be757e60436c5343", ip = "68.38.112.124:49778", id = 4}1 = {name = CaptainRamrod1 with AIM-9X
+TEAM KILL: Dec 01 18:32:21 {players = {1 = {name  = "Jabird", ucid = "b463fc3a0e4200e2be757e60436c5343", ip = "nil", id = 4}1 = {name = CaptainRamrod1 with AIM-9X
+CHAT: Dec 01 18:33:04 {name  = "CaptainRamrod1", ucid = "ccf23caa758a0797fb87538c86da20a9", ip = "108.173.150.209:53299", id = 5} said "-forgive" to all (output suppressed by Slmod)
+CHAT: Dec 01 18:33:19 {name  = "CaptainRamrod1", ucid = "ccf23caa758a0797fb87538c86da20a9", ip = "108.173.150.209:53299", id = 5} said "-Forgive" to all (output suppressed by Slmod)
+CHAT: Dec 01 18:33:37 {name  = "CharlieBravo", ucid = "84c6e545b9395eac1bac19535b9c5531", ip = "82.42.219.121:61875", id = 3} said "-forgive" to all (output suppressed by Slmod)
+TEAM HIT: Dec 01 18:45:27 {players = {1 = {name  = "Jabird", ucid = "b463fc3a0e4200e2be757e60436c5343", ip = "68.38.112.124:49778", id = 4}1 = {name = BLUE_NOVO#001-01 with AGM-88C
+TEAM KILL: Dec 01 18:45:27 {players = {1 = {name  = "Jabird", ucid = "b463fc3a0e4200e2be757e60436c5343", ip = "nil", id = 4}1 = {name = BLUE_NOVO#001-01 with AGM-88C
+CHAT: Dec 01 18:45:27 {name  = "Neciota", ucid = "627c96374640346206efabe61e8cb595", ip = "94.208.183.123:52424", id = 2} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "CharlieBravo", ucid = "84c6e545b9395eac1bac19535b9c5531", ip = "82.42.219.121:61875", id = 3} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "Jabird", ucid = "b463fc3a0e4200e2be757e60436c5343", ip = "68.38.112.124:49778", id = 4} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "CaptainRamrod1", ucid = "ccf23caa758a0797fb87538c86da20a9", ip = "108.173.150.209:53299", id = 5} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "TheoPapas", ucid = "a6b461d52f411a7e8243a76ce9ea3580", ip = "41.13.15.216:40403", id = 6} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "Arado", ucid = "b9834143a8e24f836b5592d5c62ec4c0", ip = "93.236.148.153:54667", id = 7} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "Major Rotkäppchen", ucid = "c4fcb818bdbcdeef117e27eae32ceef9", ip = "86.112.161.255:63878", id = 8} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "Hog 0-1", ucid = "c983efc1473b9ba3bb17c91f9891bd12", ip = "92.32.146.204:51615", id = 9} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+CHAT: Dec 01 18:45:27 {name  = "[RODO] Hoverboard", ucid = "1fe4143740a1a0fa47fb3604c5a2d5c0", ip = "73.153.75.194:61441", id = 10} said "SLMOD INFO: Player "Jabird" is getting autokicked back to spectator" to all
+TEAM HIT: Dec 01 20:14:12 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:14:13 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:14:13 {players = {1 = {name  = "Schluki", ucid = "dd9cec2a3502e24f416140e86427359a", ip = "84.191.54.11:55726", id = 11}1 = {name = Badger with kamikaze
+TEAM HIT: Dec 01 20:14:13 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:14:14 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:14:15 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:14:15 {players = {1 = {name  = "Schluki", ucid = "dd9cec2a3502e24f416140e86427359a", ip = "84.191.54.11:55726", id = 11}1 = {name = Badger with kamikaze
+TEAM HIT: Dec 01 20:14:16 {players = {1 = {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4}1 = {name = Schluki with kamikaze
+TEAM HIT: Dec 01 20:23:27 {players = {1 = {name  = "Schluki", ucid = "dd9cec2a3502e24f416140e86427359a", ip = "84.191.54.11:55726", id = 11}1 = {name = New Static Object #050 with kamikaze
+TEAM HIT: Dec 01 20:23:27 {players = {1 = {name  = "Schluki", ucid = "dd9cec2a3502e24f416140e86427359a", ip = "84.191.54.11:55726", id = 11}1 = {name = New Static Object #046 with kamikaze
+TEAM KILL: Dec 01 20:23:29 {players = {1 = {name  = "Schluki", ucid = "dd9cec2a3502e24f416140e86427359a", ip = "nil", id = 11}1 = {name = New Static Object #046 with kamikaze
+CHAT: Dec 01 20:23:58 {name  = "Badger", ucid = "f2289347b31a9b7774286db6f30e5c65", ip = "212.197.182.43:56034", id = 4} said "yo nickthegreek wrong way" to all
+TEAM HIT: Dec 01 23:01:57 {players = {1 = {name  = "ScypioX", ucid = "b2cf813d4502c1989f78ee737fa9ddaf", ip = "86.178.208.78:59837", id = 2}1 = {name = niek with kamikaze
+TEAM HIT: Dec 01 23:01:58 {players = {1 = {name  = "niek", ucid = "2aa893b74265121faaf1f7151687003a", ip = "94.214.230.36:51491", id = 6}1 = {name = ScypioX with kamikaze
+TEAM HIT: Dec 01 23:01:58 {players = {1 = {name  = "ScypioX", ucid = "b2cf813d4502c1989f78ee737fa9ddaf", ip = "86.178.208.78:59837", id = 2}1 = {name = niek with kamikaze
+TEAM KILL: Dec 01 23:02:49 {players = {1 = {name  = "ScypioX", ucid = "b2cf813d4502c1989f78ee737fa9ddaf", ip = "nil", id = 2}1 = {name = niek with kamikaze
+TEAM KILL: Dec 01 23:03:09 {players = {1 = {name  = "niek", ucid = "2aa893b74265121faaf1f7151687003a", ip = "nil", id = 6}1 = {name = ScypioX with kamikaze
+CHAT: Dec 02 12:42:49 {name  = "yankee14", ucid = "2591168fde2a7ccc9004aca22e0ad29f", ip = "217.81.217.37:62187", id = 4} said "-motd" to all (output suppressed by Slmod)
+CHAT: Dec 02 12:43:21 {name  = "yankee14", ucid = "2591168fde2a7ccc9004aca22e0ad29f", ip = "217.81.217.37:62187", id = 4} said "-motd" to all (output suppressed by Slmod)
+TEAM HIT: Dec 02 18:40:18 {players = {1 = {name  = "bigrat", ucid = "1a563c703f4d2a146f8ac59e9fbf38d9", ip = "78.68.171.244:61437", id = 8}1 = {name = FARP_BLUE_ROME #039 with F/A-18C Lot 20
+TEAM HIT: Dec 02 18:40:18 {players = {1 = {name  = "bigrat", ucid = "1a563c703f4d2a146f8ac59e9fbf38d9", ip = "78.68.171.244:61437", id = 8}1 = {name = FARP_BLUE_ROME #038 with F/A-18C Lot 20
+TEAM KILL: Dec 02 18:40:20 {players = {1 = {name  = "bigrat", ucid = "1a563c703f4d2a146f8ac59e9fbf38d9", ip = "nil", id = 8}1 = {name = FARP_BLUE_ROME #038 with F/A-18C Lot 20
+TEAM KILL: Dec 02 18:40:20 {players = {1 = {name  = "bigrat", ucid = "1a563c703f4d2a146f8ac59e9fbf38d9", ip = "nil", id = 8}1 = {name = FARP_BLUE_ROME #039 with F/A-18C Lot 20

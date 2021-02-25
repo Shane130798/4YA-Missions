@@ -1,0 +1,1 @@
+BLUE_UNITS = SPAWN:New( "11_USAF_UNITS_HAMA" ) :InitRepeat():Spawn()
