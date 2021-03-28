@@ -55,7 +55,7 @@ ctld.fastRopeMaximumHeight = 18.28 -- in meters which is 60 ft max fast rope (no
 ctld.vehiclesForTransportRED = { "BRDM-2", "BTR_D" } -- vehicles to load onto Il-76 - Alternatives {"Strela-1 9P31","BMP-1"}
 ctld.vehiclesForTransportBLUE = { "M1045 HMMWV TOW", "M1043 HMMWV Armament" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
 
-ctld.aaLaunchers = 3 -- controls how many launchers to add to the kub/buk when its spawned.
+ctld.aaLaunchers = 4 -- controls how many launchers to add to the kub/buk when its spawned.
 ctld.hawkLaunchers = 5 -- controls how many launchers to add to the hawk when its spawned.
 
 ctld.spawnRPGWithCoalition = true --spawns a friendly RPG unit with Coalition forces
@@ -74,7 +74,7 @@ ctld.troopPickupAtFOB = true -- if true, troops can also be picked up at a creat
 
 ctld.buildTimeFOB = 60 --time in seconds for the FOB to be built
 
-ctld.crateWaitTime = 15 -- time in seconds to wait before you can spawn another crate
+ctld.crateWaitTime = 10 -- time in seconds to wait before you can spawn another crate
 
 ctld.forceCrateToBeMoved = true -- a crate must be picked up at least once and moved before it can be unpacked. Helps to reduce crate spam
 
@@ -116,10 +116,10 @@ ctld.JTAC_LIMIT_BLUE = 10 -- max number of JTAC Crates for the BLUE Side
 
 ctld.JTAC_dropEnabled = true -- allow JTAC Crate spawn from F10 menu
 
-ctld.JTAC_maxDistance = 20000 -- How far a JTAC can "see" in meters (with Line of Sight)
+ctld.JTAC_maxDistance = 30000 -- How far a JTAC can "see" in meters (with Line of Sight)
 
 ctld.JTAC_smokeOn_RED = false -- enables marking of target with smoke for RED forces
-ctld.JTAC_smokeOn_BLUE = false -- enables marking of target with smoke for BLUE forces
+ctld.JTAC_smokeOn_BLUE = true -- enables marking of target with smoke for BLUE forces
 
 ctld.JTAC_smokeColour_RED = 4 -- RED side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
 ctld.JTAC_smokeColour_BLUE = 1 -- BLUE side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
