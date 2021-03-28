@@ -450,8 +450,8 @@ ctld.unitActions = {
 
     -- Remove the -- below to turn on options
     -- ["SA342Mistral"] = {crates=true, troops=true},
-    -- ["SA342L"] = {crates=false, troops=true},
-    -- ["SA342M"] = {crates=false, troops=true},
+    -- ["SA342L"] = {crates=true, troops=true},
+    -- ["SA342M"] = {crates=true, troops=true},
 
 }
 
