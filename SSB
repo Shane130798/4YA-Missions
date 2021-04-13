@@ -109,11 +109,11 @@ ssb.commanderPlayerUCID = {
 
 ssb.version = "1.1"
 
-
+net.log()
 
 -- Logic for determining if player is allowed in a slot
 function ssb.shouldAllowAircraftSlot(_playerID, _slotID) -- _slotID == Unit ID unless its multi aircraft in which case slotID is unitId_seatID
-
+  net.log("determining if player is allowed in a slot")
   local _groupName = ssb.getGroupName(_slotID)
 
   if _groupName == nil or _groupName == "" then
@@ -128,6 +128,7 @@ function ssb.shouldAllowAircraftSlot(_playerID, _slotID) -- _slotID == Unit ID u
   end
 
   -- check flag value
+  net.log("Checking for flag")
   local _flag = ssb.getFlagValue(_groupName)
 
   if _flag == ssb.enabledFlagValue then
