@@ -1,5 +1,5 @@
-*.trk
-*.log
-*.zip
-*.dmp
-*.old
+.trk
+.log
+.zip
+.dmp
+.old
