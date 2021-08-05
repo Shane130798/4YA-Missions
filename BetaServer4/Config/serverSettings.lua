@@ -1,6 +1,6 @@
 cfg = 
 {
-    ["current"] = 1,
+    ["current"] = 2,
     ["description"] = "[4YA] TRAINING 24/7 - Syria PVE BETA (CAPTURE BASES) \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
@@ -19,6 +19,7 @@ PVE\
 SRS\
 CarrierOps ",
     ["require_pure_textures"] = false,
+    ["listStartIndex"] = 4,
     ["advanced"] = 
     {
         ["allow_change_tailno"] = true,
@@ -35,30 +36,30 @@ CarrierOps ",
         ["voice_chat_server"] = false,
         ["allow_change_skin"] = true,
         ["event_Connect"] = true,
-        ["event_Ejecting"] = false,
+        ["allow_trial_only_clients"] = false,
         ["event_Kill"] = true,
         ["event_Crash"] = false,
-        ["resume_mode"] = 2,
+        ["event_Ejecting"] = false,
         ["maxPing"] = 0,
         ["event_Role"] = false,
+        ["resume_mode"] = 2,
     }, -- end of ["advanced"]
     ["port"] = 10311,
     ["mode"] = 0,
     ["bind_address"] = "",
     ["isPublic"] = true,
-    ["uri"] = "startServer",
+    ["listShuffle"] = true,
     ["password"] = "",
+    ["listLoop"] = true,
+    ["name"] = "[4YA] TRAINING 24/7 Syria PVE BETA (CAPTURE BASES)",
+    ["uri"] = "startServer",
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v25C.miz",
-		[2] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v26D.miz",
-		[3] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v27A.miz",
-		[4] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v27B.miz",
-		[5] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v28A.miz",
+        [1] = "C:\\Users\\Administrator\\Saved Games\\BetaServer4\\Missions\\4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather.miz",
+        [2] = "C:\\Users\\Administrator\\Saved Games\\BetaServer4\\Missions\\4YA_Syria_Capture_Bases_BLUE-KING_v32ClearDay.miz",
+        [3] = "C:\\Users\\Administrator\\Saved Games\\BetaServer4\\Missions\\4YA_Syria_Capture_Bases_BLUE-KING_v32HeavyClouds.miz",
+        [4] = "C:\\Users\\Administrator\\Saved Games\\BetaServer4\\Missions\\4YA_Syria_Capture_Bases_BLUE-KING_v32MedCloud.miz",
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 Syria PVE BETA (CAPTURE BASES)",
-    ["listShuffle"] = false,
-    ["listLoop"] = true,
     ["require_pure_clients"] = false,
     ["require_pure_models"] = false,
     ["maxPlayers"] = "40",

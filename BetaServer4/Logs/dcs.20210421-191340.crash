@@ -1,0 +1,20 @@
+# -------------- 20210421-191340 --------------
+DCS/2.7.0.4625 (x86_64; Windows NT 10.0.17763)
+D:\DCS World OpenBeta Server 4\bin\ed_sound.dll
+# C0000005 ACCESS_VIOLATION at 4B6952C6 00:00000000
+SymInit: Symbol-SearchPath: '.;D:\DCS World OpenBeta Server 4;D:\DCS World OpenBeta Server 4\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x190-0x3
+0x00000000000152C6 (ed_sound): SND_speaker_layout_get_info + 0xBF6
+0x00000000000147EE (ed_sound): SND_speaker_layout_get_info + 0x11E
+0x000000000000398A (ed_sound): SND_exit + 0xEA
+0x00000000007E4F72 (DCS): ”æ–	‡'Y½Þw»ô¾cN'%YùöjŸGÉÔ…8c8’5H¿ü}y^`ÊsÞÜ¦µXqƒ{Ó…½3îh
+ÚqÛeB‰÷Ìè–[Û¢ÔLÃ‘¾5Q!é;}¤ôLiï.z6QI*~c|Êþ‘åµÃ&‘8f¡ÜçM‰FÎ‹_hAžé®$šÌ/§. úö,èÔÌ°Ç25/&'pdVKl%§ÚQë>ÞmÄá†³bRƒÛÿü6}HÔî‘ Ïh\¡…\íjù¨ï!¼G¤7©êÜDµšÑ%‡­é6ÝJEa¨E‰ä) Rgñ™f”l¥R­g/¤2á'øáó†|XüDZ`œZuÞîUËäyS%ÚGÙù+ÜÐœÀ(\ßo¸h†ÓC¦8£T¯¬°d'Š¬Ã#´Ì[°ÁÛñVû[3²ið6+ÌË¸®æB{¥¬0'.¾Š•BÕ};EäI/<¶‚ÙŸªt€ÏÏîJ b%.X'BX$‚…%‚¹\$W‘Onzk”·Ã`L‹¬!aŒíÅ)eÌûœÞ&éw•:¨q‘pÀ³óë;z™5&ÝMÇ™P¡%fõky4Ó¯YùÝXÀÈà_½ËØ'?øqäFAµàáÞR÷m¯øºxRh\½æ'ÖçË¼6½nÎC'ºÜ['ð•¸‹]\ÆÅf_q‰ƒñfïn~ã!„ËTÉ‘{aŽúÝ{]‰ÆøÛUk:Ræ'‚|-&ý
+Z'xÛu8ÿ†fë¦(!U¾÷žÛX²e^w1µ–î¤sÖ”ëŸÐï\„dó\·d8JéB¤Obšföª`‡Å¦2ÇÔ,ìq'üxH/Ë¹²”¼mÉo€ˆÍ:aT9^ôÌìÂ’˜±p·Ãf•;ðÃìgÓË"©«r1ˆ¥˜•8ôÂ0þ<ï
+i©âÓN<F³ø˜Û3»n7 ®6” ¸åI0ë¯¢G HÓ„œ=<)™ë0äçdw
+ôuð€>“H\ãÈ³7ãò©³Ðì¦u¤ÛÚ¼:ÜêQRD”ïoG÷;Ây^‚°5ï>«º#|qª˜áÁì€` ÷5L–R£hl´¨C¹ÍeêöËF|æÕÉƒÑOÒ½†örÇ`¢ë‡Iù”):`ßÍ¾‹hý°Õ,“ / ìVGÛåµï¬3§ÃŠ¾,<ÖÝÞ£¡	/jœP®à‚Ñf÷?¢pòçg©©|YO*|;ˆD¨ïUì”ÃµÎ/]¤ëUDîæÁ#HZRS9È.ƒXeË/1‚:;x„ÑÙUi0x0000000001C2CC34 (DCS): AmdPowerXpressRequestHighPerformance + 0xE33C30
+0x0000000000A060DE (DCS): ”æ–	‡'Y½Þw»ô¾cN'%YùöjŸGÉÔ…8c8’5H¿ü}y^`ÊsÞÜ¦µXqƒ{Ó…½3îh
+ÚqÛeB‰÷Ìè–[Û¢ÔLÃ‘¾5Q!é;}¤ôLiï.z6QI*~c|Êþ‘åµÃ&‘8f¡ÜçM‰FÎ‹_hAžé®$šÌ/§. úö,èÔÌ°Ç25/&'pdVKl%§ÚQë>ÞmÄá†³bRƒÛÿü6}HÔî‘ Ïh\¡…\íjù¨ï!¼G¤7©êÜDµšÑ%‡­é6ÝJEa¨E‰ä) Rgñ™f”l¥R­g/¤2á'øáó†|XüDZ`œZuÞîUËäyS%ÚGÙù+ÜÐœÀ(\ßo¸h†ÓC¦8£T¯¬°d'Š¬Ã#´Ì[°ÁÛñVû[3²ið6+ÌË¸®æB{¥¬0'.¾Š•BÕ};EäI/<¶‚ÙŸªt€ÏÏîJ b%.X'BX$‚…%‚¹\$W‘Onzk”·Ã`L‹¬!aŒíÅ)eÌûœÞ&éw•:¨q‘pÀ³óë;z™5&ÝMÇ™P¡%fõky4Ó¯YùÝXÀÈà_½ËØ'?øqäFAµàáÞR÷m¯øºxRh\½æ'ÖçË¼6½nÎC'ºÜ['ð•¸‹]\ÆÅf_q‰ƒñfïn~ã!„ËTÉ‘{aŽúÝ{]‰ÆøÛUk:Ræ'‚|-&ý
+Z'xÛu8ÿ†fë¦(!U¾÷žÛX²e^w1µ–î¤sÖ”ëŸÐï\„dó\·d8JéB¤Obšföª`‡Å¦2ÇÔ,ìq'üxH/Ë¹²”¼mÉo€ˆÍ:aT9^ôÌìÂ’˜±p·Ãf•;ðÃìgÓË"©«r1ˆ¥˜•8ôÂ0þ<ï
+i©âÓN<F³ø˜Û3»n7 ®6” ¸åI0ë¯¢G HÓ„œ=<)™ë0äçdw
+ôuð€>“H\ãÈ³7ãò©³Ðì¦u¤ÛÚ¼:ÜêQRD”ïoG÷;Ây^‚°5ï>«º#|qª˜áÁì€` ÷5L–R£hl´¨C¹ÍeêöËF|æÕÉƒÑOÒ½†örÇ`¢ë‡Iù”):`ßÍ¾‹hý°Õ,“ / ìVGÛåµï¬3§ÃŠ¾,<ÖÝÞ£¡	/jœP®à‚Ñf÷?¢pòçg©©|YO*|;ˆD¨ïUì”ÃµÎ/]¤ëUDîæÁ#HZRS9È.ƒXeË/1‚:;x„ÑÙUi0x0000000000017974 (KERNEL32): BaseThreadInitThunk + 0x14
+0x000000000005A2F1 (ntdll): RtlUserThreadStart + 0x21

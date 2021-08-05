@@ -1,0 +1,4 @@
+CHAT: Jun 11 18:36:47 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:61257", id = 7} said "$help" to all
+CHAT: Jun 11 18:37:28 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:61257", id = 7} said "Hi all, anyone have objections against a mission restart? We have clouds to offer :-)" to all
+CHAT: Jun 11 18:40:03 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:61257", id = 7} said "$nuke" to all
+CHAT: Jun 11 18:40:05 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:61257", id = 7} said "$y" to all

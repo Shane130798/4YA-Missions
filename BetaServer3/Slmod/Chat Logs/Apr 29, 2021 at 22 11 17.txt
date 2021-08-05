@@ -1,0 +1,250 @@
+CHAT: Apr 29 23:55:26 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "105.154.151.213:52740", id = 2} said "-modt" to all
+CHAT: Apr 29 23:55:51 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "105.154.151.213:52740", id = 2} said "-help" to all (output suppressed by Slmod)
+CHAT: Apr 29 23:56:39 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "105.154.151.213:52740", id = 2} said "-motd" to all (output suppressed by Slmod)
+CHAT: Apr 30 01:35:01 {name  = "Brawler 1-4 I squatch", ucid = "6f187e22b11bb3d3597a91acf9fb9424", ip = "76.180.37.179:50009", id = 2} said "damn, didnt know there were 2 of you" to all
+CHAT: Apr 30 04:54:56 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:57270", id = 2} said "hey balls, you on SRS?" to all
+CHAT: Apr 30 07:24:54 {name  = "Gargoyle 1-1 | Plob", ucid = "88c1637f3f1e9add7a252c45f6b78725", ip = "101.116.103.186:58696", id = 4} said "did you guys just crash into each other?" to all
+CHAT: Apr 30 07:24:55 {name  = "Gargoyle 1-1 | Plob", ucid = "88c1637f3f1e9add7a252c45f6b78725", ip = "101.116.103.186:58696", id = 4} said "lol" to all
+CHAT: Apr 30 07:25:13 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:57270", id = 2} said "dunno what you're talking about XD" to all
+CHAT: Apr 30 11:07:02 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "can some some protect me while i  bomb the sams" to all
+CHAT: Apr 30 11:08:40 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "a10 follow me" to all
+CHAT: Apr 30 11:12:12 {name  = "Silver", ucid = "1dfce410c00cbaf3602067fc617831a9", ip = "95.143.201.159:65081", id = 2} said "A 10 is having some trouble getting his steering to work" to all
+CHAT: Apr 30 11:12:28 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "okay brakes" to all
+CHAT: Apr 30 11:12:32 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "mill power" to all
+CHAT: Apr 30 11:12:47 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "321 relase" to all
+CHAT: Apr 30 11:13:07 {name  = "Silver", ucid = "1dfce410c00cbaf3602067fc617831a9", ip = "95.143.201.159:65081", id = 2} said "I am escorting the A10 sorry" to all
+CHAT: Apr 30 11:13:12 {name  = "Silver", ucid = "1dfce410c00cbaf3602067fc617831a9", ip = "95.143.201.159:65081", id = 2} said "Waiting for him" to all
+CHAT: Apr 30 11:13:59 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "iam coming" to all
+CHAT: Apr 30 11:19:07 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "my vikur is rready" to all
+CHAT: Apr 30 11:20:55 {name  = "SquwakModeDelta", ucid = "9c255980a3833a0fee634d3a8c9fe4ea", ip = "94.128.227.190:36378", id = 7} said "laser on" to all
+TEAM HIT: Apr 30 15:26:26 {players = {1 = {name  = "sanic", ucid = "c9b25bc62f293f547241fbe7d07a173a", ip = "185.150.15.58:62675", id = 3}1 = {name = BLUE_CAP_2#007-01 with GSH_23
+TEAM KILL: Apr 30 15:27:30 {players = {1 = {name  = "sanic", ucid = "c9b25bc62f293f547241fbe7d07a173a", ip = "nil", id = 3}1 = {name = BLUE_CAP_2#007-01 with GSH_23
+TEAM HIT: Apr 30 16:26:00 {players = {1 = {name  = "Lycs", ucid = "4178f4c61af1aa6a25f9ea36b3a1564d", ip = "84.170.159.228:37953", id = 6}1 = {name = shevek with R-3S
+TEAM KILL: Apr 30 16:26:21 {players = {1 = {name  = "Lycs", ucid = "4178f4c61af1aa6a25f9ea36b3a1564d", ip = "nil", id = 6}1 = {name = shevek with R-3S
+CHAT: Apr 30 16:26:47 {name  = "shevek", ucid = "1257f2fa9be67f24cb3b8569d31e138f", ip = "77.183.20.139:61928", id = 3} said "-forgive" to all (output suppressed by Slmod)
+CHAT: Apr 30 17:31:15 {name  = "Shellshock", ucid = "1d66ea140f5a55d942bd91a457018bc7", ip = "108.28.202.87:59232", id = 4} said "there are no radar guided aa here right?" to all
+CHAT: Apr 30 17:31:44 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:51637", id = 2} said "yup, no radar aa" to all
+TEAM HIT: Apr 30 17:35:59 {players = {1 = {name  = "JQ57/JG54_NF2", ucid = "b74bd82c6786a28b4a266332cfd73a78", ip = "101.87.33.8:64471", id = 5}1 = {name = Ezthirst with AIM-9P5
+TEAM KILL: Apr 30 17:36:40 {players = {1 = {name  = "JQ57/JG54_NF2", ucid = "b74bd82c6786a28b4a266332cfd73a78", ip = "nil", id = 5}1 = {name = Ezthirst with AIM-9P5
+CHAT: Apr 30 17:36:59 {name  = "Ezthirst", ucid = "94792eb0d1e9a6f21337303804ad96a4", ip = "115.78.135.254:62889", id = 3} said "-forgive" to all (output suppressed by Slmod)
+TEAM HIT: Apr 30 18:34:45 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "93.112.216.77:51808", id = 8}1 = {name = Faisal with M-39
+TEAM HIT: Apr 30 18:34:57 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "93.112.216.77:51808", id = 8}1 = {name = Faisal with M-39
+TEAM HIT: Apr 30 18:34:58 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "93.112.216.77:51808", id = 8}1 = {name = Faisal with M-39
+TEAM HIT: Apr 30 18:35:02 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "93.112.216.77:51808", id = 8}1 = {name = Faisal with M-39
+TEAM HIT: Apr 30 18:35:03 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "93.112.216.77:51808", id = 8}1 = {name = Faisal with M-39
+TEAM KILL: Apr 30 18:35:40 {players = {1 = {name  = "RSAF-15", ucid = "f7eee12a17542f59e446e08b9a41974b", ip = "nil", id = 8}1 = {name = Faisal with M-39
+CHAT: Apr 30 20:46:10 {name  = "Saiko", ucid = "ee4789c37c0415d86f691e5416136ace", ip = "86.30.2.71:53048", id = 2} said "not many people here are there" to all
+TEAM HIT: Apr 30 21:00:31 {players = {1 = {name  = "Saiko", ucid = "ee4789c37c0415d86f691e5416136ace", ip = "86.30.2.71:53048", id = 2}1 = {name = BLUE_CAP_2#015-01 with AIM-9P5
+TEAM KILL: Apr 30 21:01:02 {players = {1 = {name  = "Saiko", ucid = "ee4789c37c0415d86f691e5416136ace", ip = "nil", id = 2}1 = {name = BLUE_CAP_2#015-01 with AIM-9P5
+CHAT: Apr 30 23:37:26 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "a-10 check 6" to all
+CHAT: Apr 30 23:39:47 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ye, I was aware, just that I cannot handle such situations whasoever. I am very much a noob at A/A" to all
+CHAT: Apr 30 23:41:26 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "a-10 can defend itself pretty well against cold war era fighters if you can force them to turn fight" to all
+CHAT: Apr 30 23:41:37 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Ye, but I cant do that xD" to all
+CHAT: Apr 30 23:41:43 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "its a fun plane" to all
+CHAT: Apr 30 23:42:07 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "you will do with practice :)" to all
+CHAT: Apr 30 23:42:23 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "I can do A/G really good (altough in the A-10C that is), and I can do A/A in actual fighters." to all
+CHAT: Apr 30 23:45:23 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "nice" to all
+CHAT: Apr 30 23:45:44 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "ty" to all
+CHAT: Apr 30 23:49:33 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "damn, what a sexy weapon was that" to all
+CHAT: Apr 30 23:49:50 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said ":P" to all
+CHAT: Apr 30 23:49:51 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "BK-90" to all
+CHAT: Apr 30 23:50:13 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "they are some sort of a predecessor to the JSOW" to all
+CHAT: Apr 30 23:50:29 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "evening chaps" to all
+CHAT: Apr 30 23:50:39 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "viggen is on my wish list for a some time" to all
+CHAT: Apr 30 23:50:46 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "sexy looking plane" to all
+CHAT: Apr 30 23:51:10 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Its really fun to fly as well. And its one hell of a ship killer" to all
+CHAT: Apr 30 23:53:07 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "so many good planes so little money" to all
+CHAT: Apr 30 23:53:33 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "I'm feeling you" to all
+CHAT: Apr 30 23:55:05 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "we talking about the viggen by any chance?" to all
+CHAT: Apr 30 23:56:18 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "btw, for A-10A. aginst ai at least, i am meeting them head on if i can with missiles. can carry 4..." to all
+CHAT: Apr 30 23:56:33 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ok, thanks for the info" to all
+CHAT: Apr 30 23:56:43 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "need someone to fly top-cover for you?" to all
+CHAT: Apr 30 23:57:04 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "... of them. and try to force overshhot you at low levels and send missile at their asses" to all
+CHAT: Apr 30 23:57:25 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright" to all
+CHAT: Apr 30 23:57:27 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "at least it works against ai, here." to all
+CHAT: Apr 30 23:57:37 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ye, I can always use some top cover" to all
+CHAT: Apr 30 23:58:58 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "ok shall i wait for you at beslan?" to all
+CHAT: Apr 30 23:59:02 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "im in a viggen" to all
+CHAT: Apr 30 23:59:54 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright" to all
+CHAT: May 01 00:01:37 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "should i load a couple of mavericks to help you take out the AAA or should i only grab IR missiles?" to all
+CHAT: May 01 00:01:46 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "up to you" to all
+CHAT: May 01 00:02:07 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "no u" to all
+CHAT: May 01 00:02:34 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "i'll grab a couple as variety is the spice of life" to all
+CHAT: May 01 00:02:42 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "well I wont say no to some extra mavericks" to all
+CHAT: May 01 00:03:49 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "on my way over to you" to all
+CHAT: May 01 00:06:49 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "airborne" to all
+CHAT: May 01 00:07:02 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "man its my first time on here and this is really fun" to all
+CHAT: May 01 00:07:20 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "multiplayer or this server?" to all
+CHAT: May 01 00:07:27 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "4ya cold war" to all
+CHAT: May 01 00:07:34 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "i much prefer cold war to modern" to all
+CHAT: May 01 00:07:50 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "IR missiles are more interesting than aim120/aim57" to all
+CHAT: May 01 00:07:53 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "*47" to all
+CHAT: May 01 00:08:37 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "yeah, combat is still "personal" on here" to all
+CHAT: May 01 00:09:44 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "missiles are bad enough you can actually avoid them lmao" to all
+CHAT: May 01 00:09:52 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "no 90km snipes" to all
+CHAT: May 01 00:14:35 {name  = "Legjende", ucid = "15a4353d64e2bf12c736fa66b12df23a", ip = "95.8.159.5:59233", id = 2} said "nn guys" to all
+CHAT: May 01 00:14:40 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "nn" to all
+CHAT: May 01 00:15:56 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "nice" to all
+CHAT: May 01 00:16:20 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "haha, I love the hawg. Can still engage in combat with one engine down" to all
+CHAT: May 01 00:16:43 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "and thanks Mohawk! that damaged you did to the LAV-25 aided me greatly" to all
+CHAT: May 01 00:17:05 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "np chief" to all
+CHAT: May 01 00:19:30 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "did you use a-10's gun for ground attack?" to all
+CHAT: May 01 00:19:34 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ye" to all
+CHAT: May 01 00:19:42 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "is it accurate?" to all
+CHAT: May 01 00:19:45 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Hell yeah" to all
+CHAT: May 01 00:20:17 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "hmm, mine always hits left where it points" to all
+CHAT: May 01 00:20:46 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "yeah, but you can counter that rather easily" to all
+CHAT: May 01 00:21:30 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "grabbing an a10 as well" to all
+CHAT: May 01 00:21:35 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright" to all
+CHAT: May 01 00:22:07 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "12 AGM-65 are sure gonna come in handy" to all
+CHAT: May 01 00:24:02 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "no kidding" to all
+CHAT: May 01 00:24:22 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "gotta relearn how to use the autopilot on this, from memory its v annoying" to all
+CHAT: May 01 00:24:47 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "I never even use it in here. Its so stable I dont really need it" to all
+CHAT: May 01 00:25:20 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "i only use them in the A-10C and in there they are pretty good" to all
+CHAT: May 01 00:25:25 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "just trim it out i guess" to all
+CHAT: May 01 00:26:25 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "right im ready to go" to all
+CHAT: May 01 00:26:31 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright" to all
+CHAT: May 01 00:32:25 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "We are getting intercepted by a MiG-21 I thing" to all
+CHAT: May 01 00:32:28 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "*think" to all
+CHAT: May 01 00:32:40 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "hmmm" to all
+CHAT: May 01 00:32:53 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "yes quite possibly" to all
+CHAT: May 01 00:33:09 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "i'll just follow Hammers advice" to all
+CHAT: May 01 00:36:27 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "more closing in" to all
+CHAT: May 01 00:36:56 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "mig-21 and mig-19 coming" to all
+CHAT: May 01 00:37:38 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "i'll fly cover from now on lmao" to all
+CHAT: May 01 00:38:42 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "95.8.159.5:52676", id = 3} said "gk!" to all
+CHAT: May 01 00:39:06 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Thanks!" to all
+CHAT: May 01 00:40:07 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "That is one valuable lesson I learnt today" to all
+CHAT: May 01 00:41:29 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "nice! just 3 more to go :P" to all
+CHAT: May 01 00:41:31 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "#pranked" to all
+CHAT: May 01 00:41:38 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "hehe" to all
+CHAT: May 01 00:41:56 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "are you thoroughly cooked now?" to all
+CHAT: May 01 00:41:57 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "man that looks crazy from inside the cockpit." to all
+CHAT: May 01 00:42:05 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Think so, yeah" to all
+CHAT: May 01 00:42:45 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ok,  I'm ready" to all
+CHAT: May 01 00:42:50 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "rgr" to all
+CHAT: May 01 00:49:09 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "man that viggen is sexy" to all
+CHAT: May 01 00:49:14 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "What mission over?" to all
+CHAT: May 01 00:52:14 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "is it just us?>" to all
+CHAT: May 01 00:52:20 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "seems so" to all
+CHAT: May 01 00:54:44 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ok, Im ready" to all
+CHAT: May 01 00:54:50 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "lead the way chubby x" to all
+CHAT: May 01 00:54:57 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "hehe" to all
+CHAT: May 01 00:59:01 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Umm, when will the targets spawn in?" to all
+CHAT: May 01 00:59:13 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "theres fog of war" to all
+CHAT: May 01 00:59:19 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ah, I see" to all
+CHAT: May 01 00:59:25 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "except you dont" to all
+CHAT: May 01 00:59:40 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "oh god.. xD" to all
+CHAT: May 01 01:04:05 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "nice" to all
+CHAT: May 01 01:04:11 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "thanks" to all
+CHAT: May 01 01:04:52 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "Today is actually the first time I am using the A-Model of the A-10 in combat xD" to all
+CHAT: May 01 01:05:04 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "`its so goddamn EASY" to all
+CHAT: May 01 01:05:53 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "but most important: its real fun" to all
+CHAT: May 01 01:06:37 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "agreed" to all
+CHAT: May 01 01:08:08 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "good job lmao" to all
+CHAT: May 01 01:08:08 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "whoops lol" to all
+CHAT: May 01 01:09:08 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "nice landing" to all
+CHAT: May 01 01:09:13 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "time to grab a new plane..." to all
+CHAT: May 01 01:10:19 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "what happened? you commited suicide as well?" to all
+CHAT: May 01 01:10:26 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "compressor stall" to all
+CHAT: May 01 01:10:31 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "too low to recover" to all
+CHAT: May 01 01:10:32 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "ah, I see" to all
+CHAT: May 01 01:11:00 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "I'm just gonna fetch some water, while this thing is starting up" to all
+CHAT: May 01 01:13:17 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright, I'm all set" to all
+CHAT: May 01 01:13:28 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "2 secs" to all
+CHAT: May 01 01:13:33 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "programming waypoints" to all
+CHAT: May 01 01:13:54 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "thought so when I saw those BK-90s" to all
+CHAT: May 01 01:14:48 {name  = "Outlaw 1-2 | Blue Ballz", ucid = "f623658feeea232c22fd692b8ce3b132", ip = "206.116.254.13:50213", id = 2} said "looks like a good server, back after dinner to check it out" to all
+CHAT: May 01 01:16:18 {name  = "[14th CF] Mohawk", ucid = "560bd18a81843d25d34d4747c669cc2f", ip = "31.127.10.20:60498", id = 4} said "gonna hit nalchick" to all
+CHAT: May 01 01:16:27 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright, cool" to all
+CHAT: May 01 01:19:14 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "just be advised, there are a "couple" of bandits moving our way" to all
+CHAT: May 01 01:56:50 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "hi strelok" to all
+CHAT: May 01 01:56:53 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "hello" to all
+CHAT: May 01 01:58:12 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "you do AG ?" to all
+CHAT: May 01 01:59:05 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:59916", id = 4} said "heading to Beslan" to all
+CHAT: May 01 01:59:10 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "a bit" to all
+CHAT: May 01 01:59:52 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "but since I dont really have any top cover as of right now I have to use the MiG-21 as a multirole" to all
+CHAT: May 01 02:00:16 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "i go to protect you" to all
+CHAT: May 01 02:00:27 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "alright, thanks a lot" to all
+CHAT: May 01 02:01:26 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "^^ wlcm" to all
+CHAT: May 01 02:02:15 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "srs?" to all
+CHAT: May 01 02:02:25 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "I am on an outdated version :(" to all
+CHAT: May 01 02:03:29 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "okk np" to all
+CHAT: May 01 02:05:58 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "damn, that was one hell of a furball" to all
+CHAT: May 01 02:11:10 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "blue en bleu" to all
+TEAM HIT: May 01 02:11:17 {players = {1 = {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3}1 = {name = Strelok with M-39
+CHAT: May 01 02:11:47 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:52352", id = 5} said "you were engaging me!" to all
+CHAT: May 01 02:12:18 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "help" to all
+CHAT: May 01 02:13:03 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "ohhh srry" to all
+CHAT: May 01 02:16:13 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "strelok sry men" to all
+CHAT: May 01 02:18:56 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "ITCHY srs ?" to all
+CHAT: May 01 02:19:10 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "-motd" to all (output suppressed by Slmod)
+CHAT: May 01 02:19:34 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:59916", id = 4} said "about to head out :(" to all
+CHAT: May 01 02:19:51 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:59916", id = 4} said "5 kills is enough" to all
+CHAT: May 01 02:20:33 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:60569", id = 3} said "can you speak french ?" to all
+CHAT: May 01 03:04:07 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "frq srs les gas ?" to all
+CHAT: May 01 03:05:10 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "WAIT ME GUYS" to all
+CHAT: May 01 03:05:55 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "we will wait" to all
+CHAT: May 01 03:06:34 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "vfa genial" to all
+CHAT: May 01 03:07:36 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "allez" to all
+CHAT: May 01 03:07:44 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "VOUS" to all
+CHAT: May 01 03:09:12 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "heading to Beslan" to all
+CHAT: May 01 03:13:34 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "commencing" to all
+CHAT: May 01 03:14:34 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "srs ?" to all
+CHAT: May 01 03:14:44 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "266.000" to all
+CHAT: May 01 03:16:13 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "abdo, we're on 233.000 mHz" to all
+CHAT: May 01 03:16:23 {name  = "VFA-132 | 302 ITCHY", ucid = "3a5bdebe40f107c0f0a51d2ae3cf4c5c", ip = "172.92.149.32:60213", id = 4} said "*MHz" to all
+CHAT: May 01 03:16:56 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "im in" to all
+CHAT: May 01 03:18:59 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "there is no one" to all
+TEAM HIT: May 01 03:21:38 {players = {1 = {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6}1 = {name = D Rock with M-39
+TEAM HIT: May 01 03:21:42 {players = {1 = {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6}1 = {name = D Rock with M-39
+TEAM KILL: May 01 03:22:58 {players = {1 = {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "nil", id = 6}1 = {name = Pilot #170 with M-39
+CHAT: May 01 03:23:35 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "sorry  mb" to all
+CHAT: May 01 03:26:15 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "²gg" to all
+CHAT: May 01 03:27:16 {name  = "abdo", ucid = "89b9b92c44daf3d942c6e1f3637c3e9d", ip = "196.65.207.114:51859", id = 6} said "help guys" to all
+CHAT: May 01 16:34:44 {name  = "Orion85", ucid = "9dbf1191c88f24b3ad9807c52e89b46e", ip = "94.248.186.198:52606", id = 2} said "btw how do I know when ECM is on<" to all
+CHAT: May 01 16:34:52 {name  = "Orion85", ucid = "9dbf1191c88f24b3ad9807c52e89b46e", ip = "94.248.186.198:52606", id = 2} said "?*" to all
+CHAT: May 01 20:47:46 {name  = "Neurus", ucid = "6cf1d136af16dbe8e89adc5b01cfa32b", ip = "83.162.241.49:50562", id = 4} said "-motd" to all (output suppressed by Slmod)
+CHAT: May 01 20:49:02 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "what SRS channel are you guys using?" to all
+CHAT: May 01 20:49:12 {name  = "[RODO] Steevo", ucid = "417257e229b7eb912210a7dca349ddf6", ip = "213.127.79.182:19267", id = 2} said "305000" to all
+CHAT: May 01 20:59:08 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "hello" to all
+CHAT: May 01 21:04:59 {name  = "Legjende", ucid = "15a4353d64e2bf12c736fa66b12df23a", ip = "85.100.144.22:54063", id = 10} said "hi all" to all
+CHAT: May 01 21:05:06 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "hello" to all
+CHAT: May 01 21:06:35 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "haha, hammer, that advice you gave me yesterday is pretty invaluable xD" to all
+CHAT: May 01 21:06:39 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "good kills strelok" to all
+CHAT: May 01 21:06:43 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "Thanks man" to all
+CHAT: May 01 21:06:59 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "good to hear that its working for you too" to all
+CHAT: May 01 21:07:08 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "a-10 is such a mean beast" to all
+CHAT: May 01 21:08:31 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "yeah, definetly" to all
+CHAT: May 01 21:13:30 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "thanks for thos runs hammer, really helpin me to spot" to all
+CHAT: May 01 21:13:45 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "np" to all
+CHAT: May 01 21:17:38 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said ":P" to all
+CHAT: May 01 21:18:09 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "happens to the best of us" to all
+CHAT: May 01 21:18:42 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "he survived mk-82 impact next to him" to all
+CHAT: May 01 21:19:14 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "3 enemy closing in from south" to all
+CHAT: May 01 21:19:32 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "nice" to all
+CHAT: May 01 21:19:54 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "thanks" to all
+CHAT: May 01 21:44:26 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "nice kill" to all
+CHAT: May 01 21:44:32 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "ty" to all
+CHAT: May 01 21:47:11 {name  = "Ledoc", ucid = "361248e46599106aaa552e0f78743715", ip = "90.66.227.4:60582", id = 3} said "bonsoir" to all
+CHAT: May 01 21:47:19 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "good evening" to all
+CHAT: May 01 21:47:41 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "landing beslan" to all
+CHAT: May 01 21:57:14 {name  = "Legjende", ucid = "15a4353d64e2bf12c736fa66b12df23a", ip = "85.100.144.22:54087", id = 2} said "gj" to all
+CHAT: May 01 21:57:20 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "perfect" to all
+CHAT: May 01 21:57:35 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "alright I'll just put her down and then I'll head over to farming sim xD and thanks" to all
+CHAT: May 01 21:58:27 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:55220", id = 5} said "ty for your work,strelok. cya around" to all
+CHAT: May 01 22:00:27 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:57545", id = 6} said "no problem, wouldn't be able to do it without your CAP. See ya" to all
+CHAT: May 02 02:09:34 {name  = "Strelok", ucid = "454925a52fbc46ef51792175efe083fb", ip = "24.134.76.233:59408", id = 3} said "good evening" to all
+TEAM HIT: May 02 11:22:53 {players = {1 = {name  = "Arado", ucid = "b9834143a8e24f836b5592d5c62ec4c0", ip = "79.208.18.26:57066", id = 2}1 = {name = BLUE_CAP_1#011-01 with M-39
+TEAM KILL: May 02 11:24:01 {players = {1 = {name  = "Arado", ucid = "b9834143a8e24f836b5592d5c62ec4c0", ip = "nil", id = 2}1 = {name = BLUE_CAP_1#011-01 with M-39
+CHAT: May 02 11:24:01 {name  = "Arado", ucid = "b9834143a8e24f836b5592d5c62ec4c0", ip = "79.208.18.26:57066", id = 2} said "SLMOD INFO: Player "Arado" is getting autokicked back to spectator" to all
+CHAT: May 02 12:03:44 {name  = "Larppi 1-1", ucid = "d73053f1cbbcf39ba5531d31fd70d299", ip = "87.95.52.62:6421", id = 2} said "555" to all
+TEAM HIT: May 02 12:06:51 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = MOZDOK #013 with S-25L
+TEAM HIT: May 02 12:06:51 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = MOZDOK #014 with S-25L
+TEAM HIT: May 02 12:08:51 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = MOZDOK #014 with Kh-29L
+TEAM KILL: May 02 12:08:51 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "nil", id = 3}1 = {name = MOZDOK #014 with Kh-29L
+TEAM HIT: May 02 12:08:51 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = MOZDOK #013 with Kh-29L
+TEAM HIT: May 02 12:11:36 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = Unit #036 with S-25L
+TEAM HIT: May 02 12:12:19 {players = {1 = {name  = "Larppi 1-2", ucid = "2020baa7d3204ae21792e5f57b68ac35", ip = "188.67.244.80:50011", id = 3}1 = {name = Larppi 1-1 with S-25L
+CHAT: May 02 16:00:55 {name  = "Hammer", ucid = "20dcf1fbba8816938e59dc2b80966ff5", ip = "85.100.144.22:57132", id = 3} said "hi" to all
+CHAT: May 02 16:01:03 {name  = "=UVP= Ondre", ucid = "fa9d6c642a2856d8bf4dbe190d9094fe", ip = "193.86.27.108:58144", id = 2} said "hi" to all

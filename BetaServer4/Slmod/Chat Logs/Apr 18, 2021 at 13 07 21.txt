@@ -1,0 +1,40 @@
+CHAT: Apr 18 14:28:46 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.84:64164", id = 5} said "wow that was actually pretty good for russian cluster bombs" to all
+CHAT: Apr 18 14:50:13 {name  = "Love/cz 69-420", ucid = "dfd1ef30a43511b0848951d3e82e5d4f", ip = "86.49.241.197:13173", id = 21} said "is it me or is spotting way better after patch ?" to all
+CHAT: Apr 18 14:51:07 {name  = "Hbomb", ucid = "e711c21cecbfb91534afa41275027291", ip = "124.170.78.98:51654", id = 13} said "ground or air?" to all
+CHAT: Apr 18 14:51:17 {name  = "Love/cz 69-420", ucid = "dfd1ef30a43511b0848951d3e82e5d4f", ip = "86.49.241.197:13173", id = 21} said "both acctualy" to all
+CHAT: Apr 18 14:51:39 {name  = "Hbomb", ucid = "e711c21cecbfb91534afa41275027291", ip = "124.170.78.98:51654", id = 13} said "labels are on.... but clouds help" to all
+CHAT: Apr 18 14:52:29 {name  = "Love/cz 69-420", ucid = "dfd1ef30a43511b0848951d3e82e5d4f", ip = "86.49.241.197:13173", id = 21} said "i dont use labels i had no idea you can see them here :D" to all
+CHAT: Apr 18 14:52:47 {name  = "Hbomb", ucid = "e711c21cecbfb91534afa41275027291", ip = "124.170.78.98:51654", id = 13} said "yeah dots" to all
+CHAT: Apr 18 14:53:05 {name  = "Love/cz 69-420", ucid = "dfd1ef30a43511b0848951d3e82e5d4f", ip = "86.49.241.197:13173", id = 21} said "cool :)" to all
+CHAT: Apr 18 14:55:37 {name  = "Waffle 6-1", ucid = "521c9ae157ee87aa749f394fc7bed1e2", ip = "75.132.128.111:50563", id = 2} said "does anyone have a prob in f16 where tcn doesnt work or am i clueless" to all
+CHAT: Apr 18 15:19:21 {name  = "Rykane", ucid = "916d20e526f315a8106f1b89faaa8df4", ip = "81.96.97.165:64645", id = 25} said "Went to hama first, did get a single kill because the f-18s stole them all -_-" to all
+CHAT: Apr 18 15:19:26 {name  = "Rykane", ucid = "916d20e526f315a8106f1b89faaa8df4", ip = "81.96.97.165:64645", id = 25} said "*didn't" to all
+CHAT: Apr 18 15:22:21 {name  = "genchou", ucid = "c15dd5c89a70856720ffcc62899fc64a", ip = "141.135.98.102:58595", id = 31} said "Are the tankers TCN not working ? I can't get the kc130 signal" to all
+CHAT: Apr 18 15:23:59 {name  = "Spade2_1", ucid = "6c8d97f0d436f0fa36a9bae8f90855ba", ip = "47.27.25.64:51960", id = 39} said "inbound hama" to all
+CHAT: Apr 18 15:24:28 {name  = "genchou", ucid = "c15dd5c89a70856720ffcc62899fc64a", ip = "141.135.98.102:58595", id = 31} said "Are the tankers TCN not working ? I cant get the KC130 signal" to all
+TEAM HIT: Apr 18 15:37:03 {players = {1 = {name  = "Olivnight", ucid = "2b81b5f4d4de85f17b2df0bbc350f01d", ip = "2.3.123.207:50808", id = 9}1 = {name = 10_BLUE_UNITS_BASSEL_AL_ASSAD#001-01 with AGM-88C
+TEAM HIT: Apr 18 15:40:36 {players = {1 = {name  = "Olivnight", ucid = "2b81b5f4d4de85f17b2df0bbc350f01d", ip = "2.3.123.207:50808", id = 9}1 = {name = 10_BLUE_UNITS_BASSEL_AL_ASSAD#001-02 with AGM-88C
+CHAT: Apr 18 15:46:06 {name  = "OldRoger[I]", ucid = "8e5b414256748e0e5700d33620778b79", ip = "151.41.135.44:53354", id = 28} said "hellround lol" to all
+TEAM HIT: Apr 18 15:46:32 {players = {1 = {name  = "Ernoldo", ucid = "cfca7cc857fa836bf7772e70e108687c", ip = "87.148.187.153:51147", id = 26}1 = {name = 11_BLUE_UNITS_HAMA#001-02 with AGM-88C
+TEAM KILL: Apr 18 15:46:33 {players = {1 = {name  = "Ernoldo", ucid = "cfca7cc857fa836bf7772e70e108687c", ip = "nil", id = 26}1 = {name = 11_BLUE_UNITS_HAMA#001-02 with AGM-88C
+TEAM HIT: Apr 18 15:46:48 {players = {1 = {name  = "Ernoldo", ucid = "cfca7cc857fa836bf7772e70e108687c", ip = "87.148.187.153:51147", id = 26}1 = {name = 11_BLUE_UNITS_HAMA#001-01 with AGM-88C
+CHAT: Apr 18 15:47:00 {name  = "Ernoldo", ucid = "cfca7cc857fa836bf7772e70e108687c", ip = "87.148.187.153:51147", id = 26} said "omg" to all
+CHAT: Apr 18 15:47:36 {name  = "Trunk 1-1 I Tunson", ucid = "20d5cc2998ad7561e1b2d66aca79a963", ip = "136.143.26.87:58291", id = 25} said "@Fleau, your gear is out lol" to all
+TEAM KILL: Apr 18 15:47:45 {players = {1 = {name  = "Ernoldo", ucid = "cfca7cc857fa836bf7772e70e108687c", ip = "nil", id = 26}1 = {name = 11_BLUE_UNITS_HAMA#001-01 with AGM-88C
+CHAT: Apr 18 15:49:30 {name  = "Viper 1-1| Fleau", ucid = "dab9e0ee4563838dc626965e7ac2531c", ip = "91.179.122.136:50269", id = 23} said "WTF" to all
+CHAT: Apr 18 15:49:35 {name  = "Viper 1-1| Fleau", ucid = "dab9e0ee4563838dc626965e7ac2531c", ip = "91.179.122.136:50269", id = 23} said "PFFFF" to all
+CHAT: Apr 18 16:09:31 {name  = "ARON", ucid = "9c3121adebc2d2fd107d50d378f3ed70", ip = "88.156.133.249:50394", id = 17} said "i need help" to all
+CHAT: Apr 18 16:09:45 {name  = "Wizz=SRB=", ucid = "250e49d6661c1a58d4c8cb3834efb024", ip = "94.189.232.243:3664", id = 14} said "with?" to all
+CHAT: Apr 18 16:10:32 {name  = "JayMoto", ucid = "aa0be1b5cde0cf9ea0e61a252b60a843", ip = "73.56.183.227:59934", id = 11} said "got him" to all
+TEAM HIT: Apr 18 16:12:17 {players = {1 = {name  = "Plockhead69", ucid = "26c6f0e9d8811e6fd8436b0dafec64a2", ip = "84.240.112.177:49992", id = 8}1 = {name = ARON with AIM-120C-5
+CHAT: Apr 18 16:12:22 {name  = "ARON", ucid = "9c3121adebc2d2fd107d50d378f3ed70", ip = "88.156.133.249:50394", id = 17} said "fuckin teamkill" to all
+TEAM KILL: Apr 18 16:12:28 {players = {1 = {name  = "Plockhead69", ucid = "26c6f0e9d8811e6fd8436b0dafec64a2", ip = "nil", id = 8}1 = {name = ARON with AIM-120C-5
+CHAT: Apr 18 16:12:30 {name  = "ARON", ucid = "9c3121adebc2d2fd107d50d378f3ed70", ip = "88.156.133.249:50394", id = 17} said "idiot" to all
+CHAT: Apr 18 16:13:01 {name  = "ARON", ucid = "9c3121adebc2d2fd107d50d378f3ed70", ip = "88.156.133.249:50394", id = 17} said "-punish" to all (output suppressed by Slmod)
+CHAT: Apr 18 16:16:51 {name  = "Poptimes", ucid = "db127144330ff0ecc9a46bd1e35da861", ip = "99.157.176.30:57458", id = 8} said "-mtod" to all
+CHAT: Apr 18 16:17:01 {name  = "Poptimes", ucid = "db127144330ff0ecc9a46bd1e35da861", ip = "99.157.176.30:57458", id = 8} said "-motd" to all (output suppressed by Slmod)
+CHAT: Apr 18 16:30:17 {name  = "Poptimes", ucid = "db127144330ff0ecc9a46bd1e35da861", ip = "99.157.176.30:57458", id = 8} said "New plater looking for help getting SRS up and working first time if anyone has a second to type" to all
+CHAT: Apr 18 16:30:35 {name  = "Spade2_1", ucid = "6c8d97f0d436f0fa36a9bae8f90855ba", ip = "47.27.25.64:52657", id = 35} said "whatcha got poptime?" to all
+CHAT: Apr 18 16:31:42 {name  = "Poptimes", ucid = "db127144330ff0ecc9a46bd1e35da861", ip = "99.157.176.30:57458", id = 8} said "I'm on the ground in JF17. SRS running but not hearing anyone" to all
+CHAT: Apr 18 16:31:58 {name  = "Wizz=SRB=", ucid = "250e49d6661c1a58d4c8cb3834efb024", ip = "94.189.232.243:3664", id = 14} said "maybe no one talking" to all
+CHAT: Apr 18 16:35:05 {name  = "Spade2_1", ucid = "6c8d97f0d436f0fa36a9bae8f90855ba", ip = "47.27.25.64:52657", id = 35} said "poptime, have you installed SRS?" to all

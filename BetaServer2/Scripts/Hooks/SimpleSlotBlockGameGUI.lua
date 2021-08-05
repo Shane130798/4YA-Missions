@@ -62,7 +62,7 @@ ssb.controlNonAircraftSlots = false -- if true, only unique DCS Player ids will 
 
 
 -- New addon version 1.1 -- kicking of players.
-ssb.kickPlayers = true -- Change to false if you want to disable to kick players.
+ssb.kickPlayers = false -- Change to false if you want to disable to kick players.
 ssb.kickTimeInterval = 1 -- Change the amount of seconds if you want to shorten the interval time or make the interval time longer.
 ssb.kickReset = true -- The slot will be automatically reset to open, after kicking the player.
 ssb.kickTimePrev = 0 -- leave this untouched!

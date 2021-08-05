@@ -17,6 +17,7 @@ return {
     neutral_coalition_by_default = false,
     use_callsign = 1,
     use_rcs = false,
+    use_realtracking = false,
     modelisation = "global",
     tracking_delay = 0,
     use_range_resolution = false,

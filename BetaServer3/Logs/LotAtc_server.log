@@ -1,0 +1,968 @@
+
+Sat Apr 10 20:55:42 2021
+--- STARTING Log ---
+Version: 2.1.9-e398d1ea
+---
+2021-04-10 19:55:42.845 [0]: WARNING : [default] Logger: Filedump is true
+2021-04-10 19:55:42.845 [0]: DEBUG   : [perfs] Perfs output enabled: false
+2021-04-10 19:55:49.272 [6.425]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+2021-04-10 19:56:01.385 [18.538]: WARNING : [default] Logger: Filedump is true
+2021-04-10 19:56:01.385 [18.538]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Mods\\services\\LotAtc\\\\magvar"
+2021-04-10 19:56:01.385 [18.539]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Mods\\services\\LotAtc\\\\magvar"
+2021-04-10 19:56:01.385 [18.539]: WARNING : [default] [GM] Set Year 2011
+2021-04-10 19:56:01.385 [18.539]: WARNING : [default] [GM] Set Theather angle True false
+2021-04-10 19:56:01.385 [18.539]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-04-10 19:56:04.129 [21.282]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.282]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.282]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.283]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.284]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.285]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-10 19:56:04.129 [21.286]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:41:56.179 [63973.3]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+2021-04-11 13:41:59.643 [63976.8]: WARNING : [default] Logger: Filedump is true
+2021-04-11 13:41:59.643 [63976.8]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Mods\\services\\LotAtc\\\\magvar"
+2021-04-11 13:41:59.643 [63976.8]: WARNING : [default] [GM] Set Year 2011
+2021-04-11 13:41:59.643 [63976.8]: WARNING : [default] [GM] Set Theather angle True false
+2021-04-11 13:41:59.643 [63976.8]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-11 13:42:00.709 [63977.9]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:18.246 [156275]: WARNING : [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+2021-04-12 15:20:21.912 [156279]: WARNING : [default] Logger: Filedump is true
+2021-04-12 15:20:21.912 [156279]: WARNING : [client.main] Magnetic file not found, exiting "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Mods\\services\\LotAtc\\\\magvar"
+2021-04-12 15:20:21.912 [156279]: WARNING : [default] [GM] Set Year 2011
+2021-04-12 15:20:21.912 [156279]: WARNING : [default] [GM] Set Theather angle True false
+2021-04-12 15:20:21.912 [156279]: WARNING : [server.json] "Unable to start the server: The bound address is already in use."
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+2021-04-12 15:20:22.943 [156280]: WARNING : [client.main] Category not found  ""
+[18:04:33 +01:00] [I] 
+[18:04:33 +01:00] [I] --- STARTING LOG ---
+[18:04:33 +01:00] [I] Date: Sun May 9 18:04:33 2021
+[18:04:33 +01:00] [I] Version: 2.2.1-219e6df2
+[18:04:33 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[18:04:33 +01:00] [I] --------------------
+[18:04:33 +01:00] [W] [default] Logger: Filedump is true
+[18:04:40 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[18:04:40 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[18:04:40 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[18:04:40 +01:00] [C] [default] ------> Start ERROR: "The bound address is already in use"
+[18:04:40 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[18:04:53 +01:00] [W] [default] Logger: Filedump is false
+[18:04:53 +01:00] [W] [default] [GM] Set Year 2011
+[18:04:53 +01:00] [W] [default] [GM] Set Theather angle True false
+[18:04:53 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[02:30:49 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[02:30:49 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[02:30:49 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[02:30:49 +01:00] [C] [default] ------> Start ERROR: "The bound address is already in use"
+[02:30:49 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[02:30:53 +01:00] [W] [default] Logger: Filedump is false
+[02:30:53 +01:00] [W] [default] [GM] Set Year 2011
+[02:30:53 +01:00] [W] [default] [GM] Set Theather angle True false
+[02:30:53 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[23:49:32 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[23:49:32 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[23:49:32 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[23:49:32 +01:00] [C] [default] ------> Start ERROR: "The bound address is already in use"
+[23:49:32 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[23:49:36 +01:00] [W] [default] Logger: Filedump is false
+[23:49:36 +01:00] [W] [default] [GM] Set Year 2011
+[23:49:36 +01:00] [W] [default] [GM] Set Theather angle True false
+[23:49:36 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[21:36:30 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[21:36:30 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[21:36:30 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[21:36:30 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[21:36:35 +01:00] [W] [default] Logger: Filedump is false
+[21:36:35 +01:00] [W] [default] [GM] Set Year 2011
+[21:36:35 +01:00] [W] [default] [GM] Set Theather angle True false
+[21:36:35 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[01:00:22 +01:00] [I] 
+[01:00:22 +01:00] [I] --- STARTING LOG ---
+[01:00:22 +01:00] [I] Date: Wed May 12 01:00:22 2021
+[01:00:22 +01:00] [I] Version: 2.2.1-219e6df2
+[01:00:22 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[01:00:22 +01:00] [I] --------------------
+[01:00:22 +01:00] [W] [default] Logger: Filedump is true
+[01:00:28 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[01:00:28 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[01:00:28 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[01:00:28 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[01:00:38 +01:00] [W] [default] Logger: Filedump is false
+[01:00:38 +01:00] [W] [default] [GM] Set Year 2011
+[01:00:38 +01:00] [W] [default] [GM] Set Theather angle True false
+[01:00:38 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[08:36:15 +01:00] [W] [clienthandler] Init
+[08:36:24 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[08:36:24 +01:00] [W] [clienthandler] Finish
+[08:36:24 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[08:36:24 +01:00] [W] [clienthandler] Client deleted
+[08:43:53 +01:00] [W] [clienthandler] Init
+[08:44:00 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[08:44:00 +01:00] [W] [clienthandler] Finish
+[08:44:00 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[08:44:00 +01:00] [W] [clienthandler] Client deleted
+[19:41:37 +01:00] [W] [clienthandler] Init
+[19:41:37 +01:00] [W] [client.main] Bad version 38 received, I have 42
+[19:41:37 +01:00] [W] [clienthandler] DATA DECODE ERROR "Client try to connect to an older incompatible version, client should be upgraded"
+[19:41:37 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:41:37 +01:00] [W] [clienthandler] Finish
+[19:41:37 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:41:37 +01:00] [W] [clienthandler] Client deleted
+[19:41:41 +01:00] [W] [clienthandler] Init
+[19:41:41 +01:00] [W] [client.main] Bad version 38 received, I have 42
+[19:41:41 +01:00] [W] [clienthandler] DATA DECODE ERROR "Client try to connect to an older incompatible version, client should be upgraded"
+[19:41:42 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:41:42 +01:00] [W] [clienthandler] Finish
+[19:41:42 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:41:42 +01:00] [W] [clienthandler] Client deleted
+[19:50:18 +01:00] [W] [clienthandler] Init
+[19:50:18 +01:00] [W] [client.main] Bad version 38 received, I have 42
+[19:50:18 +01:00] [W] [clienthandler] DATA DECODE ERROR "Client try to connect to an older incompatible version, client should be upgraded"
+[19:50:18 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:50:18 +01:00] [W] [clienthandler] Finish
+[19:50:18 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:50:18 +01:00] [W] [clienthandler] Client deleted
+[21:10:41 +01:00] [W] [clienthandler] Init
+[21:10:41 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:10:41 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:10:41 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:10:41 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is false "Bad password"
+[21:10:41 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:10:41 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:10:41 +01:00] [W] [clienthandler] Finish
+[21:10:41 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:10:41 +01:00] [W] [clienthandler] Client deleted
+[21:10:50 +01:00] [W] [clienthandler] Init
+[21:10:50 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:10:50 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:10:50 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:10:50 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is false "Bad password"
+[21:10:50 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:10:50 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:10:50 +01:00] [W] [clienthandler] Finish
+[21:10:50 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:10:50 +01:00] [W] [clienthandler] Client deleted
+[21:10:56 +01:00] [W] [clienthandler] Init
+[21:10:57 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:10:57 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:10:57 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:10:57 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is false "Bad password"
+[21:10:57 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:10:57 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:10:57 +01:00] [W] [clienthandler] Finish
+[21:10:57 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:10:57 +01:00] [W] [clienthandler] Client deleted
+[21:11:03 +01:00] [W] [clienthandler] Init
+[21:11:03 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:11:03 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:11:03 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:11:03 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[21:11:03 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[21:11:03 +01:00] [W] [default] LOAD 0
+[21:11:03 +01:00] [W] [default] Init tracker...
+[21:11:03 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[21:11:03 +01:00] [W] [default] [Log tracker] Check enabled  false
+[21:11:03 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[21:11:03 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[21:11:03 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[21:11:03 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:23:27 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:23:27 +01:00] [W] [clienthandler] Finish
+[21:23:27 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:23:27 +01:00] [W] [clienthandler] Client deleted
+[21:26:51 +01:00] [W] [clienthandler] Init
+[21:26:51 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:26:51 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:26:51 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:26:51 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[21:26:51 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:52:24 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:52:24 +01:00] [W] [clienthandler] Finish
+[21:52:24 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:52:24 +01:00] [W] [clienthandler] Client deleted
+[21:52:27 +01:00] [W] [clienthandler] Init
+[21:52:27 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:52:27 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:52:27 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:52:27 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[21:52:27 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:08:05 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:08:05 +01:00] [W] [clienthandler] Finish
+[22:08:05 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:08:05 +01:00] [W] [clienthandler] Client deleted
+[22:08:11 +01:00] [W] [clienthandler] Init
+[22:08:11 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[22:08:11 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[22:08:11 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[22:08:11 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[22:08:11 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:09:19 +01:00] [W] [clienthandler] Init
+[22:09:19 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[22:09:19 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:51.195.176.192")
+[22:09:19 +01:00] [W] [client.auth] IP QHostAddress("::ffff:51.195.176.192") validated
+[22:09:19 +01:00] [W] [clientserver] REGISTRATION OF "troller" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[22:09:19 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:09:22 +01:00] [W] [clienthandler] Init
+[22:09:22 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[22:09:22 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[22:09:22 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[22:09:22 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[22:09:22 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:14:50 +01:00] [W] [clienthandler] Finish
+[22:14:50 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:14:50 +01:00] [W] [clienthandler] Client deleted
+[22:14:50 +01:00] [W] [clienthandler] Finish
+[22:14:50 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:14:50 +01:00] [W] [clienthandler] Client deleted
+[22:14:50 +01:00] [W] [clienthandler] Finish
+[22:14:50 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:14:50 +01:00] [W] [clienthandler] Client deleted
+[22:14:50 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2044385532824' is still in use, all queries will cease to work.
+[22:15:42 +01:00] [I] 
+[22:15:42 +01:00] [I] --- STARTING LOG ---
+[22:15:42 +01:00] [I] Date: Wed May 12 22:15:42 2021
+[22:15:42 +01:00] [I] Version: 2.2.1-219e6df2
+[22:15:42 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[22:15:42 +01:00] [I] --------------------
+[22:15:42 +01:00] [W] [default] Logger: Filedump is true
+[22:15:48 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[22:15:48 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[22:15:48 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[22:15:48 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[22:15:55 +01:00] [W] [clienthandler] Init
+[22:16:00 +01:00] [W] [default] Logger: Filedump is false
+[22:16:00 +01:00] [W] [default] [GM] Set Year 2011
+[22:16:00 +01:00] [W] [default] [GM] Set Theather angle True false
+[22:16:00 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[22:35:37 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:35:37 +01:00] [W] [clienthandler] Finish
+[22:35:37 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:35:37 +01:00] [W] [clienthandler] Client deleted
+[22:42:55 +01:00] [W] [clienthandler] Init
+[22:42:55 +01:00] [W] [client.main] Bad version 38 received, I have 42
+[22:42:55 +01:00] [W] [clienthandler] DATA DECODE ERROR "Client try to connect to an older incompatible version, client should be upgraded"
+[22:42:55 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:42:55 +01:00] [W] [clienthandler] Finish
+[22:42:55 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:42:55 +01:00] [W] [clienthandler] Client deleted
+[22:43:10 +01:00] [W] [clienthandler] Init
+[22:43:10 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[22:43:10 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[22:43:10 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[22:43:10 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[22:43:10 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[22:43:10 +01:00] [W] [default] LOAD 0
+[22:43:10 +01:00] [W] [default] Init tracker...
+[22:43:10 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[22:43:10 +01:00] [W] [default] [Log tracker] Check enabled  false
+[22:43:10 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[22:43:10 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[22:43:10 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[22:43:10 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:43:55 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:43:55 +01:00] [W] [clienthandler] Finish
+[22:43:55 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:43:55 +01:00] [W] [clienthandler] Client deleted
+[06:39:03 +01:00] [W] [clienthandler] Init
+[06:39:03 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[06:39:03 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[06:39:03 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[06:39:03 +01:00] [W] [clientserver] REGISTRATION OF "boss" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[06:39:03 +01:00] [W] [clientserver] REGISTRATION DONE
+[06:40:34 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[06:40:34 +01:00] [W] [clienthandler] Finish
+[06:40:34 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[06:40:34 +01:00] [W] [clienthandler] Client deleted
+[16:36:46 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-1644982607928' is still in use, all queries will cease to work.
+[16:36:52 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[16:36:52 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[16:36:52 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[16:36:52 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[16:36:55 +01:00] [W] [default] Logger: Filedump is false
+[16:36:55 +01:00] [W] [default] [GM] Set Year 2011
+[16:36:55 +01:00] [W] [default] [GM] Set Theather angle True false
+[16:36:55 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[19:09:59 +01:00] [W] [clienthandler] Init
+[19:10:00 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:10:00 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[19:10:00 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[19:10:00 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[19:10:00 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[19:10:00 +01:00] [W] [default] LOAD 0
+[19:10:00 +01:00] [W] [default] Init tracker...
+[19:10:00 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[19:10:00 +01:00] [W] [default] [Log tracker] Check enabled  false
+[19:10:00 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[19:10:00 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[19:10:00 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[19:10:00 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:10:49 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:10:49 +01:00] [W] [clienthandler] Finish
+[19:10:49 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:10:49 +01:00] [W] [clienthandler] Client deleted
+[19:46:49 +01:00] [W] [clienthandler] Init
+[19:46:49 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:46:49 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[19:46:49 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[19:46:49 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[19:46:49 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:47:02 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:47:02 +01:00] [W] [clienthandler] Finish
+[19:47:02 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:47:02 +01:00] [W] [clienthandler] Client deleted
+[20:47:00 +01:00] [W] [clienthandler] Init
+[20:47:00 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:47:00 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[20:47:00 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[20:47:00 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[20:47:00 +01:00] [W] [clientserver] REGISTRATION DONE
+[20:47:03 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[20:47:03 +01:00] [W] [clienthandler] Finish
+[20:47:03 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[20:47:03 +01:00] [W] [clienthandler] Client deleted
+[20:57:39 +01:00] [W] [clienthandler] Init
+[20:57:39 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:57:39 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:88.130.48.166")
+[20:57:39 +01:00] [W] [client.auth] IP QHostAddress("::ffff:88.130.48.166") validated
+[20:57:39 +01:00] [W] [cli[17:43:27 +01:00] [I] 
+[17:43:27 +01:00] [I] --- STARTING LOG ---
+[17:43:27 +01:00] [I] Date: Sat May 15 17:43:27 2021
+[17:43:27 +01:00] [I] Version: 2.2.1-219e6df2
+[17:43:27 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[17:43:27 +01:00] [I] --------------------
+[17:43:27 +01:00] [W] [default] Logger: Filedump is true
+[17:43:33 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[17:43:33 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[17:43:33 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[17:43:33 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[17:43:45 +01:00] [W] [default] Logger: Filedump is false
+[17:43:45 +01:00] [W] [default] [GM] Set Year 2011
+[17:43:45 +01:00] [W] [default] [GM] Set Theather angle True false
+[17:43:45 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[18:00:10 +01:00] [W] [clienthandler] Init
+[18:00:10 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:00:10 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[18:00:10 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[18:00:10 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is false "Bad password"
+[18:00:10 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:00:10 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:00:10 +01:00] [W] [clienthandler] Finish
+[18:00:10 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:00:10 +01:00] [W] [clienthandler] Client deleted
+[18:00:23 +01:00] [W] [clienthandler] Init
+[18:00:23 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:00:23 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[18:00:23 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[18:00:23 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[18:00:23 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/red/example.json")
+[18:00:23 +01:00] [W] [default] LOAD 0
+[18:00:23 +01:00] [W] [default] Init tracker...
+[18:00:23 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[18:00:23 +01:00] [W] [default] [Log tracker] Check enabled  false
+[18:00:23 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[18:00:23 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[18:00:23 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[18:00:23 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:05:45 +01:00] [W] [clienthandler] Init
+[18:05:45 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:05:45 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[18:05:45 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[18:05:45 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[18:05:45 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[18:05:45 +01:00] [W] [default] LOAD 0
+[18:05:45 +01:00] [W] [default] Init tracker...
+[18:05:45 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[18:05:45 +01:00] [W] [default] [Log tracker] Check enabled  false
+[18:05:45 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[18:05:45 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[18:05:45 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[18:05:45 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:07:28 +01:00] [W] [clienthandler] Init
+[18:07:28 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:07:28 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:77.16.73.108")
+[18:07:28 +01:00] [W] [client.auth] IP QHostAddress("::ffff:77.16.73.108") validated
+[18:07:28 +01:00] [W] [clientserver] REGISTRATION OF "troller" | 0 | "LotAtc - Individual Edition" is true ""
+[18:07:28 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:18:09 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:18:09 +01:00] [W] [clienthandler] Finish
+[18:18:09 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:18:09 +01:00] [W] [clienthandler] Client deleted
+[18:18:44 +01:00] [W] [clienthandler] Init
+[18:18:44 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:18:44 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:77.16.73.108")
+[18:18:44 +01:00] [W] [client.auth] IP QHostAddress("::ffff:77.16.73.108") validated
+[18:18:44 +01:00] [W] [clientserver] REGISTRATION OF "ChanNy" | 0 | "LotAtc - Individual Edition" is true ""
+[18:18:44 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:19:53 +01:00] [W] [clienthandler] Finish
+[18:19:53 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:19:53 +01:00] [W] [clienthandler] Client deleted
+[18:19:53 +01:00] [W] [clienthandler] Finish
+[18:19:53 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:19:53 +01:00] [W] [clienthandler] Client deleted
+[18:19:53 +01:00] [W] [clienthandler] Finish
+[18:19:53 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:19:53 +01:00] [W] [clienthandler] Client deleted
+[18:19:53 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-1790436198456' is still in use, all queries will cease to work.
+[18:19:53 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-1790644394552' is still in use, all queries will cease to work.
+[18:20:22 +01:00] [I] 
+[18:20:22 +01:00] [I] --- STARTING LOG ---
+[18:20:22 +01:00] [I] Date: Sat May 15 18:20:22 2021
+[18:20:22 +01:00] [I] Version: 2.2.1-219e6df2
+[18:20:22 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[18:20:22 +01:00] [I] --------------------
+[18:20:22 +01:00] [W] [default] Logger: Filedump is true
+[18:20:28 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[18:20:28 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[18:20:28 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[18:20:28 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[18:20:34 +01:00] [W] [default] Logger: Filedump is false
+[18:20:34 +01:00] [W] [default] [GM] Set Year 2020
+[18:20:34 +01:00] [W] [default] [GM] Set Theather angle True false
+[18:20:34 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[18:22:42 +01:00] [W] [clienthandler] Init
+[18:22:42 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:22:42 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[18:22:42 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[18:22:42 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is false "Bad password"
+[18:22:42 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:22:42 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:22:42 +01:00] [W] [clienthandler] Finish
+[18:22:42 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:22:42 +01:00] [W] [clienthandler] Client deleted
+[18:23:19 +01:00] [W] [clienthandler] Init
+[18:23:19 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:23:19 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[18:23:19 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[18:23:19 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[18:23:19 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/red/example.json")
+[18:23:19 +01:00] [W] [default] LOAD 0
+[18:23:19 +01:00] [W] [default] Init tracker...
+[18:23:19 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[18:23:19 +01:00] [W] [default] [Log tracker] Check enabled  false
+[18:23:19 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[18:23:19 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[18:23:19 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[18:23:19 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:25:30 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:25:30 +01:00] [W] [clienthandler] Finish
+[18:25:30 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:25:30 +01:00] [W] [clienthandler] Client deleted
+[18:25:41 +01:00] [W] [clienthandler] Init
+[18:25:41 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:25:41 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[18:25:41 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[18:25:41 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[18:25:41 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:25:47 +01:00] [W] [clienthandler] Init
+[18:25:47 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:25:47 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:77.16.73.108")
+[18:25:47 +01:00] [W] [client.auth] IP QHostAddress("::ffff:77.16.73.108") validated
+[18:25:47 +01:00] [W] [clientserver] REGISTRATION OF "ChanNy" | 0 | "LotAtc - Individual Edition" is true ""
+[18:25:47 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:49:33 +01:00] [W] [clienthandler] Init
+[18:49:33 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:49:33 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[18:49:33 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[18:49:33 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[18:49:33 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[18:49:33 +01:00] [W] [default] LOAD 0
+[18:49:33 +01:00] [W] [default] Init tracker...
+[18:49:33 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[18:49:33 +01:00] [W] [default] [Log tracker] Check enabled  false
+[18:49:33 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[18:49:33 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[18:49:33 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[18:49:33 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:50:54 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:50:54 +01:00] [W] [clienthandler] Finish
+[18:50:54 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:50:54 +01:00] [W] [clienthandler] Client deleted
+[18:52:30 +01:00] [W] [clienthandler] Init
+[18:52:30 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:52:30 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[18:52:30 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[18:52:30 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[18:52:30 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:53:04 +01:00] [W] [clienthandler] Init
+[18:53:04 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:53:04 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[18:53:04 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[18:53:04 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[18:53:04 +01:00] [W] [clientserver] REGISTRATION DONE
+[18:53:06 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[18:53:06 +01:00] [W] [clienthandler] Finish
+[18:53:06 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[18:53:06 +01:00] [W] [clienthandler] Client deleted
+[18:53:17 +01:00] [W] [clienthandler] Init
+[18:53:17 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[18:53:17 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[18:53:17 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[18:53:17 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[18:53:17 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:10:47 +01:00] [W] [clienthandler] Finish
+[19:10:47 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:10:47 +01:00] [W] [clienthandler] Client deleted
+[19:10:47 +01:00] [W] [clienthandler] Finish
+[19:10:47 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:10:47 +01:00] [W] [clienthandler] Client deleted
+[19:10:47 +01:00] [W] [clienthandler] Finish
+[19:10:47 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:10:47 +01:00] [W] [clienthandler] Client deleted
+[19:10:47 +01:00] [W] [clienthandler] Finish
+[19:10:47 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:10:47 +01:00] [W] [clienthandler] Client deleted
+[19:10:47 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2948522920360' is still in use, all queries will cease to work.
+[19:10:47 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2948522970040' is still in use, all queries will cease to work.
+[19:10:48 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[19:10:48 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[19:10:48 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[19:10:48 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[19:10:50 +01:00] [W] [default] Logger: Filedump is false
+[19:10:50 +01:00] [W] [default] [GM] Set Year 2020
+[19:10:50 +01:00] [W] [default] [GM] Set Theather angle True false
+[19:10:50 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[19:10:55 +01:00] [W] [clienthandler] Init
+[19:10:55 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:10:55 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[19:10:55 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[19:10:55 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[19:10:55 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[19:10:55 +01:00] [W] [default] LOAD 0
+[19:10:55 +01:00] [W] [default] Init tracker...
+[19:10:55 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[19:10:55 +01:00] [W] [default] [Log tracker] Check enabled  false
+[19:10:55 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[19:10:55 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[19:10:55 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[19:10:55 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:10:58 +01:00] [W] [clienthandler] Init
+[19:10:58 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:10:58 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[19:10:58 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[19:10:58 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[19:10:58 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:11:29 +01:00] [W] [clienthandler] Init
+[19:11:29 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:11:29 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:77.16.73.108")
+[19:11:29 +01:00] [W] [client.auth] IP QHostAddress("::ffff:77.16.73.108") validated
+[19:11:29 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[19:11:29 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/red/example.json")
+[19:11:29 +01:00] [W] [default] LOAD 0
+[19:11:29 +01:00] [W] [default] Init tracker...
+[19:11:29 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[19:11:29 +01:00] [W] [default] [Log tracker] Check enabled  false
+[19:11:29 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[19:11:29 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[19:11:29 +01:00] [W] [clientserver] REGISTRATION OF "troller" | 0 | "LotAtc - Individual Edition" is true ""
+[19:11:29 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:11:51 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:11:51 +01:00] [W] [clienthandler] Finish
+[19:11:51 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:11:51 +01:00] [W] [clienthandler] Client deleted
+[19:11:51 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[19:11:51 +01:00] [W] [clienthandler] Finish
+[19:11:51 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:11:51 +01:00] [W] [clienthandler] Client deleted
+[19:11:52 +01:00] [W] [clienthandler] Finish
+[19:11:52 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[19:11:52 +01:00] [W] [clienthandler] Client deleted
+[19:11:52 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2926216396968' is still in use, all queries will cease to work.
+[19:11:52 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2926591015560' is still in use, all queries will cease to work.
+[19:11:53 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[19:11:53 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[19:11:53 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[19:11:53 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[19:11:55 +01:00] [W] [default] Logger: Filedump is false
+[19:11:55 +01:00] [W] [default] [GM] Set Year 2020
+[19:11:55 +01:00] [W] [default] [GM] Set Theather angle True false
+[19:11:55 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[19:11:55 +01:00] [W] [clienthandler] Init
+[19:11:55 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:11:55 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[19:11:55 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[19:11:55 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[19:11:55 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[19:11:55 +01:00] [W] [default] LOAD 0
+[19:11:55 +01:00] [W] [default] Init tracker...
+[19:11:55 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[19:11:55 +01:00] [W] [default] [Log tracker] Check enabled  false
+[19:11:55 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[19:11:55 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[19:11:55 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[19:11:55 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:11:58 +01:00] [W] [clienthandler] Init
+[19:11:58 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:11:58 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[19:11:58 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[19:11:58 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[19:11:58 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:12:15 +01:00] [W] [clienthandler] Init
+[19:12:15 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:12:15 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[19:12:15 +01:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[19:12:15 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[19:12:15 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/red/example.json")
+[19:12:15 +01:00] [W] [default] LOAD 0
+[19:12:15 +01:00] [W] [default] Init tracker...
+[19:12:15 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[19:12:15 +01:00] [W] [default] [Log tracker] Check enabled  false
+[19:12:15 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[19:12:15 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[19:12:15 +01:00] [W] [clientserver] REGISTRATION OF "Sir Rhino" | 0 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[19:12:15 +01:00] [W] [clientserver] REGISTRATION DONE
+[19:12:20 +01:00] [W] [clienthandler] Init
+[19:12:20 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[19:12:20 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:77.16.73.108")
+[19:12:20 +01:00] [W] [client.auth] IP QHostAddress("::ffff:77.16.73.108") validated
+[19:12:20 +01:00] [W] [clientserver] REGISTRATION OF "troller" | 0 | "LotAtc - Individual Edition" is true ""
+[19:12:20 +01:00] [W] [clientserver] REGISTRATION DONE
+[20:04:17 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[20:04:17 +01:00] [W] [clienthandler] Finish
+[20:04:17 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[20:04:17 +01:00] [W] [clienthandler] Client deleted
+[20:04:36 +01:00] [W] [clienthandler] Init
+[20:04:36 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:04:36 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[20:04:36 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[20:04:36 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[20:04:36 +01:00] [W] [clientserver] REGISTRATION DONE
+[20:18:31 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[20:18:31 +01:00] [W] [clienthandler] Finish
+[20:18:31 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[20:18:31 +01:00] [W] [clienthandler] Client deleted
+[20:19:37 +01:00] [W] [clienthandler] Init
+[20:19:37 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:19:37 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[20:19:37 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[20:19:37 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[20:19:37 +01:00] [W] [clientserver] REGISTRATION DONE
+[20:42:05 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[20:42:05 +01:00] [W] [clienthandler] Finish
+[20:42:05 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[20:42:05 +01:00] [W] [clienthandler] Client deleted
+[20:42:07 +01:00] [W] [clienthandler] Init
+[20:42:07 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:42:07 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[20:42:07 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[20:42:07 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[20:42:07 +01:00] [W] [clientserver] REGISTRATION DONE
+[20:56:31 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[20:56:31 +01:00] [W] [clienthandler] Finish
+[20:56:31 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[20:56:31 +01:00] [W] [clienthandler] Client deleted
+[20:57:09 +01:00] [W] [clienthandler] Init
+[20:57:09 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[20:57:09 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[20:57:09 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[20:57:09 +01:00] [W] [clientserver] REGISTRATION OF "Magic | Aero" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[20:57:09 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:02:57 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:02:57 +01:00] [W] [clienthandler] Finish
+[21:02:57 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:02:57 +01:00] [W] [clienthandler] Client deleted
+[21:03:33 +01:00] [W] [clienthandler] Init
+[21:03:33 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:03:33 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:03:33 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:03:33 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[21:03:33 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:37:06 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:37:06 +01:00] [W] [clienthandler] Finish
+[21:37:06 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:37:06 +01:00] [W] [clienthandler] Client deleted
+[21:37:09 +01:00] [W] [clienthandler] Init
+[21:37:09 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:37:09 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:97.118.38.60")
+[21:37:09 +01:00] [W] [client.auth] IP QHostAddress("::ffff:97.118.38.60") validated
+[21:37:09 +01:00] [W] [clientserver] REGISTRATION OF "Overlord / |269| Raxzal_" | 1 | "LotAtc - Individual Edition" is true ""
+[21:37:09 +01:00] [W] [clientserver] REGISTRATION DONE
+[21:38:09 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[21:38:09 +01:00] [W] [clienthandler] Finish
+[21:38:09 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[21:38:09 +01:00] [W] [clienthandler] Client deleted
+[21:38:44 +01:00] [W] [clienthandler] Init
+[21:38:44 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[21:38:44 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:73.134.60.54")
+[21:38:44 +01:00] [W] [client.auth] IP QHostAddress("::ffff:73.134.60.54") validated
+[21:38:44 +01:00] [W] [clientserver] REGISTRATION OF "Magic" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[21:38:44 +01:00] [W] [clientserver] REGISTRATION DONE
+[22:12:28 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:12:28 +01:00] [W] [clienthandler] Finish
+[22:12:28 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:12:28 +01:00] [W] [clienthandler] Client deleted
+[22:13:29 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:13:29 +01:00] [W] [clienthandler] Finish
+[22:13:29 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:13:29 +01:00] [W] [clienthandler] Client deleted
+[22:15:53 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[22:15:53 +01:00] [W] [clienthandler] Finish
+[22:15:53 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:15:53 +01:00] [W] [clienthandler] Client deleted
+[22:17:50 +01:00] [W] [clienthandler] Finish
+[22:17:50 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[22:17:50 +01:00] [W] [clienthandler] Client deleted
+[22:17:51 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2926202878664' is still in use, all queries will cease to work.
+[22:17:51 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2926622177256' is still in use, all queries will cease to work.
+[22:18:24 +01:00] [W] [default] ------------ LOAD DB ------------ 394
+[22:18:24 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 394
+[22:18:24 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[22:18:24 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[22:18:26 +01:00] [W] [default] Logger: Filedump is false
+[22:18:26 +01:00] [W] [default] [GM] Set Year 2020
+[22:18:26 +01:00] [W] [default] [GM] Set Theather angle True false
+[22:18:26 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[19:53:51 +01:00] [I] 
+[19:53:51 +01:00] [I] --- STARTING LOG ---
+[19:53:51 +01:00] [I] Date: Sat May 29 19:53:51 2021
+[19:53:51 +01:00] [I] Version: 2.2.1-219e6df2
+[19:53:51 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[19:53:51 +01:00] [I] --------------------
+[19:53:51 +01:00] [W] [default] Logger: Filedump is true
+[19:53:57 +01:00] [W] [default] ------------ LOAD DB ------------ 406
+[19:53:57 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 406
+[19:53:57 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[19:53:57 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[19:54:07 +01:00] [W] [default] Logger: Filedump is false
+[19:54:07 +01:00] [W] [default] [GM] Set Year 2020
+[19:54:07 +01:00] [W] [default] [GM] Set Theather angle True false
+[19:54:07 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[12:58:05 +01:00] [I] 
+[12:58:05 +01:00] [I] --- STARTING LOG ---
+[12:58:05 +01:00] [I] Date: Wed Jun 16 12:58:05 2021
+[12:58:05 +01:00] [I] Version: 2.2.1-219e6df2
+[12:58:05 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[12:58:05 +01:00] [I] --------------------
+[12:58:05 +01:00] [W] [default] Logger: Filedump is true
+[12:58:11 +01:00] [W] [default] ------------ LOAD DB ------------ 406
+[12:58:11 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 406
+[12:58:11 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[12:58:11 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[12:58:21 +01:00] [W] [default] Logger: Filedump is false
+[12:58:21 +01:00] [W] [default] [GM] Set Year 2020
+[12:58:21 +01:00] [W] [default] [GM] Set Theather angle True false
+[16:42:39 +01:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[17:28:42 +01:00] [I] 
+[17:28:42 +01:00] [I] --- STARTING LOG ---
+[17:28:42 +01:00] [I] Date: Wed Jun 16 17:28:42 2021
+[17:28:42 +01:00] [I] Version: 2.2.1-219e6df2
+[17:28:42 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[17:28:42 +01:00] [I] --------------------
+[17:28:42 +01:00] [W] [default] Logger: Filedump is true
+[17:28:48 +01:00] [W] [default] ------------ LOAD DB ------------ 411
+[17:28:48 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 411
+[17:28:48 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[17:28:48 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[17:28:58 +01:00] [W] [default] Logger: Filedump is false
+[17:28:58 +01:00] [W] [default] [GM] Set Year 2020
+[17:28:58 +01:00] [W] [default] [GM] Set Theather angle True false
+[17:38:11 +01:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[16:24:12 +01:00] [I] 
+[16:24:12 +01:00] [I] --- STARTING LOG ---
+[16:24:12 +01:00] [I] Date: Sat Jun 26 16:24:12 2021
+[16:24:12 +01:00] [I] Version: 2.2.1-219e6df2
+[16:24:12 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[16:24:12 +01:00] [I] --------------------
+[16:24:12 +01:00] [W] [default] Logger: Filedump is true
+[16:24:18 +01:00] [W] [default] ------------ LOAD DB ------------ 411
+[16:24:18 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 411
+[16:24:18 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[16:24:18 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[16:24:24 +01:00] [W] [default] Logger: Filedump is false
+[16:24:24 +01:00] [W] [default] [GM] Set Year 2020
+[16:24:24 +01:00] [W] [default] [GM] Set Theather angle True false
+[17:47:15 +01:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[17:48:06 +01:00] [I] 
+[17:48:06 +01:00] [I] --- STARTING LOG ---
+[17:48:06 +01:00] [I] Date: Wed Jun 30 17:48:06 2021
+[17:48:06 +01:00] [I] Version: 2.2.1-219e6df2
+[17:48:06 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[17:48:06 +01:00] [I] --------------------
+[17:48:06 +01:00] [W] [default] Logger: Filedump is true
+[17:48:13 +01:00] [W] [default] ------------ LOAD DB ------------ 411
+[17:48:13 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 411
+[17:48:13 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[17:48:13 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[17:48:22 +01:00] [W] [default] Logger: Filedump is false
+[17:48:22 +01:00] [W] [default] [GM] Set Year 2020
+[17:48:22 +01:00] [W] [default] [GM] Set Theather angle True false
+[17:48:42 +01:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[17:57:41 +01:00] [I] 
+[17:57:41 +01:00] [I] --- STARTING LOG ---
+[17:57:41 +01:00] [I] Date: Wed Jun 30 17:57:41 2021
+[17:57:41 +01:00] [I] Version: 2.2.1-219e6df2
+[17:57:41 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[17:57:41 +01:00] [I] --------------------
+[17:57:41 +01:00] [W] [default] Logger: Filedump is true
+[17:57:47 +01:00] [W] [default] ------------ LOAD DB ------------ 411
+[17:57:47 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 411
+[17:57:47 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[17:57:47 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[17:57:52 +01:00] [W] [default] Logger: Filedump is false
+[17:57:52 +01:00] [W] [default] [GM] Set Year 2020
+[17:57:52 +01:00] [W] [default] [GM] Set Theather angle True false
+[17:57:52 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[05:18:40 +01:00] [W] [clienthandler] Init
+[05:18:40 +01:00] [W] [clientserver] ASK FOR REGISTRATION...
+[05:18:40 +01:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:209.74.125.59")
+[05:18:40 +01:00] [W] [client.auth] IP QHostAddress("::ffff:209.74.125.59") validated
+[05:18:40 +01:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings"
+[05:18:40 +01:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[05:18:40 +01:00] [W] [default] LOAD 0
+[05:18:40 +01:00] [W] [default] Init tracker...
+[05:18:40 +01:00] [W] [default] [TacView tracker] Check enabled  false
+[05:18:40 +01:00] [W] [default] [Log tracker] Check enabled  false
+[05:18:40 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[05:18:40 +01:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/userdb"
+[05:18:40 +01:00] [W] [clientserver] REGISTRATION OF "troller" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[05:18:40 +01:00] [W] [clientserver] REGISTRATION DONE
+[05:18:47 +01:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[05:18:47 +01:00] [W] [clienthandler] Finish
+[05:18:47 +01:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[05:18:47 +01:00] [W] [clienthandler] Client deleted
+[05:01:08 +01:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-1807657710840' is still in use, all queries will cease to work.
+[18:46:09 +01:00] [I] 
+[18:46:09 +01:00] [I] --- STARTING LOG ---
+[18:46:09 +01:00] [I] Date: Thu Jul 15 18:46:09 2021
+[18:46:09 +01:00] [I] Version: 2.2.1-219e6df2
+[18:46:09 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[18:46:09 +01:00] [I] --------------------
+[18:46:09 +01:00] [W] [default] Logger: Filedump is true
+[18:46:15 +01:00] [W] [default] ------------ LOAD DB ------------ 411
+[18:46:15 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 411
+[18:46:15 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[18:46:15 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[18:46:25 +01:00] [W] [default] Logger: Filedump is false
+[18:46:25 +01:00] [W] [default] [GM] Set Year 2020
+[18:46:25 +01:00] [W] [default] [GM] Set Theather angle True false
+[18:46:25 +01:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[18:52:43 +01:00] [I] 
+[18:52:43 +01:00] [I] --- STARTING LOG ---
+[18:52:43 +01:00] [I] Date: Fri Jul 23 18:52:43 2021
+[18:52:43 +01:00] [I] Version: 2.2.1-219e6df2
+[18:52:43 +01:00] [I] Machine: Windows Server 2016 Version 1809
+[18:52:43 +01:00] [I] --------------------
+[18:52:43 +01:00] [W] [default] Logger: Filedump is true
+[18:52:49 +01:00] [W] [default] ------------ LOAD DB ------------ 415
+[18:52:49 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 415
+[18:52:49 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer3/LotAtc Data/Server/Licenses"
+[18:52:49 +01:00] [W] [default] ERROR "Unknown protocol specified"
+[18:52:56 +01:00] [W] [default] Logger: Filedump is false
+[18:52:56 +01:00] [W] [default] [GM] Set Year 2020
+[18:52:56 +01:00] [W] [default] [GM] Set Theather angle True false
+[22:25:21 +01:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread

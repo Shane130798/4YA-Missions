@@ -1,0 +1,60 @@
+TEAM HIT: Apr 15 09:58:59 {players = {1 = {name  = "Buffalo", ucid = "d858c5678952777083dd03357de829c6", ip = "178.27.138.81:52558", id = 4}1 = {name = [rodo] Wojtek with AIM-120C-5
+TEAM KILL: Apr 15 09:59:12 {players = {1 = {name  = "Buffalo", ucid = "d858c5678952777083dd03357de829c6", ip = "nil", id = 4}1 = {name = [rodo] Wojtek with AIM-120C-5
+CHAT: Apr 15 09:59:16 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "Thannks" to all
+CHAT: Apr 15 09:59:35 {name  = "Buffalo", ucid = "d858c5678952777083dd03357de829c6", ip = "178.27.138.81:52558", id = 4} said "i am so sorry" to all
+CHAT: Apr 15 10:00:36 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "its ok!" to all
+CHAT: Apr 15 10:00:38 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "-forgive" to all (output suppressed by Slmod)
+CHAT: Apr 15 10:56:15 {name  = "SNIPER 1-1 / Ulka", ucid = "493a7035f82f40ec8b705ea7370df80a", ip = "88.120.55.33:56817", id = 9} said "-conv" to all (output suppressed by Slmod)
+CHAT: Apr 15 11:03:28 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "I really didnt think moving terrain to another drive would work for Syria!" to all
+CHAT: Apr 15 11:03:47 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "its looks like the game detects maps on another drive" to all
+CHAT: Apr 15 11:04:01 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "is this a new update fix?" to all
+CHAT: Apr 15 11:04:05 {name  = "Lightning 1-1 | Hethdor", ucid = "e08ce6ce9767c0234cbcc4fb4e7922ca", ip = "188.210.58.151:10983", id = 14} said "loaded in again with no aircraft rendering..." to all
+CHAT: Apr 15 11:04:30 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "anyone know?" to all
+CHAT: Apr 15 11:04:46 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "well it work out of the box hehe" to all
+CHAT: Apr 15 11:05:02 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "no symbolic link i was reading about required" to all
+CHAT: Apr 15 11:06:27 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "hows the update running?" to all
+CHAT: Apr 15 11:06:33 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "hello" to all
+CHAT: Apr 15 11:18:58 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "something wrong with tpod?" to all
+CHAT: Apr 15 11:19:35 {name  = "[BE]Neptus", ucid = "e82e747101a28a9c667db1a91b6faaa1", ip = "87.67.213.67:58245", id = 4} said "cannot lock back" to all
+CHAT: Apr 15 11:19:43 {name  = "[BE]Neptus", ucid = "e82e747101a28a9c667db1a91b6faaa1", ip = "87.67.213.67:58245", id = 4} said "with ATFLIR" to all
+CHAT: Apr 15 11:20:20 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "now its showing tpod des all a sudden" to all
+CHAT: Apr 15 11:20:37 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "humm ok" to all
+CHAT: Apr 15 11:21:02 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "sometimes you have to reinstall mods too" to all
+CHAT: Apr 15 11:21:09 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "planes" to all
+CHAT: Apr 15 11:24:10 {name  = "Lightning 1-1 | Hethdor", ucid = "e08ce6ce9767c0234cbcc4fb4e7922ca", ip = "188.210.58.151:10983", id = 14} said "-motd" to all (output suppressed by Slmod)
+CHAT: Apr 15 11:24:55 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "1688 the locker room password" to all
+CHAT: Apr 15 11:26:04 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "it says snw then it goes to tpod des" to all
+CHAT: Apr 15 11:33:22 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "tunguska" to all
+TEAM HIT: Apr 15 11:34:21 {players = {1 = {name  = "RAPTOR 2-1 | Beyond", ucid = "c934e7167054ec0cb4ed8094eefa2ec8", ip = "93.103.187.11:57105", id = 19}1 = {name = 06_BLUE_UNITS_KIRYAT_SHAMONA#001-02 with AGM-88C
+TEAM KILL: Apr 15 11:34:21 {players = {1 = {name  = "RAPTOR 2-1 | Beyond", ucid = "c934e7167054ec0cb4ed8094eefa2ec8", ip = "nil", id = 19}1 = {name = 06_BLUE_UNITS_KIRYAT_SHAMONA#001-02 with AGM-88C
+TEAM HIT: Apr 15 11:34:37 {players = {1 = {name  = "RAPTOR 2-1 | Beyond", ucid = "c934e7167054ec0cb4ed8094eefa2ec8", ip = "93.103.187.11:57105", id = 19}1 = {name = 06_BLUE_UNITS_KIRYAT_SHAMONA#001-01 with AGM-88C
+CHAT: Apr 15 11:37:17 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "TOWER" to all
+CHAT: Apr 15 11:37:30 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "sa19" to all
+CHAT: Apr 15 11:37:36 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "cadet who are you talking too btw?" to all
+CHAT: Apr 15 11:37:49 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "oh sorry" to all
+CHAT: Apr 15 11:38:04 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "its fine jjjust wondering :)" to all
+CHAT: Apr 15 11:38:39 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "whoever was close by" to all
+CHAT: Apr 15 11:38:43 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "hehe" to all
+CHAT: Apr 15 11:42:34 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:60525", id = 2} said "ty" to all
+CHAT: Apr 15 11:42:37 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "AA" to all
+CHAT: Apr 15 11:42:39 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said ":)" to all
+CHAT: Apr 15 11:43:00 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "salute" to all
+TEAM HIT: Apr 15 11:45:25 {players = {1 = {name  = "SNIPER 1-1 / Ulka", ucid = "493a7035f82f40ec8b705ea7370df80a", ip = "88.120.55.33:56891", id = 6}1 = {name = 07_BLUE_UNITS_KHALKHALAH#001-02 with AGM-88C
+TEAM KILL: Apr 15 11:45:25 {players = {1 = {name  = "SNIPER 1-1 / Ulka", ucid = "493a7035f82f40ec8b705ea7370df80a", ip = "nil", id = 6}1 = {name = 07_BLUE_UNITS_KHALKHALAH#001-02 with AGM-88C
+CHAT: Apr 15 11:47:07 {name  = "Lightning 1-1 | Hethdor", ucid = "e08ce6ce9767c0234cbcc4fb4e7922ca", ip = "188.210.58.151:10983", id = 14} said "-motd" to all (output suppressed by Slmod)
+CHAT: Apr 15 11:48:18 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "clouds" to all
+CHAT: Apr 15 11:48:20 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "no j/k" to all
+CHAT: Apr 15 11:49:24 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "anyone else see random sqaures?" to all
+CHAT: Apr 15 11:49:32 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "squares" to all
+CHAT: Apr 15 11:50:21 {name  = "IAF.Daniel", ucid = "4f39ea3916c36e6644e91763e9eb7845", ip = "79.179.246.149:50520", id = 13} said "yes, all over the screen?" to all
+CHAT: Apr 15 11:51:07 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "mostly when changing from f10 back to f1" to all
+CHAT: Apr 15 11:51:18 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "i dont know but seen it more than once" to all
+CHAT: Apr 15 11:51:24 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "black squares" to all
+CHAT: Apr 15 11:52:02 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "is it maybe just hardware" to all
+CHAT: Apr 15 12:03:34 {name  = "FALCON 1-1 | PIF", ucid = "24b6cd174fb82474626f8cd856b25a3b", ip = "87.72.88.141:54880", id = 7} said "Jaspaan are you sure that you are OK ?" to all
+CHAT: Apr 15 12:04:14 {name  = "Jaspaah", ucid = "e2032477ecdb4c682e1ed5546de82d58", ip = "94.157.185.42:50207", id = 24} said "9/10 landing imo" to all
+CHAT: Apr 15 12:04:33 {name  = "FALCON 1-1 | PIF", ucid = "24b6cd174fb82474626f8cd856b25a3b", ip = "87.72.88.141:54880", id = 7} said "5/10 ;)" to all
+CHAT: Apr 15 12:05:19 {name  = "-Navy Cadet", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "174.69.198.225:49788", id = 9} said "damn" to all
+CHAT: Apr 15 12:31:03 {name  = "golden caloue 71W", ucid = "5e5611ec7a53e5a46a24e533de54b2c8", ip = "37.165.0.17:53598", id = 20} said "da fuck xD" to all
+CHAT: Apr 15 12:35:27 {name  = "golden caloue 71W", ucid = "5e5611ec7a53e5a46a24e533de54b2c8", ip = "37.165.0.17:53598", id = 20} said "guy you need to ask for the take off F8 F7" to all
+CHAT: Apr 15 12:42:07 {name  = "golden caloue 71W", ucid = "5e5611ec7a53e5a46a24e533de54b2c8", ip = "37.165.0.17:53598", id = 20} said "will do some CASE 1 training on CVN71 for info" to all

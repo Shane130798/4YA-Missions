@@ -1,0 +1,14 @@
+# -------------- 20210724-195718 --------------
+DCS/2.7.4.9847 (x86_64; Windows NT 10.0.17763)
+D:\DCS World OpenBeta Server 4\bin\ed_sound.dll
+# C0000005 ACCESS_VIOLATION at B8325266 00:00000000
+SymInit: Symbol-SearchPath: '.;D:\DCS World OpenBeta Server 4;D:\DCS World OpenBeta Server 4\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: 528, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x190-0x3
+0x0000000000015266 (ed_sound): SND_speaker_layout_get_info + 0xBF6
+0x000000000001478E (ed_sound): SND_speaker_layout_get_info + 0x11E
+0x000000000000392A (ed_sound): SND_exit + 0xEA
+0x00000000007E78A2 (DCS): SW + 0x4F6DA2
+0x0000000001C6A7AF (DCS): AmdPowerXpressRequestHighPerformance + 0xE777AB
+0x0000000000A0A24E (DCS): SW + 0x71974E
+0x0000000000017974 (KERNEL32): BaseThreadInitThunk + 0x14
+0x000000000005A2F1 (ntdll): RtlUserThreadStart + 0x21

@@ -1,0 +1,130 @@
+CHAT: May 02 22:20:10 {name  = "PILOT_737858", ucid = "d49561962f9e79da30b1b0c9329c58a0", ip = "51.195.176.192:10311", id = 1} said "-motd" to all (output suppressed by Slmod)
+CHAT: May 02 22:52:47 {name  = "JOSGEM", ucid = "086775b9039fffaf2b79b24b3154fb8e", ip = "88.10.98.108:52984", id = 17} said "OIDO COCINA" to all
+CHAT: May 02 23:06:50 {name  = "Cubic 6-6", ucid = "f31f2863ffce97ef37ced4211af9ae94", ip = "24.87.112.166:57327", id = 15} said "is f16 autopilot broken?" to all
+CHAT: May 02 23:16:53 {name  = "Hotel", ucid = "4db545097f3e91d9e3835eaa54b8956c", ip = "82.132.186.142:54716", id = 20} said "Barka mate, launch bar is dow" to all
+CHAT: May 02 23:16:57 {name  = "Hotel", ucid = "4db545097f3e91d9e3835eaa54b8956c", ip = "82.132.186.142:54716", id = 20} said "down*" to all
+CHAT: May 02 23:18:24 {name  = "Barka 1-1", ucid = "1dde1746a553874c1a0e92906184fc3f", ip = "82.65.180.110:53393", id = 24} said "yeah saw it when parting, ty" to all
+CHAT: May 02 23:54:25 {name  = "v2Tec", ucid = "0bc4d89db3d4afc1644c3e625af420b9", ip = "95.223.182.58:61039", id = 16} said "sry just spawned there" to all
+CHAT: May 02 23:55:39 {name  = "Spade", ucid = "6c8d97f0d436f0fa36a9bae8f90855ba", ip = "47.27.25.64:61670", id = 4} said "all good" to all
+CHAT: May 03 00:24:51 {name  = "Calipp0", ucid = "3ef40bcb5be0a280b01ecbebfd7bf32b", ip = "89.182.224.61:13171", id = 14} said "f 14 clear the deck" to all
+TEAM HIT: May 03 00:34:01 {players = {1 = {name  = "Naldo", ucid = "764348257ad58f6a9140e05b10c6dc4e", ip = "87.4.164.117:49748", id = 2}1 = {name = logistic17 with AGM-65D
+TEAM KILL: May 03 00:34:01 {players = {1 = {name  = "Naldo", ucid = "764348257ad58f6a9140e05b10c6dc4e", ip = "nil", id = 2}1 = {name = logistic17 with AGM-65D
+CHAT: May 03 00:41:17 {name  = "Falcon", ucid = "b7eb212739076fc7fa389a4d86e1fe19", ip = "104.12.46.102:55208", id = 35} said "alguein en espanol?" to all
+CHAT: May 03 00:41:26 {name  = "=ABU= BLIND 09", ucid = "44a882631d66abbe6ff2f4db162633c8", ip = "200.229.174.154:58517", id = 33} said "portugues" to all
+CHAT: May 03 00:41:28 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:56635", id = 5} said "donde" to all
+CHAT: May 03 00:41:45 {name  = "Falcon", ucid = "b7eb212739076fc7fa389a4d86e1fe19", ip = "104.12.46.102:55208", id = 35} said "pregunto" to all
+CHAT: May 03 00:42:19 {name  = "Falcon", ucid = "b7eb212739076fc7fa389a4d86e1fe19", ip = "104.12.46.102:55208", id = 35} said "264 .00 espanol" to all
+TEAM HIT: May 03 01:00:34 {players = {1 = {name  = "General Zod", ucid = "b2f010eacef14f1900be273835cda730", ip = "92.40.183.114:56417", id = 2}1 = {name = Dropped Paratrooper RPG-16 #39 with Mi-8MTV2
+TEAM KILL: May 03 01:00:36 {players = {1 = {name  = "General Zod", ucid = "b2f010eacef14f1900be273835cda730", ip = "nil", id = 2}1 = {name = Dropped Paratrooper RPG-16 #39 with Mi-8MTV2
+CHAT: May 03 01:20:42 {name  = "Cooter", ucid = "71c96a376a4f3651ab0eb73870866453", ip = "68.171.86.158:65157", id = 18} said "owee" to all
+TEAM HIT: May 03 01:28:31 {players = {1 = {name  = "WhyBKe", ucid = "0882e7e296bbe44fe77dde7a67ec8cc1", ip = "98.42.49.75:52758", id = 3}1 = {name = AWACS_BLUE_OVERLORD#001-01 with AIM-9X
+TEAM KILL: May 03 01:29:29 {players = {1 = {name  = "WhyBKe", ucid = "0882e7e296bbe44fe77dde7a67ec8cc1", ip = "nil", id = 3}1 = {name = AWACS_BLUE_OVERLORD#001-01 with AIM-9X
+TEAM HIT: May 03 01:35:37 {players = {1 = {name  = "WhyBKe", ucid = "0882e7e296bbe44fe77dde7a67ec8cc1", ip = "98.42.49.75:52758", id = 3}1 = {name = TANKER135_BLUE#001-01 with M-61
+TEAM HIT: May 03 01:35:38 {players = {1 = {name  = "WhyBKe", ucid = "0882e7e296bbe44fe77dde7a67ec8cc1", ip = "98.42.49.75:52758", id = 3}1 = {name = TANKER135_BLUE#001-01 with M-61
+TEAM KILL: May 03 01:36:03 {players = {1 = {name  = "WhyBKe", ucid = "0882e7e296bbe44fe77dde7a67ec8cc1", ip = "nil", id = 3}1 = {name = TANKER135_BLUE#001-01 with M-61
+TEAM HIT: May 03 02:19:33 {players = {1 = {name  = "=Ala15=NavaXXVII", ucid = "c37f13a7dde8acf3c95525a377ae7330", ip = "212.14.107.139:60342", id = 13}1 = {name = The_Target with AIM-120C-5
+TEAM KILL: May 03 02:20:00 {players = {1 = {name  = "=Ala15=NavaXXVII", ucid = "c37f13a7dde8acf3c95525a377ae7330", ip = "nil", id = 13}1 = {name = The_Target with AIM-120C-5
+TEAM HIT: May 03 03:27:45 {players = {1 = {name  = "Cactus 157th", ucid = "f0ffee77cdef07a19128c7b0595bf206", ip = "75.163.188.40:55082", id = 4}1 = {name = 20_BLUE_UNITS_ABU_AL_DUHUR#001-02 with AGM-88C
+TEAM HIT: May 03 03:42:29 {players = {1 = {name  = "Taco 1-1", ucid = "33713f11e811500e274709129b37aa22", ip = "71.227.206.161:63772", id = 8}1 = {name = 20_BLUE_UNITS_ABU_AL_DUHUR#001-01 with AGM-88C
+CHAT: May 03 03:44:14 {name  = "Skydragon1-1", ucid = "d5656ae701efd9fa41054eaa020c8583", ip = "70.127.30.232:2172", id = 15} said "jeesh this enemy mirage is just flying freely over the south" to all
+TEAM HIT: May 03 03:58:28 {players = {1 = {name  = "Lone Starr 157th", ucid = "1bdd87463ab8701fdb11770277f74bcf", ip = "96.244.13.15:57137", id = 10}1 = {name = 19_BLUE_UNITS_BASSEL_AL_ASSAD#001-01 with AGM-88C
+TEAM KILL: May 03 03:59:22 {players = {1 = {name  = "Lone Starr 157th", ucid = "1bdd87463ab8701fdb11770277f74bcf", ip = "nil", id = 10}1 = {name = 19_BLUE_UNITS_BASSEL_AL_ASSAD#001-01 with AGM-88C
+CHAT: May 03 04:12:12 {name  = "MinorityCarrier", ucid = "4034edb8649fa28e57e576824cd9b718", ip = "154.6.20.231:50061", id = 13} said "gg" to all
+CHAT: May 03 04:46:57 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:53180", id = 12} said "tomassi gear" to all
+CHAT: May 03 04:47:04 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:53180", id = 12} said "el idioto" to all
+CHAT: May 03 04:47:49 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:53180", id = 12} said "tomassi gear" to all
+CHAT: May 03 04:48:04 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:53180", id = 12} said "o.O" to all
+CHAT: May 03 04:48:20 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:53180", id = 12} said "nice" to all
+CHAT: May 03 04:55:07 {name  = "R. \"Savage\" Perkins", ucid = "48ae87356358eb537ef7070edfc335d6", ip = "75.131.23.162:54118", id = 10} said "good kill i dont know how many of your missiles i missed" to all
+CHAT: May 03 07:24:44 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "You are cleared hot crash, those gunners can wipe the rest of Hatay" to all
+CHAT: May 03 07:24:59 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "rgr aqnd thanks" to all
+CHAT: May 03 07:25:19 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "will you take huey again?" to all
+CHAT: May 03 07:25:22 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "L Ctrl+ 3 and L ctrl + 4 2 times get those pups spinning" to all
+CHAT: May 03 07:25:32 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "of course trying to fly a misison?" to all
+CHAT: May 03 07:38:14 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "ready" to all
+CHAT: May 03 07:38:33 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "loaded moter sqad" to all
+CHAT: May 03 07:46:18 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "what happened|?" to all
+CHAT: May 03 07:46:39 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "oh no" to all
+CHAT: May 03 07:46:44 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "look who is behind me" to all
+CHAT: May 03 07:46:47 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "f14" to all
+CHAT: May 03 07:47:01 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "he is comming qaround" to all
+CHAT: May 03 07:47:17 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "nope" to all
+CHAT: May 03 07:47:20 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "he is notr" to all
+CHAT: May 03 07:47:24 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "just me he liked" to all
+CHAT: May 03 07:47:35 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "what a jerk" to all
+CHAT: May 03 07:47:42 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "drop some manpads for him" to all
+CHAT: May 03 07:50:09 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "where do i getr manpad" to all
+CHAT: May 03 07:50:14 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "is that what you loaded" to all
+CHAT: May 03 07:50:47 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "man pad is anti air," to all
+CHAT: May 03 07:50:59 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "instead of mortar" to all
+CHAT: May 03 07:51:13 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "rgr" to all
+CHAT: May 03 07:51:13 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "but looks like we got the tomcat smacked" to all
+CHAT: May 03 07:51:42 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "nah he is still there" to all
+CHAT: May 03 07:52:10 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "SO DO YOU WANT ME TO CHANGE FROM MORTER TO MANPAD?" to all
+CHAT: May 03 07:52:25 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "sorry, on VR and didnt see on caps lock" to all
+CHAT: May 03 07:52:34 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "all good! up to you" to all
+CHAT: May 03 07:52:52 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "ok if you got manpad i will keep morter for the base and am ready to go" to all
+CHAT: May 03 07:52:59 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "do you want to load a crate?" to all
+CHAT: May 03 07:53:27 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "copy, im bringingg a btr" to all
+CHAT: May 03 07:54:47 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "nWHERE DO I GET BTR?" to all
+CHAT: May 03 07:55:14 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "cltd maybe armor or ifv'" to all
+CHAT: May 03 07:55:46 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "you can do troops and a vic" to all
+CHAT: May 03 07:55:53 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "but some vics need 2x or 3x crates" to all
+CHAT: May 03 07:56:05 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "I think there is (2) next to the name" to all
+CHAT: May 03 07:56:19 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "btr D or BTR 80" to all
+CHAT: May 03 07:56:31 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "dealers choice" to all
+CHAT: May 03 07:56:51 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "hover over the crate for 3 seconds" to all
+CHAT: May 03 07:57:41 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "f14" to all
+CHAT: May 03 07:58:05 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "1 oclock" to all
+CHAT: May 03 07:59:40 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "mirage 2000 at our 6o'clcok" to all
+CHAT: May 03 08:00:53 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "i got scared" to all
+CHAT: May 03 08:01:01 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "haha" to all
+CHAT: May 03 08:01:03 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "me too" to all
+CHAT: May 03 08:01:07 {name  = "Crash", ucid = "f9cb8a008da3d3416c5ea684a093fab2", ip = "171.96.89.56:63733", id = 3} said "i almost nit it too" to all
+CHAT: May 03 08:01:25 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "be down in a sec" to all
+CHAT: May 03 08:02:21 {name  = "Janitor 1-1 Father Earth", ucid = "171987a226faa63cfdfbd1dc2ebf1d5d", ip = "104.32.18.28:51919", id = 11} said "ur such a fat french horse mr mirage" to all
+CHAT: May 03 09:09:10 {name  = "Creasy Bear", ucid = "f8ef7726248641d3014d10349ead07ab", ip = "172.115.203.122:61091", id = 5} said "Requesting CAP at Wujah please" to all
+CHAT: May 03 09:23:23 {name  = "Slam 1-1│FlyingPadre", ucid = "2f94375f60816f6813e0edab3dedc320", ip = "81.51.244.133:56098", id = 2} said "nice shot harrier" to all
+CHAT: May 03 09:28:44 {name  = "Creasy Bear", ucid = "f8ef7726248641d3014d10349ead07ab", ip = "172.115.203.122:61091", id = 5} said "Fthanks" to all
+CHAT: May 03 09:46:36 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "anyone spawn in at Hatay with me please? need another ground attacker and someone for CAP please" to all
+CHAT: May 03 09:46:39 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "want to take allepo" to all
+CHAT: May 03 09:47:13 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "I'll do my 4 hot missiles then join in an '18 (atg)" to all
+CHAT: May 03 09:47:21 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "great thank you" to all
+CHAT: May 03 09:55:04 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "that russian ship defends itself well" to all
+CHAT: May 03 09:55:41 {name  = "SatanTwister", ucid = "dbc4c5e0b01560ef0486a3cdc2717eb6", ip = "85.23.220.77:54366", id = 6} said "steezy I need to rearm" to all
+CHAT: May 03 09:55:59 {name  = "SatanTwister", ucid = "dbc4c5e0b01560ef0486a3cdc2717eb6", ip = "85.23.220.77:54366", id = 6} said "chill at rene mouwad in the mean time" to all
+CHAT: May 03 09:57:01 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "Friggin shit" to all
+CHAT: May 03 09:57:13 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "smashed my rotors ..... guess it fa18 time lol" to all
+CHAT: May 03 09:57:21 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "ha ok" to all
+CHAT: May 03 09:58:12 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "maybe not, I WILL get the SAMs there!" to all
+CHAT: May 03 09:58:30 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "want any help?" to all
+CHAT: May 03 09:58:49 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "No, it's cool." to all
+CHAT: May 03 09:58:59 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "i can do a harm run for sa8 and you can pick off the pieces" to all
+CHAT: May 03 09:59:07 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:51980", id = 7} said "did all the patient creeping work, then did a too hard rotate landing.....douche bag that i am" to all
+CHAT: May 03 09:59:19 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "lol, i was watching, it was some good treetop flying" to all
+CHAT: May 03 10:00:01 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:60533", id = 10} said "anyone available to spawn in at Hatay with me to take Allepo? need a ground attacker and CAP" to all
+CHAT: May 03 10:17:24 {name  = "SatanTwister", ucid = "dbc4c5e0b01560ef0486a3cdc2717eb6", ip = "85.23.220.77:54366", id = 6} said "hornet radar is so fucked up" to all
+CHAT: May 03 10:17:36 {name  = "SatanTwister", ucid = "dbc4c5e0b01560ef0486a3cdc2717eb6", ip = "85.23.220.77:54366", id = 6} said "how can you miss with STT lock ny 5nm horizontally" to all
+CHAT: May 03 10:42:11 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "Friggin hell!!!! AGAIN!!!" to all
+CHAT: May 03 10:42:24 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "I guess I shouldn't rush my landings lol" to all
+CHAT: May 03 10:51:14 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "JAR:  I'm taking zsu, then sa8, then roland." to all
+CHAT: May 03 10:51:19 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "If I can HOVER!!!" to all
+CHAT: May 03 10:51:25 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "sure go for it" to all
+CHAT: May 03 10:53:10 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "i can't even get close to the airfeild, that roland it trigger happy" to all
+CHAT: May 03 10:54:42 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "12saw that" to all
+CHAT: May 03 11:00:32 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "damn that was rude" to all
+CHAT: May 03 11:00:47 {name  = "dronex", ucid = "9e4836ff534599232f31d472991418f5", ip = "95.90.246.216:22633", id = 7} said "p-p" to all
+CHAT: May 03 11:06:08 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "nice" to all
+CHAT: May 03 11:06:52 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.52.77:52418", id = 14} said "-MOTD" to all (output suppressed by Slmod)
+CHAT: May 03 11:07:34 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "roland and sa8 dead!" to all
+CHAT: May 03 11:07:44 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "excellent" to all
+CHAT: May 03 11:08:05 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "still getting roland spike on rwr" to all
+CHAT: May 03 11:08:22 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "the launcgher was gone, and now the radar" to all
+CHAT: May 03 11:08:27 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "very nice well done" to all
+CHAT: May 03 11:08:44 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "(()((chaparell gone in 5" to all
+CHAT: May 03 11:08:46 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "4" to all
+CHAT: May 03 11:08:47 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "3" to all
+CHAT: May 03 11:08:49 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "2" to all
+CHAT: May 03 11:08:50 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "1" to all
+CHAT: May 03 11:08:53 {name  = "JAR", ucid = "fa43169be2f21d5712b40b91f3630796", ip = "87.200.199.77:52388", id = 4} said "boom" to all
+CHAT: May 03 11:08:53 {name  = "BeeRay", ucid = "a381f968426e543be2397d2edfdf6802", ip = "94.173.80.171:52322", id = 19} said "boom" to all

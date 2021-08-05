@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 - Night Caucasus \
+    ["description"] = "[4YA] 4YA PvP Event: Airquake 1 \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -18,7 +18,8 @@ Combined Arms\
 PVE\
 SRS\
 CarrierOps ",
-    ["require_pure_textures"] = false,
+    ["require_pure_textures"] = true,
+    ["listStartIndex"] = 2,
     ["advanced"] = 
     {
         ["allow_change_tailno"] = true,
@@ -41,22 +42,22 @@ CarrierOps ",
         ["resume_mode"] = 2,
         ["maxPing"] = 0,
         ["event_Role"] = false,
+		['allow_trial_only_clients'] = false	--prevent griefing!
     }, -- end of ["advanced"]
     ["port"] = 10310,
     ["mode"] = 0,
     ["bind_address"] = "",
     ["isPublic"] = true,
-    ["uri"] = "startServer",
-    ["password"] = "",
     ["missionList"] = 
     {
-		[1] = "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Missions\\4YA_Caucasus_Capture_Base_v136NightSnow.miz",
-
+        [1] = "C:\\Users\\Administrator\\Saved Games\\BetaServer3\\Missions\\Bridgehead_Blues_v1.0.miz
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] Night Caucasus PVE",
+    ["password"] = "fuck",
     ["listShuffle"] = false,
+    ["name"] = "4yanerd",
     ["listLoop"] = true,
-    ["require_pure_clients"] = false,
-    ["require_pure_models"] = false,
-    ["maxPlayers"] = "40",
+    ["uri"] = "startServer",
+    ["require_pure_clients"] = true,
+    ["require_pure_models"] = true,
+    ["maxPlayers"] = "30",
 } -- end of cfg

@@ -1,0 +1,39 @@
+CHAT: May 03 09:24:54 {name  = "henriksen", ucid = "2aa977c7d3d23919a612159337a0f938", ip = "77.33.28.66:54750", id = 12} said "its messed up tws locks buddys" to all
+CHAT: May 03 09:35:44 {name  = "henriksen", ucid = "2aa977c7d3d23919a612159337a0f938", ip = "77.33.28.66:54750", id = 12} said "stupid ai" to all
+CHAT: May 03 09:46:31 {name  = "henriksen", ucid = "2aa977c7d3d23919a612159337a0f938", ip = "77.33.28.66:54750", id = 12} said "haha poor bastard" to all
+TEAM HIT: May 03 09:55:21 {players = {1 = {name  = "WARHORSE 9-4 I Samor", ucid = "7ac28a96b93dcbe5a18a953477debc57", ip = "78.98.149.212:50872", id = 9}1 = {name = ASPIVOLA with AIM-9M
+CHAT: May 03 09:55:32 {name  = "ASPIVOLA", ucid = "13bebcffc729741ba8b9c3b6679cb420", ip = "88.8.132.17:63092", id = 5} said "wtf are you doing" to all
+TEAM KILL: May 03 09:56:13 {players = {1 = {name  = "WARHORSE 9-4 I Samor", ucid = "7ac28a96b93dcbe5a18a953477debc57", ip = "nil", id = 9}1 = {name = ASPIVOLA with AIM-9M
+CHAT: May 03 09:56:34 {name  = "WARHORSE 9-4 I Samor", ucid = "7ac28a96b93dcbe5a18a953477debc57", ip = "78.98.149.212:50872", id = 9} said "-forgive" to all (output suppressed by Slmod)
+CHAT: May 03 09:56:44 {name  = "Steallir", ucid = "d8ccd1c6955878b58077d0d3594f583e", ip = "188.115.157.217:59373", id = 2} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Gollum", ucid = "45f797f99f412a182806fc8a2ef636a2", ip = "86.47.227.216:49858", id = 3} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "[.ID] Raider", ucid = "c416fd27b21c850491614fec0846aa82", ip = "180.251.130.197:26477", id = 4} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "ASPIVOLA", ucid = "13bebcffc729741ba8b9c3b6679cb420", ip = "88.8.132.17:63092", id = 5} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Raven5o", ucid = "ec17f7d6ee26ea0c61039a81c4559b58", ip = "79.198.253.33:60615", id = 6} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "HopfenundMalz", ucid = "ac70c91235bf2588f71bf37c4b534fac", ip = "79.239.229.59:54464", id = 7} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Trigger", ucid = "ac300af0284cf2729aa334a20c4b476f", ip = "46.125.34.121:55870", id = 8} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "WARHORSE 9-4 I Samor", ucid = "7ac28a96b93dcbe5a18a953477debc57", ip = "78.98.149.212:50872", id = 9} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "HuDz", ucid = "f65cb024ccb544169ef7bc0ba50c6f11", ip = "81.103.52.219:51098", id = 10} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "sohot", ucid = "b6f3ccdf8799003a13f31b33558369b3", ip = "123.203.215.141:6602", id = 11} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "henriksen", ucid = "2aa977c7d3d23919a612159337a0f938", ip = "77.33.28.66:54750", id = 12} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Vyhonek", ucid = "5fcb72ca5483b9a347ffc20aa1623c70", ip = "213.226.235.77:52197", id = 13} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "JW_winger", ucid = "b9e1fc109e1bc31287a5bb6ea8b15c39", ip = "116.87.8.7:50366", id = 14} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Flex on ur Ex", ucid = "88009a3a46bf4d3a7b9753b7a0d7dcd5", ip = "88.70.44.185:51591", id = 15} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Ruko", ucid = "20f500f5c768747fe295ee099726d89f", ip = "91.148.50.213:58772", id = 16} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Zweefkaak", ucid = "0644f419d9c2dcb23c89b36cb88b9a84", ip = "80.61.39.40:58394", id = 17} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 09:56:44 {name  = "Gandalf1405", ucid = "9834b1b09755bb2499ec12b32844c685", ip = "5.173.179.117:35596", id = 18} said "SLMOD INFO: Player "WARHORSE 9-4 I Samor" is getting autokicked back to spectator" to all
+CHAT: May 03 10:10:59 {name  = "Raven5o", ucid = "ec17f7d6ee26ea0c61039a81c4559b58", ip = "79.198.253.33:60615", id = 6} said "hahaha thos A10 are MAD AF" to all
+CHAT: May 03 10:17:06 {name  = "HopfenundMalz", ucid = "ac70c91235bf2588f71bf37c4b534fac", ip = "79.239.229.59:54464", id = 7} said "voodo watch your shots" to all
+CHAT: May 03 10:17:27 {name  = "HopfenundMalz", ucid = "ac70c91235bf2588f71bf37c4b534fac", ip = "79.239.229.59:54464", id = 7} said "your fired 2 amramms at me" to all
+CHAT: May 03 10:17:40 {name  = "Voodoo", ucid = "c04d45375256e29389513c8b3e2759fe", ip = "162.62.133.28:18963", id = 9} said "sry" to all
+CHAT: May 03 10:48:03 {name  = "r1czyro", ucid = "290d4d3d65d2c4cfa48de767be8afd7b", ip = "82.7.244.98:61563", id = 19} said "fuckk" to all
+CHAT: May 03 10:49:54 {name  = "Draculas-GR", ucid = "d885c496ddce4a2abf719f9ffa9ef20b", ip = "79.107.137.6:10546", id = 4} said "wow" to all
+CHAT: May 03 10:50:01 {name  = "Draculas-GR", ucid = "d885c496ddce4a2abf719f9ffa9ef20b", ip = "79.107.137.6:10546", id = 4} said "everything went wrong" to all
+CHAT: May 03 10:57:51 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "It's been a while. What did I accidently press that makes my pov center automatically?" to all
+CHAT: May 03 10:58:37 {name  = "JEDI", ucid = "c0ab781d6d2f300fe476ad1d06db5364", ip = "185.245.240.4:58391", id = 21} said "num 5" to all
+CHAT: May 03 10:59:18 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "I looked down, and now when I look at something, it resets to that weird angle." to all
+CHAT: May 03 10:59:33 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "Num 5 does nothing, because that's the new recenter point" to all
+CHAT: May 03 10:59:43 {name  = "JEDI", ucid = "c0ab781d6d2f300fe476ad1d06db5364", ip = "185.245.240.4:58391", id = 21} said "oh, i know what ur talking about. i dont know how to fix that" to all
+CHAT: May 03 10:59:44 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "I vaguely remember doing this before." to all
+CHAT: May 03 11:00:15 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "^.^ Price I pay for allowing myself to rust!" to all
+CHAT: May 03 11:00:26 {name  = "Greta Becker", ucid = "835bf03f3bb64fcfc7ac0356558a2757", ip = "206.174.72.198:50854", id = 5} said "Thank you! I'll figure it out." to all

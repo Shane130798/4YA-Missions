@@ -63,7 +63,7 @@ admin_tools = true
 	dcs123
 	
 	they will be added to the list of admins.]]
-	admin_register_password = "4Yaim9x"
+	admin_register_password = "4YAServers"
 	
 ----------------------------------------------------------------------------------------------------------------------
 

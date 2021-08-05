@@ -19,6 +19,7 @@ PVE\
 SRS\
 CarrierOps ",
     ["require_pure_textures"] = false,
+    ["listStartIndex"] = 3,
     ["advanced"] = 
     {
         ["allow_change_tailno"] = true,
@@ -39,27 +40,28 @@ CarrierOps ",
         ["event_Kill"] = true,
         ["event_Crash"] = false,
         ["resume_mode"] = 2,
-        ["maxPing"] = 0,
         ["event_Role"] = false,
+        ["maxPing"] = 0,
+		['allow_trial_only_clients'] = true
     }, -- end of ["advanced"]
     ["port"] = 10308,
     ["mode"] = 0,
     ["bind_address"] = "",
     ["isPublic"] = true,
-    ["uri"] = "startServer",
-    ["password"] = "",
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136A.miz",
-        [2] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136C.miz",
-        [3] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136B.miz",
-        [4] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136D.miz",
-        [5] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136E.miz",
-        [6] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Caucasus_Capture_Base_v136F.miz",
+        [1] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_V1.0_ANAPA_OC.miz",
+        [2] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_v1.1_Maykop_OC.miz",
+        [3] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_V1.0_ANAPA_BC.miz",
+		[4] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_v1.1_Maykop_HS.miz",
+		[5] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_V1.0_ANAPA_HS.miz",
+		[6] = "C:\\Users\\Administrator\\Saved Games\\BetaServer1\\Missions\\4YA_Cauc_Capture_Base_v1.1_Maykop_BC.miz",
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 Caucasus PVE BETA (CAPTURE BASES)",
+    ["password"] = "",
     ["listShuffle"] = false,
+    ["name"] = "[4YA] TRAINING 24/7 Caucasus PVE BETA (CAPTURE BASES)",
     ["listLoop"] = true,
+    ["uri"] = "startServer",
     ["require_pure_clients"] = false,
     ["require_pure_models"] = false,
     ["maxPlayers"] = "40",

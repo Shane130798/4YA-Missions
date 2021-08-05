@@ -1,0 +1,58 @@
+CHAT: Feb 28 00:53:58 {name  = "makr", ucid = "771df88b69dfe13fd76c192eb91e1ce6", ip = "217.162.221.96:53799", id = 2} said "somone up for some formation flying" to all
+CHAT: Feb 28 01:06:17 {name  = "makr", ucid = "771df88b69dfe13fd76c192eb91e1ce6", ip = "217.162.221.96:53799", id = 2} said "mamatt look left" to all
+CHAT: Feb 28 01:07:44 {name  = "makr", ucid = "771df88b69dfe13fd76c192eb91e1ce6", ip = "217.162.221.96:53799", id = 2} said "look left" to all
+TEAM HIT: Feb 28 01:15:02 {players = {1 = {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5}1 = {name = Shekel 1-2 |[115✡︎]Calgon with AIM-120C
+TEAM KILL: Feb 28 01:15:13 {players = {1 = {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "nil", id = 5}1 = {name = Shekel 1-2 |[115✡︎]Calgon with AIM-120C
+CHAT: Feb 28 01:15:28 {name  = "Shekel 1-2 |[115✡︎]Calgon", ucid = "ff5cfd4ed40ba2b5ca643d349567b69a", ip = "188.222.85.221:53610", id = 8} said "-forgive" to all (output suppressed by Slmod)
+TEAM HIT: Feb 28 01:23:18 {players = {1 = {name  = "MusDude", ucid = "3df4cf3b67804b99ac826d07411be465", ip = "124.169.151.180:55582", id = 17}1 = {name = asak with F-16CM bl.50
+TEAM HIT: Feb 28 01:23:18 {players = {1 = {name  = "asak", ucid = "66c6eaa9021d518a801b1fdc5ac7be24", ip = "153.181.19.144:53561", id = 23}1 = {name = MusDude with F-16CM bl.50
+TEAM KILL: Feb 28 01:23:48 {players = {1 = {name  = "asak", ucid = "66c6eaa9021d518a801b1fdc5ac7be24", ip = "nil", id = 23}1 = {name = MusDude with F-16CM bl.50
+CHAT: Feb 28 01:24:05 {name  = "yugo 45", ucid = "a20696697af664423b39b6d66f9e3b57", ip = "174.119.144.167:57213", id = 2} said "go ahead a10" to all
+CHAT: Feb 28 01:24:08 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "almost bomb the light truck" to all
+TEAM KILL: Feb 28 01:25:33 {players = {1 = {name  = "MusDude", ucid = "3df4cf3b67804b99ac826d07411be465", ip = "nil", id = 17}1 = {name = asak with F-16CM bl.50
+CHAT: Feb 28 01:31:46 {name  = "(TACP)Tommy", ucid = "93648d37ccfb746960e046a4281bab6b", ip = "71.136.252.184:65056", id = 27} said "if anyone needs CAP support let me know" to all
+CHAT: Feb 28 01:32:14 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "gepard" to all
+CHAT: Feb 28 01:34:19 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "gepard" to all
+CHAT: Feb 28 01:34:22 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "deaD" to all
+TEAM HIT: Feb 28 01:39:07 {players = {1 = {name  = "ChadMcdouche", ucid = "9837610eed650d524af40d16034e547a", ip = "84.217.127.6:52655", id = 14}1 = {name = 10_THEODORE_CVN71 with F/A-18C Lot 20
+CHAT: Feb 28 01:42:22 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "laser screwed" to all
+CHAT: Feb 28 01:47:43 {name  = "Cyberfang", ucid = "bff5e8431aa07d6de64f894f7adbe48b", ip = "81.227.86.201:53521", id = 12} said "hit the dirt" to all
+CHAT: Feb 28 01:48:04 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "warning multiple contacts north east of sochi" to all
+CHAT: Feb 28 01:48:35 {name  = "(TACP)Tommy", ucid = "93648d37ccfb746960e046a4281bab6b", ip = "71.136.252.184:65056", id = 27} said "supersonic be there in 30 sec" to all
+CHAT: Feb 28 01:50:54 {name  = "(TACP)Tommy", ucid = "93648d37ccfb746960e046a4281bab6b", ip = "71.136.252.184:65056", id = 27} said "socji is clear" to all
+CHAT: Feb 28 01:51:08 {name  = "(TACP)Tommy", ucid = "93648d37ccfb746960e046a4281bab6b", ip = "71.136.252.184:65056", id = 27} said "SOCHI*" to all
+TEAM HIT: Feb 28 01:53:24 {players = {1 = {name  = "Cyberfang", ucid = "bff5e8431aa07d6de64f894f7adbe48b", ip = "81.227.86.201:53521", id = 12}1 = {name = 12_BLUE_CVN73_EAST with kamikaze
+CHAT: Feb 28 01:53:39 {name  = "maple1-1", ucid = "e9f3177822e52d8a8848fb48b1276242", ip = "174.94.98.163:51523", id = 6} said "cyberfang... u need to lower gear" to all
+CHAT: Feb 28 01:53:49 {name  = "maple1-1", ucid = "e9f3177822e52d8a8848fb48b1276242", ip = "174.94.98.163:51523", id = 6} said "lol" to all
+CHAT: Feb 28 01:53:58 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "can i rearm on any carrier lol" to all
+CHAT: Feb 28 01:54:15 {name  = "Cyberfang", ucid = "bff5e8431aa07d6de64f894f7adbe48b", ip = "81.227.86.201:53521", id = 12} said "ooh i notised  must have not pressed the button har enoug höhö :)" to all
+CHAT: Feb 28 01:54:25 {name  = "maple1-1", ucid = "e9f3177822e52d8a8848fb48b1276242", ip = "174.94.98.163:51523", id = 6} said "lmao" to all
+CHAT: Feb 28 01:54:32 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "oh no fuel out" to all
+CHAT: Feb 28 01:54:35 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "NVM" to all
+CHAT: Feb 28 01:54:48 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "emergency glide" to all
+CHAT: Feb 28 01:57:55 {name  = "(TACP)Tommy", ucid = "93648d37ccfb746960e046a4281bab6b", ip = "71.136.252.184:65056", id = 27} said "inbound gelen rr 01" to all
+CHAT: Feb 28 01:58:08 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "number 2 for gelen" to all
+CHAT: Feb 28 01:58:18 {name  = "-CaseAir=", ucid = "39c2ca48941b2088e47e37cc506bfa73", ip = "24.255.86.211:52259", id = 20} said "weater land" to all
+CHAT: Feb 28 02:00:25 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "traffic in sight number 2 for gelen" to all
+TEAM HIT: Feb 28 02:30:50 {players = {1 = {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29}1 = {name = SirFXalot with AIM-120C
+CHAT: Feb 28 02:30:57 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "how...." to all
+CHAT: Feb 28 02:30:59 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "sorry" to all
+CHAT: Feb 28 02:31:09 {name  = "SirFXalot", ucid = "bf269f0ffe102f26806d94241a0b50ee", ip = "69.121.45.146:55653", id = 4} said ":(" to all
+CHAT: Feb 28 02:31:18 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "Fox..." to all
+CHAT: Feb 28 02:31:19 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "3" to all
+CHAT: Feb 28 02:31:30 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "what did you expect?" to all
+CHAT: Feb 28 02:31:48 {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54242", id = 29} said "it to loft to 50k feet and actually follow radar lock" to all
+CHAT: Feb 28 02:32:09 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "yeeep" to all
+CHAT: Feb 28 02:32:15 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "momentum is a bitch" to all
+TEAM KILL: Feb 28 02:32:18 {players = {1 = {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "nil", id = 29}1 = {name = SirFXalot with AIM-120C
+CHAT: Feb 28 02:32:30 {name  = "Shekel 1-4 | Falinov", ucid = "0263de1f9a6ee77b60cdfbbcd7ea09f5", ip = "97.118.127.61:63833", id = 5} said "**slow facepalm**" to all
+CHAT: Feb 28 02:39:12 {name  = "Ginger", ucid = "2ed8661a1888a472e6e319c5b708d1c9", ip = "86.29.38.185:62511", id = 12} said "note to self dont watch the weapon drop to target an ignore arnings lol" to all
+TEAM HIT: Feb 28 02:43:07 {players = {1 = {name  = "BraydenM8", ucid = "eb2e9de57675fa50eb4a078ce084fb01", ip = "75.137.140.186:50129", id = 15}1 = {name = Lt.Mitchel with F/A-18C Lot 20
+CHAT: Feb 28 02:43:22 {name  = "BraydenM8", ucid = "eb2e9de57675fa50eb4a078ce084fb01", ip = "75.137.140.186:50129", id = 15} said "what??" to all
+CHAT: Feb 28 02:49:30 {name  = "BraydenM8", ucid = "eb2e9de57675fa50eb4a078ce084fb01", ip = "75.137.140.186:50129", id = 15} said "can someone take out the gudatua ac??" to all
+CHAT: Feb 28 02:49:34 {name  = "ChadMcdouche", ucid = "9837610eed650d524af40d16034e547a", ip = "84.217.127.6:52655", id = 14} said "holy moly AAR is frustrating.. but after some time you get this momentum, jeeeeez" to all
+CHAT: Feb 28 02:52:20 {name  = "DL72", ucid = "4bd9d94e5e3d75de25d202146d70f6b6", ip = "45.36.211.212:60556", id = 9} said "watch for aircraft around gudauta" to all
+CHAT: Feb 28 02:53:09 {name  = "BraydenM8", ucid = "eb2e9de57675fa50eb4a078ce084fb01", ip = "75.137.140.186:50129", id = 15} said "can someone kill that f15 chaaing me" to all
+CHAT: Feb 28 02:53:18 {name  = "BraydenM8", ucid = "eb2e9de57675fa50eb4a078ce084fb01", ip = "75.137.140.186:50129", id = 15} said "im armed with paveways" to all
+TEAM HIT: Feb 28 02:57:55 {players = {1 = {name  = "gutoscherer", ucid = "d9da4788680c79f605438c6e06b24b25", ip = "177.73.6.9:19016", id = 24}1 = {name = BLUE_KRANSODAR#001-02 with AGM-65H
+TEAM KILL: Feb 28 02:57:55 {players = {1 = {name  = "gutoscherer", ucid = "d9da4788680c79f605438c6e06b24b25", ip = "nil", id = 24}1 = {name = BLUE_KRANSODAR#001-02 with AGM-65H

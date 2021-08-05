@@ -1,0 +1,41 @@
+CHAT: Apr 16 22:42:01 {name  = "SPLINTER6", ucid = "525fbeb609119824c99ac485a34efc90", ip = "94.6.29.214:62435", id = 8} said "WAYPOINT?" to all
+CHAT: Apr 16 23:45:01 {name  = "PinInTheOcean", ucid = "76543aab9a283c5939d9962a8e783b5a", ip = "67.225.7.93:50982", id = 11} said "mtod" to all
+CHAT: Apr 16 23:45:16 {name  = "PinInTheOcean", ucid = "76543aab9a283c5939d9962a8e783b5a", ip = "67.225.7.93:50982", id = 11} said "~mtod" to all
+CHAT: Apr 16 23:45:24 {name  = "PinInTheOcean", ucid = "76543aab9a283c5939d9962a8e783b5a", ip = "67.225.7.93:50982", id = 11} said "motd" to all
+CHAT: Apr 16 23:45:29 {name  = "PinInTheOcean", ucid = "76543aab9a283c5939d9962a8e783b5a", ip = "67.225.7.93:50982", id = 11} said "~motd" to all
+CHAT: Apr 16 23:59:53 {name  = "ChadMcdouche", ucid = "9837610eed650d524af40d16034e547a", ip = "84.217.127.6:51276", id = 18} said "damn you atlas!" to all
+CHAT: Apr 17 00:10:19 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "-motd" to all (output suppressed by Slmod)
+CHAT: Apr 17 00:10:31 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "-stats me" to all (output suppressed by Slmod)
+TEAM HIT: Apr 17 00:28:50 {players = {1 = {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "173.238.165.166:61382", id = 10}1 = {name = Keske with AIM-9X
+TEAM KILL: Apr 17 00:29:06 {players = {1 = {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "nil", id = 10}1 = {name = Keske with AIM-9X
+CHAT: Apr 17 00:29:38 {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "173.238.165.166:61382", id = 10} said "sorry dude" to all
+CHAT: Apr 17 00:29:52 {name  = "Cobra 101 | GreenDotSpeed", ucid = "c39f77d62f6c9e41049c09f8c227d2da", ip = "37.211.39.87:50912", id = 12} said "guys is anyone able to kill anything??" to all
+CHAT: Apr 17 00:30:00 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "-stats" to all (output suppressed by Slmod)
+CHAT: Apr 17 00:30:04 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "stats me" to all
+CHAT: Apr 17 00:30:10 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "-full stats me" to all (output suppressed by Slmod)
+CHAT: Apr 17 00:41:32 {name  = "Mammoth", ucid = "0d4d68d9c1514ebbe7792456df6a0ea3", ip = "89.98.235.224:50198", id = 9} said "TACAN CVN72 29X is not right" to all
+CHAT: Apr 17 00:42:28 {name  = "Cobra 101 | GreenDotSpeed", ucid = "c39f77d62f6c9e41049c09f8c227d2da", ip = "37.211.39.87:50912", id = 12} said "gk" to all
+CHAT: Apr 17 00:44:07 {name  = "extho", ucid = "14df6e7a9cc4b8cd7037005106961a5a", ip = "98.210.56.239:55357", id = 3} said "-full stats me" to all (output suppressed by Slmod)
+TEAM HIT: Apr 17 01:01:34 {players = {1 = {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "173.238.165.166:61382", id = 10}1 = {name = Hubertis with AIM-120C-5
+TEAM KILL: Apr 17 01:01:43 {players = {1 = {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "nil", id = 10}1 = {name = Hubertis with AIM-120C-5
+CHAT: Apr 17 01:02:14 {name  = "Hubertis", ucid = "33471650f08444247d1b84f4da9cdb81", ip = "31.0.126.172:16424", id = 15} said "why ?" to all
+CHAT: Apr 17 01:02:14 {name  = "BlackShark", ucid = "c8ea5650bfce7c00013d9fcc1a5fb3ca", ip = "82.34.93.131:51883", id = 2} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "小小iao圣", ucid = "72cf21410b862c1e53014efa1d788ed1", ip = "162.62.63.104:18579", id = 3} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Pyroid", ucid = "7b5a2298676a893f400ca4ece0277d51", ip = "151.196.18.223:56251", id = 4} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Didyeah", ucid = "9d95d40bec6a7b78d2bea788fc1444d4", ip = "81.202.234.232:56115", id = 5} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "☭ | WAT", ucid = "c556ef9dfeae33db82a9d78a8bfdc918", ip = "37.201.155.117:53228", id = 6} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Emil", ucid = "b35dbb282f707a34fc031bfaf647ca3c", ip = "79.136.29.220:55975", id = 7} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "AstroWing", ucid = "e58d630cb197508be8faf521b0e12c9a", ip = "173.238.165.166:61382", id = 10} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Cobra 101 | GreenDotSpeed", ucid = "c39f77d62f6c9e41049c09f8c227d2da", ip = "37.211.39.87:50912", id = 12} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Slam 1-1│FlyingPadre", ucid = "2f94375f60816f6813e0edab3dedc320", ip = "81.51.244.133:50389", id = 14} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Hubertis", ucid = "33471650f08444247d1b84f4da9cdb81", ip = "31.0.126.172:16424", id = 15} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "SteelxWolf", ucid = "c324da022ff7dc0de45fec8e11a9886e", ip = "98.118.162.214:56555", id = 16} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "ChadMcdouche", ucid = "9837610eed650d524af40d16034e547a", ip = "84.217.127.6:51276", id = 18} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "141st | Lancer 1-1", ucid = "7e5b698c63eb6cbc44d09dc7b05d126e", ip = "35.133.45.25:62422", id = 20} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Keske", ucid = "bb807fbace31471c14dcc9624f5816b7", ip = "179.233.239.1:62792", id = 22} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:02:14 {name  = "Ghost187", ucid = "2afa3c0a469550830fef245b316eb93e", ip = "96.241.70.226:61545", id = 25} said "SLMOD INFO: Player "AstroWing" is getting autokicked back to spectator" to all
+CHAT: Apr 17 01:18:44 {name  = "SteelxWolf", ucid = "c324da022ff7dc0de45fec8e11a9886e", ip = "98.118.162.214:56555", id = 16} said "we are literally being spawncamped rn" to all
+CHAT: Apr 17 01:18:54 {name  = "SteelxWolf", ucid = "c324da022ff7dc0de45fec8e11a9886e", ip = "98.118.162.214:56555", id = 16} said "they are all over the mountains" to all
+TEAM HIT: Apr 17 01:22:54 {players = {1 = {name  = "SteelxWolf", ucid = "c324da022ff7dc0de45fec8e11a9886e", ip = "98.118.162.214:56555", id = 16}1 = {name = Revan with AIM-54A-Mk60
+TEAM KILL: Apr 17 01:22:54 {players = {1 = {name  = "SteelxWolf", ucid = "c324da022ff7dc0de45fec8e11a9886e", ip = "nil", id = 16}1 = {name = Revan with AIM-54A-Mk60
+CHAT: Apr 17 01:28:54 {name  = "TopHat 1-1 | Sloap", ucid = "7b9a84b876ff42fc0a36f46f5dfe9d02", ip = "71.223.34.24:58004", id = 12} said "-motd" to all (output suppressed by Slmod)

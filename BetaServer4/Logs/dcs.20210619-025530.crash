@@ -1,0 +1,6 @@
+# -------------- 20210619-025530 --------------
+DCS/2.7.2.7910 (x86_64; Windows NT 10.0.17763)
+D:\DCS World OpenBeta Server 4\bin\WeaponBlocks.dll
+# C0000005 ACCESS_VIOLATION at 4AF1F580 00:00000000
+SymInit: Symbol-SearchPath: '.;D:\DCS World OpenBeta Server 4;D:\DCS World OpenBeta Server 4\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: 528, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x190-0x3
