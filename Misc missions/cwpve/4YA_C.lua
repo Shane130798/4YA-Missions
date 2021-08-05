@@ -28,7 +28,7 @@ ctld = {} -- DONT REMOVE!
 
 ctld.staticBugWorkaround = false --  DCS had a bug where destroying statics would cause a crash. If this happens again, set this to TRUE
 
-ctld.disableAllSmoke = true -- if true, all smoke is diabled at pickup and drop off zones regardless of settings below. Leave false to respect settings below
+ctld.disableAllSmoke = false -- if true, all smoke is diabled at pickup and drop off zones regardless of settings below. Leave false to respect settings below
 
 ctld.hoverPickup = true --  if set to false you can load crates with the F10 menu instead of hovering... Only if not using real crates!
 
@@ -40,17 +40,17 @@ ctld.slingLoad = false -- if false, crates can be used WITHOUT slingloading, by 
 
 ctld.enableSmokeDrop = true -- if false, helis and c-130 will not be able to drop smoke
 
-ctld.maxExtractDistance = 80 -- max distance from vehicle to troops to allow a group extraction
+ctld.maxExtractDistance = 125 -- max distance from vehicle to troops to allow a group extraction
 ctld.maximumDistanceLogistic = 200 -- max distance from vehicle to logistics to allow a loading or spawning operation
 ctld.maximumSearchDistance = 4000 -- max distance for troops to search for enemy
 ctld.maximumMoveDistance = 2500 -- max distance for troops to move from drop point if no enemy is nearby
 
-ctld.minimumDeployDistance = 10 -- minimum distance from a friendly pickup zone where you can deploy a crate
+ctld.minimumDeployDistance = 200 -- minimum distance from a friendly pickup zone where you can deploy a crate
 
 ctld.numberOfTroops = 10 -- default number of troops to load on a transport heli or C-130 
 							-- also works as maximum size of group that'll fit into a helicopter unless overridden
 ctld.enableFastRopeInsertion = true -- allows you to drop troops by fast rope
-ctld.fastRopeMaximumHeight = 150.28 -- in meters which is 60 ft max fast rope (not rappell) safe height
+ctld.fastRopeMaximumHeight = 50.28 -- in meters which is 60 ft max fast rope (not rappell) safe height
 
 ctld.vehiclesForTransportRED = { "BRDM-2", "BTR_D" } -- vehicles to load onto Il-76 - Alternatives {"Strela-1 9P31","BMP-1"}
 ctld.vehiclesForTransportBLUE = { "M1045 HMMWV TOW", "M1043 HMMWV Armament", "M1128 Stryker MGS","M1097 Avenger", "MLRS M270" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
@@ -103,16 +103,16 @@ ctld.hoverTime = 3 -- Time to hold hover above a crate for loading in seconds
 -- When this limit is hit, a player will still be able to get crates for an AA system, just unable
 -- to unpack them
 
-ctld.AASystemLimitRED = 3 -- Red side limit
+ctld.AASystemLimitRED = 6 -- Red side limit
 
-ctld.AASystemLimitBLUE = 3 -- Blue side limit
+ctld.AASystemLimitBLUE = 6 -- Blue side limit
 
 --END AA SYSTEM CONFIG --
 
 -- ***************** JTAC CONFIGURATION *****************
 
-ctld.JTAC_LIMIT_RED = 10 -- max number of JTAC Crates for the RED Side
-ctld.JTAC_LIMIT_BLUE = 10 -- max number of JTAC Crates for the BLUE Side
+ctld.JTAC_LIMIT_RED = 0 -- max number of JTAC Crates for the RED Side
+ctld.JTAC_LIMIT_BLUE = 0 -- max number of JTAC Crates for the BLUE Side
 
 ctld.JTAC_dropEnabled = true -- allow JTAC Crate spawn from F10 menu
 
@@ -124,7 +124,7 @@ ctld.JTAC_smokeOn_BLUE = true -- enables marking of target with smoke for BLUE f
 ctld.JTAC_smokeColour_RED = 4 -- RED side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
 ctld.JTAC_smokeColour_BLUE = 1 -- BLUE side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
 
-ctld.JTAC_jtacStatusF10 = true -- enables F10 JTAC Status menu
+ctld.JTAC_jtacStatusF10 = false -- enables F10 JTAC Status menu
 
 ctld.JTAC_location = true -- shows location of target in JTAC message
 ctld.location_DMS = true -- shows coordinates as Degrees Minutes Seconds instead of Degrees Decimal minutes
@@ -279,20 +279,6 @@ ctld.transportPilotNames = {
 	"helicargo48",
 	"helicargo49",
 	"helicargo50",
-	"helicargo51",
-	"helicargo52",
-	"helicargo53",
-	"helicargo54",
-	"helicargo55",
-	"helicargo56",
-	"helicargo57",
-	"helicargo58",
-	"helicargo59",
-	"helicargo60",
-	"helicargo61",
-	"helicargo62",
-	"helicargo63",
-	"helicargo64",
 
     "MEDEVAC #1",
     "MEDEVAC #2",
@@ -315,23 +301,6 @@ ctld.transportPilotNames = {
 	"MEDEVAC #19",
 	"MEDEVAC #20",
 	"MEDEVAC #21",
-	"MEDEVAC #22",
-    "MEDEVAC #23",
-    "MEDEVAC #24",
-    "MEDEVAC #25",
-    "MEDEVAC #26",
-	"MEDEVAC #27",
-	"MEDEVAC #28",
-	"MEDEVAC #29",
-	"MEDEVAC #30",
-	"MEDEVAC #31",    
-	"MEDEVAC #35",
-	"MEDEVAC #36",
-	"MEDEVAC #37",
-	"MEDEVAC #38",
-	"MEDEVAC #39",
-	"MEDEVAC #40",
-
 
     "MEDEVAC RED #1",
     "MEDEVAC RED #2",
@@ -805,9 +774,8 @@ ctld.unitActions = {
 -- You can also add an optional coalition side to limit the group to one side
 -- for the side - 2 is BLUE and 1 is RED
 ctld.loadableGroups = {
-    {name = "Standard Group", inf = 1, mg = 1, at = 4 }, -- will make a loadable group with 5 infantry, 2 MGs and 2 anti-tank for both coalitions
-    {name = "Anti Air", inf = 0, aa = 1  },
-    {name = "Anti Tank", inf = 0, at = 5  },
+    {name = "Standard Group", inf = 2, mg = 2, at = 2 }, -- will make a loadable group with 5 infantry, 2 MGs and 2 anti-tank for both coalitions
+    {name = "Anti Tank", inf = 0, at = 3  },
 	{name = "Mortar Squad", mortar = 3 },
     -- {name = "Mortar Squad Red", inf = 2, mortar = 5, side =1 }, --would make a group loadable by RED only
 }
@@ -818,7 +786,7 @@ ctld.loadableGroups = {
 --
 ctld.spawnableCrates = {
     -- name of the sub menu on F10 for spawning crates
-    ["APC"] = {
+    ["Ground Forces"] = {
         --crates you can spawn
         -- weight in KG
         -- Desc is the description on the F10 MENU
@@ -826,112 +794,48 @@ ctld.spawnableCrates = {
         -- cratesRequired - if set requires that many crates of the same type within 100m of each other in order build the unit
         -- side is optional but 2 is BLUE and 1 is RED
         -- dont use that option with the HAWK Crates
+        { weight = 500, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 2 },
+        { weight = 505, desc = "HMMWV - MG", unit = "M1043 HMMWV Armament", side = 1 },
+		{ weight = 500, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 1 },
+        { weight = 505, desc = "HMMWV - MG", unit = "M1043 HMMWV Armament", side = 2 },
 
-        { weight = 401, desc = "BTR-D", unit = "BTR_D", side = 2 },
-        { weight = 402, desc = "BRDM-2", unit = "BRDM-2", side = 2 },
- 		{ weight = 403, desc = "BTR-80", unit = "BTR-80", side = 2, cratesRequired = 1   },       
-		{ weight = 404, desc = "MTLB", unit = "MTLB", side = 2, cratesRequired = 1   },		
-		{ weight = 405, desc = "M1126 Stryker ICV", unit = "M1126 Stryker ICV", side = 2, cratesRequired = 1   },
-		{ weight = 406, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 2, cratesRequired = 1   },
-		{ weight = 407, desc = "M1128 Stryker MGS", unit = "M1128 Stryker MGS", side = 2, cratesRequired = 1 },
-        { weight = 408, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 2, cratesRequired = 1 },
-        { weight = 409, desc = "M-818 Ammo Truck", unit = "M 818", side = 2, cratesRequired = 1 },
-		
-		{ weight = 401, desc = "BTR-D", unit = "BTR_D", side = 1 },
-        { weight = 402, desc = "BRDM-2", unit = "BRDM-2", side = 1 },
- 		{ weight = 403, desc = "BTR-80", unit = "BTR-80", side = 1, cratesRequired = 1   },       
-		{ weight = 404, desc = "MTLB", unit = "MTLB", side = 1, cratesRequired = 1   },		
-		{ weight = 405, desc = "M1126 Stryker ICV", unit = "M1126 Stryker ICV", side = 1, cratesRequired = 1   },
-		{ weight = 406, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 1, cratesRequired = 1   },
-		{ weight = 407, desc = "M1128 Stryker MGS", unit = "M1128 Stryker MGS", side = 1, cratesRequired = 1   },
-        { weight = 408, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 1, cratesRequired = 1 },
-        { weight = 409, desc = "M-818 Ammo Truck", unit = "M 818", side = 1, cratesRequired = 1 },
-    },
+        { weight = 510, desc = "BTR-D", unit = "BTR_D", side = 2 },
+		{ weight = 510, desc = "BTR-D", unit = "BTR_D", side = 1 },
+        { weight = 515, desc = "BRDM-2", unit = "BRDM-2", side = 1 },
+		{ weight = 515, desc = "BRDM-2", unit = "BRDM-2", side = 2 },
+
+        { weight = 520, desc = "Cobra", unit = "Cobra", side = 2, },
+        { weight = 520, desc = "Cobra", unit = "Cobra", side = 1, },
+
+        { weight = 100, desc = "2B11 Mortar", unit = "2B11 mortar" },
+
+        { weight = 250, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 2 },
+		{ weight = 250, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 2, cratesRequired = 2 },
+        { weight = 255, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 2 },
+		{ weight = 255, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 2 },
 	
-	["IFV"] = {
-		{ weight = 601, desc = "ZBD04A", unit = "ZBD04A", side = 2 },
-		{ weight = 602, desc = "BMD-1", unit = "BMD-1", side = 2, cratesRequired = 2 },
-		{ weight = 603, desc = "BMP-1", unit = "BMP-1", side = 2, cratesRequired = 2 },
-		{ weight = 604, desc = "BMP-2", unit = "BMP-2", side = 2, cratesRequired = 2 },
-		{ weight = 605, desc = "BMP-3", unit = "BMP-3", side = 2, cratesRequired = 2 },
-        { weight = 606, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 2 },
-		{ weight = 607, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 2, cratesRequired = 2 },		
-		{ weight = 608, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 2, cratesRequired = 2 },
-		{ weight = 609, desc = "Marder", unit = "Marder", side = 2, cratesRequired = 2 },		
-		
-		{ weight = 601, desc = "ZBD04A", unit = "ZBD04A", side = 1, cratesRequired = 2 },
-		{ weight = 602, desc = "BMD-1", unit = "BMD-1", side = 1, cratesRequired = 2 },
-		{ weight = 603, desc = "BMP-1", unit = "BMP-1", side = 1, cratesRequired = 2 },
-		{ weight = 604, desc = "BMP-2", unit = "BMP-2", side = 1, cratesRequired = 2 },
-		{ weight = 605, desc = "BMP-3", unit = "BMP-3", side = 1, cratesRequired = 2 },
-        { weight = 606, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 1, cratesRequired = 2 },
-		{ weight = 607, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 1, cratesRequired = 2 },		
-		{ weight = 608, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 1, cratesRequired = 2 },
-		{ weight = 609, desc = "Marder", unit = "Marder", side = 1, cratesRequired = 2 },	
-		
-	},
-	["TANKS"] = {
-		{ weight = 750, desc = "Leopard1A3", unit = "Leopard1A3", side = 2, cratesRequired = 2 },
-		{ weight = 701, desc = "Leopard-2", unit = "Leopard-2", side = 2, cratesRequired = 3 },
-		{ weight = 702, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 2, cratesRequired = 3 },
-		{ weight = 703, desc = "T-72B", unit = "T-72B", side = 2, cratesRequired = 3 },
-		{ weight = 704, desc = "T-80UD", unit = "T-80UD", side = 2, cratesRequired = 3 },
-		{ weight = 705, desc = "T-90", unit = "T-90", side = 2, cratesRequired = 3 },
-		{ weight = 707, desc = "ZTZ96B", unit = "ZTZ96B", side = 2, cratesRequired = 3 },
-		{ weight = 708, desc = "T-55", unit = "T-55", side = 2, cratesRequired = 3 },
-		{ weight = 709, desc = "T-72B", unit = "T-72B", side = 2, cratesRequired = 3 },
-		
-		{ weight = 750, desc = "Leopard1A3", unit = "Leopard1A3", side = 1, cratesRequired = 2 },
-		{ weight = 701, desc = "Leopard-2", unit = "Leopard-2", side = 1, cratesRequired = 3 },
-		{ weight = 702, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 1, cratesRequired = 3 },
-		{ weight = 703, desc = "T-72B", unit = "T-72B", side = 1, cratesRequired = 3 },
-		{ weight = 704, desc = "T-80UD", unit = "T-80UD", side = 1, cratesRequired = 3 },
-		{ weight = 705, desc = "T-90", unit = "T-90", side = 1, cratesRequired = 3 },
-		{ weight = 707, desc = "ZTZ96B", unit = "ZTZ96B", side = 1, cratesRequired = 3 },
-		{ weight = 708, desc = "T-55", unit = "T-55", side = 1, cratesRequired = 3 },
-		{ weight = 709, desc = "T-72B", unit = "T-72B", side = 1, cratesRequired = 3 },
-		
-	    { weight = 710, desc = "FOB Crate - Small", unit = "FOB-SMALL" },
+
+        { weight = 252, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 1, cratesRequired = 1 },
+        { weight = 253, desc = "M-818 Ammo Truck", unit = "M 818", side = 2, cratesRequired = 1 },
+
+        { weight = 800, desc = "FOB Crate - Small", unit = "FOB-SMALL" }, -- Builds a FOB! - requires 3 * ctld.cratesRequiredForFOB
     },
-	
-    ["AA"] = {
-		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
-		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 2, cratesRequired = 3 },
-		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 2, cratesRequired = 1 },
-		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2 },
-		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
-        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
-	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },	
+    ["AA Crates"] = {
+
+        -- BUK System
+        --        { weight = 575, desc = "BUK Launcher", unit = "SA-11 Buk LN 9A310M1"},
+        --        { weight = 580, desc = "BUK Search Radar", unit = "SA-11 Buk SR 9S18M1"},
+        --        { weight = 585, desc = "BUK CC Radar", unit = "SA-11 Buk CC 9S470M1"},
+        --        { weight = 590, desc = "BUK Repair", unit = "BUK Repair"},
+        -- END of BUK
+
+        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR", side = 1 }, -- cant be used by BLUE coalition
 		
-		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
-		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 1, cratesRequired = 3 },
-		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 1, cratesRequired = 1 },
-		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2 },
-		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
-        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },
-
-
-
+		{ weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 2 },
+        { weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 2 },
+		{ weight = 504, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2  },
+		{ weight = 504, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2  },
     },
-	
-	["ARTILLERY"] = {
-		{ weight = 801, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 3 },
-		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 2, cratesRequired = 3 },	
-		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 2, cratesRequired = 3 },	
-		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 2, cratesRequired = 2 },		
-		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 2, cratesRequired = 2 },		
-		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 2, cratesRequired = 3 },		
-		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 2, cratesRequired = 2 },		
-
-		
-		{ weight = 801, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 3 },
-		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 1, cratesRequired = 3 },	
-		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 1, cratesRequired = 3 },	
-		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 1, cratesRequired = 2 },		
-		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 1, cratesRequired = 2 },		
-		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 3 },		
-		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 1, cratesRequired = 2 },		
-	},
 }
 
 -- if the unit is on this list, it will be made into a JTAC when deployed
