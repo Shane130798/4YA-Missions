@@ -1,1 +1,0 @@
-BLUE_ANAPA = SPAWN:New( "BLUE_ANAPA" ) :InitRepeat():Spawn()

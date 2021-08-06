@@ -1,1 +1,0 @@
-BLUE_GUDAUTA = SPAWN:New( "BLUE_GUDAUTA" ) :InitRepeat():Spawn()

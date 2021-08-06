@@ -1,0 +1,6 @@
+CHAT: Apr 21 20:59:00 {name  = "Snake", ucid = "b1a2cdb36e11f82d3ff994f15ac81d93", ip = "178.191.96.29:56972", id = 15} said "^that was close" to all
+CHAT: Apr 21 20:59:16 {name  = "LT.CotteneyeJoe", ucid = "6f3cf1085cdaa78cfaa69beb697afd2e", ip = "77.161.63.37:59100", id = 4} said "SCARED the shit out of me" to all
+TEAM HIT: Apr 21 21:02:24 {players = {1 = {name  = "zeroFlaps", ucid = "fd257e0b8729ada70c543a43435ad5e1", ip = "87.144.239.136:61897", id = 30}1 = {name = New Static Object #209 with kamikaze
+TEAM HIT: Apr 21 21:02:24 {players = {1 = {name  = "zeroFlaps", ucid = "fd257e0b8729ada70c543a43435ad5e1", ip = "87.144.239.136:61897", id = 30}1 = {name = New Static Object #210 with kamikaze
+TEAM KILL: Apr 21 21:02:26 {players = {1 = {name  = "zeroFlaps", ucid = "fd257e0b8729ada70c543a43435ad5e1", ip = "nil", id = 30}1 = {name = New Static Object #210 with kamikaze
+TEAM KILL: Apr 21 21:02:26 {players = {1 = {name  = "zeroFlaps", ucid = "fd257e0b8729ada70c543a43435ad5e1", ip = "nil", id = 30}1 = {name = New Static Object #209 with kamikaze
