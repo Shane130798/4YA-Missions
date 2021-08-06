@@ -28,7 +28,7 @@ ctld = {} -- DONT REMOVE!
 
 ctld.staticBugWorkaround = false --  DCS had a bug where destroying statics would cause a crash. If this happens again, set this to TRUE
 
-ctld.disableAllSmoke = false -- if true, all smoke is diabled at pickup and drop off zones regardless of settings below. Leave false to respect settings below
+ctld.disableAllSmoke = true -- if true, all smoke is diabled at pickup and drop off zones regardless of settings below. Leave false to respect settings below
 
 ctld.hoverPickup = true --  if set to false you can load crates with the F10 menu instead of hovering... Only if not using real crates!
 
@@ -40,20 +40,20 @@ ctld.slingLoad = false -- if false, crates can be used WITHOUT slingloading, by 
 
 ctld.enableSmokeDrop = true -- if false, helis and c-130 will not be able to drop smoke
 
-ctld.maxExtractDistance = 125 -- max distance from vehicle to troops to allow a group extraction
+ctld.maxExtractDistance = 80 -- max distance from vehicle to troops to allow a group extraction
 ctld.maximumDistanceLogistic = 200 -- max distance from vehicle to logistics to allow a loading or spawning operation
 ctld.maximumSearchDistance = 4000 -- max distance for troops to search for enemy
 ctld.maximumMoveDistance = 2500 -- max distance for troops to move from drop point if no enemy is nearby
 
-ctld.minimumDeployDistance = 200 -- minimum distance from a friendly pickup zone where you can deploy a crate
+ctld.minimumDeployDistance = 10 -- minimum distance from a friendly pickup zone where you can deploy a crate
 
 ctld.numberOfTroops = 10 -- default number of troops to load on a transport heli or C-130 
 							-- also works as maximum size of group that'll fit into a helicopter unless overridden
 ctld.enableFastRopeInsertion = true -- allows you to drop troops by fast rope
-ctld.fastRopeMaximumHeight = 50.28 -- in meters which is 60 ft max fast rope (not rappell) safe height
+ctld.fastRopeMaximumHeight = 150.28 -- in meters which is 60 ft max fast rope (not rappell) safe height
 
 ctld.vehiclesForTransportRED = { "BRDM-2", "BTR_D" } -- vehicles to load onto Il-76 - Alternatives {"Strela-1 9P31","BMP-1"}
-ctld.vehiclesForTransportBLUE = { "M1045 HMMWV TOW", "M1043 HMMWV Armament", "M1128 Stryker MGS","M1097 Avenger", "MLRS M270" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
+ctld.vehiclesForTransportBLUE = { "M1134 Stryker ATGM", "Marder", "M1128 Stryker MGS","M1097 Avenger", "M-1 Abrams" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
 
 ctld.aaLaunchers = 2 -- controls how many launchers to add to the kub/buk when its spawned.
 ctld.hawkLaunchers = 2 -- controls how many launchers to add to the hawk when its spawned.
@@ -103,9 +103,9 @@ ctld.hoverTime = 3 -- Time to hold hover above a crate for loading in seconds
 -- When this limit is hit, a player will still be able to get crates for an AA system, just unable
 -- to unpack them
 
-ctld.AASystemLimitRED = 10 -- Red side limit
+ctld.AASystemLimitRED = 3 -- Red side limit
 
-ctld.AASystemLimitBLUE = 10 -- Blue side limit
+ctld.AASystemLimitBLUE = 3 -- Blue side limit
 
 --END AA SYSTEM CONFIG --
 
@@ -171,7 +171,16 @@ ctld.pickupZones = {
     { "pickzone17", "none", -1, "yes", 0 },
     { "pickzone18", "none", -1, "yes", 0 },
     { "pickzone19", "none", -1, "yes", 0 },
-    { "pickzone20", "none", -1, "yes", 0, 1000 }, -- optional extra flag number to store the current number of groups available in
+	{ "pickzone20", "none", -1, "yes", 0 },
+    { "pickzone21", "none", -1, "yes", 0 },
+    { "pickzone22", "none", -1, "yes", 0 },
+    { "pickzone23", "none", -1, "yes", 0 },
+	{ "pickzone24", "none", -1, "yes", 0 },
+	{ "pickzone25", "none", -1, "yes", 0 },
+    { "pickzone26", "none", -1, "yes", 0 },
+    { "pickzone27", "none", -1, "yes", 0 },
+    { "pickzone28", "none", -1, "yes", 0 },
+    { "pickzone29", "none", -1, "yes", 0, 1000 }, -- optional extra flag number to store the current number of groups available in
 
     { "USA Carrier", "blue", 10, "yes", 0, 1001 }, -- instead of a Zone Name you can also use the UNIT NAME of a ship
 }
@@ -270,6 +279,16 @@ ctld.transportPilotNames = {
 	"helicargo48",
 	"helicargo49",
 	"helicargo50",
+	"helicargo50",
+	"helicargo51",
+	"helicargo52",
+	"helicargo53",
+	"helicargo54",
+	"helicargo55",
+	"helicargo56",
+	"helicargo57",
+	"helicargo58",
+	"helicargo59",	
 
     "MEDEVAC #1",
     "MEDEVAC #2",
@@ -374,51 +393,56 @@ ctld.transportPilotNames = {
 	"MEDEVAC RED #79",
     "MEDEVAC RED #80",
 	"MEDEVAC RED #81",
-	"MEDEVAC RED #82",
-	"MEDEVAC RED #83",
-	"MEDEVAC RED #84",
-	"MEDEVAC RED #85",
-	"MEDEVAC RED #86",
-	"MEDEVAC RED #87",
-	"MEDEVAC RED #88",
-	"MEDEVAC RED #89",
-	"MEDEVAC RED #90",
-	"MEDEVAC RED #91",
-	"MEDEVAC RED #92",
-	"MEDEVAC RED #93",
-	"MEDEVAC RED #94",
-	"MEDEVAC RED #95",
-	"MEDEVAC RED #96",
-	"MEDEVAC RED #97",
-	"MEDEVAC RED #98",
-	"MEDEVAC RED #99",
-	"MEDEVAC RED #100",
-	"MEDEVAC RED #101",
-	"MEDEVAC RED #102",
-	"MEDEVAC RED #103",
-	"MEDEVAC RED #104",
-	"MEDEVAC RED #105",
-	"MEDEVAC RED #106",
-	"MEDEVAC RED #107",
-	"MEDEVAC RED #108",
-	"MEDEVAC RED #109",
-	"MEDEVAC RED #110",
-	"MEDEVAC RED #111",
-	"MEDEVAC RED #112",
-	"MEDEVAC RED #113",
-	"MEDEVAC RED #114",
-	"MEDEVAC RED #115",
-	"MEDEVAC RED #116",
-	"MEDEVAC RED #117",
-	"MEDEVAC RED #118",
-	"MEDEVAC RED #119",
-	"MEDEVAC RED #120",
-	"MEDEVAC RED #121",
-	"MEDEVAC RED #122",
-	"MEDEVAC RED #123",
-	"MEDEVAC RED #124",
-	
-	
+    "MEDEVAC RED #82",
+    "MEDEVAC RED #83",
+    "MEDEVAC RED #84",
+    "MEDEVAC RED #85",
+    "MEDEVAC RED #86",
+    "MEDEVAC RED #87",
+    "MEDEVAC RED #88",
+    "MEDEVAC RED #89",
+    "MEDEVAC RED #90",
+    "MEDEVAC RED #91",
+    "MEDEVAC RED #92",
+    "MEDEVAC RED #93",
+    "MEDEVAC RED #94",
+    "MEDEVAC RED #95",
+    "MEDEVAC RED #96",
+    "MEDEVAC RED #97",
+    "MEDEVAC RED #98",
+    "MEDEVAC RED #99",
+    "MEDEVAC RED #100",	
+    "MEDEVAC RED #101",	
+    "MEDEVAC RED #102",	
+    "MEDEVAC RED #103",	
+    "MEDEVAC RED #104",		
+    "MEDEVAC RED #105",
+    "MEDEVAC RED #106",	
+    "MEDEVAC RED #107",	
+    "MEDEVAC RED #108",	
+    "MEDEVAC RED #109",	
+	"MEDEVAC RED #110",	
+    "MEDEVAC RED #111",	
+    "MEDEVAC RED #112",	
+    "MEDEVAC RED #113",		
+    "MEDEVAC RED #114",
+    "MEDEVAC RED #115",	
+    "MEDEVAC RED #116",
+    "MEDEVAC RED #117",
+    "MEDEVAC RED #118",	
+    "MEDEVAC RED #119",		
+    "MEDEVAC RED #120",		
+	"MEDEVAC RED #121",	
+    "MEDEVAC RED #122",	
+    "MEDEVAC RED #123",	
+    "MEDEVAC RED #124",		
+    "MEDEVAC RED #125",
+    "MEDEVAC RED #126",	
+    "MEDEVAC RED #127",
+    "MEDEVAC RED #128",
+    "MEDEVAC RED #129",	
+    "MEDEVAC RED #130",		
+    "MEDEVAC RED #131",
 
     "MEDEVAC BLUE #1",
     "MEDEVAC BLUE #2",
@@ -520,6 +544,190 @@ ctld.transportPilotNames = {
 	"MEDEVAC BLUE #98",
 	"MEDEVAC BLUE #99",
 	"MEDEVAC BLUE #100",
+	"MEDEVAC BLUE #101",
+	"MEDEVAC BLUE #102",
+	"MEDEVAC BLUE #103",
+	"MEDEVAC BLUE #104",
+	"MEDEVAC BLUE #105",
+	"MEDEVAC BLUE #106",
+	"MEDEVAC BLUE #107",
+	"MEDEVAC BLUE #108",
+	"MEDEVAC BLUE #109",
+	"MEDEVAC BLUE #110",
+	"MEDEVAC BLUE #111",
+	"MEDEVAC BLUE #112",
+	"MEDEVAC BLUE #113",
+	"MEDEVAC BLUE #114",
+	"MEDEVAC BLUE #115",
+	"MEDEVAC BLUE #116",
+	"MEDEVAC BLUE #117",
+	"MEDEVAC BLUE #118",
+	"MEDEVAC BLUE #119",
+	"MEDEVAC BLUE #120",
+	"MEDEVAC BLUE #121",
+	"MEDEVAC BLUE #122",
+	"MEDEVAC BLUE #123",
+	"MEDEVAC BLUE #124",
+	"MEDEVAC BLUE #125",
+	"MEDEVAC BLUE #126",
+	"MEDEVAC BLUE #127",
+	"MEDEVAC BLUE #128",
+	"MEDEVAC BLUE #129",
+	"MEDEVAC BLUE #130",
+	"MEDEVAC BLUE #132",
+	"MEDEVAC BLUE #133",
+	"MEDEVAC BLUE #134",
+	"MEDEVAC BLUE #135",
+	"MEDEVAC BLUE #136",
+	"MEDEVAC BLUE #137",
+	"MEDEVAC BLUE #138",	
+    "MEDEVAC BLUE #139",
+	"MEDEVAC BLUE #140",
+    "MEDEVAC BLUE #141",
+	"MEDEVAC BLUE #142",	
+	"MEDEVAC BLUE #143",	
+    "MEDEVAC BLUE #144",
+	"MEDEVAC BLUE #145",
+    "MEDEVAC BLUE #146",
+	"MEDEVAC BLUE #147",
+	"MEDEVAC BLUE #148",
+	"MEDEVAC BLUE #149",	
+	"MEDEVAC BLUE #150",	
+	"MEDEVAC BLUE #151",	
+	"MEDEVAC BLUE #152",
+	"MEDEVAC BLUE #153",	
+	"MEDEVAC BLUE #154",
+	"MEDEVAC BLUE #155",
+	"MEDEVAC BLUE #156",
+	"MEDEVAC BLUE #157",
+	"MEDEVAC BLUE #158",
+	"MEDEVAC BLUE #159",
+	"MEDEVAC BLUE #160",
+	"MEDEVAC BLUE #161",
+	"MEDEVAC BLUE #162",
+    "MEDEVAC BLUE #163",
+	"MEDEVAC BLUE #164",
+	"MEDEVAC BLUE #165",
+	"MEDEVAC BLUE #166",
+	"MEDEVAC BLUE #167",
+	"MEDEVAC BLUE #168",
+	"MEDEVAC BLUE #169",
+	"MEDEVAC BLUE #170",
+	"MEDEVAC BLUE #171",
+	"MEDEVAC BLUE #172",
+	"MEDEVAC BLUE #173",
+	"MEDEVAC BLUE #174",
+	"MEDEVAC BLUE #175",
+	"MEDEVAC BLUE #176",
+	"MEDEVAC BLUE #177",
+	"MEDEVAC BLUE #178",
+	"MEDEVAC BLUE #179",
+	"MEDEVAC BLUE #180",
+	"MEDEVAC BLUE #181",
+	"MEDEVAC BLUE #182",
+	"MEDEVAC BLUE #183",
+	"MEDEVAC BLUE #184",
+	"MEDEVAC BLUE #185",
+	"MEDEVAC BLUE #186",
+	"MEDEVAC BLUE #187",
+	"MEDEVAC BLUE #188",
+	"MEDEVAC BLUE #189",
+	"MEDEVAC BLUE #190",
+	"MEDEVAC BLUE #191",
+	"MEDEVAC BLUE #192",
+	"MEDEVAC BLUE #193",
+	"MEDEVAC BLUE #194",
+	"MEDEVAC BLUE #195",
+	"MEDEVAC BLUE #196",
+	"MEDEVAC BLUE #197",
+	"MEDEVAC BLUE #198",
+	"MEDEVAC BLUE #199",
+	"MEDEVAC BLUE #200",
+	"MEDEVAC BLUE #201",
+	"MEDEVAC BLUE #202",
+	"MEDEVAC BLUE #203",
+	"MEDEVAC BLUE #204",
+	"MEDEVAC BLUE #205",
+	"MEDEVAC BLUE #206",
+	"MEDEVAC BLUE #207",
+	"MEDEVAC BLUE #208",
+	"MEDEVAC BLUE #209",
+	"MEDEVAC BLUE #210",
+	"MEDEVAC BLUE #211",
+    "MEDEVAC BLUE #212",
+    "MEDEVAC BLUE #213",
+    "MEDEVAC BLUE #214",
+	"MEDEVAC BLUE #215",
+    "MEDEVAC BLUE #216",
+	"MEDEVAC BLUE #217",
+	"MEDEVAC BLUE #218",
+	"MEDEVAC BLUE #219",
+	"MEDEVAC BLUE #220",
+	"MEDEVAC BLUE #221",
+	"MEDEVAC BLUE #222",
+	"MEDEVAC BLUE #223",
+	"MEDEVAC BLUE #224",
+	"MEDEVAC BLUE #225",
+	"MEDEVAC BLUE #226",
+	"MEDEVAC BLUE #227",
+	"MEDEVAC BLUE #228",
+	"MEDEVAC BLUE #229",
+	"MEDEVAC BLUE #230",
+	"MEDEVAC BLUE #231",
+	"MEDEVAC BLUE #232",
+	"MEDEVAC BLUE #233",
+	"MEDEVAC BLUE #234",
+	"MEDEVAC BLUE #235",
+	"MEDEVAC BLUE #236",
+	"MEDEVAC BLUE #237",
+	"MEDEVAC BLUE #238",
+	"MEDEVAC BLUE #239",
+	"MEDEVAC BLUE #240",
+	"MEDEVAC BLUE #241",
+	"MEDEVAC BLUE #242",
+	"MEDEVAC BLUE #243",
+	"MEDEVAC BLUE #244",
+	"MEDEVAC BLUE #245",
+	"MEDEVAC BLUE #246",
+	"MEDEVAC BLUE #247",
+	"MEDEVAC BLUE #248",
+	"MEDEVAC BLUE #249",
+	"MEDEVAC BLUE #250",
+	"MEDEVAC BLUE #251",
+	"MEDEVAC BLUE #252",
+	"MEDEVAC BLUE #253",
+	"MEDEVAC BLUE #254",
+	"MEDEVAC BLUE #255",
+	"MEDEVAC BLUE #256",
+	"MEDEVAC BLUE #257",
+	"MEDEVAC BLUE #258",
+	"MEDEVAC BLUE #259",
+	"MEDEVAC BLUE #260",
+	"MEDEVAC BLUE #261",
+	"MEDEVAC BLUE #262",
+	"MEDEVAC BLUE #263",
+	"MEDEVAC BLUE #264",
+	"MEDEVAC BLUE #265",
+	"MEDEVAC BLUE #266",
+	"MEDEVAC BLUE #267",
+	"MEDEVAC BLUE #268",
+	"MEDEVAC BLUE #269",
+	"MEDEVAC BLUE #270",
+	"MEDEVAC BLUE #271",
+	"MEDEVAC BLUE #272",
+	"MEDEVAC BLUE #273",
+	"MEDEVAC BLUE #274",
+	"MEDEVAC BLUE #275",
+	"MEDEVAC BLUE #276",
+	"MEDEVAC BLUE #277",
+	"MEDEVAC BLUE #278",
+	"MEDEVAC BLUE #279",
+	"MEDEVAC BLUE #280",
+	"MEDEVAC BLUE #281",
+	"MEDEVAC BLUE #282",
+	"MEDEVAC BLUE #283",
+	"MEDEVAC BLUE #284",
+	"MEDEVAC BLUE #285",
 
 	
     -- *** AI transports names (different names only to ease identification in mission) ***
@@ -568,6 +776,17 @@ ctld.transportPilotNames = {
 	"transport38",
 	"transport39",
 	"transport40",
+	"transport41",
+	"transport42",
+	"transport43",
+	"transport44",
+	"transport45",
+	"transport46",
+	"transport47",
+	"transport48",
+	"transport49",
+	"transport50",
+	
 	
 }
 
@@ -638,8 +857,15 @@ ctld.logisticUnits = {
 	"logistic25",
 	"logistic26",
 	"logistic27",
-	
-	
+	"logistic28",
+	"logistic29",
+	"logistic30",	
+	"logistic31",
+	"logistic32",
+	"logistic33",
+	"logistic34",
+	"logistic35",
+	"logistic36",	
 }
 
 -- ************** UNITS ABLE TO TRANSPORT VEHICLES ******************
@@ -650,6 +876,14 @@ ctld.vehicleTransportEnabled = {
     "76MD", -- the il-76 mod doesnt use a normal - sign so il-76md wont match... !!!! GRR
     "C-130",
 	"UH-1H",
+	"tu-142",
+	"IL-78M",
+	"An-26B",
+	"C-17A",
+	"E-3A",
+	"B-52H",
+	"KC-135",
+	"Yak-40",
 }
 
 
@@ -707,9 +941,9 @@ ctld.unitActions = {
 -- You can also add an optional coalition side to limit the group to one side
 -- for the side - 2 is BLUE and 1 is RED
 ctld.loadableGroups = {
-    {name = "Standard Group", inf = 2, mg = 2, at = 2 }, -- will make a loadable group with 5 infantry, 2 MGs and 2 anti-tank for both coalitions
+    {name = "Standard Group", inf = 1, mg = 1, at = 4 }, -- will make a loadable group with 5 infantry, 2 MGs and 2 anti-tank for both coalitions
     {name = "Anti Air", inf = 0, aa = 3  },
-    {name = "Anti Tank", inf = 0, at = 3  },
+    {name = "Anti Tank", inf = 0, at = 5  },
 	{name = "Mortar Squad", mortar = 3 },
     -- {name = "Mortar Squad Red", inf = 2, mortar = 5, side =1 }, --would make a group loadable by RED only
 }
@@ -720,7 +954,7 @@ ctld.loadableGroups = {
 --
 ctld.spawnableCrates = {
     -- name of the sub menu on F10 for spawning crates
-    ["Ground Forces"] = {
+    ["APC"] = {
         --crates you can spawn
         -- weight in KG
         -- Desc is the description on the F10 MENU
@@ -728,62 +962,112 @@ ctld.spawnableCrates = {
         -- cratesRequired - if set requires that many crates of the same type within 100m of each other in order build the unit
         -- side is optional but 2 is BLUE and 1 is RED
         -- dont use that option with the HAWK Crates
-        { weight = 500, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 2 },
-        { weight = 505, desc = "HMMWV - MG", unit = "M1043 HMMWV Armament", side = 1 },
 
-        { weight = 510, desc = "BTR-D", unit = "BTR_D", side = 2 },
-        { weight = 515, desc = "BRDM-2", unit = "BRDM-2", side = 1 },
-
-        { weight = 520, desc = "HMMWV - JTAC", unit = "Hummer", side = 2, }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
-        { weight = 525, desc = "SKP-11 - JTAC", unit = "SKP-11", side = 1, }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
-
-        { weight = 100, desc = "2B11 Mortar", unit = "2B11 mortar" },
-
-        { weight = 250, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 1 },
-        { weight = 255, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 1 },
+        { weight = 401, desc = "BTR-D", unit = "BTR_D", side = 2 },
+        { weight = 402, desc = "BRDM-2", unit = "BRDM-2", side = 2 },
+ 		{ weight = 403, desc = "BTR-80", unit = "BTR-80", side = 2, cratesRequired = 1   },       
+		{ weight = 404, desc = "MTLB", unit = "MTLB", side = 2, cratesRequired = 1   },		
+		{ weight = 405, desc = "M1126 Stryker ICV", unit = "M1126 Stryker ICV", side = 2, cratesRequired = 1   },
+		{ weight = 406, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 2, cratesRequired = 1   },
+		{ weight = 407, desc = "M1128 Stryker MGS", unit = "M1128 Stryker MGS", side = 2, cratesRequired = 2 },
+        { weight = 408, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 2, cratesRequired = 1 },
+        { weight = 409, desc = "M-818 Ammo Truck", unit = "M 818", side = 2, cratesRequired = 1 },
 		
-		{ weight = 254, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 1, cratesRequired = 2 },
-		{ weight = 204, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 2 },
-
-        { weight = 252, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 1, cratesRequired = 1 },
-        { weight = 253, desc = "M-818 Ammo Truck", unit = "M 818", side = 2, cratesRequired = 1 },
-
-        { weight = 800, desc = "FOB Crate - Small", unit = "FOB-SMALL" }, -- Builds a FOB! - requires 3 * ctld.cratesRequiredForFOB
+		{ weight = 401, desc = "BTR-D", unit = "BTR_D", side = 1 },
+        { weight = 402, desc = "BRDM-2", unit = "BRDM-2", side = 1 },
+ 		{ weight = 403, desc = "BTR-80", unit = "BTR-80", side = 1, cratesRequired = 1   },       
+		{ weight = 404, desc = "MTLB", unit = "MTLB", side = 1, cratesRequired = 1   },		
+		{ weight = 405, desc = "M1126 Stryker ICV", unit = "M1126 Stryker ICV", side = 1, cratesRequired = 1   },
+		{ weight = 406, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 1, cratesRequired = 1   },
+		{ weight = 407, desc = "M1128 Stryker MGS", unit = "M1128 Stryker MGS", side = 1, cratesRequired = 1   },
+        { weight = 408, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 1, cratesRequired = 1 },
+        { weight = 409, desc = "M-818 Ammo Truck", unit = "M 818", side = 1, cratesRequired = 1 },
     },
-    ["AA Crates"] = {
-        { weight = 50, desc = "Stinger", unit = "Stinger manpad", side = 0 },
-
-        -- HAWK System
-        { weight = 540, desc = "HAWK Launcher", unit = "Hawk ln", side = 2},
-        { weight = 545, desc = "HAWK Search Radar", unit = "Hawk sr", side = 2 },
-        { weight = 550, desc = "HAWK Track Radar", unit = "Hawk tr", side = 2 },
-        { weight = 551, desc = "HAWK PCP", unit = "Hawk pcp" , side = 2 }, -- Remove this if on 1.2
-        { weight = 552, desc = "HAWK Repair", unit = "HAWK Repair" , side = 2 },
-        -- End of HAWK
-
-        -- KUB SYSTEM
-        { weight = 560, desc = "KUB Launcher", unit = "Kub 2P25 ln", side = 1},
-        { weight = 565, desc = "KUB Radar", unit = "Kub 1S91 str", side = 1 },
-        { weight = 570, desc = "KUB Repair", unit = "KUB Repair", side = 1},
-		{ weight = 560, desc = "KUB Launcher", unit = "Kub 2P25 ln", side = 2},
-        { weight = 565, desc = "KUB Radar", unit = "Kub 1S91 str", side = 2 },
-        { weight = 570, desc = "KUB Repair", unit = "KUB Repair", side = 2},
-        -- End of KUB
-
-        -- BUK System
-        --        { weight = 575, desc = "BUK Launcher", unit = "SA-11 Buk LN 9A310M1"},
-        --        { weight = 580, desc = "BUK Search Radar", unit = "SA-11 Buk SR 9S18M1"},
-        --        { weight = 585, desc = "BUK CC Radar", unit = "SA-11 Buk CC 9S470M1"},
-        --        { weight = 590, desc = "BUK Repair", unit = "BUK Repair"},
-        -- END of BUK
-
-        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR", side = 1 }, -- cant be used by BLUE coalition
+	
+	["IFV"] = {
+		{ weight = 601, desc = "ZBD04A", unit = "ZBD04A", side = 2 },
+		{ weight = 602, desc = "BMD-1", unit = "BMD-1", side = 2, cratesRequired = 2 },
+		{ weight = 603, desc = "BMP-1", unit = "BMP-1", side = 2, cratesRequired = 2 },
+		{ weight = 604, desc = "BMP-2", unit = "BMP-2", side = 2, cratesRequired = 2 },
+		{ weight = 605, desc = "BMP-3", unit = "BMP-3", side = 2, cratesRequired = 2 },
+        { weight = 606, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 2 },
+		{ weight = 607, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 2, cratesRequired = 2 },		
+		{ weight = 608, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 2, cratesRequired = 2 },
+		{ weight = 609, desc = "Marder", unit = "Marder", side = 2, cratesRequired = 2 },		
 		
-		{ weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 1 },
-        { weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 1 },
-        { weight = 400, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 1 },
+		{ weight = 601, desc = "ZBD04A", unit = "ZBD04A", side = 1, cratesRequired = 2 },
+		{ weight = 602, desc = "BMD-1", unit = "BMD-1", side = 1, cratesRequired = 2 },
+		{ weight = 603, desc = "BMP-1", unit = "BMP-1", side = 1, cratesRequired = 2 },
+		{ weight = 604, desc = "BMP-2", unit = "BMP-2", side = 1, cratesRequired = 2 },
+		{ weight = 605, desc = "BMP-3", unit = "BMP-3", side = 1, cratesRequired = 2 },
+        { weight = 606, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 1, cratesRequired = 2 },
+		{ weight = 607, desc = "M1134 Stryker ATGM", unit = "M1134 Stryker ATGM", side = 1, cratesRequired = 2 },		
+		{ weight = 608, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 1, cratesRequired = 2 },
+		{ weight = 609, desc = "Marder", unit = "Marder", side = 1, cratesRequired = 2 },	
+		
+	},
+	["TANKS"] = {
+		{ weight = 750, desc = "Leopard1A3", unit = "Leopard1A3", side = 2, cratesRequired = 2 },
+		{ weight = 701, desc = "Leopard-2", unit = "Leopard-2", side = 2, cratesRequired = 3 },
+		{ weight = 702, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 2, cratesRequired = 3 },
+		{ weight = 703, desc = "T-72B", unit = "T-72B", side = 2, cratesRequired = 3 },
+		{ weight = 704, desc = "T-80UD", unit = "T-80UD", side = 2, cratesRequired = 3 },
+		{ weight = 705, desc = "T-90", unit = "T-90", side = 2, cratesRequired = 3 },
+		{ weight = 707, desc = "ZTZ96B", unit = "ZTZ96B", side = 2, cratesRequired = 3 },
+		{ weight = 708, desc = "T-55", unit = "T-55", side = 2, cratesRequired = 3 },
+		{ weight = 709, desc = "T-72B", unit = "T-72B", side = 2, cratesRequired = 3 },
+		
+		{ weight = 750, desc = "Leopard1A3", unit = "Leopard1A3", side = 1, cratesRequired = 2 },
+		{ weight = 701, desc = "Leopard-2", unit = "Leopard-2", side = 1, cratesRequired = 3 },
+		{ weight = 702, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 1, cratesRequired = 3 },
+		{ weight = 703, desc = "T-72B", unit = "T-72B", side = 1, cratesRequired = 3 },
+		{ weight = 704, desc = "T-80UD", unit = "T-80UD", side = 1, cratesRequired = 3 },
+		{ weight = 705, desc = "T-90", unit = "T-90", side = 1, cratesRequired = 3 },
+		{ weight = 707, desc = "ZTZ96B", unit = "ZTZ96B", side = 1, cratesRequired = 3 },
+		{ weight = 708, desc = "T-55", unit = "T-55", side = 1, cratesRequired = 3 },
+		{ weight = 709, desc = "T-72B", unit = "T-72B", side = 1, cratesRequired = 3 },
+		
+	    { weight = 710, desc = "FOB Crate - Small", unit = "FOB-SMALL" },
+    },
+	
+    ["AA"] = {
+		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
+		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 2, cratesRequired = 3 },
+		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 2, cratesRequired = 1 },
+		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2 },
+		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
+        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
+	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },	
+		
+		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
+		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 1, cratesRequired = 3 },
+		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 1, cratesRequired = 1 },
+		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2 },
+		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
+        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },
+
+
 
     },
+	
+	["ARTILLERY"] = {
+		{ weight = 801, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 3 },
+		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 2, cratesRequired = 3 },	
+		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 2, cratesRequired = 3 },	
+		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 2, cratesRequired = 2 },		
+		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 2, cratesRequired = 2 },		
+		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 2, cratesRequired = 3 },		
+		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 2, cratesRequired = 2 },		
+
+		
+		{ weight = 801, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 3 },
+		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 1, cratesRequired = 3 },	
+		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 1, cratesRequired = 3 },	
+		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 1, cratesRequired = 2 },		
+		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 1, cratesRequired = 2 },		
+		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 3 },		
+		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 1, cratesRequired = 2 },		
+	},
 }
 
 -- if the unit is on this list, it will be made into a JTAC when deployed
@@ -3345,7 +3629,6 @@ function ctld.unpackFOBCrates(_crates, _heli)
 
         ctld.processCallback({unit = _heli, position = _centroid, action = "fob"})
 
-        trigger.action.smoke(_centroid, trigger.smokeColor.Green)
 
         trigger.action.outTextForCoalition(_heli:getCoalition(), _txt, 10)
     else
