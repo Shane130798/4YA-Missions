@@ -1,0 +1,1 @@
+BLUE_KOBULETI = SPAWN:New( "BLUE_KOBULETI" ) :InitRepeat():Spawn()
