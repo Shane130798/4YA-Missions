@@ -72,6 +72,10 @@ csar.csarUnits = {
 	"helicargo57",
 	"helicargo58",
 	"helicargo59",
+	"helicargo60",
+	"helicargo61",
+	"helicargo62",
+	"helicargo63",
 
     "MEDEVAC #1",
     "MEDEVAC #2",

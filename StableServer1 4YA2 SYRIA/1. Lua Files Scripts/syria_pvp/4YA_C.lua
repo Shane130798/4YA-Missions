@@ -41,7 +41,7 @@ ctld.slingLoad = false -- if false, crates can be used WITHOUT slingloading, by 
 ctld.enableSmokeDrop = true -- if false, helis and c-130 will not be able to drop smoke
 
 ctld.maxExtractDistance = 80 -- max distance from vehicle to troops to allow a group extraction
-ctld.maximumDistanceLogistic = 300 -- max distance from vehicle to logistics to allow a loading or spawning operation
+ctld.maximumDistanceLogistic = 200 -- max distance from vehicle to logistics to allow a loading or spawning operation
 ctld.maximumSearchDistance = 4000 -- max distance for troops to search for enemy
 ctld.maximumMoveDistance = 2500 -- max distance for troops to move from drop point if no enemy is nearby
 
@@ -53,7 +53,7 @@ ctld.enableFastRopeInsertion = true -- allows you to drop troops by fast rope
 ctld.fastRopeMaximumHeight = 150.28 -- in meters which is 60 ft max fast rope (not rappell) safe height
 
 ctld.vehiclesForTransportRED = { "BRDM-2", "BTR_D" } -- vehicles to load onto Il-76 - Alternatives {"Strela-1 9P31","BMP-1"}
-ctld.vehiclesForTransportBLUE = { "M1045 HMMWV TOW", "M1043 HMMWV Armament", "M1128 Stryker MGS","M1097 Avenger", "MLRS M270" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
+ctld.vehiclesForTransportBLUE = { "M1134 Stryker ATGM", "Marder", "M1128 Stryker MGS","M1097 Avenger", "M-1 Abrams" } -- vehicles to load onto c130 - Alternatives {"M1128 Stryker MGS","M1097 Avenger"}
 
 ctld.aaLaunchers = 2 -- controls how many launchers to add to the kub/buk when its spawned.
 ctld.hawkLaunchers = 2 -- controls how many launchers to add to the hawk when its spawned.
@@ -124,7 +124,7 @@ ctld.JTAC_smokeOn_BLUE = true -- enables marking of target with smoke for BLUE f
 ctld.JTAC_smokeColour_RED = 4 -- RED side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
 ctld.JTAC_smokeColour_BLUE = 1 -- BLUE side smoke colour -- Green = 0 , Red = 1, White = 2, Orange = 3, Blue = 4
 
-ctld.JTAC_jtacStatusF10 = false -- enables F10 JTAC Status menu
+ctld.JTAC_jtacStatusF10 = true -- enables F10 JTAC Status menu
 
 ctld.JTAC_location = true -- shows location of target in JTAC message
 ctld.location_DMS = true -- shows coordinates as Degrees Minutes Seconds instead of Degrees Decimal minutes
@@ -151,36 +151,36 @@ ctld.JTAC_lock = "vehicle" -- "vehicle" OR "troop" OR "all" forces JTAC to only 
 
 --pickupZones = { "Zone name or Ship Unit Name", "smoke color", "limit (-1 unlimited)", "ACTIVE (yes/no)", "side (0 = Both sides / 1 = Red / 2 = Blue )", flag number (optional) }
 ctld.pickupZones = {
-    { "pickzone1", "none", 8, "yes", 0 },
-    { "pickzone2", "none", 8, "yes", 0 },
-    { "pickzone3", "none", 8, "yes", 0 },
-    { "pickzone4", "none", 8, "yes", 0 },
-    { "pickzone5", "none", 8, "yes", 0 },
-    { "pickzone6", "none", 8, "yes", 0 },
-    { "pickzone7", "none", 8, "yes", 0 },
-    { "pickzone8", "none", 8, "yes", 0 },
-    { "pickzone9", "none", 8, "yes", 0 }, -- limits pickup zone 9 to 5 groups of soldiers or vehicles, only red can pick up
-    { "pickzone10", "none", 8, "yes", 0 },  -- limits pickup zone 10 to 10 groups of soldiers or vehicles, only blue can pick up
+    { "pickzone1", "none", -1, "yes", 0 },
+    { "pickzone2", "none", -1, "yes", 0 },
+    { "pickzone3", "none", -1, "yes", 0 },
+    { "pickzone4", "none", -1, "yes", 0 },
+    { "pickzone5", "none", -1, "yes", 0 },
+    { "pickzone6", "none", -1, "yes", 0 },
+    { "pickzone7", "none", -1, "yes", 0 },
+    { "pickzone8", "none", -1, "yes", 0 },
+    { "pickzone9", "none", -1, "yes", 0 }, -- limits pickup zone 9 to 5 groups of soldiers or vehicles, only red can pick up
+    { "pickzone10", "none", -1, "yes", 0 },  -- limits pickup zone 10 to 10 groups of soldiers or vehicles, only blue can pick up
 
-    { "pickzone11", "none", 8, "yes", 0 },  -- limits pickup zone 11 to 20 groups of soldiers or vehicles, only blue can pick up. Zone starts inactive!
-    { "pickzone12", "none", 8, "yes", 0 },  -- limits pickup zone 11 to 20 groups of soldiers or vehicles, only blue can pick up. Zone starts inactive!
-    { "pickzone13", "none", 8, "yes", 0 },
-    { "pickzone14", "none", 8, "yes", 0 },
-    { "pickzone15", "none", 8, "yes", 0 },
-    { "pickzone16", "none", 8, "yes", 0 },
-    { "pickzone17", "none", 8, "yes", 0 },
-    { "pickzone18", "none", 8, "yes", 0 },
-    { "pickzone19", "none", 8, "yes", 0 },
-	{ "pickzone20", "none", 8, "yes", 0 },
-    { "pickzone21", "none", 8, "yes", 0 },
-    { "pickzone22", "none", 8, "yes", 0 },
-    { "pickzone23", "none", 6, "yes", 0 },
-	{ "pickzone24", "none", 6, "yes", 0 },
-	{ "pickzone25", "none", 6, "yes", 0 },
-    { "pickzone26", "none", 6, "yes", 0 },
-    { "pickzone27", "none", 6, "yes", 0 },
-    { "pickzone28", "none", 6, "yes", 0 },
-    { "pickzone29", "none", 6, "yes", 0, 1000 }, -- optional extra flag number to store the current number of groups available in
+    { "pickzone11", "none", -1, "yes", 0 },  -- limits pickup zone 11 to 20 groups of soldiers or vehicles, only blue can pick up. Zone starts inactive!
+    { "pickzone12", "none", -1, "yes", 0 },  -- limits pickup zone 11 to 20 groups of soldiers or vehicles, only blue can pick up. Zone starts inactive!
+    { "pickzone13", "none", -1, "yes", 0 },
+    { "pickzone14", "none", -1, "yes", 0 },
+    { "pickzone15", "none", -1, "yes", 0 },
+    { "pickzone16", "none", -1, "yes", 0 },
+    { "pickzone17", "none", -1, "yes", 0 },
+    { "pickzone18", "none", -1, "yes", 0 },
+    { "pickzone19", "none", -1, "yes", 0 },
+	{ "pickzone20", "none", -1, "yes", 0 },
+    { "pickzone21", "none", -1, "yes", 0 },
+    { "pickzone22", "none", -1, "yes", 0 },
+    { "pickzone23", "none", -1, "yes", 0 },
+	{ "pickzone24", "none", -1, "yes", 0 },
+	{ "pickzone25", "none", -1, "yes", 0 },
+    { "pickzone26", "none", -1, "yes", 0 },
+    { "pickzone27", "none", -1, "yes", 0 },
+    { "pickzone28", "none", -1, "yes", 0 },
+    { "pickzone29", "none", -1, "yes", 0, 1000 }, -- optional extra flag number to store the current number of groups available in
 
     { "USA Carrier", "blue", 10, "yes", 0, 1001 }, -- instead of a Zone Name you can also use the UNIT NAME of a ship
 }
@@ -279,6 +279,20 @@ ctld.transportPilotNames = {
 	"helicargo48",
 	"helicargo49",
 	"helicargo50",
+	"helicargo50",
+	"helicargo51",
+	"helicargo52",
+	"helicargo53",
+	"helicargo54",
+	"helicargo55",
+	"helicargo56",
+	"helicargo57",
+	"helicargo58",
+	"helicargo59",
+	"helicargo60",
+	"helicargo61",
+	"helicargo62",
+	"helicargo63",
 
     "MEDEVAC #1",
     "MEDEVAC #2",
@@ -570,12 +584,6 @@ ctld.transportPilotNames = {
 	"MEDEVAC BLUE #135",
 	"MEDEVAC BLUE #136",
 	"MEDEVAC BLUE #137",
-	"MEDEVAC BLUE #200",
-    "MEDEVAC BLUE #201",
-    "MEDEVAC BLUE #202",
-    "MEDEVAC BLUE #203",
-	"MEDEVAC BLUE #204",
-    "MEDEVAC BLUE #205",
 	"MEDEVAC BLUE #138",	
     "MEDEVAC BLUE #139",
 	"MEDEVAC BLUE #140",
@@ -587,6 +595,144 @@ ctld.transportPilotNames = {
     "MEDEVAC BLUE #146",
 	"MEDEVAC BLUE #147",
 	"MEDEVAC BLUE #148",
+	"MEDEVAC BLUE #149",	
+	"MEDEVAC BLUE #150",	
+	"MEDEVAC BLUE #151",	
+	"MEDEVAC BLUE #152",
+	"MEDEVAC BLUE #153",	
+	"MEDEVAC BLUE #154",
+	"MEDEVAC BLUE #155",
+	"MEDEVAC BLUE #156",
+	"MEDEVAC BLUE #157",
+	"MEDEVAC BLUE #158",
+	"MEDEVAC BLUE #159",
+	"MEDEVAC BLUE #160",
+	"MEDEVAC BLUE #161",
+	"MEDEVAC BLUE #162",
+    "MEDEVAC BLUE #163",
+	"MEDEVAC BLUE #164",
+	"MEDEVAC BLUE #165",
+	"MEDEVAC BLUE #166",
+	"MEDEVAC BLUE #167",
+	"MEDEVAC BLUE #168",
+	"MEDEVAC BLUE #169",
+	"MEDEVAC BLUE #170",
+	"MEDEVAC BLUE #171",
+	"MEDEVAC BLUE #172",
+	"MEDEVAC BLUE #173",
+	"MEDEVAC BLUE #174",
+	"MEDEVAC BLUE #175",
+	"MEDEVAC BLUE #176",
+	"MEDEVAC BLUE #177",
+	"MEDEVAC BLUE #178",
+	"MEDEVAC BLUE #179",
+	"MEDEVAC BLUE #180",
+	"MEDEVAC BLUE #181",
+	"MEDEVAC BLUE #182",
+	"MEDEVAC BLUE #183",
+	"MEDEVAC BLUE #184",
+	"MEDEVAC BLUE #185",
+	"MEDEVAC BLUE #186",
+	"MEDEVAC BLUE #187",
+	"MEDEVAC BLUE #188",
+	"MEDEVAC BLUE #189",
+	"MEDEVAC BLUE #190",
+	"MEDEVAC BLUE #191",
+	"MEDEVAC BLUE #192",
+	"MEDEVAC BLUE #193",
+	"MEDEVAC BLUE #194",
+	"MEDEVAC BLUE #195",
+	"MEDEVAC BLUE #196",
+	"MEDEVAC BLUE #197",
+	"MEDEVAC BLUE #198",
+	"MEDEVAC BLUE #199",
+	"MEDEVAC BLUE #200",
+	"MEDEVAC BLUE #201",
+	"MEDEVAC BLUE #202",
+	"MEDEVAC BLUE #203",
+	"MEDEVAC BLUE #204",
+	"MEDEVAC BLUE #205",
+	"MEDEVAC BLUE #206",
+	"MEDEVAC BLUE #207",
+	"MEDEVAC BLUE #208",
+	"MEDEVAC BLUE #209",
+	"MEDEVAC BLUE #210",
+	"MEDEVAC BLUE #211",
+    "MEDEVAC BLUE #212",
+    "MEDEVAC BLUE #213",
+    "MEDEVAC BLUE #214",
+	"MEDEVAC BLUE #215",
+    "MEDEVAC BLUE #216",
+	"MEDEVAC BLUE #217",
+	"MEDEVAC BLUE #218",
+	"MEDEVAC BLUE #219",
+	"MEDEVAC BLUE #220",
+	"MEDEVAC BLUE #221",
+	"MEDEVAC BLUE #222",
+	"MEDEVAC BLUE #223",
+	"MEDEVAC BLUE #224",
+	"MEDEVAC BLUE #225",
+	"MEDEVAC BLUE #226",
+	"MEDEVAC BLUE #227",
+	"MEDEVAC BLUE #228",
+	"MEDEVAC BLUE #229",
+	"MEDEVAC BLUE #230",
+	"MEDEVAC BLUE #231",
+	"MEDEVAC BLUE #232",
+	"MEDEVAC BLUE #233",
+	"MEDEVAC BLUE #234",
+	"MEDEVAC BLUE #235",
+	"MEDEVAC BLUE #236",
+	"MEDEVAC BLUE #237",
+	"MEDEVAC BLUE #238",
+	"MEDEVAC BLUE #239",
+	"MEDEVAC BLUE #240",
+	"MEDEVAC BLUE #241",
+	"MEDEVAC BLUE #242",
+	"MEDEVAC BLUE #243",
+	"MEDEVAC BLUE #244",
+	"MEDEVAC BLUE #245",
+	"MEDEVAC BLUE #246",
+	"MEDEVAC BLUE #247",
+	"MEDEVAC BLUE #248",
+	"MEDEVAC BLUE #249",
+	"MEDEVAC BLUE #250",
+	"MEDEVAC BLUE #251",
+	"MEDEVAC BLUE #252",
+	"MEDEVAC BLUE #253",
+	"MEDEVAC BLUE #254",
+	"MEDEVAC BLUE #255",
+	"MEDEVAC BLUE #256",
+	"MEDEVAC BLUE #257",
+	"MEDEVAC BLUE #258",
+	"MEDEVAC BLUE #259",
+	"MEDEVAC BLUE #260",
+	"MEDEVAC BLUE #261",
+	"MEDEVAC BLUE #262",
+	"MEDEVAC BLUE #263",
+	"MEDEVAC BLUE #264",
+	"MEDEVAC BLUE #265",
+	"MEDEVAC BLUE #266",
+	"MEDEVAC BLUE #267",
+	"MEDEVAC BLUE #268",
+	"MEDEVAC BLUE #269",
+	"MEDEVAC BLUE #270",
+	"MEDEVAC BLUE #271",
+	"MEDEVAC BLUE #272",
+	"MEDEVAC BLUE #273",
+	"MEDEVAC BLUE #274",
+	"MEDEVAC BLUE #275",
+	"MEDEVAC BLUE #276",
+	"MEDEVAC BLUE #277",
+	"MEDEVAC BLUE #278",
+	"MEDEVAC BLUE #279",
+	"MEDEVAC BLUE #280",
+	"MEDEVAC BLUE #281",
+	"MEDEVAC BLUE #282",
+	"MEDEVAC BLUE #283",
+	"MEDEVAC BLUE #284",
+	"MEDEVAC BLUE #285",
+
 	
     -- *** AI transports names (different names only to ease identification in mission) ***
 
@@ -738,6 +884,10 @@ ctld.vehicleTransportEnabled = {
 	"IL-78M",
 	"An-26B",
 	"C-17A",
+	"E-3A",
+	"B-52H",
+	"KC-135",
+	"Yak-40",
 }
 
 
@@ -885,39 +1035,41 @@ ctld.spawnableCrates = {
     },
 	
     ["AA"] = {
-        { weight = 540, desc = "HAWK Launcher", unit = "Hawk ln", side = 1},
-        { weight = 545, desc = "HAWK Search Radar", unit = "Hawk sr", side = 1 },
-        { weight = 550, desc = "HAWK Track Radar", unit = "Hawk tr", side = 1 },
-        { weight = 551, desc = "HAWK PCP", unit = "Hawk pcp" , side = 1 }, -- Remove this if on 1.2
-        { weight = 552, desc = "HAWK Repair", unit = "HAWK Repair" , side = 1 },
-	    { weight = 718, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },	
+		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
+		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 2, cratesRequired = 3 },
+		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 2, cratesRequired = 1 },
+		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2 },
+		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
+        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
+	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },	
 		
-        { weight = 541, desc = "HAWK Launcher", unit = "Hawk ln", side = 2},
-        { weight = 546, desc = "HAWK Search Radar", unit = "Hawk sr", side = 2 },
-        { weight = 551, desc = "HAWK Track Radar", unit = "Hawk tr", side = 2 },
-        { weight = 553, desc = "HAWK PCP", unit = "Hawk pcp" , side = 2 }, -- Remove this if on 1.2
-        { weight = 554, desc = "HAWK Repair", unit = "HAWK Repair" , side = 2 },
-        { weight = 719, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
+		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
+		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 1, cratesRequired = 3 },
+		{ weight = 714, desc = "Ural-375 ZU23", unit = "Ural-375 ZU-23", side = 1, cratesRequired = 1 },
+		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2 },
+		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
+        { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },
+
 
 
     },
 	
 	["ARTILLERY"] = {
-		{ weight = 801, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 5 },
-		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 2, cratesRequired = 5 },	
-		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 2, cratesRequired = 5 },	
-		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 2, cratesRequired = 5 },		
-		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 2, cratesRequired = 5 },		
-		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 2, cratesRequired = 5 },		
+		{ weight = 801, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 3 },
+		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 2, cratesRequired = 3 },	
+		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 2, cratesRequired = 3 },	
+		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 2, cratesRequired = 2 },		
+		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 2, cratesRequired = 2 },		
+		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 2, cratesRequired = 3 },		
 		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 2, cratesRequired = 2 },		
 
 		
-		{ weight = 801, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 5 },
-		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 1, cratesRequired = 5 },	
-		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 1, cratesRequired = 5 },	
-		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 1, cratesRequired = 5 },		
-		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 1, cratesRequired = 5 },		
-		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 5 },		
+		{ weight = 801, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 3 },
+		{ weight = 802, desc = "SpGH_Dana", unit = "SpGH_Dana", side = 1, cratesRequired = 3 },	
+		{ weight = 803, desc = "MLRS", unit = "MLRS", side = 1, cratesRequired = 3 },	
+		{ weight = 804, desc = "Grad-URAL", unit = "Grad-URAL", side = 1, cratesRequired = 2 },		
+		{ weight = 805, desc = "Nona", unit = "SAU 2-C9", side = 1, cratesRequired = 2 },		
+		{ weight = 806, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 3 },		
 		{ weight = 807, desc = "Scud", unit = "Scud_B", side = 1, cratesRequired = 2 },		
 	},
 }
