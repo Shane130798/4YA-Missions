@@ -1,0 +1,1 @@
+BLUE_SAIPAN = SPAWN:New( "SAIPAN_BLUE" ) :InitRepeat():Spawn()

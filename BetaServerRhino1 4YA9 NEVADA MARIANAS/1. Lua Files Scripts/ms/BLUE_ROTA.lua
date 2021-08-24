@@ -1,0 +1,1 @@
+BLUE_ROTA = SPAWN:New( "ROTA_BLUE_1" ) :InitRepeat():Spawn()
