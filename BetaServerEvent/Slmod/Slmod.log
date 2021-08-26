@@ -1,0 +1,53 @@
+Slmod started at Aug 26, 2021, 18:24:05
+32.479  SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\config.lua
+32.491  SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
+32.491  SLMOD INFO: SlmodConfig.lua loaded.
+32.503  SLMOD INFO: SlmodUtils.lua loaded.
+32.512  SLMOD INFO: SlmodEvents.lua loaded.
+32.52  SLMOD INFO: SlmodUnits.lua loaded.
+32.53  SLMOD INFO: SlmodMenu.lua loaded.
+32.538  SLMOD INFO: SlmodConvMenu.lua loaded.
+32.545  SLMOD INFO: SlmodPTSMenu.lua loaded.
+32.552  SLMOD INFO: SlmodPOSMenu.lua loaded.
+32.563  SLMOD INFO: SlmodAdminMenu.lua loaded
+32.572  SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\BetaEvent\Slmod\\SlmodStats.lua
+33.201  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\SlmodStats.lua
+34.888  SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\BetaEvent\Slmod\\SlmodPenaltyStats.lua
+35.105  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\SlmodPenaltyStats.lua
+35.904  SLMOD INFO: SlmodStats.lua loaded.
+35.912  SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\BetaEvent\Slmod\\SlmodMetaStats.lua
+35.918  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\SlmodMetaStats.lua
+35.921  SLMOD INFO: SlmodMetaStats.lua loaded.
+35.929  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+35.937  SLMOD INFO: SlmodPingCheck.lua loaded.
+35.945  SLMOD INFO: SlmodVote.lua loaded.
+35.954  SLMOD INFO: SlmodLibs.lua loaded.
+35.961  SLMOD INFO: SlmodDebugger.lua loaded.
+35.967  SLMOD INFO: SlmodMOTD.lua loaded.
+35.976  SLMOD INFO: SlmodHelp.lua loaded.
+35.985  SLMOD INFO: SlmodCallbacks.lua loaded
+35.992  SLMOD INFO: SlmodTests.lua loaded.
+40.26  SLMOD INFO: Modifying netview... results: , true
+40.261  SLMOD INFO: connected client 1
+40.261  SLMOD INFO: num clients: 1
+52.157  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+52.158  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+52.158  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+52.158  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+52.158  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+52.159  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+52.166  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\BannedClients.lua
+52.171  SLMOD INFO: using server admins as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\ServerAdmins.lua
+52.171  SLMOD INFO: load exempt clients
+52.175  SLMOD INFO: using exempt ucids as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\ExemptClients.lua
+52.227  SLMOD INFO: successfully loaded unitAttributes.
+54.028  SLMOD INFO: no misStats , loading from file: C:\Users\Administrator\Saved Games\BetaEvent\Slmod\Mission Stats\\ATO-A-P4.2- Jul 26, 2021 at 20 07 57.lua
+54.03  SLMOD INFO: using  as defined in C:\Users\Administrator\Saved Games\BetaEvent\Slmod\Mission Stats\
+54.052  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+54.052  SLMOD INFO: using random seed -1333
+54.052  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+54.147  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+1035.417  SLMOD INFO: connected client 2
+1035.417  SLMOD INFO: num clients: 2
+1666.649  SLMOD INFO: slmod_onPlayerDisconnect 2
+1666.649  SLMOD INFO: num clients: 1

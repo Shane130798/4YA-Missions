@@ -1,0 +1,12 @@
+CHAT: Jun 16 20:52:18 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:52:25 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-help" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:52:29 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin help" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:53:14 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:53:38 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin load" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:54:53 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin load Operation_Scarlet_Dawn" to all
+CHAT: Jun 16 20:55:06 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:65427", id = 3} said "-admin" to all
+CHAT: Jun 16 20:55:09 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:65427", id = 3} said "-admin help" to all
+CHAT: Jun 16 20:55:11 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:65427", id = 3} said "-motd" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:55:45 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "-admin restart" to all (output suppressed by Slmod)
+CHAT: Jun 16 20:55:45 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:50243", id = 2} said "Slmod: admin "Wojtek1378" is restarting the mission." to all
+CHAT: Jun 16 20:55:45 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:65427", id = 3} said "Slmod: admin "Wojtek1378" is restarting the mission." to all

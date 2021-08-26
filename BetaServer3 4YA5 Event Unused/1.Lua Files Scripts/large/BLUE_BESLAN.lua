@@ -1,1 +1,0 @@
-BLUE_BESLAN = SPAWN:New( "BLUE_BESLAN" ) :InitRepeat():Spawn()

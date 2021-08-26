@@ -1,0 +1,75 @@
+CHAT: Jan 28 11:04:20 {name  = "Galeb", ucid = "53b4786eee6956c8037dac6c4856cf19", ip = "90.252.118.154:57517", id = 4} said "darn" to all
+CHAT: Jan 28 11:04:29 {name  = "Galeb", ucid = "53b4786eee6956c8037dac6c4856cf19", ip = "90.252.118.154:57517", id = 4} said "blind sided" to all
+CHAT: Jan 28 11:24:03 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "ty!" to all
+TEAM HIT: Jan 28 11:30:07 {players = {1 = {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "50.5.54.202:54807", id = 6}1 = {name = Cipher with F-16CM bl.50
+TEAM HIT: Jan 28 11:30:07 {players = {1 = {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3}1 = {name = STRIKER 45 with kamikaze
+TEAM KILL: Jan 28 11:30:07 {players = {1 = {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "nil", id = 3}1 = {name = STRIKER 45 with kamikaze
+TEAM KILL: Jan 28 11:30:08 {players = {1 = {name  = "STRIKER 45", ucid = "195cc5412bf72686f999063e45e316f5", ip = "nil", id = 6}1 = {name = Cipher with F-16CM bl.50
+CHAT: Jan 28 11:30:11 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "FUCKKKKKKKKKKKKKK@'''" to all
+CHAT: Jan 28 11:30:18 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "-FORGIVE" to all (output suppressed by Slmod)
+CHAT: Jan 28 11:30:24 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "sorry man" to all
+CHAT: Jan 28 11:30:28 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "i went elf thtne right" to all
+CHAT: Jan 28 11:30:31 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "and u did the same" to all
+CHAT: Jan 28 11:30:32 {name  = "Cipher", ucid = "4a8a6df189c3f51fde134fd9ea093e18", ip = "39.42.35.209:56252", id = 3} said "xd" to all
+CHAT: Jan 28 11:34:58 {name  = "Galeb", ucid = "53b4786eee6956c8037dac6c4856cf19", ip = "90.252.118.154:57517", id = 4} said "FAIL" to all
+TEAM HIT: Jan 28 11:52:13 {players = {1 = {name  = "week.ru", ucid = "fc7ea152666b35df7243b09ac7f9d7e4", ip = "86.110.170.122:52718", id = 15}1 = {name = CogitoPL with RB-75B
+CHAT: Jan 28 12:09:56 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "wHAAA" to all
+TEAM HIT: Jan 28 12:10:50 {players = {1 = {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16}1 = {name = KH0000 with kamikaze
+TEAM HIT: Jan 28 12:10:51 {players = {1 = {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16}1 = {name = KH0000 with kamikaze
+TEAM HIT: Jan 28 12:10:52 {players = {1 = {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16}1 = {name = KH0000 with kamikaze
+CHAT: Jan 28 12:11:45 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "i just landed ffs" to all
+CHAT: Jan 28 12:12:16 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:51363", id = 10} said "aww man" to all
+CHAT: Jan 28 12:12:47 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "kh just respawn" to all
+TEAM KILL: Jan 28 12:12:57 {players = {1 = {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "nil", id = 16}1 = {name = KH0000 with kamikaze
+CHAT: Jan 28 12:13:28 {name  = "Smurf", ucid = "2f660d0b728e6c057651134898c5291e", ip = "86.181.81.65:53870", id = 2} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "numbnuts", ucid = "e8fcae4956b2bf63cef85f9a23f24052", ip = "86.76.6.93:60436", id = 3} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "McTavish", ucid = "d26bb4b12bef33d3a89f782035a3b39f", ip = "80.215.134.13:50154", id = 4} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Veriteko", ucid = "d972e2b8a9c8e4225c2383bec7a959f2", ip = "86.115.118.108:2042", id = 5} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "SquareSausage", ucid = "29a7b20b1dbd8956cd30df6eb81b7f3b", ip = "5.194.151.95:41380", id = 7} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Papierkorb", ucid = "f915c54b3c8313fe85325dacfe04b671", ip = "93.218.126.156:61609", id = 8} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Frogface", ucid = "9e768bfb302ca9381a4219dad3a92888", ip = "86.156.133.243:50129", id = 9} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:51363", id = 10} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Wine", ucid = "fc7ea152666b35df7243b09ac7f9d7e4", ip = "86.110.170.122:52958", id = 11} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "[Gypsies] 256 | Mason", ucid = "bf370b292b366cc467de6e09e0f668e0", ip = "94.204.129.120:51518", id = 12} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Igirisujin", ucid = "812dc9441d58237e6f603ef52f47dc77", ip = "185.192.69.7:36104", id = 13} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "helendertieger", ucid = "0fe4f54b194bec5ddd664f0542ed8c5d", ip = "93.218.124.20:51608", id = 14} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "week.ru", ucid = "fc7ea152666b35df7243b09ac7f9d7e4", ip = "86.110.170.122:52718", id = 15} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Lobster 1-1 | paleta77", ucid = "4f5100519d40a7b4f196eb5614353a0d", ip = "95.171.126.171:52959", id = 17} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Sm0kill", ucid = "30851a70337177eb59609b3a884e5139", ip = "51.175.160.183:57491", id = 18} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "CogitoPL", ucid = "0eb32b2acd0411b64d14fee103d17866", ip = "89.64.79.181:24847", id = 19} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Splat", ucid = "87e890fa61303f41c8917aa84a641f94", ip = "95.149.87.142:52799", id = 20} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "GFL", ucid = "65bf30d9c435d9a3dcddb693b202efda", ip = "79.210.185.48:52333", id = 21} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:28 {name  = "Hopeless Diamond", ucid = "1fb3fedcc6d8e39279777627e95ea633", ip = "83.161.124.151:56696", id = 22} said "SLMOD INFO: Player "Cobra 3-2 | Rick1perquin" is getting autokicked back to spectator" to all
+CHAT: Jan 28 12:13:48 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "fuck this man" to all
+CHAT: Jan 28 12:14:41 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "i get killed, but i get fucking penalty points" to all
+CHAT: Jan 28 12:14:53 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "smurf pls shoot down that su33" to all
+CHAT: Jan 28 12:14:58 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "its coming for me" to all
+CHAT: Jan 28 12:16:40 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "what missilles are those?" to all
+CHAT: Jan 28 12:16:55 {name  = "[Gypsies] 256 | Mason", ucid = "bf370b292b366cc467de6e09e0f668e0", ip = "94.204.129.120:51518", id = 12} said "AG hornet pilots" to all
+CHAT: Jan 28 12:17:03 {name  = "KH0000", ucid = "e32f70831651164c304c906ed1adc6d7", ip = "119.34.3.195:51363", id = 10} said "SD-10 and Kh31P" to all
+CHAT: Jan 28 12:17:37 {name  = "Cobra 3-2 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:50248", id = 16} said "since when does everyone mod their lua files?" to all
+CHAT: Jan 28 12:17:52 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "why u ask" to all
+CHAT: Jan 28 12:22:20 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "SPLAT f16 su33 following me hlp" to all
+CHAT: Jan 28 12:35:11 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "good afternoon all" to all
+CHAT: Jan 28 12:35:32 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "the sound of the harrier with update is amazing" to all
+CHAT: Jan 28 12:36:16 {name  = "JellyPowder", ucid = "7435549b142a13c7d753a719f9d4d93e", ip = "221.124.9.165:10339", id = 25} said "even better, guided rockets" to all
+CHAT: Jan 28 12:36:41 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "yes thats what im going to try now" to all
+CHAT: Jan 28 12:36:59 {name  = "[4YA][TFT] Thief", ucid = "404c3a96c35e064bf5ba74333f8a5ec4", ip = "83.8.81.165:55505", id = 6} said "GUIDED ROCKETS ON HARRIERRO" to all
+CHAT: Jan 28 12:37:15 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "yes is on the change log" to all
+CHAT: Jan 28 12:37:29 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "its just been implemented with the new update" to all
+CHAT: Jan 28 12:41:51 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "woderfull they work" to all
+CHAT: Jan 28 12:42:09 {name  = "Lobster 1-1 | paleta77", ucid = "4f5100519d40a7b4f196eb5614353a0d", ip = "95.171.126.171:52959", id = 17} said "-stats me" to all (output suppressed by Slmod)
+CHAT: Jan 28 12:42:17 {name  = "[Gypsie] 1-4 | Mobius01", ucid = "63b1f5e78c1282b291e8d36b36837a29", ip = "83.161.144.208:50682", id = 16} said "Its even better with a buddy/JTAC laser" to all
+CHAT: Jan 28 12:43:41 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "ap still week against gepard i hit him with 4 and only 59% damage" to all
+CHAT: Jan 28 12:44:31 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "oh and the sound efect when launching simply a master peace i love it" to all
+CHAT: Jan 28 12:44:39 {name  = "[Gypsie] 1-4 | Mobius01", ucid = "63b1f5e78c1282b291e8d36b36837a29", ip = "83.161.144.208:50682", id = 16} said "You need the MPP" to all
+CHAT: Jan 28 12:45:48 {name  = "numbnuts", ucid = "e8fcae4956b2bf63cef85f9a23f24052", ip = "86.76.6.93:60436", id = 3} said "if it is like the a10, mpp will kill everything except the tought armor ones" to all
+CHAT: Jan 28 12:45:57 {name  = "[Gypsie] 1-4 | Mobius01", ucid = "63b1f5e78c1282b291e8d36b36837a29", ip = "83.161.144.208:50682", id = 16} said "Yup" to all
+CHAT: Jan 28 12:46:05 {name  = "[Gypsie] 1-4 | Mobius01", ucid = "63b1f5e78c1282b291e8d36b36837a29", ip = "83.161.144.208:50682", id = 16} said "You cant destroy tanks" to all
+CHAT: Jan 28 12:46:18 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "i think thats the 2nd choice on ag misiles i chose them" to all
+CHAT: Jan 28 12:46:48 {name  = "[Gypsie] 1-4 | Mobius01", ucid = "63b1f5e78c1282b291e8d36b36837a29", ip = "83.161.144.208:50682", id = 16} said "I carry 2 pods of laser rockets and 2 laser mavs" to all
+CHAT: Jan 28 12:48:24 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "good my 1st destroyed with the new rockets nice" to all
+CHAT: Jan 28 12:50:44 {name  = "week.ru", ucid = "fc7ea152666b35df7243b09ac7f9d7e4", ip = "86.110.170.122:52718", id = 15} said "igiris! break!!" to all
+CHAT: Jan 28 12:53:45 {name  = "GUYVER ARMOR", ucid = "120a9e8c560d276712a1d1b970aa810c", ip = "12.207.220.78:50604", id = 9} said "man im rusty in using the tpod on harrier" to all

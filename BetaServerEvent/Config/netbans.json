@@ -1,0 +1,18 @@
+[
+ {
+  "ucid": "abc9d48680ef7419a7addbf1efb48326",
+  "name": "Chimp 1-2",
+  "ipaddr": "79.145.182.35:50258",
+  "from": 1608674260,
+  "until": 1610488660,
+  "reason": "Intentional PKs \n\nVerfied VIA admin logs"
+ },
+ {
+  "ucid": "b36257aafeee1c52655d91580c568b58",
+  "name": "ihioi",
+  "ipaddr": "77.133.70.96:51688",
+  "from": 1608704175,
+  "until": 1610518575,
+  "reason": "Intentional TK"
+ }
+]

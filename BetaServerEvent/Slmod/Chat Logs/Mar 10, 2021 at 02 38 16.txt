@@ -1,0 +1,44 @@
+TEAM HIT: Mar 10 02:49:09 {players = {1 = {name  = "[269] Argon", ucid = "51d07ac09ad68c9b5a7474fbf3372e29", ip = "189.203.188.66:27088", id = 8}1 = {name = |269| Worrom with AIM-120C
+TEAM KILL: Mar 10 02:49:28 {players = {1 = {name  = "[269] Argon", ucid = "51d07ac09ad68c9b5a7474fbf3372e29", ip = "nil", id = 8}1 = {name = |269| Worrom with AIM-120C
+TEAM HIT: Mar 10 02:49:38 {players = {1 = {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2}1 = {name = [269] Argon with AIM-120C
+TEAM KILL: Mar 10 02:49:55 {players = {1 = {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "nil", id = 2}1 = {name = [269] Argon with AIM-120C
+CHAT: Mar 10 02:49:56 {name  = "[269] Argon", ucid = "51d07ac09ad68c9b5a7474fbf3372e29", ip = "189.203.188.66:27088", id = 8} said "damn" to all
+CHAT: Mar 10 02:50:28 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "-admin alert it dont work" to all (output suppressed by Slmod)
+CHAT: Mar 10 02:50:29 {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "|269| Donkey", ucid = "55d2299204a44d9d942c4c9d68ef87c1", ip = "184.178.93.167:50643", id = 3} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "|269| Worrom", ucid = "e007b2ae466448c1ba8582c993e166a5", ip = "198.54.108.156:60111", id = 5} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "|269| Squad_7A", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:64871", id = 6} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "|269| Rolo Tomassi", ucid = "71f79bbb309f434adb07f9a8cb8604c2", ip = "184.68.107.70:51513", id = 7} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "[269] Argon", ucid = "51d07ac09ad68c9b5a7474fbf3372e29", ip = "189.203.188.66:27088", id = 8} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "|269| Reckless", ucid = "c17493c770c2a443195c1d838fa7ea36", ip = "71.85.206.239:56777", id = 9} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:29 {name  = "Furry Bitch", ucid = "fcb00b9cb0390f017e2fef360599b239", ip = "100.15.108.239:51073", id = 10} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Donkey", ucid = "55d2299204a44d9d942c4c9d68ef87c1", ip = "184.178.93.167:50643", id = 3} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Worrom", ucid = "e007b2ae466448c1ba8582c993e166a5", ip = "198.54.108.156:60111", id = 5} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Squad_7A", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:64871", id = 6} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Rolo Tomassi", ucid = "71f79bbb309f434adb07f9a8cb8604c2", ip = "184.68.107.70:51513", id = 7} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "[269] Argon", ucid = "51d07ac09ad68c9b5a7474fbf3372e29", ip = "189.203.188.66:27088", id = 8} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "|269| Reckless", ucid = "c17493c770c2a443195c1d838fa7ea36", ip = "71.85.206.239:56777", id = 9} said "it dont work" to all
+CHAT: Mar 10 02:50:31 {name  = "Furry Bitch", ucid = "fcb00b9cb0390f017e2fef360599b239", ip = "100.15.108.239:51073", id = 10} said "it dont work" to all
+CHAT: Mar 10 03:51:13 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "-admin alert STROKE 3 DEFENDING NOSE" to all (output suppressed by Slmod)
+CHAT: Mar 10 03:51:14 {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "|269| Donkey", ucid = "55d2299204a44d9d942c4c9d68ef87c1", ip = "184.178.93.167:50643", id = 3} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "|269| Worrom", ucid = "e007b2ae466448c1ba8582c993e166a5", ip = "198.54.108.156:60111", id = 5} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "|269| Kay-PO", ucid = "311aa55a3572efab9cff0e191ea16206", ip = "75.65.169.131:56418", id = 6} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "|269| Rolo Tomassi", ucid = "71f79bbb309f434adb07f9a8cb8604c2", ip = "184.68.107.70:51513", id = 7} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "Red_Apprentice", ucid = "aa4203bbad6dfa2edaded4c36304aeb5", ip = "73.254.216.248:53861", id = 8} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:14 {name  = "|269| Reckless", ucid = "c17493c770c2a443195c1d838fa7ea36", ip = "71.85.206.239:56777", id = 9} said "Admin Alert Message From: Wojtek1378" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Donkey", ucid = "55d2299204a44d9d942c4c9d68ef87c1", ip = "184.178.93.167:50643", id = 3} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "[rodo] Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.18.250.146:59892", id = 4} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Worrom", ucid = "e007b2ae466448c1ba8582c993e166a5", ip = "198.54.108.156:60111", id = 5} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Kay-PO", ucid = "311aa55a3572efab9cff0e191ea16206", ip = "75.65.169.131:56418", id = 6} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Rolo Tomassi", ucid = "71f79bbb309f434adb07f9a8cb8604c2", ip = "184.68.107.70:51513", id = 7} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "Red_Apprentice", ucid = "aa4203bbad6dfa2edaded4c36304aeb5", ip = "73.254.216.248:53861", id = 8} said "STROKE 3 DEFENDING NOSE" to all
+CHAT: Mar 10 03:51:16 {name  = "|269| Reckless", ucid = "c17493c770c2a443195c1d838fa7ea36", ip = "71.85.206.239:56777", id = 9} said "STROKE 3 DEFENDING NOSE" to all
+TEAM HIT: Mar 10 04:12:25 {players = {1 = {name  = "|269| Kay-PO", ucid = "311aa55a3572efab9cff0e191ea16206", ip = "75.65.169.131:56418", id = 6}1 = {name = |269| Smoke 1-1 with AIM-120C
+TEAM KILL: Mar 10 04:12:37 {players = {1 = {name  = "|269| Kay-PO", ucid = "311aa55a3572efab9cff0e191ea16206", ip = "nil", id = 6}1 = {name = |269| Smoke 1-1 with AIM-120C
+CHAT: Mar 10 05:17:48 {name  = "|269| Smoke 1-1", ucid = "f875396c3a2021942e26f0beed7fa6ca", ip = "73.232.123.245:61878", id = 2} said "a" to all

@@ -1,0 +1,25 @@
+CHAT: May 09 19:59:39 {name  = "Fatboy", ucid = "9dad7c9974ae03fbb8ed045028082ff4", ip = "176.254.16.37:62645", id = 2} said "motd" to all
+CHAT: May 09 20:00:28 {name  = "Fatboy", ucid = "9dad7c9974ae03fbb8ed045028082ff4", ip = "176.254.16.37:62645", id = 2} said "-motd" to all (output suppressed by Slmod)
+TEAM HIT: May 09 21:41:47 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:41:48 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:41:50 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:41:51 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:42:20 {players = {1 = {name  = "[4YA] Calgon", ucid = "ff5cfd4ed40ba2b5ca643d349567b69a", ip = "81.96.196.100:54146", id = 4}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:42:20 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:42:23 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:44:08 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM KILL: May 09 21:44:26 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "nil", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+CHAT: May 09 21:44:51 {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5} said "-admin forgive" to all
+CHAT: May 09 21:44:58 {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5} said "-admin" to all (output suppressed by Slmod)
+TEAM HIT: May 09 21:46:59 {players = {1 = {name  = "Cobra 132 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:53107", id = 6}1 = {name = |269| Kagrack with 2A42
+TEAM HIT: May 09 21:47:00 {players = {1 = {name  = "Cobra 132 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:53107", id = 6}1 = {name = |269| Kagrack with 2A42
+TEAM HIT: May 09 21:48:59 {players = {1 = {name  = "Cobra 132 | Rick1perquin", ucid = "3d52ea557707100164c7f0b9e340f9ab", ip = "77.165.140.244:53107", id = 6}1 = {name = Repair with Vikhr M
+TEAM HIT: May 09 21:52:57 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:52:58 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:52:59 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:53:00 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM HIT: May 09 21:53:01 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Browning .303 Mk. II
+TEAM HIT: May 09 21:53:02 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "90.205.237.139:59990", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+TEAM KILL: May 09 21:53:48 {players = {1 = {name  = "|269| Kagrack", ucid = "ae6f2512430694f8d6e0ee4791546896", ip = "nil", id = 5}1 = {name = Cobra 132 | Rick1perquin with Hispano Mk. II
+CHAT: May 10 00:10:39 {name  = "Stuga 1-1", ucid = "f4a707e79864e83be98c9badc6100d5b", ip = "81.98.4.104:56772", id = 2} said "cheers for the cover btw bishop" to all
+CHAT: May 10 03:47:48 {name  = "|269| Reckless", ucid = "c17493c770c2a443195c1d838fa7ea36", ip = "71.85.206.239:63269", id = 3} said "-motd" to all (output suppressed by Slmod)

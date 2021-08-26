@@ -1,0 +1,12 @@
+CHAT: May 16 03:43:17 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:65283", id = 7} said "his name is jeff" to all
+CHAT: May 16 03:43:20 {name  = "Cobra 171 | SevenAlpha", ucid = "c7eb32446427deea1e7098a54d3922a6", ip = "104.158.45.6:65283", id = 7} said "nice" to all
+TEAM HIT: May 17 00:32:00 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF AWACS#001-01 with AIM-120C-5
+TEAM KILL: May 17 00:32:43 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "nil", id = 3}1 = {name = USAF AWACS#001-01 with AIM-120C-5
+TEAM HIT: May 17 00:38:31 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF Fighter#001-01 with M-61
+TEAM HIT: May 17 00:38:33 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF Fighter#001-01 with M-61
+TEAM HIT: May 17 00:38:34 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF Fighter#001-01 with M-61
+TEAM KILL: May 17 00:40:18 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "nil", id = 3}1 = {name = USAF Fighter#001-01 with M-61
+TEAM HIT: May 17 00:47:07 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF AWACS#001-01 with AIM-9X
+TEAM HIT: May 17 00:47:22 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF AWACS#001-01 with M-61
+TEAM HIT: May 17 00:47:23 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "81.103.250.46:52401", id = 3}1 = {name = USAF AWACS#001-01 with M-61
+TEAM KILL: May 17 01:23:00 {players = {1 = {name  = "DomG1B", ucid = "f0c72a164efdb244fd23ac302c150995", ip = "nil", id = 3}1 = {name = USAF AWACS#001-01 with M-61

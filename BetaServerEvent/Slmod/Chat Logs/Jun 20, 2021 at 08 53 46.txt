@@ -1,0 +1,2 @@
+CHAT: Jun 20 12:16:29 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:52485", id = 2} said "-admin restart" to all (output suppressed by Slmod)
+CHAT: Jun 20 12:16:29 {name  = "Stroke-1 Wojtek", ucid = "396fb38e33a8efc1601cf9f56593a7dd", ip = "82.11.92.30:52485", id = 2} said "Slmod: admin "Wojtek1378" is restarting the mission." to all

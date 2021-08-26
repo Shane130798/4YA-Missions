@@ -1,1 +1,0 @@
-trigger.action.setUserFlag("SSB",100)

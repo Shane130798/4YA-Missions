@@ -1,1 +1,0 @@
-BLUE_MOZDOK = SPAWN:New( "BLUE_MOZDOK" ) :InitRepeat():Spawn()
