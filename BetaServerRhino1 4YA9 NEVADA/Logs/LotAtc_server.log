@@ -1,0 +1,44 @@
+[22:27:50 +01:00] [I] 
+[22:27:50 +01:00] [I] --- STARTING LOG ---
+[22:27:50 +01:00] [I] Date        : Thu Aug 26 22:27:50 2021
+[22:27:50 +01:00] [I] Version     : 2.2.2-cdfce462
+[22:27:50 +01:00] [I] Machine     : Windows 10 Version 2009
+[22:27:50 +01:00] [I] LotAtc path : C:\Program Files\LotAtc\
+[22:27:50 +01:00] [I] --------------------
+[22:27:50 +01:00] [W] [default] Logger: Filedump is true
+[22:27:50 +01:00] [I] [mainentry] Create Main entry for LotAtc on 4
+[22:27:50 +01:00] [I] [mainentry] ModPath: "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Mods\\services\\LotAtc\\"
+[22:27:50 +01:00] [I] [mainentry] PLUGINS  "C:/Users/jayir/Saved Games/7.4YA2/Mods/services/LotAtc/plugins"
+[22:27:57 +01:00] [W] [default] ------------ LOAD DB ------------ 415
+[22:27:57 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 415
+[22:27:57 +01:00] [I] [mainentry] Use port 10327
+[22:27:57 +01:00] [I] [mainentry] Launch server...
+[22:27:57 +01:00] [I] [mainentry] Create main server
+[22:27:57 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/jayir/Saved Games/7.4YA2/LotAtc Data/Server/Licenses"
+[22:27:57 +01:00] [I] [mainentry] Create main server -- done
+[22:27:57 +01:00] [I] [mainentry] Launch server...DONE
+[22:28:11 +01:00] [I] [mainentry] [MAIN] New Mission
+[22:28:11 +01:00] [I] [mainentry] [MAIN] NAME "4YA_Nevada_Capture_bases_v20B"
+[22:28:11 +01:00] [W] [default] Logger: Filedump is false
+[22:28:11 +01:00] [I] [client.main] LOAD MAGN: "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Mods\\services\\LotAtc\\\\magvar"
+[22:28:11 +01:00] [I] [client.main] LOAD MAGN: "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Mods\\services\\LotAtc\\\\magvar"
+[22:28:11 +01:00] [W] [default] [GM] Set Year 2011
+[22:28:11 +01:00] [W] [default] [GM] Set Theather angle True true
+[22:28:11 +01:00] [I] [mainentry] OPTIONS RECEIVED: ("airport_radar_mode", "allowed_users_file", "approach_all_airports", "automatic_type", "block_dcs_ip", "blue_max_clients", "blue_password", "chat_connect_message", "chat_filter", "dedicated_mode", "dedicated_profile", "dump_json_filename", "dump_json_stats", "enable_debug", "export_log", "export_tacview", "force_player_name", "ground_radar", "ignore_radar_name", "jsonserver_port", "locked", "max_loop_unit", "minimal_detection_limit", "minimum_frame_update", "mission_datas", "modelisation", "name", "neutral_coalition_by_default", "perfs_tests", "port", "profile_file", "profile_name", "radar", "red_max_clients", "red_password", "relief_filter", "short", "show_datas", "show_sams", "show_weapons", "speed_filter", "srs_server", "srs_transponder_port", "srs_use_transponder", "theatre", "tracking_delay", "update_search_for_new", "update_time", "use_admin_commands", "use_atc", "use_callsign", "use_chat", "use_jsonserver", "use_log", "use_range_resolution", "use_rcs", "use_realtracking", "virtual_awacs_altitude", "virtual_awacs_bulls", "virtual_awacs_name", "virtual_awacs_range")
+[22:28:11 +01:00] [I] [clientserver] Awacs range> 400
+[22:28:11 +01:00] [I] [clientserver] Ignore radar name> "lotatc_ignore_"
+[22:28:11 +01:00] [I] [clientserver] Theatre> "Nevada"
+[22:28:11 +01:00] [I] [clientserver] PROFILE: "Realistic - see only what you can really see"
+[22:28:11 +01:00] [I] [clientserver]   - "airport_radar_mode" : "2"
+[22:28:11 +01:00] [I] [clientserver]   - "allowed_users_file" : ""
+[22:28:11 +01:00] [I] [clientserver]   - "approach_all_airports" : "1"
+[22:28:11 +01:00] [I] [clientserver]   - "automatic_type" : "1"
+[22:28:11 +01:00] [I] [clientserver]   - "block_dcs_ip" : "none"
+[22:28:11 +01:00] [I] [clientserver]   - "blue_max_clients" : "-1"
+[22:28:11 +01:00] [I] [clientserver]   - "blue_password" : "blue"
+[22:28:11 +01:00] [I] [clientserver]   - "chat_connect_message" : "none"
+[22:28:11 +01:00] [I] [clientserver]   - "chat_filter" : ""
+[22:28:11 +01:00] [I] [clientserver]   - "dedicated_mode" : "true"
+[22:28:11 +01:00] [I] [clientserver]   - "dedicated_profile" : "realistic.lua"
+[22:28:11 +01:00] [I] [clientserver]   - "dump_json_filename" : "stats.json"
+[22:28:11 +01:00] [I] [clientserver]   - "dump_jso

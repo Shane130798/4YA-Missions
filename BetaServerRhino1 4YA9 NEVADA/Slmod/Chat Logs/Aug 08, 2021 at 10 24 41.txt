@@ -1,0 +1,11 @@
+CHAT: Aug 08 11:00:20 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "0admin" to all
+CHAT: Aug 08 11:00:23 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-admin" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:00:35 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-admin help" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:00:37 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-help" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:00:44 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-admin restart" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:00:44 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "Slmod: admin "[RODO] Wellsy" is restarting the mission." to all
+CHAT: Aug 08 11:01:24 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-admin help" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:02:02 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-admin load" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:02:17 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-show again" to all (output suppressed by Slmod)
+CHAT: Aug 08 11:02:31 {name  = "[4YA][RODO] Wellsy13", ucid = "e391ed0549bb19d1e802c92b58ed6b41", ip = "2.101.23.118:61835", id = 2} said "-cancel" to all
+CHAT: Aug 08 16:15:33 {name  = "Poolboy1637", ucid = "475fc1d37101d9a9fd90bec86fc9013f", ip = "67.247.233.18:58211", id = 4} said "3x cbu 97 and 2 strafing passes didn't do shit to that guy" to all

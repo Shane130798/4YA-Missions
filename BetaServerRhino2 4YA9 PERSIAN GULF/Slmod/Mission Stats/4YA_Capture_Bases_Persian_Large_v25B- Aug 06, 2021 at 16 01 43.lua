@@ -1,9045 +1,4494 @@
-misStats = { }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"] = { }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["names"] = { [1] = "xaile", }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["id"] = 6089
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"] = { }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 0
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262199
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262200
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262213
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262213
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262220
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262220
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262225
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262225
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262227
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262227
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262230
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262230
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628262261
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 10
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 20.001
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 30.003
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 40.011
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 50.015
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 60.018
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 70.027
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 80.036
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 90.043
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 100.055
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 110.066
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 120.067
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 130.076
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 140.078
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 150.09
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 160.096
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 170.108
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 180.111
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 190.118
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 200.125
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 210.127
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 220.135
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 230.135
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 240.142
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 250.149
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 260.161
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 270.176
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 280.181
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 290.193
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 300.207
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 310.211
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 320.213
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 330.227
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 340.232
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 350.241
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 360.243
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 370.255
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 380.27
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 390.28
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 400.293
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 410.308
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 420.309
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 430.324
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 440.327
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 450.328
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 460.333
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 10.012
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 470.345
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 20.022
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 480.355
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 30.025
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 490.358
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 40.033
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 500.366
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 50.042
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 510.375
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 60.043
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 520.376
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 70.045
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 530.378
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 80.056
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 540.389
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 90.071
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 550.404
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 100.073
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 560.406
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 110.081
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 570.414
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 120.087
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 580.42
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 130.095
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 590.428
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 140.102
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 600.435
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 150.107
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 610.44
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 160.117
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 620.45
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 170.119
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 630.452
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 180.127
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 640.46
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 190.128
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 650.461
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 200.131
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 660.464
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 210.131
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 670.464
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 220.131
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 680.464
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 230.136
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 690.469
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 240.141
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 700.474
-misStats["8adf673c90894d32cc28c57a90e3bbb7"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["names"] = { [1] = "Frick | 15-22 | JTF-13", [2] = "Frick | 15-28 | JTF-13", [3] = "Frick | 15-13 | JTF-13", [4] = "Frick | 15-13 | JTF-13", [5] = "Frick1-1 | 15-13 | JTF-13", [6] = "Marte 2-1 | Frick", [7] = "Marte 2-1 | Detr0y", [8] = "Marte 2-1 Detr0y", }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["id"] = 2233
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["names"][9] = "Frick | Marte 21"
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["lastJoin"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["lastJoin"] = 1628262981
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 250.144
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 710.477
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 260.144
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 720.477
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 270.144
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 730.477
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 10
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 280.145
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 740.478
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 20.001
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 290.146
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 750.479
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 30.002
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 300.161
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 760.494
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 40.017
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 310.169
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 770.502
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 50.025
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 320.184
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 780.517
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 60.04
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 330.187
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 790.52
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 70.043
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 340.188
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 800.521
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 80.044
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 350.201
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 810.534
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 90.057
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 360.213
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 820.546
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 100.069
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 370.214
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 830.547
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 110.07
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 380.225
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 840.558
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 120.081
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 390.235
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 850.568
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 130.091
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 400.245
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 860.578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 140.101
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 410.245
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 870.578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 150.101
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 420.253
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 880.586
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 160.109
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 430.265
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 890.598
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 170.121
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 440.278
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 900.611
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 180.134
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 450.289
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 910.622
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 190.145
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 460.29
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 920.623
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 200.146
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 470.294
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 930.627
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 210.15
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 480.302
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 940.635
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 220.158
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 490.303
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 950.636
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 230.159
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 500.316
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 960.649
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 240.172
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 510.316
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 970.649
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 250.172
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 520.328
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 980.661
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 260.184
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 530.339
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 990.672
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 270.195
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 540.34
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1000.673
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 280.196
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 550.354
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1010.687
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 290.21
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 560.358
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1020.691
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 300.214
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 570.366
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1030.699
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 310.222
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 580.373
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1040.706
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 320.229
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 590.374
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1050.707
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 330.23
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 600.384
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1060.717
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 340.24
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 610.39
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1070.723
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 350.246
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 620.401
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1080.734
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 360.257
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 630.414
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1090.747
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 370.27
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 640.422
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1100.755
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 380.278
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 650.422
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1110.755
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 390.278
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 660.422
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1120.755
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 400.278
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 670.429
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1130.762
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 10.007
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 410.285
-misStats["27d1cf2c98ed8f425662a2fe91566769"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["names"] = { [1] = "-=Showtime=-", }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["id"] = 1697
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["lastJoin"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["lastJoin"] = 1628263409
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["weapons"] = { }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["weapons"]["CBU-97/CBU-105 SFW"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 2
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 680.438
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1140.771
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 20.016
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 420.294
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["lastJoin"] = 1628263419
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 690.441
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1150.774
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 30.019
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 430.297
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 700.444
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1160.777
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 40.022
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 440.3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 10.003
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 710.456
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1170.789
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 50.034
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 450.312
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 20.015
-misStats["31da3156d9ce3f5eee9d601a77097038"] = { }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["names"] = { [1] = "Kroket", }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["id"] = 1278
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"] = { }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["lastJoin"] = 0
-misStats["31da3156d9ce3f5eee9d601a77097038"]["lastJoin"] = 1628263451
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 720.47
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1180.803
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 60.048
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 460.326
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 30.029
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 730.485
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1190.818
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 70.063
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 470.341
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 40.044
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 740.486
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1200.819
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 80.064
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 480.342
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 50.045
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 750.492
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1210.825
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 90.07
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 490.348
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 60.051
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 760.502
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1220.835
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 100.08
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 500.358
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 70.061
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 770.513
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1230.846
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 110.091
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 510.369
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 80.072
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 780.521
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1240.854
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 120.099
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 520.377
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 10.008
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 90.08
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 790.523
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1250.856
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 130.101
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 530.379
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 20.01
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 100.082
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 800.526
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1260.859
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 140.104
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 540.382
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 30.013
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 110.085
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 810.541
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1270.874
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 150.119
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 550.397
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 40.028
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 120.1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 820.551
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1280.884
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 160.129
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 560.407
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 50.038
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 130.11
-misStats["31da3156d9ce3f5eee9d601a77097038"]["lastJoin"] = 1628263558
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 830.563
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1290.896
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 170.141
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 570.419
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["inAir"] = 10.012
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 60.05
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 140.122
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 840.566
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1300.899
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 180.144
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 580.422
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 70.053
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 150.125
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["actions"] = { }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 850.587
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1310.92
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 190.165
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 590.443
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 80.074
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 160.146
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 860.589
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1320.922
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 200.167
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 600.445
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 90.076
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 170.148
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 870.589
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1330.922
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 210.167
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 610.445
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 100.076
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 180.148
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 880.592
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1340.925
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 220.17
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 620.448
-misStats["31da3156d9ce3f5eee9d601a77097038"]["times"]["Mi-24P"]["total"] = 110.079
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 190.151
-misStats["31da3156d9ce3f5eee9d601a77097038"]["lastJoin"] = 1628263618
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 890.593
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1350.926
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 230.171
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 630.449
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 200.152
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 900.603
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1360.936
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 240.181
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 640.459
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 10.01
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 210.162
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 910.614
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1370.947
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 250.192
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 650.47
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 20.021
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 220.173
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 920.621
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1380.954
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 260.199
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 660.477
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 30.028
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 230.18
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 930.627
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1390.96
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 270.205
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 670.483
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 40.034
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 240.186
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 940.631
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1400.964
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 280.209
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 680.487
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 50.038
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 250.19
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 950.64
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1410.973
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 290.218
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 690.496
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 60.047
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 260.199
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 960.646
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1420.979
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 300.224
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 700.502
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 70.053
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 270.205
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 970.648
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1430.981
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 310.226
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 710.504
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 80.055
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 280.207
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 980.661
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1440.994
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 320.239
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 720.517
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 90.068
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 290.22
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 990.663
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1450.996
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 330.241
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 730.519
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 100.07
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 300.222
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 1000.663
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1460.996
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 340.241
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 740.519
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 110.07
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 310.222
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["numHits"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["inAir"] = 1010.665
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1470.998
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 350.243
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 750.521
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 120.072
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 320.224
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1481.008
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 360.253
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 760.531
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 130.082
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 330.234
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1491.016
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 370.261
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 770.539
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 140.09
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 340.242
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1501.018
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 380.263
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 780.541
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 150.092
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 350.244
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1511.028
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 390.273
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 790.551
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 160.102
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 360.254
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-9X"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-9X"]["shot"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["numHits"] = 1
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1521.03
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 400.275
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 800.553
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 170.104
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 370.256
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-9X"]["numHits"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-9X"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 2
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1531.038
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 410.283
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 810.561
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 180.112
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 380.264
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1541.041
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 420.286
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 820.564
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 190.115
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 390.267
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["A-10C_2"]["total"] = 1551.042
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 430.287
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 830.565
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 200.116
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 400.268
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628263825
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 440.293
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 840.571
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 210.122
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 410.274
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 450.293
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 850.571
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 220.122
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 420.274
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 460.301
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 860.579
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 230.13
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 430.282
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 470.307
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 870.585
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 240.136
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 440.288
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 480.308
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 880.586
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 250.137
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 450.289
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 490.318
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 890.596
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 260.147
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 460.299
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 500.323
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 900.601
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 270.152
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 470.304
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 510.332
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 910.61
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 280.161
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 480.313
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["numHits"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 520.342
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 920.62
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 290.171
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 490.323
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 530.343
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 930.621
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 300.172
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 500.324
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["kills"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 540.348
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 940.626
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 310.177
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 510.329
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 550.355
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 950.633
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 320.184
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 520.336
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 560.364
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 960.642
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 330.193
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 530.345
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 570.372
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 970.65
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 340.201
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 540.353
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 580.376
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 980.654
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 350.205
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 550.357
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 590.387
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 990.665
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 360.216
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 560.368
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 600.387
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1000.665
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 370.216
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 570.368
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 610.4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1010.678
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 380.229
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 580.381
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-9X"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 620.408
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1020.686
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 390.237
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 590.389
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 630.418
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1030.696
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 400.247
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 600.399
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 640.433
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1040.711
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 410.262
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 610.414
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["M-61"] = { ["kills"] = 0, ["shot"] = 0, ["hit"] = 0, ["gun"] = true, ["numHits"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["M-61"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["M-61"]["shot"] = 70
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["M-61"]["shot"] = 71
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 650.443
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1050.721
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 420.272
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 620.424
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["M-61"]["shot"] = 125
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["numHits"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 660.449
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1060.727
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 430.278
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 630.43
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 670.45
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1070.728
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 440.279
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 640.431
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["kills"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 680.453
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1080.731
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 450.282
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 650.434
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 690.464
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1090.742
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 460.293
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 660.445
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 700.465
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1100.743
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 470.294
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 670.446
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 710.472
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1110.75
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 480.301
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 680.453
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 720.481
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1120.759
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 490.31
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 690.462
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 730.49
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1130.768
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 500.319
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 700.471
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 740.496
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1140.774
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 510.325
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 710.477
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 750.496
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1150.774
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 520.325
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 720.477
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 760.502
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1160.78
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 530.331
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 730.483
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 770.504
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1170.782
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 540.333
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 740.485
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 780.518
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1180.796
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 550.347
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 750.499
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 790.525
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1190.803
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 560.354
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 760.506
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 800.537
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1200.815
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 570.366
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 770.518
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 810.55
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1210.828
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 580.379
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 780.531
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 820.55
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1220.828
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 590.379
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 790.531
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 830.56
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1230.838
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 600.389
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 800.541
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 840.56
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1240.838
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 610.389
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 810.541
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 850.56
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1250.838
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 620.389
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 820.541
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 860.574
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1260.852
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 630.403
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 830.555
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 870.577
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1270.855
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 640.406
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 840.558
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 880.577
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1280.855
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 650.406
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 850.558
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 890.593
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1290.871
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 660.422
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 860.574
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 900.601
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1300.879
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 670.43
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 870.582
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["numHits"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"] = { }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 0
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 910.608
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1310.886
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 680.437
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 880.589
-misStats["cc5f659497e463acf3243fd2960bd301"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["names"] = { [1] = "sus", [2] = "vulcan", [3] = "kebab remover", }
-misStats["cc5f659497e463acf3243fd2960bd301"]["id"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628264306
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 920.62
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1320.898
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 690.449
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 890.601
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 10.004
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 930.624
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1330.902
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 700.453
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 900.605
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 20.005
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 940.625
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1340.903
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 710.454
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 910.606
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-9X"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-9X"]["shot"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-9X"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 30.016
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 950.636
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1350.914
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 720.465
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 920.617
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AIM-9X"]["kills"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 40.03
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 960.65
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1360.928
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 730.479
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 930.631
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 50.032
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 970.652
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1370.93
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 740.481
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 940.633
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 60.043
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 980.663
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1380.941
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 750.492
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 950.644
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 70.052
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 990.672
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1390.95
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 760.501
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 960.653
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 80.055
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1000.675
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1400.953
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 770.504
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 970.656
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 90.064
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1010.684
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1410.962
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 780.513
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 980.665
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 100.076
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1020.696
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1420.974
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 790.525
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 990.677
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 110.084
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1030.704
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1430.982
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 800.533
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1000.685
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 120.096
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1040.716
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1440.994
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 810.545
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1010.697
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 130.104
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1050.724
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1451.002
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 820.553
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1020.705
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 140.106
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1060.726
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1461.004
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 830.555
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1030.707
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 150.11
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1070.73
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1471.008
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 840.559
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1040.711
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 160.122
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1080.742
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1481.02
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 850.571
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1050.723
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["names"] = { [1] = "Caotes", [2] = "=36=Caotes(R)", }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["id"] = 3318
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 0
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264485
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 170.136
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1090.756
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1491.034
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 860.585
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1060.737
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264485
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264488
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264488
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264489
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264489
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264492
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264492
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264495
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264495
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 180.142
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1100.762
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1501.04
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 870.591
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1070.743
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264498
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264498
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628264501
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 190.156
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1110.776
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1511.054
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 880.605
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1080.757
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 200.168
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1120.788
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1521.066
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 10.012
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 890.617
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1090.769
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 210.171
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1130.791
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1531.069
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 20.015
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 900.62
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1100.772
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 220.175
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1140.795
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1541.073
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 30.019
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 910.624
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1110.776
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 230.18
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1150.8
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1551.078
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 40.024
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 920.629
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1120.781
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 240.191
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1160.811
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1561.089
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 50.035
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 930.64
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1130.792
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 250.198
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1170.818
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1571.096
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 60.042
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 940.647
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1140.799
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 260.201
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1180.821
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1581.099
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 70.045
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 950.65
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1150.802
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 270.209
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1190.829
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1591.107
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 80.053
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 960.658
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1160.81
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 280.209
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1200.829
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1601.107
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 90.053
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 970.658
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1170.81
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 10.003
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 290.212
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1210.832
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1611.11
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 100.056
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 980.661
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1180.813
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 20.013
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 300.222
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1220.842
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1621.12
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 110.066
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 990.671
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1190.823
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 30.016
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 310.225
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1230.845
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1631.123
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 120.069
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1000.674
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1200.826
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 40.03
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 320.239
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1240.859
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1641.137
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 130.083
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1010.688
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1210.84
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 50.031
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 330.24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1250.86
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1651.138
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 140.084
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1020.689
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1220.841
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 60.031
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 340.24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1260.86
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1661.138
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 150.084
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1030.689
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1230.841
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 70.035
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 350.244
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1270.864
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1671.142
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 160.088
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1040.693
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1240.845
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 80.043
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 360.252
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1280.872
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1681.15
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 170.096
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1050.701
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1250.853
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 90.053
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 370.262
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1290.882
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1691.16
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 180.106
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1060.711
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1260.863
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 100.068
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 380.277
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1300.897
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1701.175
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 190.121
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1070.726
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1270.878
-misStats["94bd6232163ba0ab7186bf10f133636f"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["names"] = { [1] = "Westwood", }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["id"] = 119
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["lastJoin"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["lastJoin"] = 1628264696
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 110.072
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 390.281
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1310.901
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1711.179
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 200.125
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1080.73
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1280.882
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 120.076
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 400.285
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1320.905
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1721.183
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 210.129
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1090.734
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1290.886
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 10.004
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 130.083
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 410.292
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1330.912
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1731.19
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 220.136
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1300.893
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 20.011
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 140.096
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 420.305
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1340.925
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1741.203
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 230.149
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1310.906
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 30.024
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 150.097
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 430.306
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1350.926
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1751.204
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 240.15
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1320.907
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 40.025
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 160.111
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 440.32
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1360.94
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1761.218
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 250.164
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1330.921
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 50.039
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 170.115
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 450.324
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1370.944
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1771.222
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 260.168
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1340.925
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 60.043
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 180.115
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 460.324
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1380.944
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1781.222
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 270.168
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1350.925
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 70.043
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 190.127
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 470.336
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1390.956
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1791.234
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 280.18
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1360.937
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 80.055
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 200.133
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 480.342
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1400.962
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1801.24
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 290.186
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1370.943
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 90.061
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 210.142
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 490.351
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1410.971
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1811.249
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 300.195
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1380.952
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 100.07
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 220.15
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 500.359
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1420.979
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1821.257
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 310.203
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1390.96
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 110.078
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 230.164
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 510.373
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1430.993
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1831.271
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 320.217
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1400.974
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 120.092
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 240.165
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 520.374
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1440.994
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1841.272
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 330.218
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1410.975
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 130.093
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 250.17
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 530.379
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1450.999
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1851.277
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 340.223
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1420.98
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 140.098
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 260.171
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 540.38
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1461
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1861.278
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 350.224
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1430.981
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 150.099
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 270.185
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 550.394
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1471.014
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1871.292
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 360.238
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1440.995
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 10.014
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 160.113
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 280.196
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 560.405
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1481.025
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1881.303
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 370.249
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1451.006
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 20.025
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 170.124
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 290.203
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 570.412
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1491.032
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1891.31
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 380.256
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1461.013
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 30.032
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 180.131
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 300.211
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 580.42
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1501.04
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1901.318
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 390.264
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1471.021
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 40.04
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 190.139
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 310.22
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 590.429
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1511.049
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1911.327
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 400.273
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1481.03
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 50.049
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 200.148
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 320.233
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 600.442
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1521.062
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1921.34
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 410.286
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1491.043
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 60.062
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 210.161
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 330.247
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 610.456
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1531.076
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1931.354
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 420.3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1501.057
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 70.076
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 220.175
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 340.257
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 620.466
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1541.086
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1941.364
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 430.31
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1511.067
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 80.086
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 230.185
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 350.258
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 630.467
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1551.087
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1951.365
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 440.311
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1521.068
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 90.087
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 240.186
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 360.272
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 640.481
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1561.101
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1961.379
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 450.325
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1531.082
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 100.101
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 250.2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 370.281
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 650.49
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1571.11
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1971.388
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 460.334
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1541.091
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 110.11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 260.209
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 380.284
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 660.493
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1581.113
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1981.391
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 470.337
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1551.094
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 120.113
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 270.212
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 390.294
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 670.503
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1591.123
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 1991.401
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 480.347
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1561.104
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 130.123
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 280.222
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 400.301
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 680.51
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2001.408
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 490.354
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1571.111
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 140.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 290.229
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 410.307
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 690.516
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2011.414
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 500.36
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1581.117
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 150.136
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 300.235
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 420.311
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 700.52
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2021.418
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 510.364
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1591.121
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 160.14
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 310.239
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 430.324
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 710.533
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2031.431
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 520.377
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1601.134
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 170.153
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 320.252
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 440.339
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 720.548
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2041.446
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 530.392
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1611.149
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 180.168
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 330.267
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 450.342
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 730.551
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2051.449
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 540.395
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1621.152
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 190.171
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 340.27
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 460.353
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 740.562
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2061.46
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 550.406
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1631.163
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 200.182
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 350.281
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 470.364
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 750.573
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2071.471
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 560.417
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1641.174
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 210.193
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 360.292
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 480.364
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 760.573
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2081.471
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 570.417
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1651.174
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 220.193
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 370.292
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 490.374
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 770.583
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2091.481
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 10.01
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 580.427
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1661.184
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 230.203
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 380.302
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["weapons"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["weapons"]["Mk-20 Rockeye"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["weapons"]["Mk-20 Rockeye"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 500.384
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 780.593
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2101.491
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 20.02
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 590.437
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1671.194
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 240.213
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 390.312
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["actions"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["actions"]["losses"]["eject"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 510.404
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 790.613
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2111.511
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 30.04
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 600.457
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1681.214
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 250.233
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 400.332
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["inAir"] = 520.423
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["total"] = 800.632
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2121.53
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 40.059
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 610.476
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1691.233
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 260.252
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 410.351
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["AV8BNA"]["actions"]["losses"]["crash"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2131.534
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 50.063
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 620.48
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1701.237
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 270.256
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 420.355
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628265132
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2141.534
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 60.063
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 630.48
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1711.237
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 280.256
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 430.355
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 10.007
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2151.541
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 70.07
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 640.487
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1721.244
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 290.263
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 440.362
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 20.02
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2161.554
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 80.083
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 650.5
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1731.257
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 300.276
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 450.375
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 30.033
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2171.567
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 90.096
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 660.513
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1741.27
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 310.289
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 460.388
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 40.047
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2181.581
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 100.11
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 670.527
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1751.284
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 320.303
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 470.402
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 50.051
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2191.585
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 110.114
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 680.531
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1100.738
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1761.288
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 330.307
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 480.406
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 60.055
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2201.589
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 120.118
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 690.535
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1110.742
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1771.292
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 340.311
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 490.41
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 70.064
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2211.598
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 130.127
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 700.544
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1120.751
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1781.301
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 350.32
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 500.419
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 80.073
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2221.607
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 140.136
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 710.553
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1130.76
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1791.31
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 360.329
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 510.428
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 90.083
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2231.617
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 150.146
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 720.563
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1140.77
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1801.32
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 370.339
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 520.438
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 100.085
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2241.619
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 160.148
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 730.565
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1150.772
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1811.322
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 380.341
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 530.44
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 110.098
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2251.632
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 170.161
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 740.578
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1160.785
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1821.335
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 390.354
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 540.453
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 120.109
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2261.643
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 180.172
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 750.589
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1170.796
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1831.346
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 400.365
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 550.464
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 130.149
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2271.683
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 190.212
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 760.629
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1180.836
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1841.386
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 410.405
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 560.504
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 140.151
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2281.685
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 200.214
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 770.631
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1190.838
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1851.388
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 420.407
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 570.506
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 150.153
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2291.687
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 210.216
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 780.633
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1200.84
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1861.39
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 430.409
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 580.508
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 160.165
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2301.699
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 220.228
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 790.645
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1210.852
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1871.402
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 440.421
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 590.52
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 170.179
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2311.713
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 230.242
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 800.659
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1220.866
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1881.416
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 450.435
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 600.534
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 180.19
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2321.724
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 240.253
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 810.67
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1230.877
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1891.427
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 460.446
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 610.545
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 190.204
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2331.738
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 250.267
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 820.684
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1240.891
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1901.441
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 470.46
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 620.559
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 200.211
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2341.745
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 260.274
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 830.691
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1250.898
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1911.448
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 480.467
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 630.566
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 210.216
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2351.75
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 270.279
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 840.696
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1260.903
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1921.453
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 490.472
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 640.571
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 220.226
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2361.76
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 280.289
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 850.706
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1270.913
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1931.463
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 500.482
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 650.581
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 230.235
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2371.769
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 290.298
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 860.715
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1280.922
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1941.472
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 510.491
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 660.59
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 240.244
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2381.778
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 300.307
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 870.724
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1290.931
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1951.481
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 520.5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 670.599
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 250.248
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2391.782
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 310.311
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 880.728
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1300.935
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1961.485
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 530.504
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 680.603
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["inAir"] = 10.004
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 260.252
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2401.786
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 320.315
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 890.732
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1310.939
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1971.489
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 540.508
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 690.607
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["inAir"] = 20.016
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 270.264
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2411.798
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 330.327
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 900.744
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1320.951
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1981.501
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 550.52
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 700.619
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["inAir"] = 30.026
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 280.274
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2421.808
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 340.337
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 910.754
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1330.961
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 1991.511
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 560.53
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 710.629
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["actions"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["actions"]["losses"]["crash"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2431.818
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 350.347
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 920.764
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1340.971
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2001.521
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 570.54
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 720.639
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628265434
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2441.825
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 360.354
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 930.771
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1350.978
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2011.528
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 580.547
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 730.646
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628265439
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 290.288
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2451.839
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 370.368
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 940.785
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1360.992
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2021.542
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 590.561
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 740.66
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 300.303
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2461.854
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 380.383
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 950.8
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1371.007
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2031.557
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 600.576
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 750.675
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 310.304
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2471.855
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 390.384
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 960.801
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1381.008
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2041.558
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 610.577
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 760.676
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 320.305
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2481.856
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 400.385
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 970.802
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1391.009
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2051.559
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 620.578
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 770.677
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 330.318
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2491.869
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 410.398
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 980.815
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1401.022
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2061.572
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 630.591
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 780.69
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 340.328
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2501.879
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 420.408
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 990.825
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1411.032
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2071.582
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 640.601
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 790.7
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 350.343
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2511.894
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 430.423
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1000.84
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1421.047
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2081.597
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 650.616
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 800.715
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 360.344
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2521.895
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 440.424
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1010.841
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1431.048
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2091.598
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 660.617
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 810.716
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 370.359
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2531.91
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 450.439
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1020.856
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1441.063
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2101.613
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 670.632
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 820.731
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 380.361
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2541.912
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 460.441
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1030.858
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1451.065
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2111.615
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 680.634
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 830.733
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 390.362
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2551.913
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 470.442
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1040.859
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1461.066
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2121.616
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 690.635
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 840.734
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 400.374
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2561.925
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 480.454
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1050.871
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1471.078
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2131.628
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 700.647
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 850.746
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 410.375
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2571.926
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 490.455
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1060.872
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1481.079
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2141.629
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 710.648
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 860.747
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 420.38
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2581.931
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 500.46
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1070.877
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1491.084
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2151.634
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 720.653
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 870.752
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 430.393
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2591.944
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 510.473
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1080.89
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1501.097
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2161.647
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 730.666
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 880.765
-misStats["fbf96c475906b98e1e3c61dff1003555"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["names"] = { [1] = "Stefanjoska", }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["id"] = 4242
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628265588
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628265595
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628265595
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 440.406
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2601.957
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 520.486
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1090.903
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1511.11
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2171.66
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 740.679
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 890.778
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628265600
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 450.42
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2611.971
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 530.5
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1100.917
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1521.124
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2181.674
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 750.693
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 900.792
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 460.433
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2621.984
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 540.513
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1110.93
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1531.137
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2191.687
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 760.706
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 910.805
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 470.433
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2631.984
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 550.513
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1120.93
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1541.137
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2201.687
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 770.706
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 920.805
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["F-16C_50"]["total"] = 480.442
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2641.993
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 560.522
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1130.939
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1551.146
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2211.696
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 780.715
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 930.814
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628265640
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 10
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2651.993
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 570.522
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1140.939
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1561.146
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2221.696
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 790.715
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 940.814
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 10
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 20.014
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2662.007
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 580.536
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1150.953
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1571.16
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2231.71
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 800.729
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 950.828
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 20.014
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 30.018
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2672.011
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 590.54
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1160.957
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1581.164
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2241.714
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 810.733
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 960.832
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 30.018
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 40.029
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2682.022
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 600.551
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1170.968
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1591.175
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2251.725
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 820.744
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 970.843
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 40.029
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 50.03
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2692.023
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 610.552
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1180.969
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1601.176
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2261.726
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 830.745
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 980.844
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 50.03
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 60.031
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2702.024
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 620.553
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1190.97
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1611.177
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2271.727
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 840.746
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 990.845
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 60.031
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 70.046
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1601.138
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2712.039
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 630.568
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1200.985
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1621.192
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2281.742
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 850.761
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1000.86
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 70.046
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 80.047
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1611.139
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2722.04
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 640.569
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1210.986
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1631.193
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2291.743
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 860.762
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1010.861
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 80.047
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 90.061
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1621.153
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2732.054
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 650.583
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1221
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1641.207
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2301.757
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 870.776
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1020.875
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 90.061
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 100.066
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1631.158
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2742.059
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 660.588
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1231.005
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1651.212
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2311.762
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 880.781
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1030.88
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 100.066
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 110.075
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1641.167
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2752.068
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 670.597
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1241.014
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1661.221
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2321.771
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 890.79
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1040.889
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 110.075
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 120.085
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1651.177
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2762.078
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 680.607
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1251.024
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1671.231
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2331.781
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 900.8
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1050.899
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 120.085
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 130.098
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1661.19
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2772.091
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 690.62
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1261.037
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1681.244
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2341.794
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 910.813
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1060.912
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 130.098
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 140.109
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1671.201
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2782.102
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 700.631
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1271.048
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1691.255
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2351.805
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 920.824
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1070.923
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 140.109
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 150.123
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1681.215
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2792.116
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 710.645
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1281.062
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1701.269
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2361.819
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 930.838
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1080.937
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 150.123
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 160.125
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1691.217
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2802.118
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 720.647
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1291.064
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1711.271
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2371.821
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 940.84
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1090.939
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 160.125
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 170.127
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1701.219
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2812.12
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 730.649
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1301.066
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1721.273
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2381.823
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 950.842
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1100.941
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 170.127
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 180.139
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1711.231
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2822.132
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 740.661
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1311.078
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1731.285
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2391.835
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 960.854
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1110.953
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 180.139
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["numHits"] = 1
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["total"] = 0
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["total"] = 1
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["kills"] = 1
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["pvp"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["pvp"]["kills"] = 0
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 190.139
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1721.231
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2832.132
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 750.661
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1321.078
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1741.285
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2401.835
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 970.854
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1120.953
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 190.139
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 200.154
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1731.246
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2842.147
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 760.676
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1331.093
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1751.3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2411.85
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 980.869
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1130.968
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 200.154
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 210.157
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1741.249
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2852.15
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 770.679
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1341.096
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1761.303
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2421.853
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 990.872
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1140.971
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 210.157
-misStats["07a675beb5759a25cb996880df061809"] = { }
-misStats["07a675beb5759a25cb996880df061809"]["names"] = { [1] = "Quetzalkoatl", }
-misStats["07a675beb5759a25cb996880df061809"]["id"] = 5502
-misStats["07a675beb5759a25cb996880df061809"]["times"] = { }
-misStats["07a675beb5759a25cb996880df061809"]["lastJoin"] = 0
-misStats["07a675beb5759a25cb996880df061809"]["lastJoin"] = 1628265848
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 220.157
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1751.249
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2862.15
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 780.679
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1351.096
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1771.303
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2431.853
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1000.872
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1150.971
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 220.157
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 230.159
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1761.251
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2872.152
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 790.681
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1361.098
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1781.305
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2441.855
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1010.874
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1160.973
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 230.159
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 240.174
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1771.266
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2882.167
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 800.696
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1371.113
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1791.32
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2451.87
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1020.889
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1170.988
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 240.174
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 250.174
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1781.266
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2892.167
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 810.696
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1381.113
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1801.32
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2461.87
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1030.889
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1180.988
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 250.174
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 260.189
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1791.281
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2902.182
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 820.711
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1391.128
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1811.335
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2471.885
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1040.904
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1191.003
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 260.189
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 270.198
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1801.29
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2912.191
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 830.72
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1401.137
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1821.344
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2481.894
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1050.913
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1201.012
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 270.198
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 280.205
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1811.297
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2922.198
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 840.727
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1411.144
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1831.351
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2491.901
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1060.92
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1211.019
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 280.205
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 290.205
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1821.297
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2932.198
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 850.727
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1421.144
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1841.351
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2501.901
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1070.92
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1221.019
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 290.205
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 300.216
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1831.308
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2942.209
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 860.738
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1431.155
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1851.362
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2511.912
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1080.931
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1231.03
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 300.216
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 310.221
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1841.313
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2952.214
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 870.743
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1441.16
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1861.367
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2521.917
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1090.936
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1241.035
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 310.221
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 320.221
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1851.313
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2962.214
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 880.743
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1451.16
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1871.367
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2531.917
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1100.936
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1251.035
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 320.221
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 330.222
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1861.314
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2972.215
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 890.744
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1461.161
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1881.368
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2541.918
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1110.937
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1261.036
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 330.222
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 340.222
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1871.314
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2982.215
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 900.744
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1471.161
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1891.368
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2551.918
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1120.937
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1271.036
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 340.222
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 350.237
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1881.329
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 2992.23
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 910.759
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1481.176
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1901.383
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2561.933
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1130.952
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1281.051
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 350.237
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 360.247
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1891.339
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3002.24
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 920.769
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1491.186
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1911.393
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2571.943
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1140.962
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1291.061
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 360.247
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 370.254
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1901.346
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3012.247
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 930.776
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1501.193
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1921.4
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2581.95
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1150.969
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1301.068
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 370.254
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 380.26
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1911.352
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3022.253
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 940.782
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1511.199
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1931.406
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2591.956
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1160.975
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1311.074
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 380.26
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 390.271
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1921.363
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3032.264
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 950.793
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1521.21
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1941.417
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2601.967
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1170.986
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1321.085
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 390.271
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 400.28
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1931.372
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3042.273
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 960.802
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1531.219
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1951.426
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2611.976
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1180.995
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1331.094
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 400.28
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 410.285
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1941.377
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3052.278
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 970.807
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1541.224
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1961.431
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2621.981
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1191
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1341.099
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 10.005
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 410.285
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 420.285
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1951.377
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3062.278
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 980.807
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1551.224
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1971.431
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2631.981
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1201
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1351.099
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 20.005
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 420.285
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 430.289
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1961.381
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3072.282
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 990.811
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1561.228
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1981.435
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2641.985
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1211.004
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1361.103
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 30.009
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 430.289
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 440.301
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1971.393
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3082.294
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1000.823
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1571.24
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 1991.447
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2651.997
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1221.016
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1371.115
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 40.021
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 440.301
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 450.301
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1981.393
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3092.294
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1010.823
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1581.24
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2001.447
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2661.997
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1231.016
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1381.115
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 50.021
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 450.301
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 460.314
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 1991.406
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3102.307
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1020.836
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1591.253
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2011.46
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2672.01
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1241.029
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1391.128
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 60.034
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 460.314
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 470.319
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2001.411
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3112.312
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1030.841
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1601.258
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2021.465
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2682.015
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1251.034
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1401.133
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 70.039
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 470.319
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 480.324
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2011.416
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3122.317
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1040.846
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1611.263
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2031.47
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2692.02
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1261.039
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1411.138
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 80.044
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 480.324
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 490.335
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2021.427
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3132.328
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1050.857
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1621.274
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2041.481
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2702.031
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1271.05
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1421.149
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 90.055
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 490.335
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 500.345
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2031.437
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3142.338
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1060.867
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1631.284
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2051.491
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2712.041
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1281.06
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1431.159
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 100.065
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 500.345
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 510.357
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2041.449
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3152.35
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1070.879
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1641.296
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2061.503
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2722.053
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1291.072
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1441.171
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 110.077
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 510.357
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 520.365
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2051.457
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3162.358
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1080.887
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1651.304
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2071.511
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2732.061
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1301.08
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1451.179
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 120.085
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 520.365
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 530.375
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2061.467
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3172.368
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1090.897
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1661.314
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2081.521
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2742.071
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1311.09
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1461.189
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 130.095
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 530.375
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 540.381
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2071.473
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3182.374
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1100.903
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1671.32
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2091.527
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2752.077
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1321.096
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1471.195
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 140.101
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 540.381
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["numHits"] = 2
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["total"] = 2
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["kills"] = 2
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["pvp"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 550.394
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2081.486
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3192.387
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1110.916
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1681.333
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2101.54
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2762.09
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1331.109
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1481.208
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 150.114
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 550.394
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 560.407
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2091.499
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3202.4
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1120.929
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1691.346
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2111.553
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2772.103
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1341.122
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1491.221
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 160.127
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 560.407
-misStats["6015a49c09afba1e20d1596d431e78cd"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["names"] = { [1] = "Atesz", [2] = "SteelRain", }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["id"] = 4265
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["lastJoin"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["lastJoin"] = 1628266206
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 570.411
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2101.503
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3212.404
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1130.933
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1701.35
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2121.557
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2782.107
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1351.126
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1501.225
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 170.131
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 570.411
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 580.42
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2111.512
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3222.413
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1140.942
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1711.359
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2131.566
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2792.116
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1361.135
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1511.234
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 180.14
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 580.42
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 590.434
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2121.526
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3232.427
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1150.956
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1721.373
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2141.58
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2802.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1371.149
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1521.248
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 190.154
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 590.434
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 10.014
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 600.434
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2131.526
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3242.427
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1160.956
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1731.373
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2151.58
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2812.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1381.149
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1531.248
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 200.154
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 600.434
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 20.014
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 610.445
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2141.537
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3252.438
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1170.967
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1741.384
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2161.591
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2822.141
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1391.16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1541.259
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 210.165
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 610.445
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 30.025
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 620.451
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2151.543
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3262.444
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1180.973
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1751.39
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2171.597
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2832.147
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1401.166
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1551.265
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 220.171
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 620.451
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 40.031
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 630.464
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2161.556
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3272.457
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1190.986
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1761.403
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2181.61
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2842.16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1411.179
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1561.278
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 230.184
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 630.464
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 50.044
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 640.474
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2171.566
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3282.467
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1200.996
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1771.413
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2191.62
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2852.17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1421.189
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1571.288
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 240.194
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 640.474
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 60.054
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 650.487
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2181.579
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3292.48
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1211.009
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1781.426
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2201.633
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2862.183
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1431.202
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1581.301
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 250.207
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 650.487
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 70.067
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 660.494
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2191.586
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3302.487
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1221.016
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1791.433
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2211.64
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2872.19
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1441.209
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1591.308
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 260.214
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 660.494
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 80.074
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 670.499
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2201.591
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3312.492
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1231.021
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1801.438
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2221.645
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2882.195
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1451.214
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1601.313
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 270.219
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 670.499
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 90.079
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 680.508
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2211.6
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3322.501
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1241.03
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1811.447
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2231.654
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2892.204
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1461.223
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1611.322
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 280.228
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 680.508
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 100.088
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 690.522
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2221.614
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3332.515
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1251.044
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1821.461
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2241.668
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2902.218
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1471.237
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1621.336
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 290.242
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 690.522
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 110.102
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 700.535
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2231.627
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3342.528
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1261.057
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1831.474
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2251.681
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2912.231
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1481.25
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1631.349
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 300.255
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 700.535
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 120.115
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 710.539
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2241.631
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3352.532
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1271.061
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1841.478
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2261.685
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2922.235
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1491.254
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1641.353
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 310.259
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 710.539
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 130.119
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 720.549
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2251.641
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3362.542
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1281.071
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1851.488
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2271.695
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2932.245
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1501.264
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1651.363
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 320.269
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 720.549
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 140.129
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 730.552
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2261.644
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3372.545
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1291.074
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1861.491
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2281.698
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2942.248
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1511.267
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1661.366
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 330.272
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 730.552
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 150.132
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 10.007000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 740.559
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2271.651
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3382.552
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1301.081
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1871.498
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2291.705
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2952.255
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1521.274
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1671.373
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 340.279
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 740.559
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 160.139
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 20.013
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 750.565
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2281.657
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3392.558
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1311.087
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1881.504
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2301.711
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2962.261
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1531.28
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1681.379
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 350.285
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 750.565
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 170.145
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 30.026000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 760.578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2291.67
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3402.571
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1321.1
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1891.517
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2311.724
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2972.274
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1541.293
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1691.392
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 360.298
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 760.578
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 180.158
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 40.038
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 770.59
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2301.682
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3412.583
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1331.112
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1901.529
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2321.736
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2982.286
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1551.305
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1701.404
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 370.31
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 770.59
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 190.17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 50.052000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 780.604
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2311.696
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3422.597
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1341.126
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1911.543
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2331.75
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 2992.3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1561.319
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1711.418
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 380.324
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 780.604
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 200.184
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 60.057000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 790.609
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2321.701
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3432.602
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1351.131
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1921.548
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3002.305
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1571.324
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1721.423
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 390.329
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 790.609
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 210.189
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 70.070000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 800.622
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2331.714
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3442.615
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1361.144
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1931.561
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3012.318
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1581.337
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1731.436
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 400.342
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 800.622
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 220.202
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 80.070000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 810.622
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2341.714
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3452.615
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1371.144
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1941.561
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3022.318
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1591.337
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1741.436
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 410.342
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 810.622
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 230.202
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 90.074000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 820.626
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2351.718
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3462.619
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1381.148
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1951.565
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3032.322
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1601.341
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1751.44
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 420.346
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 820.626
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 240.206
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 100.088
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 830.64
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2361.732
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3472.633
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1391.162
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1961.579
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3042.336
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1611.355
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1761.454
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 430.36
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 830.64
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 250.22
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 110.088
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 840.64
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2371.732
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3482.633
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1401.162
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1971.579
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3052.336
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1621.355
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1771.454
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 440.36
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 840.64
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 260.22
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 120.091
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 850.643
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2381.735
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3492.636
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1411.165
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1981.582
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3062.339
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1631.358
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1781.457
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 450.363
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 850.643
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 270.223
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 130.096
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 860.648
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2391.74
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3502.641
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1421.17
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 1991.587
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3072.344
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1641.363
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1791.462
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 460.368
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 860.648
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 10.005
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 280.228
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 140.101
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 870.653
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2401.745
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3512.646
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1431.175
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2001.592
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3082.349
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1651.368
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1801.467
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 470.373
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 870.653
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 20.01
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 290.233
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["numHits"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Tanks"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Tanks"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["kills"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 150.106
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 880.658
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2411.75
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3522.651
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1441.18
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2011.597
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3092.354
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1661.373
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1811.472
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 480.378
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 880.658
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 30.015
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 300.238
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 160.107
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 890.659
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2421.751
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3532.652
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1451.181
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2021.598
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3102.355
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1671.374
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1821.473
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 490.379
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 890.659
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 40.016
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 310.239
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 170.121
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 900.673
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2431.765
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3542.666
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1461.195
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2031.612
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3112.369
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1681.388
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1831.487
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 500.393
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 900.673
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 50.03
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 320.253
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 180.124
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 910.676
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2441.768
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3552.669
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1471.198
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2041.615
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3122.372
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1691.391
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1841.49
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 510.396
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 910.676
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 60.033
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 330.256
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["numHits"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 190.133
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 920.685
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2451.777
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3562.678
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1481.207
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2051.624
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3132.381
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1701.4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1851.499
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 520.405
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 920.685
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 70.042
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 340.265
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 200.138
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 930.69
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2461.782
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3572.683
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1491.212
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2061.629
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3142.386
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1711.405
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1861.504
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 530.41
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 930.69
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 80.047
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 350.27
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 210.153
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 940.705
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2471.797
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3582.698
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1501.227
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2071.644
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3152.401
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1721.42
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1871.519
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 540.425
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 940.705
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 90.062
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 360.285
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 220.167
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 950.719
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2481.811
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3592.712
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1511.241
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2081.658
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3162.415
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1731.434
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1881.533
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 550.439
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 950.719
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 100.076
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 370.299
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 230.169
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 960.721
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2491.813
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3602.714
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1521.243
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2091.66
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3172.417
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1741.436
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1891.535
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 560.441
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 960.721
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 110.078
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 380.301
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 240.171
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 970.723
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2501.815
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3612.716
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1531.245
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2101.662
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3182.419
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1751.438
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1901.537
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 570.443
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 970.723
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 120.08
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 390.303
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 250.184
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 980.736
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2511.828
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3622.729
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1541.258
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2111.675
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3192.432
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1761.451
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1911.55
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 580.456
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 980.736
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 130.093
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 400.316
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["kills"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 260.185
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 990.737
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2521.829
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3632.73
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1551.259
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2121.676
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3202.433
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1771.452
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1921.551
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 590.457
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 990.737
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 140.094
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 410.317
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 270.189
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1000.741
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2531.833
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3642.734
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1561.263
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2131.68
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3212.437
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1781.456
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1931.555
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 600.461
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1000.741
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 150.098
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 420.321
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 280.194
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1010.746
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2541.838
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3652.739
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1571.268
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2141.685
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3222.442
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1791.461
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1941.56
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 610.466
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1010.746
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 160.103
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 430.326
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 290.201
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1020.753
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2551.845
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3662.746
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1581.275
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2151.692
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3232.449
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1801.468
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1951.567
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 620.473
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1020.753
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 170.11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 440.333
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 300.204
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1030.756
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2561.848
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3672.749
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1591.278
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2161.695
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3242.452
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1811.471
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1961.57
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 630.476
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1030.756
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 180.113
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 450.336
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 310.207
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1040.759
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2571.851
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3682.752
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1601.281
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2171.698
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3252.455
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1821.474
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1971.573
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 640.479
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1040.759
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 190.116
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 460.339
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 3
-misStats["b515965c9dcba78f695fecdf10f2827a"] = { }
-misStats["b515965c9dcba78f695fecdf10f2827a"]["names"] = { [1] = "Ranger", }
-misStats["b515965c9dcba78f695fecdf10f2827a"]["id"] = 5863
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"] = { }
-misStats["b515965c9dcba78f695fecdf10f2827a"]["lastJoin"] = 0
-misStats["b515965c9dcba78f695fecdf10f2827a"]["lastJoin"] = 1628266686
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 320.218
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1050.77
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2581.862
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3692.763
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1611.292
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2181.709
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3262.466
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1831.485
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1981.584
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 650.49
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1050.77
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 200.127
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 470.35
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 330.225
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1060.777
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2591.869
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3702.77
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1621.299
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2191.716
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3272.473
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1841.492
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 1991.591
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 660.497
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1060.777
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 210.134
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 480.357
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 340.237
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1070.789
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2601.881
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3712.782
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1631.311
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2201.728
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3282.485
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1851.504
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2001.603
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 670.509
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1070.789
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 220.146
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 490.369
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 10.012
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 350.245
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1080.797
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2611.889
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3722.79
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1641.319
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2211.736
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3292.493
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1861.512
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2011.611
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 680.517
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1080.797
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 230.154
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 500.377
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 20.02
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 360.249
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1090.801
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2621.893
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3732.794
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1651.323
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2221.74
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3302.497
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1871.516
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2021.615
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 690.521
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1090.801
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 240.158
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 510.381
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 30.024
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 370.265
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1100.817
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2631.909
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3742.81
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1661.339
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2231.756
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3312.513
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1881.532
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2031.631
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 700.537
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1100.817
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 250.174
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 520.397
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 40.04
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 380.27
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1110.822
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2641.914
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3752.815
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1671.344
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2241.761
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3322.518
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1891.537
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2041.636
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 710.542
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1110.822
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 260.179
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 530.402
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 50.045
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 5
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["numHits"] = 2
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["shot"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 390.283
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1120.835
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2651.927
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3762.828
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1681.357
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2251.774
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3332.531
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1901.55
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2051.649
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 720.555
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1120.835
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 270.192
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 540.415
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 60.058
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["kills"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 400.298
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1130.85
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2661.942
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3772.843
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1691.372
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2261.789
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3342.546
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1911.565
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2061.664
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 730.57
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1130.85
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 280.207
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 550.43
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 70.073
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["numHits"] = 3
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["kills"]["Ground Units"]["total"] = 3
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["weapons"]["AGM-65D"]["kills"] = 3
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 410.3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1140.852
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2671.944
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3782.845
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1701.374
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2271.791
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3352.548
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1921.567
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2071.666
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 740.572
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1140.852
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 290.209
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 560.432
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 80.075
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 420.311
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1150.863
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2681.955
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3792.856
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1711.385
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2281.802
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3362.559
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1931.578
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2081.677
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 750.583
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1150.863
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 300.22
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 570.443
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 90.086
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 430.321
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1160.873
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2691.965
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3802.866
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1721.395
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2291.812
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3372.569
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1941.588
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2091.687
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 760.593
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1160.873
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 310.23
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 580.453
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 100.096
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 440.33
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1170.882
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2701.974
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3812.875
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1731.404
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2301.821
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3382.578
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1951.597
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2101.696
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 770.602
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1170.882
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 320.239
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 590.462
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 110.105
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 450.341
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1180.893
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2711.985
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3822.886
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1741.415
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2311.832
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3392.589
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1961.608
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2111.707
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 780.613
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1180.893
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 330.25
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 600.473
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 120.116
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 460.345
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1190.897
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2721.989
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3832.89
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1751.419
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2321.836
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3402.593
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1971.612
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2121.711
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 790.617
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1190.897
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 340.254
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 610.477
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 130.12
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["names"] = { [1] = "raptordude", }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["id"] = 3876
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628266836
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 470.357
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1200.909
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2732.001
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3842.902
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1761.431
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2331.848
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3412.605
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1981.624
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2131.723
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 800.629
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1200.909
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 350.266
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 620.489
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 140.132
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 6
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Tanks"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 5
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 5
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 5
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 6
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 5
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 480.357
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1210.909
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2742.001
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3852.902
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1771.431
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2341.848
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3422.605
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 1991.624
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2141.723
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 810.629
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1210.909
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 360.266
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 630.489
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 150.132
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 10
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 490.359
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1220.911
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2752.003
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3862.904
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1781.433
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2351.85
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3432.607
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2001.626
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2151.725
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 820.631
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1220.911
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 370.268
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 640.491
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 160.134
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 20.002
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 500.373
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1230.925
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2762.017
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3872.918
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1791.447
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2361.864
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3442.621
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2011.64
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2161.739
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 830.645
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1230.925
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 380.282
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 650.505
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 170.148
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 30.016000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 510.386
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1240.938
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2772.03
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3882.931
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1801.46
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2371.877
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3452.634
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2021.653
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2171.752
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 840.658
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1240.938
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 390.295
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 660.518
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 180.161
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 40.029
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 520.39
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1250.942
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2782.034
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3892.935
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1811.464
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2381.881
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2341.754
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3462.638
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2031.657
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2181.756
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 850.662
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1250.942
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 400.299
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 670.522
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 190.165
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 50.033
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 6
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 530.396
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1260.948
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2792.04
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3902.941
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1821.47
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2391.887
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2351.76
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3472.644
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2041.663
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2191.762
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 860.668
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1260.948
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 410.305
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 680.528
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 200.171
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 60.039000000001
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 6
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 7
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 6
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 7
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"] = { ["kills"] = 0, ["shot"] = 0, ["hit"] = 0, ["gun"] = true, ["numHits"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["numHits"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 540.396
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1270.948
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2802.04
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3912.941
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1831.47
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2401.887
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2361.76
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3482.644
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2051.663
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2201.762
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 870.668
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1270.948
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 420.305
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 690.528
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 210.171
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 70.039000000001
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 174
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 550.409
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1280.961
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2812.053
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3922.954
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1841.483
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2411.9
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2371.773
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3492.657
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2061.676
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2211.775
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 880.681
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1280.961
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 430.318
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 700.541
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 220.184
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 80.052000000001
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628266923
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Unarmored"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Unarmored"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 8
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["kills"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 560.418
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1290.97
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2822.062
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3932.963
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1851.492
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2421.909
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2381.782
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3502.666
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2071.685
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2221.784
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 890.69
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1290.97
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 440.327
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 710.55
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 230.193
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 570.428
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1300.98
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2832.072
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3942.973
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1861.502
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2431.919
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2391.792
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3512.676
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2081.695
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2231.794
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 900.7
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1300.98
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 450.337
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 720.56
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 240.203
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["FA-18C_hornet"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["FA-18C_hornet"]["total"] = 10.01
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["shot"] = 4
-misStats["664579b674d5ba17f7f13aa5cd1c8033"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["names"] = { [1] = "Sukka", [2] = "NahkaSukka", [3] = "NahkaSukka", }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["id"] = 1689
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["names"] = { [1] = "Sukka", [2] = "NahkaSukka", [3] = "NahkaSukka", }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["lastJoin"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["lastJoin"] = 1628266946
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 580.438
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1310.99
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2842.082
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3952.983
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1871.512
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2441.929
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2401.802
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3522.686
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2091.705
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2241.804
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 910.71
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1310.99
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 460.347
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 730.57
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 250.213
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["FA-18C_hornet"]["total"] = 20.02
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 590.452
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1321.004
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2852.096
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3962.997
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1881.526
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2451.943
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2411.816
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3532.7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2251.818
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 920.724
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1321.004
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 470.361
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 740.584
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 260.227
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["FA-18C_hornet"]["total"] = 30.034
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 175
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 239
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 600.463
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1331.015
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2862.107
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3973.008
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1891.537
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2461.954
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2421.827
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3542.711
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2261.829
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 930.735
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1331.015
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 480.372
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 750.595
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 270.238
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 10.011
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["FA-18C_hornet"]["total"] = 40.045
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 240
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 288
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628266969
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 289
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628266971
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 361
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["numHits"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 610.473
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1341.025
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2872.117
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3983.018
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1901.547
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2471.964
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2431.837
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3552.721
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2271.839
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 940.745
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1341.025
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 490.382
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 760.605
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 280.248
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 20.021
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 620.484
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1351.036
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2882.128
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 3993.029
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1911.558
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2481.975
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2441.848
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3562.732
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2281.85
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 950.756
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1351.036
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 500.393
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 770.616
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 290.259
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 30.032
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 90.063000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["numHits"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["total"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["total"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["pvp"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["pvp"]["kills"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["numHits"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["kills"]["Ground Units"]["total"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["weapons"]["Kh-25MP"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["pvp"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 630.484
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1361.036
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2892.128
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4003.029
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1921.558
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2491.975
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2451.848
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3572.732
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2291.85
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 960.756
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1361.036
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 510.393
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 780.616
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 300.259
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 40.032
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 100.063
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 640.486
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1371.038
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2902.13
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4013.031
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1931.56
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2501.977
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2461.85
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3582.734
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2301.852
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 970.758
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1371.038
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 520.395
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 790.618
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 310.261
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 50.034000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 110.065
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 362
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["numHits"] = 9
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 466
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 650.492
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1381.044
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2912.136
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4023.037
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1941.566
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2511.983
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2471.856
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3592.74
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2311.858
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 980.764
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1381.044
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 530.401
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 800.624
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 320.267
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 60.04
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 120.071
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 9
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["M-61"]["kills"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 9
-misStats["4a8a6df189c3f51fde134fd9ea093e18"] = { }
-misStats["4a8a6df189c3f51fde134fd9ea093e18"]["names"] = { [1] = "Cipher", }
-misStats["4a8a6df189c3f51fde134fd9ea093e18"]["id"] = 5113
-misStats["4a8a6df189c3f51fde134fd9ea093e18"]["times"] = { }
-misStats["4a8a6df189c3f51fde134fd9ea093e18"]["lastJoin"] = 0
-misStats["4a8a6df189c3f51fde134fd9ea093e18"]["lastJoin"] = 1628267022
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 660.493
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1391.045
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2922.137
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4033.038
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1951.567
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2521.984
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2481.857
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3602.741
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2321.859
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 990.765
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1391.045
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 540.402
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 810.625
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 330.268
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 70.041
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 130.072
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 670.501
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1401.053
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2932.145
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4043.046
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1961.575
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2531.992
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2491.865
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3612.749
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2331.867
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1000.773
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1401.053
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 550.41
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 820.633
-misStats["b515965c9dcba78f695fecdf10f2827a"]["times"]["F-16C_50"]["total"] = 340.276
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 80.049
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 140.08
-misStats["b515965c9dcba78f695fecdf10f2827a"]["lastJoin"] = 1628267038
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 680.507
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1411.059
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2942.151
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4053.052
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1971.581
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2541.998
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2501.871
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3622.755
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2341.873
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1010.779
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1411.059
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 560.416
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 830.639
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 90.055
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 150.086
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 690.517
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1421.069
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2952.161
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4063.062
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1981.591
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2552.008
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2511.881
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3632.765
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2351.883
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1020.789
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1421.069
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 570.426
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 840.649
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 100.065
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 160.096
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 700.529
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1431.081
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2962.173
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4073.074
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 1991.603
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2562.02
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2521.893
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3642.777
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2361.895
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1030.801
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1431.081
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 580.438
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 850.661
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 110.077
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 170.108
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 710.532
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1441.084
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2972.176
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4083.077
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2001.606
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2572.023
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2531.896
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3652.78
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2371.898
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1040.804
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1441.084
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 590.441
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 860.664
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 120.08
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 180.111
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 720.535
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1451.087
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2982.179
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4093.08
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2011.609
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2582.026
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2541.899
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3662.783
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2381.901
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1050.807
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1451.087
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 600.444
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 870.667
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 130.083
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 190.114
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 730.542
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1461.094
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 2992.186
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4103.087
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2021.616
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2592.033
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2551.906
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3672.79
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2391.908
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1060.814
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1461.094
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 610.451
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 880.674
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 140.09
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 200.121
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["actions"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["numHits"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["inAir"] = 740.557
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["Su-25T"]["total"] = 1471.109
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3002.201
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4113.102
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2031.631
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2602.048
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2561.921
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3682.805
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2401.923
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1070.829
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1471.109
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 620.466
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 890.689
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 150.105
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 210.136
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628267108
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3012.209
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4123.11
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2041.639
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2612.056
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2571.929
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3692.813
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2411.931
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1080.837
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1481.117
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 630.474
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 900.697
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 160.113
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 220.144
-misStats["cc5f659497e463acf3243fd2960bd301"]["lastJoin"] = 1628267120
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3022.223
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4133.124
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2051.653
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2622.07
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2581.943
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3702.827
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2421.945
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1090.851
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1491.131
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 640.488
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 910.711
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 170.127
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 230.158
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3032.236
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4143.137
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2061.666
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2632.083
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2591.956
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3712.84
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2431.958
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1100.864
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1501.144
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 650.501
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 920.724
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 180.14
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 240.171
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3042.236
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4153.137
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2071.666
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2642.083
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2601.956
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3722.84
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2441.958
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1110.864
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1511.144
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 660.501
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 930.724
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 190.14
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 250.171
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3052.24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4163.141
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2081.67
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2652.087
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2611.96
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3732.844
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2451.962
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1120.868
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1521.148
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 670.505
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 940.728
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 200.144
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 260.175
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3062.255
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4173.156
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2091.685
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2662.102
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2621.975
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3742.859
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2461.977
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1130.883
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1531.163
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 680.52
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 950.743
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 210.159
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 270.19
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3072.268
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4183.169
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2101.698
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2672.115
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2631.988
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3752.872
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2471.99
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1140.896
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1541.176
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 690.533
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 960.756
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 220.172
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 280.203
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3082.282
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4193.183
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2111.712
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2682.129
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2642.002
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3762.886
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2482.004
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1150.91
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1551.19
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 700.547
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 970.77
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 230.186
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 290.217
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3092.296
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4203.197
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2121.726
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2692.143
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2652.016
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3772.9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2492.018
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1160.924
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1561.204
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 710.561
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 980.784
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 240.2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 300.231
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3102.305
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4213.206
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2131.735
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2702.152
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2662.025
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3782.909
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2502.027
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1170.933
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1571.213
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 720.57
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 990.793
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 250.209
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 310.24
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 10.009
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3112.314
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4223.215
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2141.744
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2712.161
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2672.034
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3792.918
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2512.036
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1180.942
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1581.222
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 730.579
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1000.802
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 260.218
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 320.249
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 20.02
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3122.325
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4233.226
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2151.755
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2722.172
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2682.045
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3802.929
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2522.047
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1190.953
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1591.233
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 740.59
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1010.813
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 270.229
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 330.26
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["numHits"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Planes"] = { }
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Planes"]["Fighters"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 0
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Planes"]["total"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["AIM-120C-5"]["kills"] = 1
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 10
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 30.032
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3132.337
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4243.238
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2161.767
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2732.184
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2692.057
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3812.941
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2532.059
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1200.965
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1601.245
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 750.602
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1020.825
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 280.241
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 340.272
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"]["losses"]["crash"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 40.039000000001
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3142.344
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4253.245
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2171.774
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2742.191
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2702.064
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3822.948
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2542.066
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 760.609
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1030.832
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 290.248
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 350.279
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 50.041
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3152.346
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4263.247
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2181.776
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2752.193
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2712.066
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3832.95
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2552.068
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 770.611
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1040.834
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 300.25
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 360.281
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 60.044
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3162.349
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4273.25
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2191.779
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2762.196
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2722.069
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3842.953
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2562.071
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 780.614
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1050.837
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 310.253
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 370.284
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 70.049
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3172.354
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4283.255
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2201.784
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2772.201
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2732.074
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3852.958
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2572.076
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 790.619
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1060.842
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 320.258
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 380.289
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 80.056
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3182.361
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4293.262
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2211.791
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2782.208
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2742.081
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3862.965
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2582.083
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 800.626
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1070.849
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 330.265
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 10.007000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 390.296
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 90.064
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3192.369
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4303.27
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2221.799
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2792.216
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2752.089
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3872.973
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2592.091
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 810.634
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1080.857
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 340.273
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 20.015
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 400.304
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 100.064
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3202.369
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4313.27
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2231.799
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2802.216
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2762.089
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3882.973
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2101.705
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2602.091
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 820.634
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1090.857
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 10
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 350.273
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 30.015
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 410.304
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628267313
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 110.071
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3212.376
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4323.277
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2241.806
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2812.223
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2772.096
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3892.98
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2111.712
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2612.098
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1611.252
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 830.641
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1100.864
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 20.007
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 360.28
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 40.022
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 420.311
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 120.079
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3222.384
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4333.285
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2251.814
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2822.231
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2782.104
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3902.988
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2121.72
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2622.106
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1621.26
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 840.649
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1110.872
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 30.015
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 370.288
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 50.030000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 430.319
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 130.086
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3232.391
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4343.292
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2261.821
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2832.238
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2792.111
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3912.995
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2131.727
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2632.113
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1631.267
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 850.656
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1120.879
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 40.022
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 380.295
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 60.037
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 440.326
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 140.086
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3242.391
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4353.292
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2271.821
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2842.238
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2802.111
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3922.995
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2141.727
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2642.113
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1641.267
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 860.656
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1130.879
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 50.022
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 390.295
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 70.037
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 450.326
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 150.091
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3252.396
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4363.297
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2281.826
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2852.243
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2812.116
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3933
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2151.732
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2652.118
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1651.272
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 870.661
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1140.884
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 60.027
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 400.3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 80.042
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 460.331
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 160.094
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3262.399
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4373.3
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2291.829
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2862.246
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2822.119
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3943.003
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2161.735
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2662.121
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1661.275
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 880.664
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1150.887
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 70.03
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 410.303
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 90.045
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 470.334
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 7
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 170.101
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3272.406
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4383.307
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2301.836
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2872.253
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2832.126
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3953.01
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2171.742
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2672.128
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1671.282
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 890.671
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1160.894
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 80.037
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 420.31
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 100.052
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 480.341
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 8
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 9
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 180.11
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3282.415
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4393.316
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2311.845
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2882.262
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2842.135
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3963.019
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2181.751
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2682.137
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1681.291
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 900.68
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1170.903
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 90.046
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 430.319
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 110.061
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 490.35
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 190.123
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3292.428
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4403.329
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2321.858
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2892.275
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2852.148
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3973.032
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2191.764
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2692.15
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1691.304
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 910.693
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1180.916
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 100.059
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 440.332
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 120.074
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 500.363
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 200.132
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3302.437
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4413.338
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2331.867
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2902.284
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2862.157
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3983.041
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2201.773
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2702.159
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1701.313
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 920.702
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1190.925
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 110.068
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 450.341
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 130.083
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 510.372
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 6
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 4
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 4
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 4
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 5
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 4
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 5
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 5
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 210.143
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3312.448
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4423.349
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2341.878
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2912.295
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2872.168
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 3993.052
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2211.784
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2712.17
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1711.324
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 930.713
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1200.936
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 120.079
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 460.352
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 140.094
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 520.383
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 220.145
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3322.45
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4433.351
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2351.88
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2922.297
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2882.17
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4003.054
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2221.786
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2722.172
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1721.326
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 940.715
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1210.938
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 130.081
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 470.354
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 150.096
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 530.385
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 230.146
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3332.451
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4443.352
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2361.881
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2932.298
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2892.171
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4013.055
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2231.787
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2732.173
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1731.327
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 950.716
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1220.939
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 140.082
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 480.355
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 160.097
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 540.386
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 240.161
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3342.466
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4453.367
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2371.896
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2942.313
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2902.186
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4023.07
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2241.802
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2742.188
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1741.342
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 960.731
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1230.954
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 150.097
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 490.37
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 170.112
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 550.401
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 250.161
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3352.466
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4463.367
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2381.896
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2952.313
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2912.186
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4033.07
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2251.802
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2752.188
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1751.342
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 970.731
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1240.954
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 160.097
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 500.37
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 180.112
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 560.401
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["kills"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 7
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 260.164
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3362.469
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4473.37
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2391.899
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2962.316
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2922.189
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4043.073
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2261.805
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2762.191
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1761.345
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 980.734
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1250.957
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 170.1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 510.373
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 190.115
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 570.404
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 270.165
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3372.47
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4483.371
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2401.9
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2972.317
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2932.19
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4053.074
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2271.806
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2772.192
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1771.346
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 990.735
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1260.958
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 180.101
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 520.374
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 200.116
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 580.405
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 280.168
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3382.473
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4493.374
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2411.903
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2982.32
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2942.193
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4063.077
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2281.809
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2782.195
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1781.349
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1000.738
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1270.961
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 190.104
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 530.377
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 210.119
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 590.408
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 290.179
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3392.484
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4503.385
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2421.914
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 2992.331
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2952.204
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4073.088
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2291.82
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2792.206
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1791.36
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1010.749
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1280.972
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 200.115
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 540.388
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 220.13
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 600.419
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 300.179
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3402.484
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4513.385
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2431.914
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 3002.331
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2962.204
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4083.088
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2301.82
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2802.206
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1801.36
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1020.749
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1290.972
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 210.115
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 550.388
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 230.13
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 610.419
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 310.18
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3412.485
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4523.386
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2441.915
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 3012.332
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2972.205
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4093.089
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2311.821
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2812.207
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1811.361
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1030.75
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1300.973
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 220.116
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 560.389
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 240.131
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 620.42
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 320.182
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3422.487
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4533.388
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["inAir"] = 2451.917
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["total"] = 3022.334
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2982.207
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4103.091
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2321.823
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2822.209
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1821.363
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1040.752
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1310.975
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 230.118
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 570.391
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 250.133
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 630.422
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 10
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["actions"] = { }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["times"]["A-10C_2"]["actions"]["losses"]["crash"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 330.196
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3432.501
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4543.402
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 2992.221
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4113.105
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2331.837
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2832.223
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1831.377
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1050.766
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1320.989
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 240.132
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 580.405
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 260.147
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 640.436
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 340.211
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3442.516
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4553.417
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3002.236
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4123.12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2341.852
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2842.238
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1841.392
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1060.781
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1331.004
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 250.147
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 590.42
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 270.162
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 650.451
-misStats["a391a7cb941a9e4f7932d21ccdc936e7"]["lastJoin"] = 1628267548
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 350.224
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3452.529
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4563.43
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3012.249
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4133.133
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2351.865
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2852.251
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1851.405
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1070.794
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1341.017
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 260.16
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 600.433
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 280.175
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 660.464
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 10
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 6
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 5
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 6
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 6
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 9
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 360.239
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3462.544
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4573.445
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3022.264
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4143.148
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2361.88
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2862.266
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1210.98
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1861.42
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1080.809
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1351.032
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 270.175
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 610.448
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 290.19
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 670.479
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 370.239
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3472.544
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4583.445
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3032.264
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4153.148
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2371.88
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2872.266
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1220.98
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1871.42
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1090.809
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1361.032
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 280.175
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 620.448
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 300.19
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 680.479
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 380.239
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3482.544
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4593.445
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3042.264
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4163.148
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2381.88
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2882.266
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1230.98
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1881.42
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1100.809
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1371.032
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 290.175
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 630.448
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 310.19
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 690.479
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 390.247
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3492.552
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4603.453
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3052.272
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4173.156
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2391.888
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2892.274
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1240.988
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1891.428
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1110.817
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1381.04
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 300.183
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 640.456
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 320.198
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 700.487
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 400.259
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3502.564
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4613.465
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3062.284
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4183.168
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2401.9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2902.286
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1251
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1901.44
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1120.829
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1391.052
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 310.195
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 650.468
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 330.21
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 710.499
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 410.263
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3512.568
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4623.469
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3072.288
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4193.172
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2411.904
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2912.29
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1261.004
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1911.444
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1130.833
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1401.056
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 320.199
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 660.472
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 340.214
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 720.503
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 420.267
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3522.572
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4633.473
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3082.292
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4203.176
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2421.908
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2922.294
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1271.008
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1921.448
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1140.837
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1411.06
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 330.203
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 670.476
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 350.218
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 730.507
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 430.267
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3532.572
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4643.473
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3092.292
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4213.176
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2431.908
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2932.294
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1281.008
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1931.448
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1150.837
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1421.06
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 340.203
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 680.476
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 360.218
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 740.507
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["numHits"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 6
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["kills"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 440.273
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3542.578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4653.479
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3102.298
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4223.182
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2441.914
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2942.3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1291.014
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1941.454
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1160.843
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1431.066
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 350.209
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 690.482
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 370.224
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 750.513
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 450.273
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3552.578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4663.479
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3112.298
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4233.182
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2451.914
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2952.3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1301.014
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1951.454
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1170.843
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1441.066
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 360.209
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 700.482
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 380.224
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 760.513
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 460.283
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3562.588
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4673.489
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3122.308
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4243.192
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2461.924
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2962.31
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1311.024
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1961.464
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1180.853
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1451.076
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 370.219
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 710.492
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 390.234
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 770.523
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["numHits"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["AGM-88C"]["kills"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["pvp"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 12
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 470.283
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["inAir"] = 3572.588
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4683.489
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3132.308
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4253.192
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2471.924
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2972.31
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1321.024
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1971.464
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1190.853
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1461.076
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 380.219
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 720.492
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 400.234
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 780.523
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 7
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 6
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 7
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 7
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 10
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 480.293
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4693.499
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3142.318
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4263.202
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2481.934
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2982.32
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1331.034
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1981.474
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1200.863
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1471.086
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 390.229
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 730.502
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 410.244
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 790.533
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 490.295
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4703.501
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3152.32
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4273.204
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2491.936
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 2992.322
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1341.036
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 1991.476
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1210.865
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1481.088
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 400.231
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 740.504
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 420.246
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 800.535
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 500.296
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4713.502
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3162.321
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4283.205
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2501.937
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3002.323
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1351.037
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2001.477
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1220.866
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1491.089
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 410.232
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 750.505
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 430.247
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 810.536
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 8
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 8
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 8
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 11
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 510.301
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4723.507
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3172.326
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4293.21
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2511.942
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3012.328
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1361.042
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2011.482
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1230.871
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1501.094
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 420.237
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 760.51
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 440.252
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 820.541
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 520.303
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4733.509
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3182.328
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4303.212
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2521.944
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3022.33
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1371.044
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2021.484
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1240.873
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1511.096
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 430.239
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 770.512
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 450.254
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 830.543
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["numHits"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["kills"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 530.305
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4743.511
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3192.33
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4313.214
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2531.946
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3032.332
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1381.046
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2031.486
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1250.875
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1521.098
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 440.241
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 780.514
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 460.256
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 840.545
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 540.314
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4753.52
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3202.339
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4323.223
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2541.955
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3042.341
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1391.055
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2041.495
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1260.884
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1531.107
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 450.25
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 790.523
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 470.265
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 850.554
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["numHits"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["kills"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["shot"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["numHits"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 9
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["kills"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 12
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 550.325
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4763.531
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3212.35
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4333.234
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2551.966
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3052.352
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1401.066
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2051.506
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1270.895
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1541.118
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 460.261
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 800.534
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 480.276
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 860.565
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["shot"] = 4
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["numHits"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 3
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 10
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["kills"] = 2
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["pvp"]["kills"] = 11
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 560.337
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4773.543
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3222.362
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4343.246
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2561.978
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3062.364
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1411.078
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2061.518
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1280.907
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1551.13
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 470.273
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 810.546
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 490.288
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 870.577
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 570.346
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4783.552
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3232.371
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4353.255
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2571.987
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3072.373
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1421.087
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2071.527
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1290.916
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1561.139
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 480.282
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 820.555
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 500.297
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 880.586
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 2
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 580.347
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4793.553
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3242.372
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4363.256
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2581.988
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3082.374
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1431.088
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2081.528
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1300.917
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1571.14
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 490.283
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 830.556
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 510.298
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 890.587
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["numHits"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["LD-10"]["kills"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 590.356
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4803.562
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3252.381
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4373.265
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2591.997
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3092.383
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1441.097
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2091.537
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1310.926
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1581.149
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 500.292
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 840.565
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 520.307
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 900.596
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["actions"] = { }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["numHits"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 600.363
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4813.569
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3262.388
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4383.272
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2602.004
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3102.39
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1451.104
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2101.544
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1320.933
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1591.156
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 510.299
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 850.572
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 530.314
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 910.603
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 610.376
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4823.582
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3272.401
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4393.285
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2612.017
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3112.403
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1461.117
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2111.557
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1330.946
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1601.169
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 520.312
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 860.585
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 540.327
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 920.616
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["numHits"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 0
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 1
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 10
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["kills"] = 2
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 13
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["actions"]["losses"]["crash"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 0
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 7
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["kills"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 7
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 620.388
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4833.594
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3282.413
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4403.297
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2622.029
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3122.415
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1471.129
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2121.569
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 530.324
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 870.597
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 550.339
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 930.628
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["numHits"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["IFVs"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["IFVs"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 2
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["kills"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 630.39
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4843.596
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3292.415
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4413.299
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2632.031
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3132.417
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1481.131
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2131.571
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 540.326
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 880.599
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 560.341
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 940.63
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 640.404
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4853.61
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3302.429
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4423.313
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2642.045
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3142.431
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1491.145
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2141.585
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 550.34
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 890.613
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 570.355
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 950.644
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 650.406
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4863.612
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3312.431
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4433.315
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2652.047
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3152.433
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1501.147
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2151.587
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 560.342
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 900.615
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 580.357
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 960.646
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["APCs"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["APCs"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["kills"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 660.416
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4873.622
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3322.441
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4443.325
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2662.057
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3162.443
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1511.157
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2161.597
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 570.352
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 910.625
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 590.367
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 970.656
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 5
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["kills"] = 2
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 5
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 5
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 6
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 5
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 6
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["kills"] = 3
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 6
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 7
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["numHits"] = 8
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["SAM"] = 6
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 7
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GB-6-SFW"]["kills"] = 4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["pvp"]["kills"] = 7
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 670.426
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4883.632
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3332.451
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4453.335
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2672.067
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3172.453
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["inAir"] = 1521.167
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["total"] = 2171.607
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 580.362
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 920.635
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 600.377
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 980.666
-misStats["fbf96c475906b98e1e3c61dff1003555"]["times"]["F-16C_50"]["actions"]["losses"]["crash"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 680.43
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4893.636
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3342.455
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4463.339
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2682.071
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3182.457
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 590.366
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 930.639
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 610.381
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 990.67
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 690.444
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4903.65
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3352.469
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4473.353
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2692.085
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3192.471
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 600.38
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 940.653
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 620.395
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1000.684
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 700.455
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4913.661
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3362.48
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4483.364
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2702.096
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3202.482
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 610.391
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 950.664
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 630.406
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1010.695
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 710.466
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4923.672
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3372.491
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4493.375
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2712.107
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3212.493
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 620.402
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 960.675
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 640.417
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1020.706
-misStats["6015a49c09afba1e20d1596d431e78cd"]["lastJoin"] = 1628267920
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 720.473
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4933.679
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3382.498
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4503.382
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2722.114
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3222.5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1611.176
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 630.409
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 970.682
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 650.424
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1030.713
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GSh-2-23"] = { ["kills"] = 0, ["shot"] = 0, ["hit"] = 0, ["gun"] = true, ["numHits"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GSh-2-23"]["shot"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GSh-2-23"]["shot"] = 12
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GSh-2-23"]["shot"] = 13
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["weapons"]["GSh-2-23"]["shot"] = 20
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 730.482
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4943.688
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3392.507
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4513.391
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2732.123
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3232.509
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1621.185
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 640.418
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 980.691
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 660.433
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1040.722
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["numHits"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 7
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 11
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["kills"] = 3
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["pvp"]["kills"] = 14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 740.485
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4953.691
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3402.51
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4523.394
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2742.126
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3242.512
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1631.188
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 650.421
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 990.694
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 670.436
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1050.725
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 750.488
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4963.694
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3412.513
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4533.397
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2752.129
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3252.515
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1641.191
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 660.424
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1000.697
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 680.439
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1060.728
-misStats["fbf96c475906b98e1e3c61dff1003555"]["lastJoin"] = 1628267959
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 11
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 760.489
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4973.695
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3422.514
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4543.398
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2762.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3262.516
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1651.192
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 670.425
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1010.698
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 690.44
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1070.729
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 12
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 770.503
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4983.709
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3432.528
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4553.412
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2772.144
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3272.53
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1661.206
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 680.439
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1020.712
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 700.454
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1080.743
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 13
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 780.511
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 4993.717
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3442.536
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4563.42
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2782.152
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3282.538
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1671.214
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 690.447
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1030.72
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 710.462
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1090.751
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 790.511
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5003.717
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3452.536
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4573.42
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2792.152
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3292.538
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1681.214
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 700.447
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1040.72
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 720.462
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1100.751
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 15
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 16
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 800.52
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5013.726
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3462.545
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4583.429
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2802.161
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3302.547
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1691.223
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 710.456
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1050.729
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 730.471
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1110.76
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 810.529
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5023.735
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3472.554
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4593.438
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2812.17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3312.556
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1701.232
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 720.465
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1060.738
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 740.48
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1120.769
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 820.534
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5033.74
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3482.559
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4603.443
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2822.175
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3322.561
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1711.237
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 730.47
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1070.743
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 750.485
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1130.774
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 830.536
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5043.742
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3492.561
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4613.445
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2832.177
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3332.563
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1721.239
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 740.472
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1080.745
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 760.487
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1140.776
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 840.537
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5053.743
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3502.562
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4623.446
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2842.178
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3342.564
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1731.24
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 750.473
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1090.746
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 770.488
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1150.777
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["weapons"]["CBU-97/CBU-105 SFW"]["shot"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 850.55
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5063.756
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3512.575
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4633.459
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2852.191
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3352.577
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1741.253
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 760.486
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1100.759
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 780.501
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1160.79
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 860.552
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5073.758
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3522.577
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4643.461
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2862.193
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3362.579
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1751.255
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 770.488
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1110.761
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 790.503
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1170.792
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["actions"] = { }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["numHits"] = 2
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["IFVs"] = 2
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 3
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["kills"] = 2
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 870.558
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5083.764
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3532.583
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4653.467
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2872.199
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3372.585
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1761.261
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 780.494
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1120.767
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 800.509
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1180.798
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 880.565
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5093.771
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["inAir"] = 3542.59
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["total"] = 4663.474
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2882.206
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3382.592
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1771.268
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 790.501
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1130.774
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 810.516
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1190.805
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["times"]["F-16C_50"]["actions"]["losses"]["crash"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 890.574
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5103.78
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2892.215
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3392.601
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1781.277
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 800.51
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1140.783
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 820.525
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1200.814
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 900.581
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5113.787
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2902.222
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3402.608
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1791.284
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 810.517
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1150.79
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 830.532
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1210.821
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 8
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["Unarmored"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["Unarmored"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 910.596
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5123.802
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2912.237
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3412.623
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1801.299
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 820.532
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1160.805
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 840.547
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1220.836
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 8
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 8
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 10
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["Tanks"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["Tanks"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 10
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 920.604
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5133.81
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2922.245
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3422.631
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1811.307
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 830.54
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1170.813
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 850.555
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1230.844
-misStats["27d1cf2c98ed8f425662a2fe91566769"]["lastJoin"] = 1628268134
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 10
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 10
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 11
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 930.61
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5143.816
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2932.251
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3432.637
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1340.952
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1821.313
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 840.546
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1180.819
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 860.561
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1240.85
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 940.613
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5153.819
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2942.254
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3442.64
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1350.955
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1831.316
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 850.549
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1190.822
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 870.564
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1250.853
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 8
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 12
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 950.62
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5163.826
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2952.261
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3452.647
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1360.962
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1841.323
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 860.556
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1200.829
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 880.571
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1260.86
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 960.623
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5173.829
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2962.264
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3462.65
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1370.965
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1851.326
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 870.559
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1210.832
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 890.574
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1270.863
-misStats["e84c8815b7488b5f02d8fca801849c47"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["names"] = { [1] = "QIKIE", [2] = "CANDICE | 6-9", [3] = "Ligma | 6 - 9", [4] = "Ligma 6 - 9 | NutZ", }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["id"] = 5266
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["lastJoin"] = 0
-misStats["e84c8815b7488b5f02d8fca801849c47"]["lastJoin"] = 1628268175
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 970.626
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5183.832
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2972.267
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3472.653
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1380.968
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1861.329
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 880.562
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1220.835
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 900.577
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1280.866
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 980.628
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5193.834
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 10.002
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2982.269
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3482.655
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1390.97
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1871.331
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 890.564
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1230.837
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 910.579
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1290.868
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 990.632
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5203.838
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 20.006
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 2992.273
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3492.659
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1400.974
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1881.335
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 900.568
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1240.841
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 920.583
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1300.872
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1000.641
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5213.847
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 30.015
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3002.282
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3502.668
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1410.983
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1891.344
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 910.577
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1250.85
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 930.592
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1310.881
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1010.652
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5223.858
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 40.026
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3512.679
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1420.994
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1901.355
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 920.588
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1260.861
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 940.603
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1320.892
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1020.655
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5233.861
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 50.029
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3522.682
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1430.997
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1911.358
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 930.591
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1270.864
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 950.606
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1330.895
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1030.656
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5243.862
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 60.03
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3532.683
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1440.998
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1921.359
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 940.592
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1280.865
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 960.607
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1340.896
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1040.657
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5253.863
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 70.031
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3542.684
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1450.999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1931.36
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 950.593
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1290.866
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 970.608
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1350.897
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1050.657
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5263.863
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 80.031
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3552.684
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1460.999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1941.36
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 960.593
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1300.866
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 980.608
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1360.897
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1060.671
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5273.877
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 90.045
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3562.698
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1471.013
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1951.374
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 970.607
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1310.88
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 990.622
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1370.911
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1070.677
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5283.883
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 100.051
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3572.704
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1481.019
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1961.38
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 980.613
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1320.886
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 1000.628
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1380.917
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1080.679
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5293.885
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 110.053
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3582.706
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1491.021
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1971.382
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 990.615
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1330.888
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 1010.63
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1390.919
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1090.686
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5303.892
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 120.06
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3592.713
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1501.028
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1981.389
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1000.622
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1340.895
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 1020.637
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1400.926
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1100.697
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5313.903
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 130.071
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3602.724
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1511.039
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 1991.4
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1010.633
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1350.906
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 1030.648
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1410.937
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1110.708
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5323.914
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 140.082
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3612.735
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1521.05
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2001.411
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1020.644
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1360.917
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["inAir"] = 1040.659
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1420.948
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1120.708
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5333.914
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 150.082
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3622.735
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1531.05
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2011.411
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1030.644
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1370.917
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1430.948
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 7
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1130.72
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5343.926
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 160.094
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3632.747
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1541.062
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2021.423
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1040.656
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1380.929
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1440.96
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["weapons"]["GBU-38"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1140.736
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5353.942
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 170.11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3642.763
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1551.078
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2031.439
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1050.672
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1390.945
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["JF-17"]["total"] = 1450.976
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628268357
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1150.739
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5363.945
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 180.113
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3652.766
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1561.081
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2041.442
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1060.675
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1400.948
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1160.743
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5373.949
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 10.004
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 190.117
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3662.77
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1571.085
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2051.446
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1070.679
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1410.952
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 10.004
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1170.756
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5383.962
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 20.017
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 200.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3672.783
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1581.098
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2061.459
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1080.692
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1420.965
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 20.017
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1180.759
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5393.965
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 30.02
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 210.133
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3682.786
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1591.101
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2071.462
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1090.695
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1430.968
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 30.02
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1190.769
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5403.975
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 40.03
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 220.143
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3692.796
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1601.111
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2081.472
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1100.705
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1440.978
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 40.03
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1200.77
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5413.976
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 50.031
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 230.144
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3702.797
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1611.112
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2091.473
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1110.706
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1450.979
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 50.031
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1210.781
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5423.987
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 60.041999999999
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 240.155
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3712.808
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1621.123
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2101.484
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1120.717
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1460.99
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 60.041999999999
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1220.795
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5434.001
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 70.056
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 250.169
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3722.822
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1631.137
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2111.498
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1130.731
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1471.004
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 70.056
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1230.809
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5444.015
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 80.07
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 260.183
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3732.836
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1641.151
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2121.512
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1140.745
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1481.018
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 80.07
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 6
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 8
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 6
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 8
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1240.812
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5454.018
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 90.072999999999
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 270.186
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3742.839
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1651.154
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2131.515
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1150.748
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1491.021
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 90.072999999999
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1250.819
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5464.025
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 100.08
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 280.193
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3752.846
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1661.161
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2141.522
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1160.755
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1501.028
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 100.08
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1260.824
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5474.03
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 110.085
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 290.198
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3762.851
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1671.166
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2151.527
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1170.76
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1511.033
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 110.085
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1270.833
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5484.039
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 120.094
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 300.207
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3772.86
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1681.175
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2161.536
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1180.769
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1521.042
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 120.094
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1280.841
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5494.047
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 130.102
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 310.215
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3782.868
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1691.183
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2171.544
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1190.777
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1531.05
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 130.102
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1290.855
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5504.061
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 140.116
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 320.229
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3792.882
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1701.197
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2181.558
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1200.791
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1541.064
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 140.116
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 9
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1300.857
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5514.063
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 150.118
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 330.231
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3012.284
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3802.884
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1711.199
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2191.56
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1210.793
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1551.066
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 150.118
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 10
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1310.865
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5524.071
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 160.126
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 340.239
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3022.292
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3812.892
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1721.207
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2201.568
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1220.801
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1561.074
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 160.126
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 0
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 1
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 0
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 1
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["kills"] = 1
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["pvp"] = { }
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["pvp"]["kills"] = 0
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["pvp"]["kills"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 7
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 9
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 7
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 9
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 8
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 10
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 8
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 10
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1320.865
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5534.071
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 170.126
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 350.239
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3032.292
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3822.892
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1731.207
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2211.568
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1230.801
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1571.074
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 170.126
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1330.868
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5544.074
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 180.129
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 360.242
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3042.295
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3832.895
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1741.21
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2221.571
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1240.804
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1581.077
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 180.129
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1340.879
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5554.085
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 190.14
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 370.253
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3052.306
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3842.906
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1751.221
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2231.582
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1250.815
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1591.088
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 190.14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1350.879
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5564.085
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 200.14
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 380.253
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3062.306
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3852.906
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1761.221
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2241.582
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1260.815
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1601.088
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 200.14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1360.887
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5574.093
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 210.148
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 390.261
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3072.314
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3862.914
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1771.229
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2251.59
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1270.823
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1611.096
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 210.148
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1370.894
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5584.1
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 220.155
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 400.268
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3082.321
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3872.921
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1781.236
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2261.597
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1280.83
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1621.103
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 220.155
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1380.903
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5594.109
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 230.164
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 410.277
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3092.33
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3882.93
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1791.245
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2271.606
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1290.839
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1631.112
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 230.164
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 11
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1390.907
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5604.113
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 240.168
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 420.281
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3102.334
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3892.934
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1801.249
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2281.61
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1300.843
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1641.116
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 240.168
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1400.92
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5614.126
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 250.181
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 430.294
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3112.347
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3902.947
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1811.262
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2291.623
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1310.856
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1651.129
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 10.013
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 250.181
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 9
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["IFVs"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 9
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 11
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 10.01
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1410.93
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5624.136
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 260.191
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 440.304
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3122.357
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3912.957
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1821.272
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2301.633
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1320.866
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1661.139
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 20.023
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 260.191
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 20.013
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1420.933
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5634.139
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 270.194
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 450.307
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3132.36
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3922.96
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1831.275
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2311.636
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1330.869
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1671.142
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 30.026
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 270.194
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 17
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 30.025000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1430.945
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5644.151
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 280.206
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 460.319
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3142.372
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3932.972
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1841.287
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2321.648
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["inAir"] = 1340.881
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1681.154
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 40.038
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 280.206
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 18
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 40.039000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1440.959
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5654.165
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 290.22
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 470.333
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3152.386
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3942.986
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1851.301
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2331.662
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1691.168
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 50.052000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 290.22
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 19
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 50.048
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1450.968
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5664.174
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 300.229
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 480.342
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3162.395
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3952.995
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1861.31
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2341.671
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1701.177
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 60.061
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 300.229
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 20
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 60.052000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1460.972
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5674.178
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 310.233
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 490.346
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3172.399
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3962.999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1871.314
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2351.675
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1711.181
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 70.065000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 310.233
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 21
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 70.053
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1470.973
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5684.179
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 320.234
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 500.347
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3182.4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3973
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1881.315
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2361.676
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1721.182
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 80.066
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 320.234
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"] = { ["kills"] = 0, ["shot"] = 0, ["hit"] = 0, ["gun"] = true, ["numHits"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 10
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 12
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 10
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 12
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 46
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 47
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 87
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 88
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 108
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 80.061000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1480.981
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5694.187
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 330.242
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 510.355
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3192.408
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3983.008
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1891.323
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2371.684
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1731.19
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 90.074000000001
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 330.242
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 109
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 146
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 147
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 188
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 189
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 232
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 233
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["numHits"] = 5
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 2
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 324
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 90.063
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1490.983
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5704.189
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 340.244
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 520.357
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3202.41
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 3993.01
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1901.325
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2381.686
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1741.192
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 100.076
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 340.244
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 100.069
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1500.989
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5714.195
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 350.25
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 530.363
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3212.416
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4003.016
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1911.331
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2391.692
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1751.198
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 110.082
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 350.25
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 22
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 110.076
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1510.996
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5724.202
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 360.257
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 540.37
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3222.423
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4013.023
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1921.338
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2401.699
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["FA-18C_hornet"]["total"] = 1761.205
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 120.089
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 360.257
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["names"] = { [1] = "Sukka", [2] = "NahkaSukka", [3] = "NahkaSukka", }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["lastJoin"] = 1628268726
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 120.08
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1521
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5734.206
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 370.261
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 550.374
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3232.427
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4023.027
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1931.342
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2411.703
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 130.093
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 370.261
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 130.093
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1531.013
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5744.219
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 380.274
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 560.387
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3242.44
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4033.04
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1941.355
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2421.716
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 140.106
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 380.274
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 140.102
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1541.022
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5754.228
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 390.283
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 570.396
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3252.449
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4043.049
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1951.364
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2431.725
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 10.009
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 150.115
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 390.283
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 13
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["kills"] = 1
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 13
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 150.116
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1551.036
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5764.242
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 400.297
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 580.41
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3262.463
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4053.063
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1961.378
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2441.739
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 20.023
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 160.129
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 400.297
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["actions"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["actions"]["losses"]["crash"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 160.122
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1561.042
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5774.248
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 410.303
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 590.416
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3272.469
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4063.069
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1971.384
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2451.745
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 170.135
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 410.303
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 170.128
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1571.048
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5784.254
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 420.309
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 600.422
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3282.475
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4073.075
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1981.39
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2461.751
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 180.141
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 420.309
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 180.142
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1581.062
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5794.268
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 430.323
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 610.436
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3292.489
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4083.089
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2471.765
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 190.155
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 430.323
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["APCs"] = 0
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["APCs"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 13
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 190.145
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1591.065
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5804.271
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 440.326
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 620.439
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3302.492
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4093.092
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2481.768
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 200.158
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 440.326
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 200.146
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1601.066
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5814.272
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 450.327
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 630.44
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3312.493
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4103.093
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2491.769
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 210.159
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 450.327
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 210.156
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1611.076
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5824.282
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 460.337
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 640.45
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3322.503
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4113.103
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2501.779
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 220.169
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 460.337
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 14
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 14
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 220.168
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1621.088
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5834.294
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 470.349
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 650.462
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3332.515
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4123.115
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2511.791
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 230.181
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 470.349
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 15
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 9
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 14
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 14
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 15
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 230.169
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1631.089
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5844.295
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 480.35
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 660.463
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3342.516
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4133.116
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2521.792
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 240.182
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 480.35
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["numHits"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 10
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 15
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 15
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 16
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 17
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 240.178
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1641.098
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5854.304
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 490.359
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 670.472
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3352.525
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4143.125
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2531.801
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 250.191
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 490.359
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 18
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["APCs"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 17
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 18
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-88C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-88C"]["shot"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["kills"] = 2
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 19
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 250.184
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1651.104
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5864.31
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 500.365
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 680.478
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3362.531
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4153.131
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2541.807
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 260.197
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 500.365
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 260.192
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1661.112
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5874.318
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 510.373
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 690.486
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3372.539
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4163.139
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2551.815
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 270.205
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 510.373
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 270.203
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1671.123
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5884.329
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 520.384
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 700.497
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3382.55
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4173.15
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2561.826
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 280.216
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 520.384
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 280.206
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1681.126
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5894.332
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 530.387
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 710.5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3392.553
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4183.153
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2571.829
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 290.219
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 530.387
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 290.206
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1691.126
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5904.332
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 540.387
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 720.5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3402.553
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4193.153
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2581.829
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 300.219
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 540.387
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-65D"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 300.208
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1701.128
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5914.334
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 550.389
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 730.502
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3412.555
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4203.155
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2591.831
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 310.221
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 550.389
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 310.219
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1711.139
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5924.345
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 560.4
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 740.513
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3422.566
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4213.166
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2601.842
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 320.232
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 560.4
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"]["Ground Units"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Tanks"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Tanks"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 1
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["pvp"] = { }
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["pvp"]["kills"] = 0
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 320.22
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1721.14
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5934.346
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 570.401
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 750.514
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3432.567
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4223.167
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2611.843
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 330.233
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 570.401
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 330.225
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1731.145
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5944.351
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 580.406
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 760.519
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3442.572
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4233.172
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2621.848
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 340.238
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 580.406
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 340.233
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1741.153
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5954.359
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 590.414
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 770.527
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3452.58
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4243.18
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2631.856
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 350.246
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 590.414
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 350.234
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1751.154
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5964.36
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 600.415
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 780.528
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3462.581
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4253.181
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2641.857
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 360.247
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 600.415
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 360.245
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1761.165
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5974.371
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 610.426
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 790.539
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3472.592
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4263.192
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2651.868
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 370.258
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 610.426
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 370.257
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1771.177
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5984.383
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 620.438
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 800.551
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3482.604
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4273.204
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2661.88
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 380.27
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 620.438
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 380.269
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1781.189
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 5994.395
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 630.45
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 810.563
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3492.616
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4283.216
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2671.892
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["inAir"] = 390.282
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["times"]["F-16C_50"]["total"] = 630.45
-misStats["a3d941d71aa6cc7a0167cbcbe08078a2"]["lastJoin"] = 1628268993
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 390.28
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1791.2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6004.406
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 640.461
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 820.574
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3502.627
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4293.227
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2681.903
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 400.294
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1801.214
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6014.42
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 650.475
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 830.588
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3512.641
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4303.241
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2691.917
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 410.306
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1811.226
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6024.432
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 660.487
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 840.6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3522.653
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4313.253
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2701.929
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 30.035000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 420.307
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1821.227
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6034.433
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 670.488
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 850.601
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3532.654
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4323.254
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2711.93
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 40.036
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 430.32
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1831.24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6044.446
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 680.501
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 860.614
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3542.667
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4333.267
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 1991.403
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2721.943
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 50.049000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 440.32
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1841.24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6054.446
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 690.501
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 870.614
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3552.667
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4343.267
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2001.403
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2731.943
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 60.049000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 450.328
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1851.248
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6064.454
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 700.509
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 880.622
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3562.675
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4353.275
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2011.411
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2741.951
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 70.057000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 460.336
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1861.256
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6074.462
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 710.517
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 890.63
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3572.683
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4363.283
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2021.419
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2751.959
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 80.065000000001
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 470.353
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1871.273
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6084.479
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 720.534
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 900.647
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3582.7
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4373.3
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2031.436
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2761.976
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 90.082
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 480.365
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1881.285
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6094.491
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 730.546
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 910.659
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3592.712
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4383.312
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2041.448
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2771.988
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 100.094
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 3
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 490.373
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1891.293
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6104.499
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 740.554
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 920.667
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3602.72
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4393.32
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2051.456
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2781.996
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 110.102
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 500.38
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1901.3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6114.506
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 750.561
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 930.674
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3612.727
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4403.327
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2061.463
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2792.003
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 120.109
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 510.395
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1911.315
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6124.521
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 760.576
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 940.689
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4413.342
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2071.478
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2802.018
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 130.124
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 520.402
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1921.322
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6134.528
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 770.583
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 950.696
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4423.349
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2081.485
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2812.025
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 140.131
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 530.411
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1931.331
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6144.537
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 780.592
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 960.705
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4433.358
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2091.494
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2822.034
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 150.14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 540.418
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1941.338
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6154.544
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 790.599
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 970.712
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4443.365
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2101.501
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2832.041
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 160.147
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 4
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 550.418
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1951.338
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6164.544
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 800.599
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 980.712
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4453.365
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2111.501
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2842.041
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 170.147
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 5
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 560.423
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1961.343
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6174.549
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 810.604
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 990.717
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4463.37
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2121.506
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2852.046
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 180.152
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 570.425
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1971.345
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6184.551
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 820.606
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1000.719
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4473.372
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2131.508
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2862.048
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 190.154
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-88C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-88C"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 580.435
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1981.355
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6194.561
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 830.616
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1010.729
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4483.382
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2141.518
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2872.058
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 200.164
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 590.439
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 1991.359
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6204.565
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 840.62
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1020.733
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4493.386
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2151.522
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2882.062
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 210.168
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 600.446
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2001.366
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6214.572
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 850.627
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1030.74
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4503.393
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2161.529
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2892.069
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 220.175
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["numHits"] = 2
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 2
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 2
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["kills"] = 2
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["pvp"]["kills"] = 2
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 610.447
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2011.367
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6224.573
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 860.628
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1040.741
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4513.394
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2171.53
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2902.07
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 230.176
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 620.459
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2021.379
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6234.585
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 870.64
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1050.753
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4523.406
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2181.542
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2912.082
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 240.188
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 630.465
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2031.385
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6244.591
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 880.646
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1060.759
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4533.412
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2191.548
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2922.088
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 250.194
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 640.475
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2041.395
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6254.601
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 890.656
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1070.769
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4543.422
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2201.558
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2932.098
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 260.204
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 650.479
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2051.399
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6264.605
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 900.66
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1080.773
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4553.426
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2211.562
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2942.102
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 270.208
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 660.484
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2061.404
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6274.61
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 910.665
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1090.778
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4563.431
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2221.567
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2952.107
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 280.213
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-88C"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 670.498
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2071.418
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6284.624
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 920.679
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1100.792
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4573.445
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2231.581
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2962.121
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 290.227
-misStats["641ad191b7d542113ac1f47ec3e53761"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["names"] = { [1] = "JamesW0706", }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["id"] = 6058
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["lastJoin"] = 0
-misStats["641ad191b7d542113ac1f47ec3e53761"]["lastJoin"] = 1628269280
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 680.503
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2081.423
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6294.629
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 930.684
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1110.797
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 10.005
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4583.45
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2241.586
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2972.126
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 300.232
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 690.517
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2091.437
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6304.643
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 940.698
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1120.811
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 20.018999999999
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4593.464
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2251.6
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2982.14
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 310.246
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 700.525
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2101.445
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6314.651
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 950.706
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1130.819
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 30.027
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4603.472
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2261.608
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 2992.148
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 320.254
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 710.537
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2111.457
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6324.663
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 960.718
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1140.831
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 40.039
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4613.484
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2271.62
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3002.16
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 10.012
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 330.266
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["lastJoin"] = 1628269327
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 720.538
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2121.458
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6334.664
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 970.719
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1150.832
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 50.04
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2281.621
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3012.161
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 20.013
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 340.267
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 730.545
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2131.465
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6344.671
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 980.726
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1160.839
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 60.047
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4623.491
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2291.628
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3022.168
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 30.02
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 350.274
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 740.552
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2141.472
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6354.678
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 990.733
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1170.846
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 70.054
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4633.498
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2301.635
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3032.175
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 40.027
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 360.281
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 750.557
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2151.477
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6364.683
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1000.738
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1180.851
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 80.058999999999
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4643.503
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2311.64
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3042.18
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 50.031999999999
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 370.286
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["APCs"] = 5
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 14
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 14
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628269368
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 760.57
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2161.49
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6374.696
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1010.751
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1190.864
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 90.072
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4653.516
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2321.653
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3052.193
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 60.045
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 380.299
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 770.582
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2171.502
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6384.708
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1020.763
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1200.876
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 100.084
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4663.528
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 10.012
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2331.665
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3062.205
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 70.057
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 390.311
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 780.591
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2181.511
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6394.717
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1030.772
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1210.885
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 110.093
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4673.537
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 20.021
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2341.674
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3072.214
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 80.066
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 400.32
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 790.595
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2191.515
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6404.721
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1040.776
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1220.889
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 120.097
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4683.541
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 30.025
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2351.678
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3082.218
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 90.07
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 410.324
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 800.6
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2201.52
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6414.726
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1050.781
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1230.894
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 130.102
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4693.546
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 40.03
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2361.683
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3092.223
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 100.075
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 420.329
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 810.614
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2211.534
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6424.74
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1060.795
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1240.908
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 140.116
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4703.56
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 50.044
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2371.697
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3102.237
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 110.089
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 430.343
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 820.615
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2221.535
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6434.741
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1070.796
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1250.909
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 150.117
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4713.561
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 60.044999999999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2381.698
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3112.238
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 120.09
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 440.344
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 14
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 830.626
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2231.546
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6444.752
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1080.807
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1260.92
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 160.128
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4723.572
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 70.056
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2391.709
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3122.249
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 130.101
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 450.355
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 840.629
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2241.549
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6454.755
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1090.81
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1270.923
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 170.131
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4733.575
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 80.058999999999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2401.712
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3132.252
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 140.104
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 460.358
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 850.633
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2251.553
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6464.759
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1100.814
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1280.927
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 180.135
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4743.579
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 90.062999999999
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2411.716
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3142.256
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 150.108
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 470.362
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 860.64
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2261.56
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6474.766
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1110.821
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1290.934
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 190.142
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4753.586
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 100.07
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2421.723
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3152.263
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 160.115
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 480.369
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 870.653
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2271.573
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6484.779
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1120.834
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1300.947
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 200.155
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4763.599
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 110.083
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2431.736
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3162.276
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 170.128
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 490.382
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["weapons"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["weapons"]["BRM-1_90MM"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["weapons"]["BRM-1_90MM"]["shot"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 880.667
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2281.587
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6494.793
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1130.848
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1310.961
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 210.169
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4773.613
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 120.097
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2441.75
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3172.29
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 180.142
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 500.396
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 890.673
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2291.593
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6504.799
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1140.854
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1320.967
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 220.175
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3622.733
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4783.619
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 130.103
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2451.756
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3182.296
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 190.148
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 510.402
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["weapons"]["BRM-1_90MM"]["numHits"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 900.674
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2301.594
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6514.8
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1150.855
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1330.968
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 230.176
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3632.734
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4793.62
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 140.104
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2461.757
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3192.297
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 200.149
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 520.403
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 910.68
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2311.6
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6524.806
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1160.861
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1340.974
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 240.182
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3642.74
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4803.626
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 150.11
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2471.763
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3202.303
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 210.155
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 530.409
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"]["Ground Units"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"]["Ground Units"]["AAA"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"]["Ground Units"]["AAA"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["kills"]["Ground Units"]["total"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["weapons"]["BRM-1_90MM"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["pvp"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["pvp"]["kills"] = 0
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["pvp"]["kills"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 920.688
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2321.608
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6534.814
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1170.869
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1350.982
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 250.19
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3652.748
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4813.634
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 160.118
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2481.771
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3212.311
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 220.163
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 540.417
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 930.692
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2331.612
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6544.818
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1180.873
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1360.986
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 260.194
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3662.752
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4823.638
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 170.122
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2491.775
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3222.315
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 230.167
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 550.421
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["shot"] = 15
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 940.697
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2341.617
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6554.823
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1190.878
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1370.991
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 270.199
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3672.757
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4833.643
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 180.127
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2501.78
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3232.32
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 240.172
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 560.426
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 950.701
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2351.621
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6564.827
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1200.882
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1380.995
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 280.203
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3682.761
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4843.647
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 190.131
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2511.784
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3242.324
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 250.176
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 570.43
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 325
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 960.711
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2361.631
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6574.837
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1210.892
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1391.005
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 290.213
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3692.771
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4853.657
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 200.141
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2521.794
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3252.334
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 260.186
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 580.44
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 429
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 970.712
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2371.632
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6584.838
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1220.893
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1401.006
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 300.214
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3702.772
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4863.658
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 210.142
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2531.795
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3262.335
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 270.187
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 590.441
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["numHits"] = 12
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 4
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 15
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["AGM-65D"]["kills"] = 12
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["pvp"]["kills"] = 15
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 980.723
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2381.643
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6594.849
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1230.904
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1411.017
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 310.225
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3712.783
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4873.669
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 220.153
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2541.806
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3272.346
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 280.198
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 600.452
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["actions"] = { }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["actions"]["losses"]["eject"] = 1
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["inAir"] = 990.736
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["total"] = 2391.656
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6604.862
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1240.917
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1421.03
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 10.013
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 320.238
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3722.796
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4883.682
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 230.166
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2551.819
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3282.359
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 290.211
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 610.465
-misStats["cc5f659497e463acf3243fd2960bd301"]["times"]["JF-17"]["actions"]["losses"]["crash"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6614.875
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1250.93
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1431.043
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 20.026
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 330.251
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3732.809
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4893.695
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 240.179
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2561.832
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3292.372
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 300.224
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 620.478
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6624.879
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1260.934
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1441.047
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 30.030000000001
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 340.255
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3742.813
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4903.699
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 250.183
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2571.836
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3302.376
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 310.228
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 630.482
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6634.893
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1270.948
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1451.061
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 40.044
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 350.269
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3752.827
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4913.713
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 260.197
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2581.85
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3312.39
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 320.242
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 640.496
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6644.907
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1280.962
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1461.075
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 50.058
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 360.283
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3762.841
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4923.727
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 270.211
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2591.864
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3322.404
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 330.256
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 650.51
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6654.919
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1290.974
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1471.087
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 60.070000000001
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 370.295
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3772.853
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4933.739
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 280.223
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2601.876
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3332.416
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 340.268
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 660.522
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6664.925
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1300.98
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1481.093
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 70.076
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 380.301
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3782.859
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4943.745
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 290.229
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2611.882
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3342.422
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 350.274
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 670.528
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6674.935
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1310.99
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1491.103
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 80.086
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 390.311
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3792.869
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4953.755
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 300.239
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2621.892
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3352.432
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 360.284
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 680.538
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6684.962
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1321.017
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1501.13
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 90.113
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 400.338
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3802.896
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4963.782
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 310.266
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2631.919
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3362.459
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 370.311
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 690.565
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6694.974
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1331.029
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1511.142
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 100.125
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 410.35
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3812.908
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4973.794
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 320.278
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2641.931
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3372.471
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 380.323
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 700.577
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6704.974
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1341.029
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1521.142
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 110.125
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 420.35
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3822.908
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4983.794
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 330.278
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2651.931
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3382.471
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 390.323
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 710.577
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6714.98
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1351.035
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1531.148
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 120.131
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 430.356
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3832.914
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 4993.8
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 340.284
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2661.937
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3392.477
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 400.329
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 720.583
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6724.986
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1361.041
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1541.154
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 130.137
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 440.362
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3842.92
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5003.806
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 350.29
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2671.943
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3402.483
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 410.335
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 730.589
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6734.992
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1371.047
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1551.16
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 140.143
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 450.368
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3852.926
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5013.812
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 360.296
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2681.949
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3412.489
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 420.341
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 740.595
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6745.004
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1381.059
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1561.172
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 150.155
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 460.38
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3862.938
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5023.824
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 370.308
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2691.961
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3422.501
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 430.353
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 750.607
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6755.004
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1391.059
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1571.172
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 160.155
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 470.38
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3872.938
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5033.824
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 380.308
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2701.961
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3432.501
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 440.353
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 760.607
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["weapons"]["GBU-12"]["shot"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6765.005
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1401.06
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1581.173
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 170.156
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 480.381
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3882.939
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5043.825
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 390.309
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2711.962
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3442.502
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 450.354
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 770.608
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6775.015
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1411.07
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1591.183
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 180.166
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 490.391
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3892.949
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5053.835
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 400.319
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2721.972
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3452.512
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 460.364
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 780.618
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6785.024
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1421.079
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1601.192
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 190.175
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 500.4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3902.958
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5063.844
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 410.328
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2731.981
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3462.521
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 470.373
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 790.627
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6795.033
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1431.088
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1611.201
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 200.184
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 510.409
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3912.967
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5073.853
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 420.337
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["inAir"] = 2741.99
-misStats["6015a49c09afba1e20d1596d431e78cd"]["times"]["F-16C_50"]["total"] = 3472.53
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 480.382
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 800.636
-misStats["6015a49c09afba1e20d1596d431e78cd"]["lastJoin"] = 1628269792
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6805.044
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1441.099
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1621.212
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 210.195
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 520.42
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3922.978
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5083.864
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 430.348
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 490.393
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 810.647
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6815.047
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1451.102
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1631.215
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 220.198
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 530.423
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3932.981
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5093.867
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 440.351
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 500.396
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 820.65
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6825.047
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1461.102
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1641.215
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 230.198
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 540.423
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3942.981
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5103.867
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 450.351
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 510.396
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 830.65
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6835.05
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1471.105
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1651.218
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 240.201
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 550.426
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3952.984
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5113.87
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 460.354
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 520.399
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 840.653
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6845.064
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1481.119
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1661.232
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 250.215
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 560.44
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3962.998
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5123.884
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 470.368
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 530.413
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 850.667
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["numHits"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6855.073
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1491.128
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1671.241
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 260.224
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 570.449
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3973.007
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5133.893
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 480.377
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 540.422
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 860.676
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 23
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6865.081
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1501.136
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1681.249
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 270.232
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 580.457
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3983.015
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5143.901
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 490.385
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 550.43
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 870.684
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 24
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6875.082
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1511.137
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1691.25
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 280.233
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 590.458
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 3993.016
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5153.902
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 500.386
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 560.431
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 880.685
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 25
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 0
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 1
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 0
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 1
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["kills"] = 1
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["pvp"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["pvp"]["kills"] = 0
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["pvp"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6885.089
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1521.144
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1701.257
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 290.24
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 600.465
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4003.023
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5163.909
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 510.393
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 570.438
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 890.692
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 26
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6895.102
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1531.157
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1711.27
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 300.253
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 610.478
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4013.036
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5173.922
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 520.406
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 580.451
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 900.705
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 27
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 28
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6905.114
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1541.169
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1721.282
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 310.265
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 620.49
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4023.048
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5183.934
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 530.418
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 590.463
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 910.717
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6915.118
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1551.173
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1731.286
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 320.269
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 630.494
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4033.052
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5193.938
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 540.422
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 600.467
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 920.721
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6925.125
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1561.18
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1741.293
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 330.276
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 640.501
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4043.059
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5203.945
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 550.429
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 610.474
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 930.728
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6935.128
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1571.183
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1751.296
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 340.279
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 650.504
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4053.062
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5213.948
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 560.432
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 620.477
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 940.731
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6945.139
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1581.194
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1761.307
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 350.29
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 660.515
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4063.073
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5223.959
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 570.443
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 630.488
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 950.742
-misStats["20d158f076e91d12e29f3e94efe954d6"] = { }
-misStats["20d158f076e91d12e29f3e94efe954d6"]["names"] = { [1] = "Haggis", }
-misStats["20d158f076e91d12e29f3e94efe954d6"]["id"] = 5743
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"] = { }
-misStats["20d158f076e91d12e29f3e94efe954d6"]["lastJoin"] = 0
-misStats["20d158f076e91d12e29f3e94efe954d6"]["lastJoin"] = 1628269941
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6955.144
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1591.199
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1771.312
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 360.295
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 670.52
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4073.078
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5233.964
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 580.448
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 640.493
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 960.747
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["shot"] = 29
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6965.157
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1601.212
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1781.325
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 370.308
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 680.533
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4083.091
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5243.977
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 590.461
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 650.506
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 970.76
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6975.165
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1611.22
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1791.333
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 380.316
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 690.541
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4093.099
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5253.985
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 600.469
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 660.514
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 980.768
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6985.179
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1621.234
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1801.347
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 390.33
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 700.555
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4103.113
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5263.999
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 610.483
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 10.013999999999
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 670.528
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 990.782
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 6995.183
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1631.238
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1811.351
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 400.334
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 710.559
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4113.117
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5274.003
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 620.487
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 20.017999999999
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 680.532
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1000.786
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7005.196
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1641.251
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1821.364
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 410.347
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 720.572
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4123.13
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5284.016
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 630.5
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 30.031
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 690.545
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1010.799
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7015.203
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1651.258
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1831.371
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 420.354
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 730.579
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4133.137
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5294.023
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 640.507
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 40.038
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 700.552
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1020.806
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7025.204
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1661.259
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1841.372
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 430.355
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 740.58
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4143.138
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5304.024
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 650.508
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 50.039
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 710.553
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1030.807
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7035.218
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1671.273
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1851.386
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 440.369
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 750.594
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4153.152
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5314.038
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 10.014
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 660.522
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 60.053
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 720.567
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1040.821
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7045.224
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1681.279
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1861.392
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 450.375
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 760.6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4163.158
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5324.044
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 20.02
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 670.528
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 70.058999999999
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 730.573
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1050.827
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["names"] = { [1] = "Neurus", }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["id"] = 4096
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["lastJoin"] = 0
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["lastJoin"] = 1628270045
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 19
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 11
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 18
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 18
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 20
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 20
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["APCs"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 19
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 19
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 21
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7055.243
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1691.298
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1871.411
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 460.394
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 770.619
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4173.177
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5334.063
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 30.039
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 680.547
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 80.078
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 740.592
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1060.846
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 21
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 20
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 20
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 22
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 22
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 5
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 21
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 21
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 23
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 23
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["AAA"] = 6
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 22
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 22
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 24
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 24
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["SAM"] = 12
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 23
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 23
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 25
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7065.252
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1701.307
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1881.42
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 470.403
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 780.628
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4183.186
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5344.072
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 40.048
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 690.556
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 90.087
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"] = { ["total"] = 0, ["inAir"] = 0, }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 10.009
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 750.601
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1070.855
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["numHits"] = 25
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["APCs"] = 4
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Ground Units"]["total"] = 24
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AGM-154C"]["kills"] = 24
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 26
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7075.259
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1711.314
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1891.427
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 480.41
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 790.635
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4193.193
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5354.079
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 50.054999999999
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 700.563
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 100.094
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 20.016
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 760.608
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1080.862
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7085.277
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1721.332
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1901.445
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 490.428
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 800.653
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4203.211
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5364.097
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 60.072999999999
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 710.581
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 110.112
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 30.034
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 770.626
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1090.88
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7095.283
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1731.338
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1911.451
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 500.434
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 810.659
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4213.217
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5374.103
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 70.079
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 720.587
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 120.118
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 40.04
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 780.632
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1100.886
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7105.287
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1741.342
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1921.455
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 510.438
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 820.663
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4223.221
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5384.107
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 80.083
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 730.591
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 130.122
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 50.044
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 790.636
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1110.89
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7115.293
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1751.348
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1931.461
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 520.444
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 830.669
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4233.227
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5394.113
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 90.089
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 740.597
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 140.128
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 60.05
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 800.642
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1120.896
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["shot"] = 4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7125.294
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1761.349
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1941.462
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 530.445
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 840.67
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4243.228
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5404.114
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 100.09
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 750.598
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 150.129
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 70.051
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 810.643
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1130.897
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7135.295
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1771.35
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1951.463
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 540.446
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 850.671
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4253.229
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5414.115
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 110.091
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 760.599
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 160.13
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 80.052
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 820.644
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1140.898
-misStats["af0b922de9d32ee40c8b8350f4e650d8"] = { }
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["names"] = { [1] = "The Cat Fish", [2] = "Ignis 1-1 | CatFish", }
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["id"] = 5979
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["times"] = { }
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["names"][3] = "Corsair 1-1 | CatFish"
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["lastJoin"] = 0
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["lastJoin"] = 1628270138
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7145.305
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1781.36
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1961.473
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 550.456
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 860.681
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4263.239
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5424.125
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 120.101
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 770.609
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 170.14
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 90.062
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 830.654
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1150.908
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["numHits"] = 3
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7155.318
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1791.373
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1971.486
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 560.469
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 870.694
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4273.252
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5434.138
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 130.114
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 780.622
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 180.153
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 100.075
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 840.667
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1160.921
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7165.321
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1801.376
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1981.489
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 570.472
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 880.697
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4283.255
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5444.141
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 140.117
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 790.625
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 190.156
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 110.078
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 850.67
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1170.924
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7175.326
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1811.381
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 1991.494
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 580.477
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 890.702
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4293.26
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5454.146
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 150.122
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 800.63
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 200.161
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 120.083
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 860.675
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1180.929
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["Fighters"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["kills"]["Planes"]["total"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["weapons"]["AIM-120C-5"]["kills"] = 3
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["pvp"]["kills"] = 27
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7185.327
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1821.382
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2001.495
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 590.478
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 900.703
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4303.261
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5464.147
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 160.123
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 810.631
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 210.162
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 130.084
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 870.676
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1190.93
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7195.335
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1831.39
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2011.503
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 600.486
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 910.711
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4313.269
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5474.155
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 170.131
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 820.639
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 220.17
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 140.092
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 880.684
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1200.938
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7205.337
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1841.392
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2021.505
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 610.488
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 920.713
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4323.271
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5484.157
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 180.133
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 830.641
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 230.172
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 150.094
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 890.686
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1210.94
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7215.345
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1851.4
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2031.513
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 620.496
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 930.721
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4333.279
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5494.165
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 190.141
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 840.649
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 240.18
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 160.102
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 900.694
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1220.948
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["actions"]["losses"]["eject"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7225.348
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1861.403
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2041.516
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 630.499
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 940.724
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4343.282
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5504.168
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 200.144
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 850.652
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 250.183
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 170.105
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 910.697
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1230.951
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7235.349
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1871.404
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2051.517
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 640.5
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 950.725
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4353.283
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5514.169
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 210.145
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 860.653
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 260.184
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 180.106
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 920.698
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1240.952
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7245.361
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1881.416
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2061.529
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 650.512
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 960.737
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4363.295
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5524.181
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 220.157
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 870.665
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 270.196
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 190.118
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 930.71
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1250.964
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7255.374
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1891.429
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2071.542
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 660.525
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 970.75
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4373.308
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5534.194
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 230.17
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 880.678
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 280.209
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 200.131
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 940.723
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1260.977
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["names"] = { [1] = "Sukka", [2] = "NahkaSukka", [3] = "NahkaSukka", }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["lastJoin"] = 1628270256
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7265.388
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1901.443
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2081.556
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 670.539
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 980.764
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4383.322
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5544.208
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 240.184
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 890.692
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 290.223
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 210.145
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["names"] = { [1] = "Sukka", [2] = "NahkaSukka", [3] = "NahkaSukka", }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["lastJoin"] = 1628270264
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7275.389
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1911.444
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2091.557
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 680.54
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 990.765
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4393.323
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5554.209
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 250.185
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 900.693
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 300.224
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 220.146
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["actions"] = { }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["actions"]["losses"]["crash"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7285.402
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1921.457
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2101.57
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4403.336
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5564.222
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 260.198
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 910.706
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 310.237
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 230.159
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1270.99
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7295.412
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1931.467
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2111.58
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1000.775
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["inAir"] = 4413.346
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["total"] = 5574.232
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 270.208
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 920.716
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 320.247
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 240.169
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1281
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["actions"] = { }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["actions"]["losses"] = { ["pilotDeath"] = 0, ["crash"] = 0, ["eject"] = 0, }
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["actions"]["losses"]["pilotDeath"] = 1
-misStats["94bd6232163ba0ab7186bf10f133636f"]["times"]["FA-18C_hornet"]["actions"]["losses"]["crash"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7305.415
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1941.47
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2121.583
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1010.778
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 280.211
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 930.719
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 330.25
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 250.172
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1291.003
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7315.42
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1951.475
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2131.588
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1020.783
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 290.216
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 940.724
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 340.255
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 260.177
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1301.008
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7325.428
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1961.483
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2141.596
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1030.791
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 300.224
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 950.732
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 350.263
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 270.185
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1311.016
-misStats["94bd6232163ba0ab7186bf10f133636f"]["lastJoin"] = 1628270326
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7335.434
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1971.489
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2151.602
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1040.797
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 310.23
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 960.738
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 360.269
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 280.191
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1321.022
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7345.436
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1981.491
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2161.604
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1050.799
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 320.232
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 970.74
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 370.271
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 290.193
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1331.024
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7355.444
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 1991.499
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2171.612
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1060.807
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 330.24
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 980.748
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 380.279
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 300.201
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1341.032
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7365.452
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2001.507
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2181.62
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1070.815
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 340.248
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 990.756
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 390.287
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 310.209
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1351.04
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7375.456
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2011.511
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2191.624
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 690.544
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1080.819
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 350.252
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1000.76
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 400.291
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 320.213
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1361.044
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7385.461
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2021.516
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2201.629
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 700.549
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1090.824
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 360.257
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1010.765
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 410.296
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 330.218
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1371.049
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628270389
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7395.469
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2211.637
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 710.557
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1100.832
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 420.304
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 340.226
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1381.057
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7405.475
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2221.643
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 720.563
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1110.838
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 430.31
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 350.232
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1391.063
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7415.483
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2231.651
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 730.571
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1120.846
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 440.318
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 360.24
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1401.071
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7425.487
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2241.655
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 740.575
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1130.85
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 450.322
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 370.244
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1411.075
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7435.498
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2251.666
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 750.586
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1140.861
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 460.333
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 380.255
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1421.086
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7445.505
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2261.673
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 760.593
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1150.868
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 470.34
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 390.262
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1431.093
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7455.506
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2271.674
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 770.594
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1160.869
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 480.341
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 400.263
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1441.094
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7465.514
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2281.682
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 780.602
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1170.877
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 490.349
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 10.008
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 410.271
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1451.102
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7475.526
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2291.694
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 790.614
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1180.889
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 500.361
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 20.019999999999
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 420.283
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1461.114
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7485.539
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2301.707
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 800.627
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1190.902
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 510.374
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 30.032999999999
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 430.296
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1471.127
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7495.542
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2311.71
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 810.63
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1200.905
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 520.377
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 40.036
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 440.299
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1481.13
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["numHits"] = 1
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 2
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 2
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["kills"] = 1
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["pvp"]["kills"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7505.549
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2321.717
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 820.637
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1210.912
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 530.384
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 50.043
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 450.306
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1491.137
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7515.557
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2331.725
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 830.645
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1220.92
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 540.392
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 60.050999999999
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 460.314
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1501.145
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7525.558
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2341.726
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 840.646
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1230.921
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 550.393
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 70.052
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 470.315
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1511.146
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7535.572
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2351.74
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 850.66
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1240.935
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 560.407
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 80.065999999999
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 480.329
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1521.16
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7545.578
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2361.746
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 860.666
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1250.941
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 570.413
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 90.071999999998
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 490.335
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1531.166
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["lastJoin"] = 1628270544
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7555.586
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2371.754
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 870.674
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1260.949
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 580.421
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 100.08
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 500.343
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1541.174
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7565.586
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2381.754
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 880.674
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1270.949
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1020.765
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 590.421
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 110.08
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 510.343
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1551.174
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7575.597
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2391.765
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 890.685
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1280.96
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1030.776
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 600.432
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 120.091
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 520.354
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1561.185
-misStats["af0b922de9d32ee40c8b8350f4e650d8"]["lastJoin"] = 1628270578
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7585.597
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2401.765
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 900.685
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1290.96
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1040.776
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 610.432
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 130.091
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 530.354
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1571.185
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7595.599
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2411.767
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 910.687
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1300.962
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1050.778
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 620.434
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 140.093
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 540.356
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1581.187
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["shot"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["shot"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["shot"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["shot"] = 4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7605.605
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2421.773
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 920.693
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1310.968
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1060.784
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 630.44
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 150.099
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 550.362
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1591.193
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["shot"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["numHits"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["numHits"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["numHits"] = 5
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["numHits"] = 6
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["numHits"] = 7
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Infantry"] = 0
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Infantry"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 0
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["kills"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"] = { }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 0
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["Infantry"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["kills"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 0
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["kills"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 2
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 4
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["CBU-87/CBU-103 CEM"]["kills"] = 4
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7615.609
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2431.777
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 930.697
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1320.972
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1070.788
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 640.444
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 160.103
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 560.366
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1601.197
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["weapons"]["AIM-9M"]["shot"] = 4
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7625.609
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2441.777
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 940.697
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1330.972
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1080.788
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 650.444
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 170.103
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 570.366
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1611.197
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7635.61
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2451.778
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 950.698
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1340.973
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1090.789
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 660.445
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 180.104
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 580.367
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1621.198
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7645.614
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2461.782
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 960.702
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1350.977
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1100.793
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 670.449
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 190.108
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 590.371
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1631.202
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7655.614
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2471.782
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 970.702
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1360.977
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1110.793
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 680.449
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 200.108
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 600.371
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1641.202
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"] = { ["kills"] = 0, ["shot"] = 0, ["hit"] = 0, ["gun"] = true, ["numHits"] = 0, }
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 62
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 63
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 85
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7665.627
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2481.795
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 980.715
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1370.99
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1120.806
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 690.462
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 210.121
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 610.384
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1651.215
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 86
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["numHits"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["shot"] = 364
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["SAM"] = 3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["kills"]["Ground Units"]["total"] = 5
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["weapons"]["M-61"]["kills"] = 1
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["pvp"]["kills"] = 5
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7675.627
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2491.795
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 990.715
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1380.99
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1130.806
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 700.462
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 220.121
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 620.384
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1661.215
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7685.641
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2501.809
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 1000.729
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1391.004
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1140.82
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 710.476
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 230.135
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 630.398
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1671.229
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7695.648
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2511.816
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["inAir"] = 1010.736
-misStats["641ad191b7d542113ac1f47ec3e53761"]["times"]["F-14B"]["total"] = 1401.011
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1150.827
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 720.483
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 240.142
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 640.405
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1681.236
-misStats["641ad191b7d542113ac1f47ec3e53761"]["lastJoin"] = 1628270698
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7705.661
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2521.829
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1160.84
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 730.496
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 250.155
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 650.418
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1691.249
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7715.671
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2531.839
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1170.85
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 740.506
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 260.165
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 660.428
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1701.259
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7725.679
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2541.847
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1180.858
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 750.514
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 270.173
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 670.436
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1711.267
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7735.692
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2551.86
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1190.871
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 760.527
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 280.186
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 680.449
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1721.28
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7745.705
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2561.873
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1200.884
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 770.54
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 290.199
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 690.462
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1731.293
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7755.707
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2571.875
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1210.886
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 780.542
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 300.201
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 700.464
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1741.295
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7765.707
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2581.875
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1220.886
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 790.542
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 310.201
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 710.464
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1751.295
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7775.719
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2591.887
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1230.898
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 800.554
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 320.213
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 720.476
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 950.735
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1761.307
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7785.731
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2601.899
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1240.91
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 810.566
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 330.225
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 730.488
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 960.747
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1771.319
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7795.74
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2611.908
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1250.919
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 820.575
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 340.234
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 740.497
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 970.756
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1781.328
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7805.747
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2621.915
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1260.926
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 830.582
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 350.241
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 750.504
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 980.763
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1791.335
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7815.757
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2631.925
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1270.936
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 840.592
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 360.251
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 760.514
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 990.773
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1801.345
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7825.77
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2641.938
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 370.27
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1280.949
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 850.605
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 370.264
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 770.527
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1000.786
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1811.358
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7835.777
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2651.945
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 380.277
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1290.956
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 860.612
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 380.271
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 780.534
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1010.793
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1821.365
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7845.777
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2661.945
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 390.277
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1300.956
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 870.612
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 390.271
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 790.534
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1020.793
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1831.365
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7855.787
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2671.955
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 400.287
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1310.966
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 880.622
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 400.281
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 800.544
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1030.803
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1841.375
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7865.79
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2681.958
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 410.29
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1320.969
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 890.625
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 410.284
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 810.547
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1040.806
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1851.378
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7875.797
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2691.965
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 420.297
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1330.976
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 900.632
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 420.291
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 820.554
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1050.813
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1861.385
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 2
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7885.805
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2701.973
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 430.305
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1340.984
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 910.64
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 430.299
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 830.562
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1060.821
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1871.393
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7895.806
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2711.974
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 440.306
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1350.985
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 920.641
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 440.3
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 840.563
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1070.822
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1881.394
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7905.81
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2031.52
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2721.978
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 450.31
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1360.989
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 930.645
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 450.304
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 850.567
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1080.826
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1891.398
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7915.82
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2041.53
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2731.988
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 460.32
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1370.999
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 940.655
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 460.314
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 860.577
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1090.836
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1901.408
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["numHits"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7925.82
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2051.53
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2741.988
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 470.32
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1380.999
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 950.655
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 470.314
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 870.577
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1100.836
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1911.408
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"]["Planes"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"]["Planes"]["Fighters"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["kills"]["Planes"]["total"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["kills"] = 1
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["pvp"] = { }
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["pvp"]["kills"] = 0
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["pvp"]["kills"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7935.83
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2061.54
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2751.998
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 480.33
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1391.009
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 960.665
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 480.324
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 880.587
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1110.846
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1921.418
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7945.834
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2071.544
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2762.002
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 490.334
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1401.013
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 970.669
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 490.328
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 890.591
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1120.85
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1931.422
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7955.837
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2081.547
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2772.005
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 500.337
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1411.016
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 980.672
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 500.331
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 900.594
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1130.853
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1941.425
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7965.844
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2091.554
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2782.012
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 510.344
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1421.023
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 990.679
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 510.338
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 910.601
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1140.86
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1951.432
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7975.853
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2101.563
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2792.021
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 520.353
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1431.032
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1000.688
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 520.347
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 920.61
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1150.869
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1961.441
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7985.856
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2111.566
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2802.024
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 530.356
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1441.035
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1010.691
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 530.35
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 930.613
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1160.872
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1971.444
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 7995.857
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2121.567
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2812.025
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 540.357
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1451.036
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1020.692
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 540.351
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 940.614
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1170.873
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1981.445
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8005.868
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2131.578
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2822.036
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 550.368
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1461.047
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1030.703
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 550.362
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 950.625
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1180.884
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 1991.456
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8015.868
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2141.578
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2832.036
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 560.368
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1471.047
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1040.703
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 560.362
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 960.625
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1190.884
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2001.456
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8025.874
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2151.584
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2842.042
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 570.374
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1481.053
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1050.709
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 570.368
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 970.631
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1200.89
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2011.462
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8035.888
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2161.598
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2852.056
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 580.388
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1491.067
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1060.723
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 580.382
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 980.645
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1210.904
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2021.476
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8045.891
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2171.601
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2862.059
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 590.391
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1501.07
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1070.726
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 590.385
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 990.648
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1220.907
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2031.479
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8055.899
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2181.609
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2872.067
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 600.399
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1511.078
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1080.734
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 600.393
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1000.656
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1230.915
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2041.487
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8065.905
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2191.615
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2882.073
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 610.405
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1521.084
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1090.74
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 610.399
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1010.662
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1240.921
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2051.493
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["weapons"]["AIM-54A-Mk60"]["shot"] = 7
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8075.911
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2201.621
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2892.079
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 620.411
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1531.09
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1100.746
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 620.405
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1020.668
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1250.927
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2061.499
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8085.916
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2211.626
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2902.084
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 630.416
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1541.095
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1110.751
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 630.41
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1030.673
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1260.932
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2071.504
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8095.919
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2221.629
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2912.087
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 640.419
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1551.098
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1120.754
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 640.413
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1040.676
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1270.935
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2081.507
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8105.92
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2231.63
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2922.088
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 650.42
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1561.099
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1130.755
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 650.414
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1050.677
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1280.936
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2091.508
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8115.931
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2241.641
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2932.099
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 660.431
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1571.11
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1140.766
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 660.425
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1060.688
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1290.947
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2101.519
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8125.931
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2251.641
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2942.099
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 670.431
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1581.11
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1150.766
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 670.425
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1070.688
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1300.947
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2111.519
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8135.943
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2261.653
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2952.111
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 680.443
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1591.122
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1160.778
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 680.437
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1080.7
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1310.959
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2121.531
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8145.946
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2271.656
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2962.114
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 690.446
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1601.125
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1170.781
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 690.44
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1090.703
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1320.962
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2131.534
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["weapons"] = { }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["weapons"]["AGM-88C"] = { ["hit"] = 0, ["kills"] = 0, ["shot"] = 0, ["numHits"] = 0, }
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["weapons"]["AGM-88C"]["shot"] = 1
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8155.952
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2281.662
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2972.12
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 700.452
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1611.131
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1180.787
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 700.446
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1100.709
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1330.968
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2141.54
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8165.952
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2291.662
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2982.12
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 710.452
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1621.131
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["inAir"] = 10
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1190.787
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 710.446
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1110.709
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1340.968
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2151.54
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8175.959
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2301.669
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 2992.127
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 720.459
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1631.138
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["inAir"] = 20.007
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1200.794
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 720.453
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1120.716
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1350.975
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2161.547
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8185.961
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2311.671
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 3002.129
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 730.461
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1641.14
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["inAir"] = 30.009
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1210.796
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 730.455
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1130.718
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1360.977
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2171.549
-misStats["8adf673c90894d32cc28c57a90e3bbb7"]["times"]["FA-18C_hornet"]["total"] = 8195.967
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["inAir"] = 2321.677
-misStats["e84c8815b7488b5f02d8fca801849c47"]["times"]["F-14B"]["total"] = 3012.135
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["inAir"] = 740.467
-misStats["ca18a8da6f71e3a74cfb9938a127671e"]["times"]["F-16C_50"]["total"] = 1651.146
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["inAir"] = 40.014999999999
-misStats["20d158f076e91d12e29f3e94efe954d6"]["times"]["F-16C_50"]["total"] = 1220.802
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["inAir"] = 740.461
-misStats["6cf1d136af16dbe8e89adc5b01cfa32b"]["times"]["F-16C_50"]["total"] = 1140.724
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["inAir"] = 1370.983
-misStats["664579b674d5ba17f7f13aa5cd1c8033"]["times"]["F-14B"]["total"] = 2181.555
+misStats = 
+{
+    ["6d702094f83eaa98707dc6e4066fe859"] = 
+    {
+        ["id"] = 5791,
+        ["lastJoin"] = 1628278777,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Eynen",
+        }, -- end of ["names"]
+    }, -- end of ["6d702094f83eaa98707dc6e4066fe859"]
+    ["6cf1d136af16dbe8e89adc5b01cfa32b"] = 
+    {
+        ["id"] = 4096,
+        ["lastJoin"] = 1628281368,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 11280.916,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 2,
+                        ["Infantry"] = 2,
+                        ["SAM"] = 4,
+                        ["total"] = 8,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 727,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 1,
+                    }, -- end of ["M-61"]
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                    ["CBU-87/CBU-103 CEM"] = 
+                    {
+                        ["numHits"] = 7,
+                        ["kills"] = 4,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-87/CBU-103 CEM"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 8058.26,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 2,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 8,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Neurus",
+        }, -- end of ["names"]
+    }, -- end of ["6cf1d136af16dbe8e89adc5b01cfa32b"]
+    ["8739749f84f84c6bb54d83e42ee4f2e4"] = 
+    {
+        ["id"] = 6096,
+        ["lastJoin"] = 1628278525,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3544.454,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 2,
+                        ["SAM"] = 1,
+                        ["AAA"] = 1,
+                        ["total"] = 4,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 4,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2453.447,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 3,
+                        ["crash"] = 3,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 5,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Exar",
+        }, -- end of ["names"]
+    }, -- end of ["8739749f84f84c6bb54d83e42ee4f2e4"]
+    ["d58f64062444df1a44d7e3abb255c4ad"] = 
+    {
+        ["id"] = 4690,
+        ["lastJoin"] = 1628284982,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 2102.134,
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1851.892,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 5,
+                        ["Fighters"] = 5,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 5,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+            ["A-10C_2"] = 
+            {
+                ["total"] = 2652.267,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["IFVs"] = 1,
+                        ["total"] = 6,
+                        ["SAM"] = 3,
+                        ["Infantry"] = 2,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AIM-9M"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9M"]
+                    ["Mk-82"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82"]
+                    ["GAU-8"] = 
+                    {
+                        ["kills"] = 6,
+                        ["shot"] = 831,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 25,
+                    }, -- end of ["GAU-8"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2191.824,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 7,
+                }, -- end of ["pvp"]
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "CSG-3 | Bull | 114",
+        }, -- end of ["names"]
+    }, -- end of ["d58f64062444df1a44d7e3abb255c4ad"]
+    ["d88689d76c3e6e277f850089dc20ea7c"] = 
+    {
+        ["id"] = 650,
+        ["lastJoin"] = 1628279213,
+        ["times"] = 
+        {
+            ["Ka-50"] = 
+            {
+                ["total"] = 3093.319,
+                ["weapons"] = 
+                {
+                    ["2A42"] = 
+                    {
+                        ["kills"] = 2,
+                        ["shot"] = 200,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 2,
+                    }, -- end of ["2A42"]
+                    ["S-8OFP2"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 14,
+                        ["hit"] = 0,
+                    }, -- end of ["S-8OFP2"]
+                    ["Vikhr M"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 10,
+                        ["hit"] = 0,
+                    }, -- end of ["Vikhr M"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 3,
+                        ["total"] = 5,
+                        ["SAM"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["inAir"] = 1871.895,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 3,
+                        ["crash"] = 4,
+                        ["eject"] = 2,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 5,
+                }, -- end of ["pvp"]
+            }, -- end of ["Ka-50"]
+            ["AV8BNA"] = 
+            {
+                ["total"] = 2732.395,
+                ["weapons"] = 
+                {
+                    ["GAU_12"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 75,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 2,
+                    }, -- end of ["GAU_12"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 0,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["inAir"] = 1411.336,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 3,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+            ["UH-1H"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 70.064999999999,
+            }, -- end of ["UH-1H"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Chopper 1-2 | Pil007",
+        }, -- end of ["names"]
+    }, -- end of ["d88689d76c3e6e277f850089dc20ea7c"]
+    ["d9c5a7e61dc2c74c928acb506fe8ef56"] = 
+    {
+        ["id"] = 5873,
+        ["lastJoin"] = 1628275881,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 2862.482,
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 4,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1471.179,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 4,
+                        ["SAM"] = 4,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Koala",
+        }, -- end of ["names"]
+    }, -- end of ["d9c5a7e61dc2c74c928acb506fe8ef56"]
+    ["9aed205fdb2c700db6ae9dcdbe83d578"] = 
+    {
+        ["id"] = 653,
+        ["lastJoin"] = 1628279105,
+        ["times"] = 
+        {
+            ["AJS37"] = 
+            {
+                ["total"] = 30.030000000001,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 0,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 0,
+            }, -- end of ["AJS37"]
+            ["AV8BNA"] = 
+            {
+                ["total"] = 2762.391,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 3,
+                        ["SAM"] = 3,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GAU_12"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 78,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 2,
+                    }, -- end of ["GAU_12"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["Mk-20 Rockeye"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-20 Rockeye"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1431.342,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+            ["F-14B"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AIM-9M"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9M"]
+                    ["M-61A1"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 87,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["M-61A1"]
+                }, -- end of ["weapons"]
+                ["total"] = 2603.642,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 1822.684,
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Chopper 1-1 | Fico",
+        }, -- end of ["names"]
+    }, -- end of ["9aed205fdb2c700db6ae9dcdbe83d578"]
+    ["69be5a571e91306e9250e1034470d5bd"] = 
+    {
+        ["id"] = 6100,
+        ["lastJoin"] = 1628283473,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 5976.636,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                    ["Ships"] = 
+                    {
+                        ["Warships"] = 2,
+                        ["total"] = 2,
+                    }, -- end of ["Ships"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 2,
+                        ["shot"] = 24,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 1,
+                        ["shot"] = 7,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 0,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["CBU-99 - 490lbs, 247 x HEAT Bomblets"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-99 - 490lbs, 247 x HEAT Bomblets"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3544.313,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "TFD 1-1 | Mereck",
+        }, -- end of ["names"]
+    }, -- end of ["69be5a571e91306e9250e1034470d5bd"]
+    ["2246aae601f445abb425d886df17029a"] = 
+    {
+        ["id"] = 5070,
+        ["lastJoin"] = 1628284316,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 5515.12,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["SAM"] = 3,
+                        ["Infantry"] = 2,
+                        ["total"] = 5,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 2,
+                        ["Fighters"] = 2,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 7,
+                        ["kills"] = 5,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3563.366,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 7,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "MrFiji",
+        }, -- end of ["names"]
+    }, -- end of ["2246aae601f445abb425d886df17029a"]
+    ["922a6caead94d526dce84dec94dcd690"] = 
+    {
+        ["id"] = 5855,
+        ["lastJoin"] = 1628285839,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 2632.497,
+                ["weapons"] = 
+                {
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1831.75,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Specter 1-1 | Avgvstvs",
+        }, -- end of ["names"]
+    }, -- end of ["922a6caead94d526dce84dec94dcd690"]
+    ["6994989f1866942526988fefd39b30f7"] = 
+    {
+        ["id"] = 5821,
+        ["lastJoin"] = 1628280747,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 7678.253,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 6,
+                        ["SAM"] = 16,
+                        ["total"] = 22,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 6,
+                        ["Fighters"] = 6,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 0,
+                        ["shot"] = 16,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 196,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 1,
+                    }, -- end of ["M-61"]
+                    ["CBU-99 - 490lbs, 247 x HEAT Bomblets"] = 
+                    {
+                        ["numHits"] = 8,
+                        ["kills"] = 5,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-99 - 490lbs, 247 x HEAT Bomblets"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 9,
+                        ["kills"] = 9,
+                        ["shot"] = 10,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 15,
+                        ["kills"] = 7,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 7,
+                        ["kills"] = 4,
+                        ["shot"] = 9,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 2,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["Mk-20 Rockeye"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-20 Rockeye"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 5185.652,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 4,
+                        ["crash"] = 4,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 28,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Mothman",
+            [2] = "KC_Jones",
+        }, -- end of ["names"]
+    }, -- end of ["6994989f1866942526988fefd39b30f7"]
+    ["07a675beb5759a25cb996880df061809"] = 
+    {
+        ["id"] = 5502,
+        ["lastJoin"] = 1628265848,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Quetzalkoatl",
+        }, -- end of ["names"]
+    }, -- end of ["07a675beb5759a25cb996880df061809"]
+    ["31da3156d9ce3f5eee9d601a77097038"] = 
+    {
+        ["id"] = 1278,
+        ["lastJoin"] = 1628263618,
+        ["times"] = 
+        {
+            ["Mi-24P"] = 
+            {
+                ["total"] = 110.079,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 0,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 10.012,
+            }, -- end of ["Mi-24P"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Kroket",
+        }, -- end of ["names"]
+    }, -- end of ["31da3156d9ce3f5eee9d601a77097038"]
+    ["af7319e62c3d241f64b7d99be1fba6a6"] = 
+    {
+        ["id"] = 1867,
+        ["lastJoin"] = 1628277697,
+        ["times"] = 
+        {
+            ["SA342M"] = 
+            {
+                ["total"] = 2562.791,
+                ["weapons"] = 
+                {
+                    ["HOT3"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["HOT3"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2382.595,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["SA342M"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Bolt",
+        }, -- end of ["names"]
+    }, -- end of ["af7319e62c3d241f64b7d99be1fba6a6"]
+    ["8adf673c90894d32cc28c57a90e3bbb7"] = 
+    {
+        ["id"] = 2233,
+        ["lastJoin"] = 1628279378,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 16364.202,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["SAM"] = 5,
+                        ["total"] = 6,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 4,
+                        ["Fighters"] = 4,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 125,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["M-61"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 2,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 7427.453,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 10,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Frick | 15-22 | JTF-13",
+            [2] = "Frick | 15-28 | JTF-13",
+            [3] = "Frick | 15-13 | JTF-13",
+            [4] = "Frick | 15-13 | JTF-13",
+            [5] = "Frick1-1 | 15-13 | JTF-13",
+            [6] = "Marte 2-1 | Frick",
+            [7] = "Marte 2-1 | Detr0y",
+            [8] = "Marte 2-1 Detr0y",
+            [9] = "Frick | Marte 21",
+        }, -- end of ["names"]
+    }, -- end of ["8adf673c90894d32cc28c57a90e3bbb7"]
+    ["6015a49c09afba1e20d1596d431e78cd"] = 
+    {
+        ["id"] = 4265,
+        ["lastJoin"] = 1628269792,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3472.53,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 2,
+                        ["SAM"] = 4,
+                        ["APCs"] = 5,
+                        ["IFVs"] = 4,
+                        ["total"] = 15,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 429,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 5,
+                    }, -- end of ["M-61"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 12,
+                        ["kills"] = 12,
+                        ["shot"] = 15,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2741.99,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 15,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Atesz",
+            [2] = "SteelRain",
+        }, -- end of ["names"]
+    }, -- end of ["6015a49c09afba1e20d1596d431e78cd"]
+    ["19e6c8341fcf4c70db0cab61da65b5a8"] = 
+    {
+        ["id"] = 5751,
+        ["lastJoin"] = 1628281218,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 4904.451,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 4,
+                        ["SAM"] = 4,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-154C"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154C"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3153.104,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Sosage01",
+        }, -- end of ["names"]
+    }, -- end of ["19e6c8341fcf4c70db0cab61da65b5a8"]
+    ["4d0123c9a5d886deec4f888ac0624430"] = 
+    {
+        ["id"] = 2829,
+        ["lastJoin"] = 1628284700,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 1421.16,
+                ["weapons"] = 
+                {
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1120.875,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Nulty [RCF]",
+        }, -- end of ["names"]
+    }, -- end of ["4d0123c9a5d886deec4f888ac0624430"]
+    ["f90161d22bbe96060013f288a74e805f"] = 
+    {
+        ["id"] = 1874,
+        ["lastJoin"] = 1628277230,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Lance 1-4 | Bez",
+        }, -- end of ["names"]
+    }, -- end of ["f90161d22bbe96060013f288a74e805f"]
+    ["915811de9b95ea8f1496085b5a833cb5"] = 
+    {
+        ["id"] = 6094,
+        ["lastJoin"] = 1628276925,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 2222.3,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["SAM"] = 1,
+                        ["Unarmored"] = 1,
+                        ["total"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1381.524,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "SKUBAA",
+        }, -- end of ["names"]
+    }, -- end of ["915811de9b95ea8f1496085b5a833cb5"]
+    ["2b739cca28a257df8eec774c2f2d6045"] = 
+    {
+        ["id"] = 2830,
+        ["lastJoin"] = 1628284951,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["inAir"] = 860.726,
+                ["total"] = 1150.901,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "RUFF",
+            [2] = "RUFF [VR]",
+        }, -- end of ["names"]
+    }, -- end of ["2b739cca28a257df8eec774c2f2d6045"]
+    ["34b92bf58ab35fdbf49a615226afb9cc"] = 
+    {
+        ["id"] = 471,
+        ["lastJoin"] = 1628278538,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3013.949,
+                ["weapons"] = 
+                {
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 6,
+                        ["kills"] = 6,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1991.979,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["Infantry"] = 2,
+                        ["SAM"] = 4,
+                        ["total"] = 6,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 6,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Firefox",
+            [2] = "JoeFirefox",
+        }, -- end of ["names"]
+    }, -- end of ["34b92bf58ab35fdbf49a615226afb9cc"]
+    ["20d158f076e91d12e29f3e94efe954d6"] = 
+    {
+        ["id"] = 5743,
+        ["lastJoin"] = 1628281267,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 10868.97,
+                ["weapons"] = 
+                {
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 514,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 3,
+                    }, -- end of ["M-61"]
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                    ["CBU-87/CBU-103 CEM"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-87/CBU-103 CEM"]
+                    ["Mk-82"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 4,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 6055.226,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 3,
+                        ["Tanks"] = 2,
+                        ["Unarmored"] = 1,
+                        ["APCs"] = 2,
+                        ["IFVs"] = 4,
+                        ["total"] = 12,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 13,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Haggis",
+        }, -- end of ["names"]
+    }, -- end of ["20d158f076e91d12e29f3e94efe954d6"]
+    ["94bd6232163ba0ab7186bf10f133636f"] = 
+    {
+        ["id"] = 119,
+        ["lastJoin"] = 1628280087,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 11669.721,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 6,
+                        ["Fighters"] = 6,
+                    }, -- end of ["Planes"]
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 6,
+                        ["total"] = 30,
+                        ["Unarmored"] = 1,
+                        ["EWR"] = 1,
+                        ["APCs"] = 5,
+                        ["Tanks"] = 2,
+                        ["SAM"] = 15,
+                    }, -- end of ["Ground Units"]
+                    ["Ships"] = 
+                    {
+                        ["Warships"] = 2,
+                        ["total"] = 2,
+                    }, -- end of ["Ships"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 0,
+                        ["shot"] = 0,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["AGM-154C"] = 
+                    {
+                        ["numHits"] = 29,
+                        ["kills"] = 28,
+                        ["shot"] = 33,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154C"]
+                    ["GBU-31(V)4/B"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-31(V)4/B"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 7,
+                        ["kills"] = 6,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AGM-62 Walleye II"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-62 Walleye II"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 9017.597,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 38,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Westwood",
+        }, -- end of ["names"]
+    }, -- end of ["94bd6232163ba0ab7186bf10f133636f"]
+    ["a3d941d71aa6cc7a0167cbcbe08078a2"] = 
+    {
+        ["id"] = 3876,
+        ["lastJoin"] = 1628279360,
+        ["times"] = 
+        {
+            ["JF-17"] = 
+            {
+                ["total"] = 4424.816,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 1,
+                        ["SAM"] = 11,
+                        ["AAA"] = 2,
+                        ["total"] = 14,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GB-6-SFW"] = 
+                    {
+                        ["numHits"] = 10,
+                        ["kills"] = 6,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["GB-6-SFW"]
+                    ["LS-6-500"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["LS-6-500"]
+                    ["GSh-2-23"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 142,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["GSh-2-23"]
+                    ["LD-10"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["LD-10"]
+                    ["CM-802AKG"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CM-802AKG"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2953.629,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 3,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 14,
+                }, -- end of ["pvp"]
+            }, -- end of ["JF-17"]
+            ["FA-18C_hornet"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 40.045,
+            }, -- end of ["FA-18C_hornet"]
+            ["F-16C_50"] = 
+            {
+                ["total"] = 630.45,
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 390.282,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["Tanks"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "raptordude",
+        }, -- end of ["names"]
+    }, -- end of ["a3d941d71aa6cc7a0167cbcbe08078a2"]
+    ["12fd3966af2e14324694ff74b76a264f"] = 
+    {
+        ["id"] = 353,
+        ["lastJoin"] = 1628282232,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 1551.752,
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 3,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                    ["AIM-7M"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-7M"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1251.268,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 3,
+                        ["Fighters"] = 3,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+            ["Mi-24P"] = 
+            {
+                ["total"] = 2001.668,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 6,
+                        ["SAM"] = 6,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GSh-2-30"] = 
+                    {
+                        ["kills"] = 3,
+                        ["shot"] = 29,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 4,
+                    }, -- end of ["GSh-2-30"]
+                    ["S-8KOM"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 1,
+                        ["shot"] = 18,
+                        ["hit"] = 0,
+                    }, -- end of ["S-8KOM"]
+                    ["AT-6"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AT-6"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1621.298,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 6,
+                }, -- end of ["pvp"]
+            }, -- end of ["Mi-24P"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Emkai 1-1 | stresel",
+        }, -- end of ["names"]
+    }, -- end of ["12fd3966af2e14324694ff74b76a264f"]
+    ["fd16417a5c1d91d090ce825322deeaa6"] = 
+    {
+        ["id"] = 2636,
+        ["lastJoin"] = 1628279414,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 7217.543,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 6,
+                        ["EWR"] = 1,
+                        ["APCs"] = 3,
+                        ["IFVs"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-84E"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84E"]
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 4,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 4395.264,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 6,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "MisterLegatus",
+        }, -- end of ["names"]
+    }, -- end of ["fd16417a5c1d91d090ce825322deeaa6"]
+    ["7ec96b92e716b266629db5351c3b21ed"] = 
+    {
+        ["id"] = 6098,
+        ["lastJoin"] = 1628279679,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["total"] = 3614.476,
+                ["weapons"] = 
+                {
+                    ["AIM-9M"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9M"]
+                    ["AGM-65K"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65K"]
+                    ["GAU-8"] = 
+                    {
+                        ["kills"] = 2,
+                        ["shot"] = 1171,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 5,
+                    }, -- end of ["GAU-8"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["GBU-10"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-10"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2903.49,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["APCs"] = 3,
+                        ["total"] = 4,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Bademeister",
+        }, -- end of ["names"]
+    }, -- end of ["7ec96b92e716b266629db5351c3b21ed"]
+    ["1c996ec8487db962eb16a374d08f6983"] = 
+    {
+        ["id"] = 3755,
+        ["lastJoin"] = 1628282087,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 4033.786,
+                ["weapons"] = 
+                {
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AGM-154A"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154A"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3263.044,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "141 | Hawk 13",
+        }, -- end of ["names"]
+    }, -- end of ["1c996ec8487db962eb16a374d08f6983"]
+    ["705879610bd6be361dc8d82b448d7016"] = 
+    {
+        ["id"] = 6101,
+        ["lastJoin"] = 1628280218,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                }, -- end of ["weapons"]
+                ["total"] = 2483.422,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 1962.961,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Straight-Up",
+        }, -- end of ["names"]
+    }, -- end of ["705879610bd6be361dc8d82b448d7016"]
+    ["b922e11b15cba00521774bdae757cb7f"] = 
+    {
+        ["id"] = 3994,
+        ["lastJoin"] = 1628285492,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3162.96,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 2,
+                        ["Fighters"] = 2,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2642.465,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 0,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Victory 1",
+            [2] = "Victory1",
+        }, -- end of ["names"]
+    }, -- end of ["b922e11b15cba00521774bdae757cb7f"]
+    ["a4f9c547352199749db21a0b24af9b3c"] = 
+    {
+        ["id"] = 4791,
+        ["lastJoin"] = 1628283609,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 0,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                }, -- end of ["weapons"]
+                ["total"] = 5054.855,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 2341.926,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "smokieblue",
+            [2] = "SMOKIE",
+        }, -- end of ["names"]
+    }, -- end of ["a4f9c547352199749db21a0b24af9b3c"]
+    ["3ac216fdec1e6dc43c688dee45a26443"] = 
+    {
+        ["id"] = 902,
+        ["lastJoin"] = 1628282141,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 461.251,
+            }, -- end of ["A-10C_2"]
+            ["AV8BNA"] = 
+            {
+                ["total"] = 4594.17,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 2,
+                        ["SAM"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GAU_12"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 9,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["GAU_12"]
+                    ["Mk-82"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1811.683,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [6] = "Phantom 1-1 SUPA",
+            [2] = "Sniper 1-1 | FB SUPA",
+            [3] = "Sniper 1-1 SUPA",
+            [1] = "Tusk 1-1 | FB SUPA",
+            [4] = "Phantom 1-3| SUPA",
+            [5] = "|D| SUPA",
+            [7] = "Phantom 1-1 | SUPA",
+        }, -- end of ["names"]
+    }, -- end of ["3ac216fdec1e6dc43c688dee45a26443"]
+    ["7b158efcd4c2bca0edd671a9e6cad363"] = 
+    {
+        ["id"] = 1529,
+        ["lastJoin"] = 1628277683,
+        ["times"] = 
+        {
+            ["Mi-24P"] = 
+            {
+                ["total"] = 1491.601,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 1071.101,
+            }, -- end of ["Mi-24P"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [2] = "ShotTrap",
+            [3] = "Stuck",
+            [1] = "KptLt Mitchel",
+            [4] = "TORCH (VR - 305.00)",
+            [5] = "[VR] TORCH",
+        }, -- end of ["names"]
+    }, -- end of ["7b158efcd4c2bca0edd671a9e6cad363"]
+    ["deec21fbf2c1b017aefb5f281a242076"] = 
+    {
+        ["id"] = 4178,
+        ["lastJoin"] = 1628284694,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 3273.062,
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 13,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["inAir"] = 2091.978,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 5,
+                        ["crash"] = 5,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "EFS 1 Twinkie",
+            [2] = "EFS 1-1 Twinkie",
+            [3] = "Twinkie",
+        }, -- end of ["names"]
+    }, -- end of ["deec21fbf2c1b017aefb5f281a242076"]
+    ["b515965c9dcba78f695fecdf10f2827a"] = 
+    {
+        ["id"] = 5863,
+        ["lastJoin"] = 1628267038,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 340.276,
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Ranger",
+        }, -- end of ["names"]
+    }, -- end of ["b515965c9dcba78f695fecdf10f2827a"]
+    ["141a4efd426050ad9d78ecba849dfa78"] = 
+    {
+        ["id"] = 6068,
+        ["lastJoin"] = 1628278426,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                }, -- end of ["weapons"]
+                ["total"] = 1961.905,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 630.54,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "[VMFA-117]Dom",
+        }, -- end of ["names"]
+    }, -- end of ["141a4efd426050ad9d78ecba849dfa78"]
+    ["4a47959da046ebd6b108db3f022a0ea9"] = 
+    {
+        ["id"] = 2692,
+        ["lastJoin"] = 1628276337,
+        ["times"] = 
+        {
+            ["AV8BNA"] = 
+            {
+                ["inAir"] = 180.159,
+                ["total"] = 340.443,
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "F1GHTS-ON",
+        }, -- end of ["names"]
+    }, -- end of ["4a47959da046ebd6b108db3f022a0ea9"]
+    ["aa5d922fd20c9cf800276ede95e905ec"] = 
+    {
+        ["id"] = 5986,
+        ["lastJoin"] = 1628284514,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "canadiannmann07",
+        }, -- end of ["names"]
+    }, -- end of ["aa5d922fd20c9cf800276ede95e905ec"]
+    ["ec2a0a7531de05b9d42235ef5525ee48"] = 
+    {
+        ["id"] = 4960,
+        ["lastJoin"] = 1628284974,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 1150.901,
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 6,
+                        ["kills"] = 4,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 980.79,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 4,
+                        ["Fighters"] = 4,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "yon",
+            [2] = "Alex",
+        }, -- end of ["names"]
+    }, -- end of ["ec2a0a7531de05b9d42235ef5525ee48"]
+    ["6038482c57a1b8d096ac86d50bcbe34e"] = 
+    {
+        ["id"] = 5890,
+        ["lastJoin"] = 1628285267,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 830.681,
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 680.554,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "granspeed",
+        }, -- end of ["names"]
+    }, -- end of ["6038482c57a1b8d096ac86d50bcbe34e"]
+    ["c8658b6ad45f6965f00e75928cbccc82"] = 
+    {
+        ["id"] = 6106,
+        ["lastJoin"] = 1628284243,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "[DEVILS] Pathfinder_50",
+        }, -- end of ["names"]
+    }, -- end of ["c8658b6ad45f6965f00e75928cbccc82"]
+    ["8d0bd4a1164b9e086f5d0574ab5f488e"] = 
+    {
+        ["id"] = 1193,
+        ["lastJoin"] = 1628277899,
+        ["times"] = 
+        {
+            ["F-15C"] = 
+            {
+                ["total"] = 1841.985,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 2,
+                        ["Fighters"] = 2,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1601.687,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 0,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-15C"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "⚜ { RSAF } Moatheer ⚜",
+        }, -- end of ["names"]
+    }, -- end of ["8d0bd4a1164b9e086f5d0574ab5f488e"]
+    ["3cde0f6bc69d2559ce7e35828112f9b9"] = 
+    {
+        ["id"] = 6103,
+        ["lastJoin"] = 1628285577,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["total"] = 2832.682,
+                ["weapons"] = 
+                {
+                    ["HYDRA-70 MPP APKWS"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["HYDRA-70 MPP APKWS"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["GAU-8"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 110,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 8,
+                    }, -- end of ["GAU-8"]
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1751.67,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 5,
+                        ["APCs"] = 1,
+                        ["Tanks"] = 1,
+                        ["SAM"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 5,
+                }, -- end of ["pvp"]
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Shark | Razor | 110",
+        }, -- end of ["names"]
+    }, -- end of ["3cde0f6bc69d2559ce7e35828112f9b9"]
+    ["fbf96c475906b98e1e3c61dff1003555"] = 
+    {
+        ["id"] = 4242,
+        ["lastJoin"] = 1628267959,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 2171.607,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 4,
+                        ["total"] = 10,
+                        ["Unarmored"] = 1,
+                        ["APCs"] = 3,
+                        ["Tanks"] = 2,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 6,
+                        ["kills"] = 6,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 2,
+                        ["shot"] = 466,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 9,
+                    }, -- end of ["M-61"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1521.167,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 11,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Stefanjoska",
+        }, -- end of ["names"]
+    }, -- end of ["fbf96c475906b98e1e3c61dff1003555"]
+    ["67a185e4a13fc535d26e93dfc90ed95e"] = 
+    {
+        ["id"] = 2874,
+        ["lastJoin"] = 1628284402,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3243.023,
+                ["weapons"] = 
+                {
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                    ["AGM-154A"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154A"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2241.992,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 3,
+                        ["SAM"] = 3,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+            ["A-10C_2"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 410.382,
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Draggin 1-4 | Spectre",
+            [2] = "2d Lt Spectre | The State",
+            [3] = "Spectre",
+        }, -- end of ["names"]
+    }, -- end of ["67a185e4a13fc535d26e93dfc90ed95e"]
+    ["8d6e741e639b6973e49fda81b1a3a152"] = 
+    {
+        ["id"] = 574,
+        ["lastJoin"] = 1628275838,
+        ["times"] = 
+        {
+            ["Su-25T"] = 
+            {
+                ["total"] = 1100.838,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["Kh-58U"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["Kh-58U"]
+                    ["Vikhr M"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["Vikhr M"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 730.551,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["Su-25T"]
+            ["JF-17"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 130.09,
+            }, -- end of ["JF-17"]
+            ["F-16C_50"] = 
+            {
+                ["total"] = 1941.776,
+                ["weapons"] = 
+                {
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1491.259,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["Tanks"] = 1,
+                        ["IFVs"] = 1,
+                        ["total"] = 5,
+                        ["SAM"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 4,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Norpa76",
+        }, -- end of ["names"]
+    }, -- end of ["8d6e741e639b6973e49fda81b1a3a152"]
+    ["7a9e571a1ffb0adf45c5c5b64ef0c3b2"] = 
+    {
+        ["id"] = 6067,
+        ["lastJoin"] = 1628285282,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["total"] = 1201.137,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 550.43,
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "RaVeN.UwU",
+        }, -- end of ["names"]
+    }, -- end of ["7a9e571a1ffb0adf45c5c5b64ef0c3b2"]
+    ["caf1616efa1008c27f460352ad1f02c4"] = 
+    {
+        ["id"] = 6090,
+        ["lastJoin"] = 1628277452,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 5925.18,
+                ["weapons"] = 
+                {
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 2,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 121,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 9,
+                    }, -- end of ["M-61"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 3,
+                        ["Fighters"] = 3,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["inAir"] = 3943.518,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Squid 1-1",
+        }, -- end of ["names"]
+    }, -- end of ["caf1616efa1008c27f460352ad1f02c4"]
+    ["1a4ee7b69af2599734baebc26bd786a8"] = 
+    {
+        ["id"] = 6105,
+        ["lastJoin"] = 1628285196,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["inAir"] = 440.382,
+                ["total"] = 2322.176,
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Haven 1-1 | JSpectre",
+        }, -- end of ["names"]
+    }, -- end of ["1a4ee7b69af2599734baebc26bd786a8"]
+    ["bce030193274657036676279714bd66b"] = 
+    {
+        ["id"] = 3048,
+        ["lastJoin"] = 1628283451,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 2662.425,
+                ["weapons"] = 
+                {
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 10,
+                        ["kills"] = 5,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 515,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["M-61"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2161.952,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 6,
+                        ["SAM"] = 6,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 6,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "T-Bird",
+            [2] = "Airbus",
+        }, -- end of ["names"]
+    }, -- end of ["bce030193274657036676279714bd66b"]
+    ["7bb681862e78b19b757726128c7bd61d"] = 
+    {
+        ["id"] = 6099,
+        ["lastJoin"] = 1628282915,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 6497.072,
+                ["weapons"] = 
+                {
+                    ["AGM-154C"] = 
+                    {
+                        ["numHits"] = 26,
+                        ["kills"] = 26,
+                        ["shot"] = 35,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154C"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 2,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 5295.877,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 10,
+                        ["total"] = 26,
+                        ["Unarmored"] = 1,
+                        ["EWR"] = 2,
+                        ["APCs"] = 4,
+                        ["IFVs"] = 1,
+                        ["SAM"] = 2,
+                        ["Tanks"] = 6,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 2,
+                        ["Fighters"] = 2,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 27,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Ice",
+        }, -- end of ["names"]
+    }, -- end of ["7bb681862e78b19b757726128c7bd61d"]
+    ["ce1629d107c2deefcc9d025597d77f10"] = 
+    {
+        ["id"] = 6091,
+        ["lastJoin"] = 1628282074,
+        ["times"] = 
+        {
+            ["AV8BNA"] = 
+            {
+                ["total"] = 13993.823,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 4,
+                        ["SAM"] = 4,
+                        ["APCs"] = 2,
+                        ["Tanks"] = 1,
+                        ["total"] = 11,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["GAU_12"] = 
+                    {
+                        ["kills"] = 2,
+                        ["shot"] = 498,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 5,
+                    }, -- end of ["GAU_12"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 0,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                    ["GBU-12"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-12"]
+                    ["AGM-65E"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65E"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 10901.187,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 11,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Kewell_77th",
+        }, -- end of ["names"]
+    }, -- end of ["ce1629d107c2deefcc9d025597d77f10"]
+    ["3d482f838a519a968daefe55d5e8ca7e"] = 
+    {
+        ["id"] = 6104,
+        ["lastJoin"] = 1628284766,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 1741.754,
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-154C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1441.495,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 2,
+                        ["Unarmored"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Joe",
+        }, -- end of ["names"]
+    }, -- end of ["3d482f838a519a968daefe55d5e8ca7e"]
+    ["664579b674d5ba17f7f13aa5cd1c8033"] = 
+    {
+        ["id"] = 1689,
+        ["lastJoin"] = 1628273754,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 1761.205,
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["GBU-38"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-38"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1340.881,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["IFVs"] = 2,
+                        ["SAM"] = 1,
+                        ["total"] = 3,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+            ["F-14B"] = 
+            {
+                ["total"] = 4743.416,
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["inAir"] = 3392.487,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Sukka",
+            [2] = "NahkaSukka",
+            [3] = "NahkaSukka",
+        }, -- end of ["names"]
+    }, -- end of ["664579b674d5ba17f7f13aa5cd1c8033"]
+    ["14424390f57caa0be6a9e28b84968834"] = 
+    {
+        ["id"] = 5754,
+        ["lastJoin"] = 1628285468,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AGM-84D"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 16,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-84D"]
+                }, -- end of ["weapons"]
+                ["total"] = 3173.068,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 1781.665,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Stu",
+        }, -- end of ["names"]
+    }, -- end of ["14424390f57caa0be6a9e28b84968834"]
+    ["dacc2e23671e006a5a79ba6d1d6a101a"] = 
+    {
+        ["id"] = 2723,
+        ["lastJoin"] = 1628283414,
+        ["times"] = 
+        {
+            ["UH-1H"] = 
+            {
+                ["inAir"] = 440.464,
+                ["total"] = 1321.333,
+            }, -- end of ["UH-1H"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [6] = "Kiemzo",
+            [2] = "BonGSferatU",
+            [3] = "Bong Voyage",
+            [1] = "Redneck 2-1",
+            [4] = "Lazarus",
+            [5] = "these nuts",
+            [7] = "-=BC=-Kiemzo",
+        }, -- end of ["names"]
+    }, -- end of ["dacc2e23671e006a5a79ba6d1d6a101a"]
+    ["399f564ce02583f384754b651f8500a5"] = 
+    {
+        ["id"] = 5990,
+        ["lastJoin"] = 1628282411,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 120.136,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "faustehok",
+        }, -- end of ["names"]
+    }, -- end of ["399f564ce02583f384754b651f8500a5"]
+    ["70fa04e8656be97210a8674f70389b19"] = 
+    {
+        ["id"] = 4196,
+        ["lastJoin"] = 1628278182,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 160.139,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "CYBORG",
+        }, -- end of ["names"]
+    }, -- end of ["70fa04e8656be97210a8674f70389b19"]
+    ["972d1568ec6de03942e3d9053b356ea6"] = 
+    {
+        ["id"] = 1343,
+        ["lastJoin"] = 1628280299,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 1341.369,
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 911.015,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "HateSlave",
+        }, -- end of ["names"]
+    }, -- end of ["972d1568ec6de03942e3d9053b356ea6"]
+    ["931d3c694686e23e6038b47d5444889e"] = 
+    {
+        ["id"] = 6097,
+        ["lastJoin"] = 1628280966,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 4935.216,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["Transports"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Planes"]
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                    ["Ships"] = 
+                    {
+                        ["Warships"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ships"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 1,
+                        ["shot"] = 54,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 11,
+                    }, -- end of ["M-61"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65K"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65K"]
+                    ["HYDRA-70 MK5"] = 
+                    {
+                        ["numHits"] = 12,
+                        ["kills"] = 1,
+                        ["shot"] = 38,
+                        ["hit"] = 0,
+                    }, -- end of ["HYDRA-70 MK5"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["HYDRA-70 M151"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 10,
+                        ["hit"] = 0,
+                    }, -- end of ["HYDRA-70 M151"]
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3313.702,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 6,
+                        ["crash"] = 7,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Orion",
+        }, -- end of ["names"]
+    }, -- end of ["931d3c694686e23e6038b47d5444889e"]
+    ["de768bc512be85fe43ba80beef2d8a4c"] = 
+    {
+        ["id"] = 5757,
+        ["lastJoin"] = 1628284341,
+        ["times"] = 
+        {
+            ["AV8BNA"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["HYDRA-70 HE APKWS"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["HYDRA-70 HE APKWS"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                    ["GAU_12"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 35,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["GAU_12"]
+                    ["Mk-82 Snakeye"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82 Snakeye"]
+                }, -- end of ["weapons"]
+                ["total"] = 5805.214,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 4283.722,
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Yeti",
+        }, -- end of ["names"]
+    }, -- end of ["de768bc512be85fe43ba80beef2d8a4c"]
+    ["641ad191b7d542113ac1f47ec3e53761"] = 
+    {
+        ["id"] = 6058,
+        ["lastJoin"] = 1628285269,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 2251.726,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 2,
+                        ["Fighters"] = 2,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                    ["Zuni-127"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 32,
+                        ["hit"] = 0,
+                    }, -- end of ["Zuni-127"]
+                    ["AIM-9M"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9M"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1350.993,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 3,
+                        ["eject"] = 2,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "JamesW0706",
+        }, -- end of ["names"]
+    }, -- end of ["641ad191b7d542113ac1f47ec3e53761"]
+    ["b0e51773dee1dc020684272cb16f03eb"] = 
+    {
+        ["id"] = 6095,
+        ["lastJoin"] = 1628276909,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["AGM-65K"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65K"]
+                }, -- end of ["weapons"]
+                ["total"] = 2452.599,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 1641.852,
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "OB1",
+        }, -- end of ["names"]
+    }, -- end of ["b0e51773dee1dc020684272cb16f03eb"]
+    ["cc5f659497e463acf3243fd2960bd301"] = 
+    {
+        ["id"] = 8,
+        ["lastJoin"] = 1628267120,
+        ["times"] = 
+        {
+            ["Su-25T"] = 
+            {
+                ["total"] = 1471.109,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 2,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["Kh-25MP"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["Kh-25MP"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 740.557,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 0,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["Su-25T"]
+            ["AV8BNA"] = 
+            {
+                ["weapons"] = 
+                {
+                    ["Mk-20 Rockeye"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-20 Rockeye"]
+                }, -- end of ["weapons"]
+                ["total"] = 800.632,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 520.423,
+            }, -- end of ["AV8BNA"]
+            ["JF-17"] = 
+            {
+                ["total"] = 2391.656,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["BRM-1_90MM"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["BRM-1_90MM"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 990.736,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["JF-17"]
+            ["F-16C_50"] = 
+            {
+                ["total"] = 480.442,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 2,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["inAir"] = 30.026,
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "sus",
+            [2] = "vulcan",
+            [3] = "kebab remover",
+        }, -- end of ["names"]
+    }, -- end of ["cc5f659497e463acf3243fd2960bd301"]
+    ["ad4b6ae5dfe03aea947c5aae739148be"] = 
+    {
+        ["id"] = 1369,
+        ["lastJoin"] = 1628284879,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "john__guitar",
+            [2] = "RED-1",
+            [4] = "<PEGASUS GR> john_guitar",
+            [3] = "john_guitar",
+        }, -- end of ["names"]
+    }, -- end of ["ad4b6ae5dfe03aea947c5aae739148be"]
+    ["967866674ef215d9211fca8cec9ec746"] = 
+    {
+        ["id"] = 318,
+        ["lastJoin"] = 1628274344,
+        ["times"] = 
+        {
+            ["JF-17"] = 
+            {
+                ["total"] = 1230.878,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 2,
+                        ["SAM"] = 1,
+                        ["IFVs"] = 3,
+                        ["APCs"] = 2,
+                        ["total"] = 8,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 1,
+                        ["Fighters"] = 1,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["BRM-1_90MM"] = 
+                    {
+                        ["numHits"] = 8,
+                        ["kills"] = 8,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["BRM-1_90MM"]
+                    ["GBU-16"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["GBU-16"]
+                    ["SD-10"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["SD-10"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 900.635,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 9,
+                }, -- end of ["pvp"]
+            }, -- end of ["JF-17"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Rootbeer",
+        }, -- end of ["names"]
+    }, -- end of ["967866674ef215d9211fca8cec9ec746"]
+    ["dfc01b3d6ea67fb18c7cc80fc8bdbbc7"] = 
+    {
+        ["id"] = 3688,
+        ["lastJoin"] = 1628276251,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "TobiasA",
+            [2] = "Serpent 1-1 | TobiasA",
+            [3] = "David-2-9 | TobiasA",
+        }, -- end of ["names"]
+    }, -- end of ["dfc01b3d6ea67fb18c7cc80fc8bdbbc7"]
+    ["a951d57a51fc40ea6840e23dbafaccd0"] = 
+    {
+        ["id"] = 4905,
+        ["lastJoin"] = 1628280029,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["total"] = 1681.424,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["IFVs"] = 1,
+                        ["total"] = 6,
+                        ["SAM"] = 3,
+                        ["Infantry"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 36,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["M-61"]
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 6,
+                        ["kills"] = 6,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1371.137,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 6,
+                }, -- end of ["pvp"]
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Uncle Hernando",
+        }, -- end of ["names"]
+    }, -- end of ["a951d57a51fc40ea6840e23dbafaccd0"]
+    ["4a8a6df189c3f51fde134fd9ea093e18"] = 
+    {
+        ["id"] = 5113,
+        ["lastJoin"] = 1628267022,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Cipher",
+        }, -- end of ["names"]
+    }, -- end of ["4a8a6df189c3f51fde134fd9ea093e18"]
+    ["e84c8815b7488b5f02d8fca801849c47"] = 
+    {
+        ["id"] = 5266,
+        ["lastJoin"] = 1628272989,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 4793.426,
+                ["kills"] = 
+                {
+                    ["Planes"] = 
+                    {
+                        ["total"] = 5,
+                        ["Fighters"] = 5,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AIM-54A-Mk60"] = 
+                    {
+                        ["numHits"] = 5,
+                        ["kills"] = 5,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-54A-Mk60"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3612.63,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 5,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "QIKIE",
+            [2] = "CANDICE | 6-9",
+            [4] = "Ligma 6 - 9 | NutZ",
+            [3] = "Ligma | 6 - 9",
+        }, -- end of ["names"]
+    }, -- end of ["e84c8815b7488b5f02d8fca801849c47"]
+    ["41ab98f669aace5ef19c6ab06dd98c66"] = 
+    {
+        ["id"] = 5667,
+        ["lastJoin"] = 1628279930,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "VirtualTara",
+        }, -- end of ["names"]
+    }, -- end of ["41ab98f669aace5ef19c6ab06dd98c66"]
+    ["72545a4911a7eb366fc12af25b9b3fa9"] = 
+    {
+        ["id"] = 854,
+        ["lastJoin"] = 1628278580,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 3434.394,
+                ["weapons"] = 
+                {
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 4,
+                        ["kills"] = 1,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                    ["AGM-154A"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-154A"]
+                    ["M-61"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 417,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["M-61"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["IFVs"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["inAir"] = 2483.307,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 2,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "ingo",
+        }, -- end of ["names"]
+    }, -- end of ["72545a4911a7eb366fc12af25b9b3fa9"]
+    ["5e1f91077f1fc658f7b329f8b7ed8591"] = 
+    {
+        ["id"] = 6102,
+        ["lastJoin"] = 1628281777,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["inAir"] = 980.766,
+                ["total"] = 1371.134,
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Blackclaw",
+        }, -- end of ["names"]
+    }, -- end of ["5e1f91077f1fc658f7b329f8b7ed8591"]
+    ["efb057a43be24b091aa7ec94fca600c4"] = 
+    {
+        ["id"] = 6092,
+        ["lastJoin"] = 1628282674,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 30.021999999999,
+            }, -- end of ["F-14B"]
+            ["JF-17"] = 
+            {
+                ["total"] = 9509.76,
+                ["weapons"] = 
+                {
+                    ["C-802AK"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["C-802AK"]
+                    ["C-701IR"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 1,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["C-701IR"]
+                    ["LD-10"] = 
+                    {
+                        ["numHits"] = 8,
+                        ["kills"] = 0,
+                        ["shot"] = 8,
+                        ["hit"] = 0,
+                    }, -- end of ["LD-10"]
+                    ["GSh-2-23"] = 
+                    {
+                        ["kills"] = 0,
+                        ["shot"] = 152,
+                        ["hit"] = 0,
+                        ["gun"] = true,
+                        ["numHits"] = 0,
+                    }, -- end of ["GSh-2-23"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["inAir"] = 5855.656,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["JF-17"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "RafaleC_77th",
+        }, -- end of ["names"]
+    }, -- end of ["efb057a43be24b091aa7ec94fca600c4"]
+    ["4f91f4c10814ef94acf402e25c15e302"] = 
+    {
+        ["id"] = 6003,
+        ["lastJoin"] = 1628273360,
+        ["times"] = 
+        {
+            ["FA-18C_hornet"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 20.008,
+            }, -- end of ["FA-18C_hornet"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "老七（櫆）",
+            [2] = "Hammer 1-1 | 老七",
+        }, -- end of ["names"]
+    }, -- end of ["4f91f4c10814ef94acf402e25c15e302"]
+    ["36822add4ed4d446acb1ca04e5e1e34a"] = 
+    {
+        ["id"] = 2098,
+        ["lastJoin"] = 1628283246,
+        ["times"] = 
+        {
+            ["F-14B"] = 
+            {
+                ["total"] = 1451.458,
+                ["weapons"] = 
+                {
+                    ["Zuni-127"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 0,
+                        ["shot"] = 23,
+                        ["hit"] = 0,
+                    }, -- end of ["Zuni-127"]
+                    ["Mk-82 Snakeye"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 18,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82 Snakeye"]
+                    ["M-61A1"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 202,
+                        ["hit"] = 0,
+                    }, -- end of ["M-61A1"]
+                }, -- end of ["weapons"]
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["inAir"] = 880.871,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 2,
+                        ["eject"] = 1,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-14B"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "RAIDER",
+            [2] = "CORMAC | ogaruu",
+            [3] = "CORMAC",
+            [4] = "cormac144",
+            [5] = "ebelin",
+        }, -- end of ["names"]
+    }, -- end of ["36822add4ed4d446acb1ca04e5e1e34a"]
+    ["a391a7cb941a9e4f7932d21ccdc936e7"] = 
+    {
+        ["id"] = 3318,
+        ["lastJoin"] = 1628267548,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["total"] = 3022.334,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 3,
+                        ["SAM"] = 3,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 6,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2451.917,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 3,
+                }, -- end of ["pvp"]
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Caotes",
+            [2] = "=36=Caotes(R)",
+        }, -- end of ["names"]
+    }, -- end of ["a391a7cb941a9e4f7932d21ccdc936e7"]
+    ["27d1cf2c98ed8f425662a2fe91566769"] = 
+    {
+        ["id"] = 1697,
+        ["lastJoin"] = 1628268134,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 4663.474,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["AAA"] = 1,
+                        ["total"] = 11,
+                        ["IFVs"] = 2,
+                        ["APCs"] = 1,
+                        ["SAM"] = 7,
+                    }, -- end of ["Ground Units"]
+                    ["Planes"] = 
+                    {
+                        ["total"] = 3,
+                        ["Fighters"] = 3,
+                    }, -- end of ["Planes"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-65D"] = 
+                    {
+                        ["numHits"] = 8,
+                        ["kills"] = 8,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65D"]
+                    ["AIM-120C-5"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-120C-5"]
+                    ["AIM-9X"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9X"]
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 3,
+                        ["kills"] = 3,
+                        ["shot"] = 5,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3542.59,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 14,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "-=Showtime=-",
+        }, -- end of ["names"]
+    }, -- end of ["27d1cf2c98ed8f425662a2fe91566769"]
+    ["748eb14d90a691beca8478ae3008ebc6"] = 
+    {
+        ["id"] = 6093,
+        ["lastJoin"] = 1628277905,
+        ["times"] = 
+        {
+            ["AV8BNA"] = 
+            {
+                ["total"] = 4624.416,
+                ["weapons"] = 
+                {
+                    ["AIM-9M"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["AIM-9M"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 1,
+                        ["kills"] = 1,
+                        ["shot"] = 1,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                    ["AGM-65F"] = 
+                    {
+                        ["numHits"] = 15,
+                        ["kills"] = 11,
+                        ["shot"] = 12,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-65F"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 2482.38,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["Arty/MLRS"] = 1,
+                        ["Infantry"] = 1,
+                        ["IFVs"] = 2,
+                        ["SAM"] = 6,
+                        ["AAA"] = 2,
+                        ["total"] = 12,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 12,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "Aroe_77th",
+        }, -- end of ["names"]
+    }, -- end of ["748eb14d90a691beca8478ae3008ebc6"]
+    ["8fc452671f121bd0657f6f63fa78a97d"] = 
+    {
+        ["id"] = 2489,
+        ["lastJoin"] = 1628284036,
+        ["times"] = 
+        {
+            ["A-10C_2"] = 
+            {
+                ["inAir"] = 0,
+                ["total"] = 331.162,
+            }, -- end of ["A-10C_2"]
+            ["AV8BNA"] = 
+            {
+                ["total"] = 2912.818,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 1,
+                        ["SAM"] = 1,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["Mk-82"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["Mk-82"]
+                    ["AGM-122"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 1,
+                        ["shot"] = 3,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-122"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1811.685,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 0,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 1,
+                }, -- end of ["pvp"]
+            }, -- end of ["AV8BNA"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [13] = "|D| 1-1 | ToKeN*",
+            [7] = "ok",
+            [1] = "[FB] ToKeN",
+            [2] = "The One",
+            [4] = "[FB] ToKeN*",
+            [8] = "[NWO] ToKeN*",
+            [9] = "-NWO- ToKeN*",
+            [5] = "|NB| ToKeN*",
+            [10] = "ToKeN*",
+            [14] = "|D| ToKeN*",
+            [3] = "K dawg",
+            [6] = "Snake",
+            [12] = "DIAMOND 1-1 | ToKeN*",
+            [11] = "STRIKER 1-1 ToKeN*",
+        }, -- end of ["names"]
+    }, -- end of ["8fc452671f121bd0657f6f63fa78a97d"]
+    ["af0b922de9d32ee40c8b8350f4e650d8"] = 
+    {
+        ["id"] = 5979,
+        ["lastJoin"] = 1628270578,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "The Cat Fish",
+            [2] = "Ignis 1-1 | CatFish",
+            [3] = "Corsair 1-1 | CatFish",
+        }, -- end of ["names"]
+    }, -- end of ["af0b922de9d32ee40c8b8350f4e650d8"]
+    ["ca18a8da6f71e3a74cfb9938a127671e"] = 
+    {
+        ["id"] = 6089,
+        ["lastJoin"] = 1628274199,
+        ["times"] = 
+        {
+            ["F-16C_50"] = 
+            {
+                ["total"] = 4413.193,
+                ["kills"] = 
+                {
+                    ["Ground Units"] = 
+                    {
+                        ["total"] = 2,
+                        ["SAM"] = 2,
+                    }, -- end of ["Ground Units"]
+                }, -- end of ["kills"]
+                ["weapons"] = 
+                {
+                    ["AGM-88C"] = 
+                    {
+                        ["numHits"] = 2,
+                        ["kills"] = 2,
+                        ["shot"] = 4,
+                        ["hit"] = 0,
+                    }, -- end of ["AGM-88C"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 3202.287,
+                ["actions"] = 
+                {
+                    ["losses"] = 
+                    {
+                        ["pilotDeath"] = 1,
+                        ["crash"] = 1,
+                        ["eject"] = 0,
+                    }, -- end of ["losses"]
+                }, -- end of ["actions"]
+                ["pvp"] = 
+                {
+                    ["kills"] = 2,
+                }, -- end of ["pvp"]
+            }, -- end of ["F-16C_50"]
+            ["A-10C_2"] = 
+            {
+                ["total"] = 1551.042,
+                ["weapons"] = 
+                {
+                    ["CBU-97/CBU-105 SFW"] = 
+                    {
+                        ["numHits"] = 0,
+                        ["kills"] = 0,
+                        ["shot"] = 2,
+                        ["hit"] = 0,
+                    }, -- end of ["CBU-97/CBU-105 SFW"]
+                }, -- end of ["weapons"]
+                ["inAir"] = 1010.665,
+            }, -- end of ["A-10C_2"]
+        }, -- end of ["times"]
+        ["names"] = 
+        {
+            [1] = "xaile",
+        }, -- end of ["names"]
+    }, -- end of ["ca18a8da6f71e3a74cfb9938a127671e"]
+} -- end of misStats
+

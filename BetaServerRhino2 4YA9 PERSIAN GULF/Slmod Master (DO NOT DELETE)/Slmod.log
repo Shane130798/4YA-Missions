@@ -1,0 +1,30 @@
+Slmod started at Jun 25, 2020, 19:39:50
+9.472  SLMOD WARNING: no config file detected.
+9.489  SLMOD INFO: using default config settings.
+9.498  SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
+9.499  SLMOD INFO: SlmodConfig.lua loaded.
+9.505  SLMOD INFO: SlmodUtils.lua loaded.
+9.509  SLMOD INFO: SlmodEvents.lua loaded.
+9.514  SLMOD INFO: SlmodUnits.lua loaded.
+9.518  SLMOD INFO: SlmodMenu.lua loaded.
+9.521  SLMOD INFO: SlmodConvMenu.lua loaded.
+9.525  SLMOD INFO: SlmodPTSMenu.lua loaded.
+9.54  SLMOD INFO: SlmodPOSMenu.lua loaded.
+9.548  SLMOD INFO: SlmodAdminMenu.lua loaded
+9.554  SLMOD INFO: no stats , loading from file: C:\Users\jayir\Saved Games\4.Rhino\Slmod\\SlmodStats.lua
+9.554  SLMOD WARNING: Unable to open SlmodStats.lua , will make a new SlmodStats.lua file.
+9.554  SLMOD INFO: no penStats , loading from file: C:\Users\jayir\Saved Games\4.Rhino\Slmod\\SlmodPenaltyStats.lua
+9.554  SLMOD WARNING: Unable to open SlmodPenaltyStats.lua , will make a new SlmodPenaltyStats.lua file.
+9.555  SLMOD INFO: SlmodStats.lua loaded.
+9.559  SLMOD INFO: no metaStats , loading from file: C:\Users\jayir\Saved Games\4.Rhino\Slmod\\SlmodMetaStats.lua
+9.559  SLMOD WARNING: Unable to open SlmodMetaStats.lua , will make a new SlmodMetaStats.lua file.
+9.559  SLMOD INFO: SlmodMetaStats.lua loaded.
+9.564  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+9.567  SLMOD INFO: SlmodPingCheck.lua loaded.
+9.571  SLMOD INFO: SlmodVote.lua loaded.
+9.577  SLMOD INFO: SlmodLibs.lua loaded.
+9.58  SLMOD INFO: SlmodDebugger.lua loaded.
+9.583  SLMOD INFO: SlmodMOTD.lua loaded.
+9.586  SLMOD INFO: SlmodHelp.lua loaded.
+9.59  SLMOD INFO: SlmodCallbacks.lua loaded
+9.594  SLMOD INFO: SlmodTests.lua loaded.
