@@ -175,7 +175,7 @@ function dcsprotect.eventHandler:onEvent(_event)
 
             -- warning
             local _groupId = dcsprotect.getGroupId(_unit)
-            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING PERSIAN GULF PVE : Short Mission Briefing\n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\Available: SRS, CTLD, Combined arms & Roadbases\n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\SRS main channel 305AM. Join us on discord! Read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
+            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING MARIANAS PVE : Short Mission Briefing\n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\Available: SRS, CTLD, Combined arms & Roadbases\n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\SRS main channel 305AM. Join us on discord! Read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
 
         end
 
