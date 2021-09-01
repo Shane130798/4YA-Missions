@@ -175,7 +175,7 @@ function dcsprotect.eventHandler:onEvent(_event)
 
             -- warning
             local _groupId = dcsprotect.getGroupId(_unit)
-            trigger.action.outTextForGroup(_groupId, "[4YA] Caucasus Full War: Short Mission Briefing** \n\ \n\Blue team attacks, Red team defends \n\All airports that needs to be captured/defended have markers on the F10 map (list in briefing). \n\If the airport has no friendly ground units visible on the F10 map, then it is hostile. \n\ \n\SRS main channel:305AM. Check the briefing for more info!\n\Banned weapons:" .. _list, 15, true)
+            trigger.action.outTextForGroup(_groupId, "[4YA] Caucasus Full War: Short Mission Briefing** \n\ \n\All airports that needs to be captured/defended have markers on the F10 map (list in briefing). \n\If the airport has no friendly ground units visible on the F10 map, then it is hostile. \n\ \n\SRS main channel:305AM. Check the briefing for more info!\n\Banned weapons:" .. _list, 15, true)
 
         end
 
