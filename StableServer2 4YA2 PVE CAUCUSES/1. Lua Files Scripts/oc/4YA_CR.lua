@@ -1413,7 +1413,7 @@ function csar.checkCloseWoundedGroup(_distance, _heliUnit, _heliName, _woundedGr
                     --check height!
                     local _height = _heliUnit:getPoint().y - _woundedLeader:getPoint().y
 
-                    if _height <= 20.0 then
+                    if _height <= 36.0 then
 
                         local _time = csar.hoverStatus[_lookupKeyHeli]
 
