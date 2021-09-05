@@ -4647,7 +4647,7 @@ function ctld.inLogisticsZone(_heli)
 
     for _, _name in pairs(ctld.logisticUnits) do
 
-        local _logistic = StaticObject.getByName(_name)
+        local _logistic = StaticObject.getByName(_name) or Unit.getByName(_name)
 
         if _logistic ~= nil and _logistic:getCoalition() == _heli:getCoalition() then
 
@@ -4677,7 +4677,7 @@ function ctld.farEnoughFromLogisticZone(_heli)
 
     for _, _name in pairs(ctld.logisticUnits) do
 
-        local _logistic = StaticObject.getByName(_name)
+        local _logistic = StaticObject.getByName(_name) or Unit.getByName(_name)
 
         if _logistic ~= nil and _logistic:getCoalition() == _heli:getCoalition() then
 
