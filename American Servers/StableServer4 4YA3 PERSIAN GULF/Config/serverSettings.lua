@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) \
+    ["description"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -52,7 +52,7 @@ CarrierOps ",
     {
         [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v22A.miz",
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 Persian Gulf (CAPTURE BASES)",
+    ["name"] = "[4YA] TRAINING 24/7 Persian Gulf (CAPTURE BASES) US SERVER",
     ["listShuffle"] = false,
     ["listLoop"] = true,
     ["require_pure_clients"] = false,

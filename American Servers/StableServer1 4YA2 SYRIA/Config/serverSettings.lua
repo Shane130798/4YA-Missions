@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 2,
-    ["description"] = "[4YA] TRAINING 24/7 - Syria PVE (CAPTURE BASES) \
+    ["description"] = "[4YA] TRAINING 24/7 - Syria PVE (CAPTURE BASES) US SERVER \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -56,7 +56,7 @@ CarrierOps ",
 		[4] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v27B.miz",
 		[5] = "C:\\Users\\Administrator\\Saved Games\\StableServer1\\Missions\\4YA_Syria_Capture_Bases_BLUE_v28A.miz",
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 Syria PVE (CAPTURE BASES)",
+    ["name"] = "[4YA] TRAINING 24/7 Syria PVE (CAPTURE BASES) US SERVER",
     ["listShuffle"] = false,
     ["listLoop"] = true,
     ["require_pure_clients"] = false,

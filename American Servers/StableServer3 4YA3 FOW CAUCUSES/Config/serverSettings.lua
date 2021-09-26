@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 - PVP FOW Stable \
+    ["description"] = "[4YA] TRAINING 24/7 - PVP FOW Stable US SERVER \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -54,7 +54,7 @@ CarrierOps ",
 	[2] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Full_War_V35C.miz",
 
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 PVP FOW Stable",
+    ["name"] = "[4YA] TRAINING 24/7 PVP FOW Stable US SERVER",
     ["listShuffle"] = false,
     ["listLoop"] = true,
     ["require_pure_clients"] = false,

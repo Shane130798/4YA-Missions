@@ -35,7 +35,7 @@ cfg = {
 		[3] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V46_NOV_SCT.miz',
 	},
 	['mode'] = 0,
-	['name'] = '[4YA] TRAINING 24/7 - FOW PVP BETA (CAPTURE BASES)',
+	['name'] = '[4YA] TRAINING 24/7 - FOW PVP BETA (CAPTURE BASES) US SERVER',
 	['password'] = '',
 	['port'] = 10309,
 	['require_pure_clients'] = true,

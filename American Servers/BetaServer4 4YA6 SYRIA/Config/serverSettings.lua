@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 2,
-    ["description"] = "[4YA] TRAINING 24/7 - Syria PVE BETA (CAPTURE BASES) \
+    ["description"] = "[4YA] TRAINING 24/7 - Syria PVE BETA (CAPTURE BASES) US SERVER \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -51,7 +51,7 @@ CarrierOps ",
     ["listShuffle"] = true,
     ["password"] = "",
     ["listLoop"] = true,
-    ["name"] = "[4YA] TRAINING 24/7 Syria PVE BETA (CAPTURE BASES)",
+    ["name"] = "[4YA] TRAINING 24/7 Syria PVE BETA (CAPTURE BASES) US SERVER",
     ["uri"] = "startServer",
     ["missionList"] = 
     {
