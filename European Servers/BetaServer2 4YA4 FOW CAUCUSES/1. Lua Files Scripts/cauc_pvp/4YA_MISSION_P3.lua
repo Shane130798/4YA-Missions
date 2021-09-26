@@ -1,3 +1,24 @@
+USAF_MAGIC = SPAWN:New("E3_GUDAUTA")
+  :InitLimit(1, 3)
+  :InitRepeatOnLanding()
+  :SpawnScheduled(900, 1)
+
+USAF_WIZARD = SPAWN:New("E3_SENAKI")
+  :InitLimit(1, 3)
+  :InitRepeatOnLanding()
+  :SpawnScheduled(900, 1)
+
+BLUE_WIZARD = SPAWN:New("E3_ANAPA")
+  :InitLimit(1, 3)
+  :InitRepeatOnLanding()
+  :SpawnScheduled(900, 1)
+
+BLUE_MAGIC = SPAWN:New("E3_MAYKOP")
+  :InitLimit(1, 3)
+  :InitRepeatOnLanding()
+  :SpawnScheduled(900, 1)
+
+
 USAF_1 = SPAWN:New( "USAF_1" )
 :InitRandomizePosition(true,10,50)
   :InitLimit( 1, 500 )
