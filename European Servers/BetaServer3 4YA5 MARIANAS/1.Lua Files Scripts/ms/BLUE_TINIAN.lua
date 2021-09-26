@@ -1,0 +1,1 @@
+BLUE_TINIAN = SPAWN:New( "TINIAN_BLUE" ) :InitRepeat():Spawn()

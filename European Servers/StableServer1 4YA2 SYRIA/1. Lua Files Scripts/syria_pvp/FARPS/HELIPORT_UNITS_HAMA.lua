@@ -1,0 +1,1 @@
+HELIPORT_UNITS_HAMA = SPAWN:New( "HELIPORT_UNITS_HAMA" ) :InitRepeat():Spawn()

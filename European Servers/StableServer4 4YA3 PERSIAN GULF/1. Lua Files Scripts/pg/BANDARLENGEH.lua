@@ -1,0 +1,1 @@
+BLUE_BANDAR_LENGEH = SPAWN:New( "BLUE_BANDAR_LENGEH" ) :InitRepeat():Spawn()

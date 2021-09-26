@@ -1,0 +1,1 @@
+BLUE_FARP = SPAWN:New( "BLUE_FARP" ) :InitRepeat():Spawn()

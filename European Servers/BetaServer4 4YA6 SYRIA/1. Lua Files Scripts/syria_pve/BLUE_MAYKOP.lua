@@ -1,0 +1,1 @@
+BLUE_MAYKOP = SPAWN:New( "BLUE_MAYKOP" ) :InitRepeat():Spawn()

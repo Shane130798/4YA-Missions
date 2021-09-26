@@ -1,0 +1,1 @@
+BLUE_HAMA = SPAWN:New( "BLUE_HAMA" ) :InitRepeat():Spawn()

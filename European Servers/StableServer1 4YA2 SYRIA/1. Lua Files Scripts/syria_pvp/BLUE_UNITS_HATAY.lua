@@ -1,0 +1,1 @@
+BLUE_HATAY = SPAWN:New( "BLUE_HATAY" ) :InitRepeat():Spawn()

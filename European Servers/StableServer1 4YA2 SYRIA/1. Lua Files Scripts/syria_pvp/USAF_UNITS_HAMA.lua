@@ -1,0 +1,1 @@
+USAF_HAMA = SPAWN:New( "USAF_HAMA" ) :InitRepeat():Spawn()

@@ -1,0 +1,1 @@
+BLUE_SENAKI = SPAWN:New( "BLUE_SENAKI" ) :InitRepeat():Spawn()

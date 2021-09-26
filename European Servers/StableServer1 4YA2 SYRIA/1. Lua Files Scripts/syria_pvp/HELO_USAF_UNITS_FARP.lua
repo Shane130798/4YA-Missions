@@ -1,0 +1,1 @@
+USAF_FARP = SPAWN:New( "USAF_FARP" ) :InitRepeat():Spawn()

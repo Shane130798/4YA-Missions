@@ -1,4 +1,0 @@
-CHAT: Jul 22 22:31:01 {name  = "GreyCat_SPb", ucid = "2534dbad9f36ddab28e2979a4fd98cf2", ip = "93.185.28.106:42017", id = 4} said "I have problem longtitude on steer on F-16" to all
-CHAT: Jul 22 23:08:50 {name  = "GreyCat_SPb", ucid = "2534dbad9f36ddab28e2979a4fd98cf2", ip = "93.185.28.106:42111", id = 3} said "stat name GreyCat_SPb" to all
-CHAT: Jul 22 23:09:04 {name  = "GreyCat_SPb", ucid = "2534dbad9f36ddab28e2979a4fd98cf2", ip = "93.185.28.106:42111", id = 3} said "-stat name GreyCat_SPb" to all
-CHAT: Jul 22 23:09:17 {name  = "GreyCat_SPb", ucid = "2534dbad9f36ddab28e2979a4fd98cf2", ip = "93.185.28.106:42111", id = 3} said "-stats name GreyCat_SPb" to all (output suppressed by Slmod)
