@@ -1,0 +1,1 @@
+BLUE_SIRRI_ISLAND = SPAWN:New( "BLUE_SIRRI_ISLAND" ) :InitRepeat():Spawn()
