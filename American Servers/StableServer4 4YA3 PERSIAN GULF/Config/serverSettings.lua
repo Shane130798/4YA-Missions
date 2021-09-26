@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER \
+    ["description"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER\
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -38,23 +38,25 @@ CarrierOps ",
         ["event_Ejecting"] = false,
         ["event_Kill"] = true,
         ["event_Crash"] = false,
+        ["allow_trial_only_clients"] = false,
         ["resume_mode"] = 2,
-        ["maxPing"] = 0,
         ["event_Role"] = false,
+        ["maxPing"] = 0,
     }, -- end of ["advanced"]
     ["port"] = 10315,
     ["mode"] = 0,
     ["bind_address"] = "",
     ["isPublic"] = true,
-    ["uri"] = "startServer",
-    ["password"] = "",
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v22A.miz",
+        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v25S.miz",
+        [2] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v25B.miz",
     }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 Persian Gulf (CAPTURE BASES) US SERVER",
+    ["password"] = "",
     ["listShuffle"] = false,
+    ["name"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER",
     ["listLoop"] = true,
+    ["uri"] = "startServer",
     ["require_pure_clients"] = false,
     ["require_pure_models"] = false,
     ["maxPlayers"] = "40",

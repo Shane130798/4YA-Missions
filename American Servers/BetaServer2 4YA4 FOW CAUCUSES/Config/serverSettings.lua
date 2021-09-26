@@ -28,11 +28,12 @@ cfg = {
 	['isPublic'] = true,
 	['listLoop'] = true,
 	['listShuffle'] = false,
+	['listStartIndex'] = 4,
 	['maxPlayers'] = '40',
 	['missionList'] = {
-		[1] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V46_JAN_OVC.miz',
-		[2] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V46_JUN_BKN.miz',
-		[3] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V46_NOV_SCT.miz',
+		[1] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V50_JAN_OVC.miz',
+		[2] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V50_JUN_BKN.miz',
+		[3] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V50_NOV_SCT.miz',
 	},
 	['mode'] = 0,
 	['name'] = '[4YA] TRAINING 24/7 - FOW PVP BETA (CAPTURE BASES) US SERVER',
@@ -41,5 +42,5 @@ cfg = {
 	['require_pure_clients'] = true,
 	['require_pure_models'] = true,
 	['require_pure_textures'] = true,
-	['uri'] = 'setServerSettings',
+	['uri'] = 'startServer',
 }
