@@ -50,7 +50,7 @@ if slmod.config.MOTD_enabled then
 				if config and config.server and config.server.name then
 					serverName = config.server.name
 				else
-					serverName = '""Join us on Discord https://discord.gg/CaYRRDd    **SRS** 51.195.176.192:5006""'
+					serverName = '""Join us on Discord https://discord.gg/CaYRRDd    **SRS** 104.243.33.190:5008""'
 				end
 				titleTbl[#titleTbl + 1] = 'Welcome to [4YA] TRAINING 24/7"'
 				titleTbl[#titleTbl + 1] = serverName
