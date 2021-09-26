@@ -9,4 +9,5 @@
 -- Expand the functionality of following functions for your external application needs.
 -- Look into Saved Games\DCS\Logs\dcs.log for this script errors, please.
 
+
 local Tacviewlfs=require('lfs');dofile(Tacviewlfs.writedir()..'Scripts/TacviewGameExport.lua')

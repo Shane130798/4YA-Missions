@@ -1,9 +1,16 @@
 stats = 
 {
+    ["host"] = 
+    {
+        ["id"] = 1,
+        ["times"] = 
+        {
+        }, -- end of ["times"]
+        ["joinDate"] = 1593110390,
+        ["names"] = 
+        {
+            [1] = "host",
+        }, -- end of ["names"]
+    }, -- end of ["host"]
 } -- end of stats
 
-stats["host"] = { }
-stats["host"]["names"] = { [1] = "host", }
-stats["host"]["id"] = 1
-stats["host"]["joinDate"] = 1593110390
-stats["host"]["times"] = { }

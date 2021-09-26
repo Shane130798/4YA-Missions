@@ -1,0 +1,3219 @@
+events = 
+{
+	[1] = 
+	{
+		t	=	0,
+		type	=	"mission start",
+		ta	=	28800,
+	}, -- end of [1]
+	[2] = 
+	{
+		type	=	"base captured",
+		place	=	"Rota Intl",
+		t	=	5.05,
+		placeDisplayName	=	"Rota Intl",
+		initiatorMissionID	=	"847",
+	}, -- end of [2]
+	[3] = 
+	{
+		type	=	"base captured",
+		place	=	"Saipan Intl",
+		t	=	5.765,
+		placeDisplayName	=	"Saipan Intl",
+		initiatorMissionID	=	"831",
+	}, -- end of [3]
+	[4] = 
+	{
+		type	=	"base captured",
+		place	=	"Tinian Intl",
+		t	=	6.479,
+		placeDisplayName	=	"Tinian Intl",
+		initiatorMissionID	=	"840",
+	}, -- end of [4]
+	[5] = 
+	{
+		type	=	"base captured",
+		place	=	"Olf Orote",
+		t	=	7.908,
+		placeDisplayName	=	"Olf Orote",
+		initiatorMissionID	=	"46",
+	}, -- end of [5]
+	[6] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000001",
+	}, -- end of [6]
+	[7] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000002",
+	}, -- end of [7]
+	[8] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000004",
+	}, -- end of [8]
+	[9] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000005",
+	}, -- end of [9]
+	[10] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000007",
+	}, -- end of [10]
+	[11] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000008",
+	}, -- end of [11]
+	[12] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000010",
+	}, -- end of [12]
+	[13] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000011",
+	}, -- end of [13]
+	[14] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000013",
+	}, -- end of [14]
+	[15] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000015",
+	}, -- end of [15]
+	[16] = 
+	{
+		t	=	10.101,
+		type	=	"engine startup",
+		initiatorMissionID	=	"1000017",
+	}, -- end of [16]
+	[17] = 
+	{
+		type	=	"mission end",
+		t	=	36.47,
+	}, -- end of [17]
+} -- end of events
+callsign	=	"[TN] Rhino"
+triggers_state = 	{}
+result	=	0
+world_state = 
+{
+	[1] = 
+	{
+		y	=	-17176.75390625,
+		x	=	-5390.6796875,
+		unitId	=	49,
+		heading	=	-0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"FARP",
+	}, -- end of [1]
+	[2] = 
+	{
+		y	=	33620.03515625,
+		x	=	72393.6875,
+		heading	=	-2.5656340122223,
+		unitId	=	530,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_071",
+	}, -- end of [2]
+	[3] = 
+	{
+		alt	=	30.722658157349,
+		type	=	"Ka-50",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	-4965.359375,
+		speed	=	3.1508909614786e-06,
+		heading	=	-5.8681406974792,
+		y	=	-17623.76953125,
+		unitId	=	37,
+	}, -- end of [3]
+	[4] = 
+	{
+		y	=	33456.375,
+		x	=	71299.984375,
+		heading	=	-2.5656340122223,
+		unitId	=	729,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_071",
+	}, -- end of [4]
+	[5] = 
+	{
+		y	=	36928.83984375,
+		x	=	70033.890625,
+		heading	=	-2.5830872058868,
+		unitId	=	534,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Seawise_Giant",
+	}, -- end of [5]
+	[6] = 
+	{
+		y	=	37394.97265625,
+		x	=	70867.9296875,
+		heading	=	-2.6529004573822,
+		unitId	=	732,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Seawise_Giant",
+	}, -- end of [6]
+	[7] = 
+	{
+		y	=	38115.56640625,
+		x	=	70913.328125,
+		heading	=	-2.8099796772003,
+		unitId	=	536,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"IMPROVED_KILO",
+	}, -- end of [7]
+	[8] = 
+	{
+		y	=	39736.6640625,
+		x	=	70933.640625,
+		heading	=	-2.8099796772003,
+		unitId	=	730,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"IMPROVED_KILO",
+	}, -- end of [8]
+	[9] = 
+	{
+		y	=	40098.6328125,
+		x	=	70345.8828125,
+		heading	=	-2.8099796772003,
+		unitId	=	731,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"IMPROVED_KILO",
+	}, -- end of [9]
+	[10] = 
+	{
+		y	=	174419.84375,
+		x	=	194400.0625,
+		heading	=	-0.94786292314529,
+		unitId	=	643,
+		speed	=	12.777700424194,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"MOLNIYA",
+	}, -- end of [10]
+	[11] = 
+	{
+		y	=	174857.234375,
+		x	=	192727.46875,
+		heading	=	-0.94787579774857,
+		unitId	=	644,
+		speed	=	13.927928924561,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_052C",
+	}, -- end of [11]
+	[12] = 
+	{
+		y	=	176439.828125,
+		x	=	193106.421875,
+		heading	=	-0.94786816835403,
+		unitId	=	645,
+		speed	=	11.26645565033,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"KUZNECOW",
+	}, -- end of [12]
+	[13] = 
+	{
+		y	=	177102.921875,
+		x	=	191473.265625,
+		heading	=	-0.94787526130676,
+		unitId	=	646,
+		speed	=	13.928119659424,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_052B",
+	}, -- end of [13]
+	[14] = 
+	{
+		y	=	178891.109375,
+		x	=	191674.828125,
+		heading	=	-0.94787842035294,
+		unitId	=	647,
+		speed	=	13.927928924561,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_054A",
+	}, -- end of [14]
+	[15] = 
+	{
+		y	=	175352.140625,
+		x	=	191081.875,
+		heading	=	-0.94786614179611,
+		unitId	=	649,
+		speed	=	10.25363445282,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Type_071",
+	}, -- end of [15]
+	[16] = 
+	{
+		y	=	-16987.9921875,
+		x	=	-19204.591796875,
+		heading	=	-0.10224676132202,
+		unitId	=	725,
+		speed	=	13.888879776001,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [16]
+	[17] = 
+	{
+		y	=	-16854.0390625,
+		x	=	-19227.80078125,
+		heading	=	-0.10224309563637,
+		unitId	=	726,
+		speed	=	13.888870239258,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [17]
+	[18] = 
+	{
+		y	=	-17010.353515625,
+		x	=	-19254.93359375,
+		heading	=	-0.10226140171289,
+		unitId	=	727,
+		speed	=	13.918890953064,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [18]
+	[19] = 
+	{
+		y	=	-16923.09765625,
+		x	=	-19209.873046875,
+		heading	=	-0.10225334018469,
+		unitId	=	728,
+		speed	=	13.888887405396,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [19]
+	[20] = 
+	{
+		y	=	-15693.78515625,
+		x	=	-20018.263671875,
+		heading	=	-2.8342354297638,
+		unitId	=	862,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [20]
+	[21] = 
+	{
+		y	=	-15559.83203125,
+		x	=	-20041.474609375,
+		heading	=	-2.8342354297638,
+		unitId	=	863,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [21]
+	[22] = 
+	{
+		y	=	-15716.350585938,
+		x	=	-20066.615234375,
+		heading	=	-2.8342354297638,
+		unitId	=	864,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [22]
+	[23] = 
+	{
+		y	=	-15628.889648438,
+		x	=	-20023.546875,
+		heading	=	-2.8342354297638,
+		unitId	=	865,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"speedboat",
+	}, -- end of [23]
+	[24] = 
+	{
+		y	=	-15729.740234375,
+		x	=	-27774.767578125,
+		heading	=	-1.9868210554123,
+		unitId	=	996,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"IMPROVED_KILO",
+	}, -- end of [24]
+	[25] = 
+	{
+		y	=	6364.0424804688,
+		x	=	-97350.1640625,
+		heading	=	-5.6309542655945,
+		unitId	=	250,
+		speed	=	5.339985370636,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"KUZNECOW",
+	}, -- end of [25]
+	[26] = 
+	{
+		y	=	7851.77734375,
+		x	=	-98024.75,
+		heading	=	-5.6309494972229,
+		unitId	=	251,
+		speed	=	4.2571897506714,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"Stennis",
+	}, -- end of [26]
+	[27] = 
+	{
+		y	=	9194.9501953125,
+		x	=	-98608.328125,
+		heading	=	-5.6309490203857,
+		unitId	=	252,
+		speed	=	4.2929644584656,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"CVN_71",
+	}, -- end of [27]
+	[28] = 
+	{
+		y	=	10457.958984375,
+		x	=	-99149.6171875,
+		heading	=	-5.6309452056885,
+		unitId	=	253,
+		speed	=	4.2929644584656,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"LHA_Tarawa",
+	}, -- end of [28]
+	[29] = 
+	{
+		y	=	11688.4921875,
+		x	=	-99701.359375,
+		heading	=	-5.6309561729431,
+		unitId	=	254,
+		speed	=	5.3584642410278,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"PIOTR",
+	}, -- end of [29]
+	[30] = 
+	{
+		y	=	5130.2768554688,
+		x	=	-96642.75,
+		heading	=	-5.6309490203857,
+		unitId	=	700,
+		speed	=	5.3399233818054,
+		coalition	=	"blue",
+		country	=	7,
+		type	=	"CV_1143_5",
+	}, -- end of [30]
+	[31] = 
+	{
+		y	=	52654.4140625,
+		x	=	76013.6640625,
+		heading	=	-3.43829870224,
+		unitId	=	339,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [31]
+	[32] = 
+	{
+		y	=	52642.71875,
+		x	=	76051.921875,
+		heading	=	-3.43829870224,
+		unitId	=	764,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [32]
+	[33] = 
+	{
+		y	=	52681.765625,
+		x	=	76019.84375,
+		heading	=	-3.43829870224,
+		unitId	=	765,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [33]
+	[34] = 
+	{
+		y	=	52669.390625,
+		x	=	76058.5703125,
+		heading	=	-3.43829870224,
+		unitId	=	766,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [34]
+	[35] = 
+	{
+		y	=	52631.53125,
+		x	=	76079.328125,
+		heading	=	-3.43829870224,
+		unitId	=	767,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Vulcan",
+	}, -- end of [35]
+	[36] = 
+	{
+		y	=	52659.4375,
+		x	=	76088.96875,
+		heading	=	-3.43829870224,
+		unitId	=	768,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Vulcan",
+	}, -- end of [36]
+	[37] = 
+	{
+		y	=	92622.53125,
+		x	=	175162.703125,
+		heading	=	-3.6379770723682e-12,
+		unitId	=	427,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [37]
+	[38] = 
+	{
+		y	=	92452.0859375,
+		x	=	175179.203125,
+		heading	=	0,
+		unitId	=	783,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [38]
+	[39] = 
+	{
+		y	=	92255.0625,
+		x	=	175186.53125,
+		heading	=	0,
+		unitId	=	784,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [39]
+	[40] = 
+	{
+		y	=	92770.984375,
+		x	=	175158.125,
+		heading	=	0,
+		unitId	=	785,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [40]
+	[41] = 
+	{
+		y	=	92995.5,
+		x	=	175145.296875,
+		heading	=	0,
+		unitId	=	786,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [41]
+	[42] = 
+	{
+		y	=	93233.7578125,
+		x	=	175136.125,
+		heading	=	0,
+		unitId	=	787,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [42]
+	[43] = 
+	{
+		y	=	92692.3203125,
+		x	=	175522.53125,
+		heading	=	0,
+		unitId	=	442,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [43]
+	[44] = 
+	{
+		y	=	93245.8828125,
+		x	=	175502.03125,
+		heading	=	0,
+		unitId	=	803,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [44]
+	[45] = 
+	{
+		y	=	93364.265625,
+		x	=	175490.796875,
+		heading	=	-6.2831854820251,
+		unitId	=	804,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [45]
+	[46] = 
+	{
+		y	=	92751.9609375,
+		x	=	175522.75,
+		heading	=	0,
+		unitId	=	805,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [46]
+	[47] = 
+	{
+		y	=	92932.3984375,
+		x	=	175509.96875,
+		heading	=	0,
+		unitId	=	806,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [47]
+	[48] = 
+	{
+		y	=	93130.140625,
+		x	=	175501.375,
+		heading	=	0,
+		unitId	=	807,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"leopard-2A4",
+	}, -- end of [48]
+	[49] = 
+	{
+		y	=	97876.3359375,
+		x	=	180308.3125,
+		heading	=	0,
+		unitId	=	474,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [49]
+	[50] = 
+	{
+		y	=	97897.34375,
+		x	=	180308.078125,
+		heading	=	0,
+		unitId	=	808,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [50]
+	[51] = 
+	{
+		y	=	97874.7265625,
+		x	=	180280.84375,
+		heading	=	0,
+		unitId	=	809,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [51]
+	[52] = 
+	{
+		y	=	97897.15625,
+		x	=	180281.234375,
+		heading	=	-6.2831854820251,
+		unitId	=	810,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [52]
+	[53] = 
+	{
+		y	=	102133.5234375,
+		x	=	191493.109375,
+		heading	=	-6.2831854820251,
+		unitId	=	481,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [53]
+	[54] = 
+	{
+		y	=	102248.6484375,
+		x	=	191302.09375,
+		heading	=	0,
+		unitId	=	819,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [54]
+	[55] = 
+	{
+		y	=	102069.4375,
+		x	=	191368.890625,
+		heading	=	0,
+		unitId	=	820,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [55]
+	[56] = 
+	{
+		y	=	102339.2265625,
+		x	=	191473.671875,
+		heading	=	0,
+		unitId	=	821,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [56]
+	[57] = 
+	{
+		y	=	102232.1171875,
+		x	=	191422.15625,
+		heading	=	0,
+		unitId	=	822,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [57]
+	[58] = 
+	{
+		y	=	102207.2265625,
+		x	=	191464.40625,
+		heading	=	-1.1638683072857e-10,
+		unitId	=	823,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Marder",
+	}, -- end of [58]
+	[59] = 
+	{
+		y	=	103860.2734375,
+		x	=	186056.078125,
+		heading	=	-5.7797422409058,
+		unitId	=	517,
+		speed	=	5.4015235900879,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [59]
+	[60] = 
+	{
+		y	=	103840.625,
+		x	=	186020.328125,
+		heading	=	-5.7811965942383,
+		unitId	=	684,
+		speed	=	4.983606338501,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [60]
+	[61] = 
+	{
+		y	=	103823.8671875,
+		x	=	185989.984375,
+		heading	=	-5.7645902633667,
+		unitId	=	685,
+		speed	=	4.7774920463562,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [61]
+	[62] = 
+	{
+		y	=	103804.171875,
+		x	=	185959.578125,
+		heading	=	-5.6256918907166,
+		unitId	=	686,
+		speed	=	4.6522498130798,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [62]
+	[63] = 
+	{
+		y	=	103780.734375,
+		x	=	185929.796875,
+		heading	=	-5.6290864944458,
+		unitId	=	687,
+		speed	=	4.5990424156189,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [63]
+	[64] = 
+	{
+		y	=	103757.4375,
+		x	=	185899.40625,
+		heading	=	-5.614812374115,
+		unitId	=	688,
+		speed	=	4.6697568893433,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [64]
+	[65] = 
+	{
+		y	=	103734.109375,
+		x	=	185870.359375,
+		heading	=	-5.6091938018799,
+		unitId	=	689,
+		speed	=	4.9300608634949,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [65]
+	[66] = 
+	{
+		y	=	103711.40625,
+		x	=	185844.1875,
+		heading	=	-5.5437388420105,
+		unitId	=	690,
+		speed	=	6.1021113395691,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M1045 HMMWV TOW",
+	}, -- end of [66]
+	[67] = 
+	{
+		y	=	92074.1484375,
+		x	=	175569.859375,
+		heading	=	0,
+		unitId	=	679,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [67]
+	[68] = 
+	{
+		y	=	92078.40625,
+		x	=	175319.0625,
+		heading	=	0,
+		unitId	=	788,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [68]
+	[69] = 
+	{
+		y	=	92131.421875,
+		x	=	175564.3125,
+		heading	=	-6.2831854820251,
+		unitId	=	789,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [69]
+	[70] = 
+	{
+		y	=	92323.1796875,
+		x	=	175535.375,
+		heading	=	-6.2831854820251,
+		unitId	=	790,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [70]
+	[71] = 
+	{
+		y	=	92204.0078125,
+		x	=	175534.890625,
+		heading	=	-6.2831854820251,
+		unitId	=	791,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [71]
+	[72] = 
+	{
+		y	=	91845.8125,
+		x	=	175547.390625,
+		heading	=	-6.2831854820251,
+		unitId	=	792,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [72]
+	[73] = 
+	{
+		y	=	92090.375,
+		x	=	175642.21875,
+		heading	=	-7.1054375219964e-15,
+		unitId	=	793,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [73]
+	[74] = 
+	{
+		y	=	92069.9609375,
+		x	=	175536.171875,
+		heading	=	0,
+		unitId	=	794,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [74]
+	[75] = 
+	{
+		y	=	92081.9765625,
+		x	=	175425.25,
+		heading	=	0,
+		unitId	=	795,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [75]
+	[76] = 
+	{
+		y	=	92203.796875,
+		x	=	175817.375,
+		heading	=	0,
+		unitId	=	796,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Gepard",
+	}, -- end of [76]
+	[77] = 
+	{
+		y	=	106522.2734375,
+		x	=	184941.515625,
+		heading	=	0,
+		unitId	=	691,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [77]
+	[78] = 
+	{
+		y	=	106596.5,
+		x	=	184872.234375,
+		heading	=	0,
+		unitId	=	811,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [78]
+	[79] = 
+	{
+		y	=	106629.078125,
+		x	=	184793.890625,
+		heading	=	-4.6666198683099e-10,
+		unitId	=	812,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [79]
+	[80] = 
+	{
+		y	=	106569.6953125,
+		x	=	184913.890625,
+		heading	=	0,
+		unitId	=	813,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [80]
+	[81] = 
+	{
+		y	=	106558.15625,
+		x	=	184847.5,
+		heading	=	0,
+		unitId	=	814,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [81]
+	[82] = 
+	{
+		y	=	106518.15625,
+		x	=	184844.203125,
+		heading	=	0,
+		unitId	=	815,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [82]
+	[83] = 
+	{
+		y	=	106585.3671875,
+		x	=	184806.265625,
+		heading	=	-6.2831854820251,
+		unitId	=	816,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [83]
+	[84] = 
+	{
+		y	=	106604.3359375,
+		x	=	184743.578125,
+		heading	=	0,
+		unitId	=	817,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [84]
+	[85] = 
+	{
+		y	=	106516.34375,
+		x	=	184914.296875,
+		heading	=	0,
+		unitId	=	818,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-2 Bradley",
+	}, -- end of [85]
+	[86] = 
+	{
+		y	=	37127.2890625,
+		x	=	71614.21875,
+		heading	=	-3.5138025283813,
+		unitId	=	733,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [86]
+	[87] = 
+	{
+		y	=	37132.7109375,
+		x	=	71516.34375,
+		heading	=	-3.5138025283813,
+		unitId	=	734,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [87]
+	[88] = 
+	{
+		y	=	37211.890625,
+		x	=	71539.4375,
+		heading	=	-3.5138025283813,
+		unitId	=	735,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [88]
+	[89] = 
+	{
+		y	=	37074.0703125,
+		x	=	71468,
+		heading	=	-3.5138025283813,
+		unitId	=	736,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [89]
+	[90] = 
+	{
+		y	=	37172.71875,
+		x	=	71428.765625,
+		heading	=	-3.5138025283813,
+		unitId	=	737,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [90]
+	[91] = 
+	{
+		y	=	37037.63671875,
+		x	=	71545.3203125,
+		heading	=	-3.5138025283813,
+		unitId	=	738,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Gepard",
+	}, -- end of [91]
+	[92] = 
+	{
+		y	=	36976.84765625,
+		x	=	71473.984375,
+		heading	=	-3.5138025283813,
+		unitId	=	739,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [92]
+	[93] = 
+	{
+		y	=	37078.984375,
+		x	=	71393.4140625,
+		heading	=	-3.5138025283813,
+		unitId	=	740,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Hummer",
+	}, -- end of [93]
+	[94] = 
+	{
+		y	=	36862.37109375,
+		x	=	71797.921875,
+		heading	=	-3.5138025283813,
+		unitId	=	741,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-1 Abrams",
+	}, -- end of [94]
+	[95] = 
+	{
+		y	=	36583.92578125,
+		x	=	71231.78125,
+		heading	=	-1.4835299253464,
+		unitId	=	742,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-1 Abrams",
+	}, -- end of [95]
+	[96] = 
+	{
+		y	=	36760.05859375,
+		x	=	71707.03125,
+		heading	=	-3.5138025283813,
+		unitId	=	743,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-1 Abrams",
+	}, -- end of [96]
+	[97] = 
+	{
+		y	=	36891.18359375,
+		x	=	71522.0703125,
+		heading	=	-2.2863812446594,
+		unitId	=	744,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"M-1 Abrams",
+	}, -- end of [97]
+	[98] = 
+	{
+		y	=	52193.39453125,
+		x	=	77809.5703125,
+		heading	=	-3.43829870224,
+		unitId	=	769,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [98]
+	[99] = 
+	{
+		y	=	52122.56640625,
+		x	=	77881.84375,
+		heading	=	-3.43829870224,
+		unitId	=	770,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [99]
+	[100] = 
+	{
+		y	=	52220.75,
+		x	=	77815.7421875,
+		heading	=	-3.43829870224,
+		unitId	=	771,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [100]
+	[101] = 
+	{
+		y	=	52208.375,
+		x	=	77854.4765625,
+		heading	=	-3.43829870224,
+		unitId	=	772,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"BMP-3",
+	}, -- end of [101]
+	[102] = 
+	{
+		y	=	52170.51171875,
+		x	=	77875.2265625,
+		heading	=	-3.43829870224,
+		unitId	=	773,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Vulcan",
+	}, -- end of [102]
+	[103] = 
+	{
+		y	=	52198.421875,
+		x	=	77884.8671875,
+		heading	=	-3.43829870224,
+		unitId	=	774,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Vulcan",
+	}, -- end of [103]
+	[104] = 
+	{
+		y	=	99383.515625,
+		x	=	180230.46875,
+		heading	=	-2.1642081737518,
+		unitId	=	797,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [104]
+	[105] = 
+	{
+		y	=	99398.9453125,
+		x	=	180187.46875,
+		heading	=	-2.408554315567,
+		unitId	=	798,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [105]
+	[106] = 
+	{
+		y	=	99422.5703125,
+		x	=	180125.578125,
+		heading	=	-2.3736476898193,
+		unitId	=	799,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [106]
+	[107] = 
+	{
+		y	=	99431.390625,
+		x	=	180260.546875,
+		heading	=	-2.5656342506409,
+		unitId	=	800,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [107]
+	[108] = 
+	{
+		y	=	99461.4765625,
+		x	=	180203.703125,
+		heading	=	-2.303834438324,
+		unitId	=	801,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [108]
+	[109] = 
+	{
+		y	=	99487.3046875,
+		x	=	180163.0625,
+		heading	=	-2.4260075092316,
+		unitId	=	802,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [109]
+	[110] = 
+	{
+		y	=	100716.421875,
+		x	=	179696.953125,
+		heading	=	-4.1540422439575,
+		unitId	=	824,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [110]
+	[111] = 
+	{
+		y	=	101067.671875,
+		x	=	180017.5,
+		heading	=	-4.1540422439575,
+		unitId	=	825,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [111]
+	[112] = 
+	{
+		y	=	101497.0078125,
+		x	=	179747.546875,
+		heading	=	-4.1540422439575,
+		unitId	=	826,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [112]
+	[113] = 
+	{
+		y	=	101644.421875,
+		x	=	180255.203125,
+		heading	=	-4.1540422439575,
+		unitId	=	827,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [113]
+	[114] = 
+	{
+		y	=	103048.3515625,
+		x	=	180363.890625,
+		heading	=	-4.1540422439575,
+		unitId	=	828,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [114]
+	[115] = 
+	{
+		y	=	102907.8125,
+		x	=	180574.15625,
+		heading	=	-4.1540422439575,
+		unitId	=	829,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [115]
+	[116] = 
+	{
+		y	=	102573.2890625,
+		x	=	180443.5625,
+		heading	=	-4.1540422439575,
+		unitId	=	995,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"AAV7",
+	}, -- end of [116]
+	[117] = 
+	{
+		y	=	102103.953125,
+		x	=	180012.125,
+		heading	=	-4.1540422439575,
+		unitId	=	994,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"GAZ-66",
+	}, -- end of [117]
+	[118] = 
+	{
+		y	=	101875.5078125,
+		x	=	179915.875,
+		heading	=	-4.1540422439575,
+		unitId	=	993,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Gepard",
+	}, -- end of [118]
+	[119] = 
+	{
+		y	=	101123.4453125,
+		x	=	179847.859375,
+		heading	=	-4.1540422439575,
+		unitId	=	992,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [119]
+	[120] = 
+	{
+		y	=	101072.6015625,
+		x	=	179839,
+		heading	=	-4.1540422439575,
+		unitId	=	991,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Tor 9A331",
+	}, -- end of [120]
+	[121] = 
+	{
+		y	=	103256.3125,
+		x	=	180731.0625,
+		heading	=	-4.1540422439575,
+		unitId	=	990,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [121]
+	[122] = 
+	{
+		y	=	100347.3984375,
+		x	=	179447.578125,
+		heading	=	-4.1540422439575,
+		unitId	=	989,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [122]
+	[123] = 
+	{
+		y	=	100955.2890625,
+		x	=	179523.9375,
+		heading	=	-4.1540422439575,
+		unitId	=	988,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [123]
+	[124] = 
+	{
+		y	=	100971.765625,
+		x	=	179523.4375,
+		heading	=	-4.1540422439575,
+		unitId	=	987,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Kub 2P25 ln",
+	}, -- end of [124]
+	[125] = 
+	{
+		y	=	100987.234375,
+		x	=	179526.4375,
+		heading	=	-4.1540422439575,
+		unitId	=	986,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Kub 1S91 str",
+	}, -- end of [125]
+	[126] = 
+	{
+		y	=	100333.421875,
+		x	=	179429.109375,
+		heading	=	-4.1540422439575,
+		unitId	=	830,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [126]
+	[127] = 
+	{
+		y	=	100484.3125,
+		x	=	179444.765625,
+		heading	=	-4.1540422439575,
+		unitId	=	831,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [127]
+	[128] = 
+	{
+		y	=	103201.34375,
+		x	=	180823.96875,
+		heading	=	-4.1540422439575,
+		unitId	=	832,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Tor 9A331",
+	}, -- end of [128]
+	[129] = 
+	{
+		y	=	103314.7578125,
+		x	=	180636.8125,
+		heading	=	-4.1540422439575,
+		unitId	=	833,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"2S6 Tunguska",
+	}, -- end of [129]
+	[130] = 
+	{
+		y	=	88868.234375,
+		x	=	166544.9375,
+		heading	=	-4.1540422439575,
+		unitId	=	834,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [130]
+	[131] = 
+	{
+		y	=	89143.1171875,
+		x	=	166893.6875,
+		heading	=	-4.1540422439575,
+		unitId	=	835,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [131]
+	[132] = 
+	{
+		y	=	89783.9296875,
+		x	=	166541.5,
+		heading	=	-4.1540422439575,
+		unitId	=	836,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [132]
+	[133] = 
+	{
+		y	=	90075.6875,
+		x	=	166747.09375,
+		heading	=	-4.1540422439575,
+		unitId	=	837,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [133]
+	[134] = 
+	{
+		y	=	90331.9765625,
+		x	=	167050.890625,
+		heading	=	-4.1540422439575,
+		unitId	=	838,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [134]
+	[135] = 
+	{
+		y	=	90698.2265625,
+		x	=	167142.671875,
+		heading	=	-4.1540422439575,
+		unitId	=	981,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [135]
+	[136] = 
+	{
+		y	=	91009.515625,
+		x	=	166889.109375,
+		heading	=	-4.1540422439575,
+		unitId	=	980,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [136]
+	[137] = 
+	{
+		y	=	90769.546875,
+		x	=	166543.21875,
+		heading	=	-4.1540422439575,
+		unitId	=	985,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [137]
+	[138] = 
+	{
+		y	=	88721.765625,
+		x	=	166739.25,
+		heading	=	-4.1540422439575,
+		unitId	=	984,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [138]
+	[139] = 
+	{
+		y	=	90996.484375,
+		x	=	167240.828125,
+		heading	=	-4.1540422439575,
+		unitId	=	983,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [139]
+	[140] = 
+	{
+		y	=	91419.4765625,
+		x	=	167161.078125,
+		heading	=	-4.1540422439575,
+		unitId	=	982,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [140]
+	[141] = 
+	{
+		y	=	91495.53125,
+		x	=	167452.015625,
+		heading	=	-4.1540422439575,
+		unitId	=	839,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [141]
+	[142] = 
+	{
+		y	=	88640.3671875,
+		x	=	166703.390625,
+		heading	=	-4.1540422439575,
+		unitId	=	840,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [142]
+	[143] = 
+	{
+		y	=	88770.078125,
+		x	=	166363.234375,
+		heading	=	-4.1540422439575,
+		unitId	=	841,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [143]
+	[144] = 
+	{
+		y	=	91378.75,
+		x	=	167296.171875,
+		heading	=	-4.1540422439575,
+		unitId	=	842,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Tor 9A331",
+	}, -- end of [144]
+	[145] = 
+	{
+		y	=	90717.671875,
+		x	=	166601.625,
+		heading	=	-4.1540422439575,
+		unitId	=	979,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"2S6 Tunguska",
+	}, -- end of [145]
+	[146] = 
+	{
+		y	=	91072.4375,
+		x	=	167263.921875,
+		heading	=	-4.1540422439575,
+		unitId	=	978,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"2S6 Tunguska",
+	}, -- end of [146]
+	[147] = 
+	{
+		y	=	91431.5,
+		x	=	167019.109375,
+		heading	=	-4.1540422439575,
+		unitId	=	843,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"2S6 Tunguska",
+	}, -- end of [147]
+	[148] = 
+	{
+		y	=	48036.84375,
+		x	=	75780.859375,
+		heading	=	-4.1540422439575,
+		unitId	=	844,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [148]
+	[149] = 
+	{
+		y	=	49189.40234375,
+		x	=	75972.1484375,
+		heading	=	-4.1540422439575,
+		unitId	=	845,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [149]
+	[150] = 
+	{
+		y	=	48849.8515625,
+		x	=	76105.1015625,
+		heading	=	-4.1540422439575,
+		unitId	=	846,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [150]
+	[151] = 
+	{
+		y	=	48825.9375,
+		x	=	75662.25,
+		heading	=	-4.1540422439575,
+		unitId	=	847,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [151]
+	[152] = 
+	{
+		y	=	49308.00390625,
+		x	=	75804.765625,
+		heading	=	-4.1540422439575,
+		unitId	=	848,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [152]
+	[153] = 
+	{
+		y	=	49578.6875,
+		x	=	75964.5,
+		heading	=	-4.1540422439575,
+		unitId	=	849,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"T-90",
+	}, -- end of [153]
+	[154] = 
+	{
+		y	=	49967.97265625,
+		x	=	75842.0703125,
+		heading	=	-4.1540422439575,
+		unitId	=	950,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [154]
+	[155] = 
+	{
+		y	=	47252.17578125,
+		x	=	76043.765625,
+		heading	=	-4.1540422439575,
+		unitId	=	927,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Ural-375",
+	}, -- end of [155]
+	[156] = 
+	{
+		y	=	47230.40234375,
+		x	=	76042.7734375,
+		heading	=	-4.1540422439575,
+		unitId	=	850,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [156]
+	[157] = 
+	{
+		y	=	47487.26171875,
+		x	=	75785.9140625,
+		heading	=	-4.1540422439575,
+		unitId	=	851,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [157]
+	[158] = 
+	{
+		y	=	50008.14453125,
+		x	=	75742.59375,
+		heading	=	-4.1540422439575,
+		unitId	=	852,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"Tor 9A331",
+	}, -- end of [158]
+	[159] = 
+	{
+		y	=	49969.88671875,
+		x	=	75942.5,
+		heading	=	-4.1540422439575,
+		unitId	=	853,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	81,
+		type	=	"2S6 Tunguska",
+	}, -- end of [159]
+	[160] = 
+	{
+		alt	=	1998.0100097656,
+		type	=	"F-16C_50",
+		country	=	0,
+		coalition	=	"red",
+		x	=	110348.6640625,
+		speed	=	220.97222900391,
+		heading	=	2.0756940841675,
+		y	=	-77555.421875,
+		unitId	=	1004,
+	}, -- end of [160]
+	[161] = 
+	{
+		alt	=	1998.0100097656,
+		type	=	"F-16C_50",
+		country	=	0,
+		coalition	=	"red",
+		x	=	109719.4296875,
+		speed	=	220.97222900391,
+		heading	=	2.0756940841675,
+		y	=	-78599.6953125,
+		unitId	=	1005,
+	}, -- end of [161]
+	[162] = 
+	{
+		alt	=	1997.8299560547,
+		type	=	"Su-33",
+		country	=	0,
+		coalition	=	"red",
+		x	=	57269.87890625,
+		speed	=	138.88888549805,
+		heading	=	-1.3722759485245,
+		y	=	244871.796875,
+		unitId	=	1008,
+	}, -- end of [162]
+	[163] = 
+	{
+		alt	=	1997.8299560547,
+		type	=	"Su-33",
+		country	=	0,
+		coalition	=	"red",
+		x	=	58184.7734375,
+		speed	=	138.88888549805,
+		heading	=	-1.3722759485245,
+		y	=	245677.65625,
+		unitId	=	1009,
+	}, -- end of [163]
+	[164] = 
+	{
+		alt	=	1997.7629394531,
+		type	=	"Su-27",
+		country	=	0,
+		coalition	=	"red",
+		x	=	174111.4375,
+		speed	=	138.88888549805,
+		heading	=	-1.0630445480347,
+		y	=	212904.515625,
+		unitId	=	1012,
+	}, -- end of [164]
+	[165] = 
+	{
+		alt	=	1997.7629394531,
+		type	=	"Su-27",
+		country	=	0,
+		coalition	=	"red",
+		x	=	174737.6875,
+		speed	=	138.88888549805,
+		heading	=	-1.0630445480347,
+		y	=	213950.578125,
+		unitId	=	1013,
+	}, -- end of [165]
+	[166] = 
+	{
+		alt	=	1998.3110351563,
+		type	=	"MiG-29A",
+		country	=	0,
+		coalition	=	"red",
+		x	=	269830.875,
+		speed	=	220.97222900391,
+		heading	=	2.4220752716064,
+		y	=	61834.3203125,
+		unitId	=	1010,
+	}, -- end of [166]
+	[167] = 
+	{
+		alt	=	1998.3110351563,
+		type	=	"MiG-29A",
+		country	=	0,
+		coalition	=	"red",
+		x	=	269593.53125,
+		speed	=	220.97222900391,
+		heading	=	2.4220752716064,
+		y	=	60638.4453125,
+		unitId	=	1011,
+	}, -- end of [167]
+	[168] = 
+	{
+		y	=	91252.75,
+		x	=	175579.65625,
+		heading	=	-4.7472958564758,
+		unitId	=	618,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320-31",
+	}, -- end of [168]
+	[169] = 
+	{
+		y	=	90981.75,
+		x	=	175601.71875,
+		heading	=	-4.7472958564758,
+		unitId	=	621,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320-31",
+	}, -- end of [169]
+	[170] = 
+	{
+		y	=	91462.0390625,
+		x	=	175756.609375,
+		heading	=	-4.7472958564758,
+		unitId	=	622,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320-31",
+	}, -- end of [170]
+	[171] = 
+	{
+		y	=	91494.8828125,
+		x	=	175761.53125,
+		heading	=	-4.7472958564758,
+		unitId	=	623,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"2S6 Tunguska",
+	}, -- end of [171]
+	[172] = 
+	{
+		y	=	91275.40625,
+		x	=	175590.703125,
+		heading	=	-4.7472958564758,
+		unitId	=	624,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZSU_57_2",
+	}, -- end of [172]
+	[173] = 
+	{
+		y	=	90979.1328125,
+		x	=	175695.09375,
+		heading	=	-4.7472958564758,
+		unitId	=	625,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZSU_57_2",
+	}, -- end of [173]
+	[174] = 
+	{
+		y	=	91459.984375,
+		x	=	175590.703125,
+		heading	=	-4.7472958564758,
+		unitId	=	626,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [174]
+	[175] = 
+	{
+		y	=	90921.5859375,
+		x	=	175582.890625,
+		heading	=	-4.7472958564758,
+		unitId	=	627,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [175]
+	[176] = 
+	{
+		y	=	-14922.397460938,
+		x	=	-19110.046875,
+		heading	=	0,
+		unitId	=	705,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S-60_Type59_Artillery",
+	}, -- end of [176]
+	[177] = 
+	{
+		y	=	-14903.552734375,
+		x	=	-19167.1953125,
+		heading	=	0,
+		unitId	=	706,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S-60_Type59_Artillery",
+	}, -- end of [177]
+	[178] = 
+	{
+		y	=	-14903.21875,
+		x	=	-19083.72265625,
+		heading	=	0,
+		unitId	=	707,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [178]
+	[179] = 
+	{
+		y	=	-14911.515625,
+		x	=	-19125.87109375,
+		heading	=	0,
+		unitId	=	708,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [179]
+	[180] = 
+	{
+		y	=	-14846.907226563,
+		x	=	-19089.919921875,
+		heading	=	0,
+		unitId	=	709,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S-60_Type59_Artillery",
+	}, -- end of [180]
+	[181] = 
+	{
+		y	=	-14777.392578125,
+		x	=	-19197.423828125,
+		heading	=	0,
+		unitId	=	710,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S-60_Type59_Artillery",
+	}, -- end of [181]
+	[182] = 
+	{
+		y	=	-14765.268554688,
+		x	=	-19120.634765625,
+		heading	=	0,
+		unitId	=	711,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [182]
+	[183] = 
+	{
+		y	=	-14839.302734375,
+		x	=	-19105.900390625,
+		heading	=	-3.7894514193226e-09,
+		unitId	=	712,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [183]
+	[184] = 
+	{
+		y	=	-14700.66015625,
+		x	=	-19127.978515625,
+		heading	=	0,
+		unitId	=	713,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Tigr_233036",
+	}, -- end of [184]
+	[185] = 
+	{
+		y	=	-14672.640625,
+		x	=	-19157.96875,
+		heading	=	0,
+		unitId	=	714,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [185]
+	[186] = 
+	{
+		y	=	-14730.2421875,
+		x	=	-19162.666015625,
+		heading	=	-6.2831854820251,
+		unitId	=	715,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ATZ-10",
+	}, -- end of [186]
+	[187] = 
+	{
+		y	=	-14703.568359375,
+		x	=	-19215.74609375,
+		heading	=	0,
+		unitId	=	716,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Tigr_233036",
+	}, -- end of [187]
+	[188] = 
+	{
+		y	=	-14817.056640625,
+		x	=	-19163.05859375,
+		heading	=	0,
+		unitId	=	717,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [188]
+	[189] = 
+	{
+		y	=	-14744.252929688,
+		x	=	-19269.09375,
+		heading	=	-3.7508542938269e-09,
+		unitId	=	718,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"2S6 Tunguska",
+	}, -- end of [189]
+	[190] = 
+	{
+		y	=	-14551.409179688,
+		x	=	-19113.41796875,
+		heading	=	0,
+		unitId	=	719,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S-60_Type59_Artillery",
+	}, -- end of [190]
+	[191] = 
+	{
+		y	=	-14978.932617188,
+		x	=	-19085.380859375,
+		heading	=	0,
+		unitId	=	720,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"house1arm",
+	}, -- end of [191]
+	[192] = 
+	{
+		y	=	-14967.594726563,
+		x	=	-19118.626953125,
+		heading	=	0,
+		unitId	=	721,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"house1arm",
+	}, -- end of [192]
+	[193] = 
+	{
+		y	=	-14694.344726563,
+		x	=	-19034.455078125,
+		heading	=	0,
+		unitId	=	722,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"house2arm",
+	}, -- end of [193]
+	[194] = 
+	{
+		y	=	-14653.7265625,
+		x	=	-19049.75390625,
+		heading	=	0,
+		unitId	=	723,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"house2arm",
+	}, -- end of [194]
+	[195] = 
+	{
+		y	=	-14612.047851563,
+		x	=	-19058.765625,
+		heading	=	0,
+		unitId	=	724,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"house2arm",
+	}, -- end of [195]
+	[196] = 
+	{
+		y	=	46636.49609375,
+		x	=	77151.015625,
+		heading	=	-3.8920843601227,
+		unitId	=	756,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [196]
+	[197] = 
+	{
+		y	=	46458.484375,
+		x	=	77175.078125,
+		heading	=	-3.5365986824036,
+		unitId	=	757,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [197]
+	[198] = 
+	{
+		y	=	46782.1484375,
+		x	=	77211.8125,
+		heading	=	-3.5365986824036,
+		unitId	=	758,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [198]
+	[199] = 
+	{
+		y	=	46697.2734375,
+		x	=	77231.4453125,
+		heading	=	-3.5365986824036,
+		unitId	=	759,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [199]
+	[200] = 
+	{
+		y	=	47070.37109375,
+		x	=	77296.953125,
+		heading	=	-3.5365986824036,
+		unitId	=	926,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZSU-23-4 Shilka",
+	}, -- end of [200]
+	[201] = 
+	{
+		y	=	47108.34375,
+		x	=	77248.546875,
+		heading	=	-3.5365986824036,
+		unitId	=	760,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [201]
+	[202] = 
+	{
+		y	=	46854.98828125,
+		x	=	77237.1484375,
+		heading	=	-3.5365986824036,
+		unitId	=	761,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [202]
+	[203] = 
+	{
+		y	=	46340.671875,
+		x	=	77227.6484375,
+		heading	=	-3.5365986824036,
+		unitId	=	762,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"2S6 Tunguska",
+	}, -- end of [203]
+	[204] = 
+	{
+		y	=	46526.890625,
+		x	=	77076.265625,
+		heading	=	-3.5365986824036,
+		unitId	=	763,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"BTR-80",
+	}, -- end of [204]
+	[205] = 
+	{
+		y	=	43082.33203125,
+		x	=	72407.265625,
+		heading	=	-6.279296875,
+		unitId	=	911,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SNR_75V",
+	}, -- end of [205]
+	[206] = 
+	{
+		y	=	43216.05078125,
+		x	=	72450.9296875,
+		heading	=	-0.80285149812698,
+		unitId	=	912,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [206]
+	[207] = 
+	{
+		y	=	43126.33203125,
+		x	=	72544.984375,
+		heading	=	-4.7472958564758,
+		unitId	=	913,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [207]
+	[208] = 
+	{
+		y	=	42887.56640625,
+		x	=	72430.671875,
+		heading	=	-1.6057027578354,
+		unitId	=	914,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [208]
+	[209] = 
+	{
+		y	=	42949.7890625,
+		x	=	72241.1015625,
+		heading	=	-2.4783675670624,
+		unitId	=	915,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [209]
+	[210] = 
+	{
+		y	=	43166.125,
+		x	=	72258.46875,
+		heading	=	-3.9269909858704,
+		unitId	=	916,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [210]
+	[211] = 
+	{
+		y	=	42999.71484375,
+		x	=	72548.609375,
+		heading	=	-5.3581609725952,
+		unitId	=	917,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"S_75M_Volhov",
+	}, -- end of [211]
+	[212] = 
+	{
+		y	=	43126.96875,
+		x	=	72437.2265625,
+		heading	=	-2.111848115921,
+		unitId	=	918,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SKP-11",
+	}, -- end of [212]
+	[213] = 
+	{
+		y	=	43130.21875,
+		x	=	72432.3984375,
+		heading	=	-2.111848115921,
+		unitId	=	919,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SKP-11",
+	}, -- end of [213]
+	[214] = 
+	{
+		y	=	43064.83203125,
+		x	=	72278.0078125,
+		heading	=	-4.0666170120239,
+		unitId	=	920,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"p-19 s-125 sr",
+	}, -- end of [214]
+	[215] = 
+	{
+		y	=	43191.44921875,
+		x	=	72369.890625,
+		heading	=	-5.6025071144104,
+		unitId	=	921,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320 APA-5D",
+	}, -- end of [215]
+	[216] = 
+	{
+		y	=	43111.13671875,
+		x	=	72388.703125,
+		heading	=	-5.410521030426,
+		unitId	=	922,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ATMZ-5",
+	}, -- end of [216]
+	[217] = 
+	{
+		y	=	43089.43359375,
+		x	=	72356.8671875,
+		heading	=	-5.2534413337708,
+		unitId	=	923,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ATMZ-5",
+	}, -- end of [217]
+	[218] = 
+	{
+		y	=	43050.36328125,
+		x	=	72381.46875,
+		heading	=	-0.85521155595779,
+		unitId	=	924,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320T",
+	}, -- end of [218]
+	[219] = 
+	{
+		y	=	43048.9140625,
+		x	=	72379.296875,
+		heading	=	-0.94247800111771,
+		unitId	=	925,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-4320T",
+	}, -- end of [219]
+	[220] = 
+	{
+		y	=	93151.265625,
+		x	=	161017.25,
+		heading	=	-6.2831854820251,
+		unitId	=	960,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk SR 9S18M1",
+	}, -- end of [220]
+	[221] = 
+	{
+		y	=	93222.5,
+		x	=	161026.53125,
+		heading	=	-1.5707963705063,
+		unitId	=	961,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk LN 9A310M1",
+	}, -- end of [221]
+	[222] = 
+	{
+		y	=	93115.1328125,
+		x	=	161019.3125,
+		heading	=	-4.7298421859741,
+		unitId	=	962,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk LN 9A310M1",
+	}, -- end of [222]
+	[223] = 
+	{
+		y	=	93165.203125,
+		x	=	160976.46875,
+		heading	=	-6.248279094696,
+		unitId	=	976,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"Ural-375",
+	}, -- end of [223]
+	[224] = 
+	{
+		y	=	93123.390625,
+		x	=	160946.015625,
+		heading	=	-6.248279094696,
+		unitId	=	963,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk LN 9A310M1",
+	}, -- end of [224]
+	[225] = 
+	{
+		y	=	93139.3984375,
+		x	=	161068.34375,
+		heading	=	-3.141592502594,
+		unitId	=	964,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk LN 9A310M1",
+	}, -- end of [225]
+	[226] = 
+	{
+		y	=	93167.3359375,
+		x	=	161030.28125,
+		heading	=	-4.6600294113159,
+		unitId	=	965,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"SA-11 Buk CC 9S470M1",
+	}, -- end of [226]
+	[227] = 
+	{
+		y	=	93220.4375,
+		x	=	160949.625,
+		heading	=	-1.1170108318329,
+		unitId	=	966,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZU-23 Emplacement Closed",
+	}, -- end of [227]
+	[228] = 
+	{
+		y	=	93214.2421875,
+		x	=	160919.171875,
+		heading	=	-1.1170108318329,
+		unitId	=	967,
+		speed	=	0,
+		coalition	=	"red",
+		country	=	0,
+		type	=	"ZU-23 Emplacement Closed",
+	}, -- end of [228]
+	[229] = 
+	{
+		y	=	12405.336914063,
+		x	=	10259.892578125,
+		heading	=	-4.7123889923096,
+		unitId	=	855,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [229]
+	[230] = 
+	{
+		y	=	12555.408203125,
+		x	=	9753.4150390625,
+		heading	=	-4.7123889923096,
+		unitId	=	856,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [230]
+	[231] = 
+	{
+		y	=	16425.79296875,
+		x	=	11473.399414063,
+		heading	=	-4.7123889923096,
+		unitId	=	857,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [231]
+	[232] = 
+	{
+		y	=	16226.471679688,
+		x	=	11913.184570313,
+		heading	=	-4.7123889923096,
+		unitId	=	858,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [232]
+	[233] = 
+	{
+		y	=	1624.1086425781,
+		x	=	461.89614868164,
+		heading	=	-4.7123889923096,
+		unitId	=	859,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [233]
+	[234] = 
+	{
+		y	=	1817.6296386719,
+		x	=	782.16772460938,
+		heading	=	-4.7123889923096,
+		unitId	=	860,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [234]
+	[235] = 
+	{
+		y	=	-1886.5672607422,
+		x	=	-898.69665527344,
+		heading	=	-4.7123889923096,
+		unitId	=	861,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"M 818",
+	}, -- end of [235]
+	[236] = 
+	{
+		y	=	-1942.3143310547,
+		x	=	-873.09014892578,
+		heading	=	0,
+		unitId	=	25,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [236]
+	[237] = 
+	{
+		y	=	1769.2221679688,
+		x	=	822.19494628906,
+		heading	=	-6.2831854820251,
+		unitId	=	26,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [237]
+	[238] = 
+	{
+		y	=	1597.0675048828,
+		x	=	501.22875976563,
+		heading	=	0,
+		unitId	=	27,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [238]
+	[239] = 
+	{
+		y	=	-1822.6815185547,
+		x	=	-911.02252197266,
+		heading	=	0,
+		unitId	=	28,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [239]
+	[240] = 
+	{
+		y	=	-785.61053466797,
+		x	=	-472.37844848633,
+		heading	=	0,
+		unitId	=	29,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"T-90",
+	}, -- end of [240]
+	[241] = 
+	{
+		y	=	1095.7182617188,
+		x	=	380.83728027344,
+		heading	=	0,
+		unitId	=	30,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"T-90",
+	}, -- end of [241]
+	[242] = 
+	{
+		y	=	105.42085266113,
+		x	=	-70.587112426758,
+		heading	=	0,
+		unitId	=	31,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"T-90",
+	}, -- end of [242]
+	[243] = 
+	{
+		y	=	-17628.109375,
+		x	=	-4906.37109375,
+		heading	=	-3.43829870224,
+		unitId	=	46,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"outpost",
+	}, -- end of [243]
+	[244] = 
+	{
+		y	=	-17627.1015625,
+		x	=	-4866.4038085938,
+		heading	=	-2.722713470459,
+		unitId	=	47,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"outpost",
+	}, -- end of [244]
+	[245] = 
+	{
+		y	=	13157.735351563,
+		x	=	10420.4296875,
+		heading	=	-3.43829870224,
+		unitId	=	213,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [245]
+	[246] = 
+	{
+		y	=	14358.072265625,
+		x	=	10954.918945313,
+		heading	=	-3.43829870224,
+		unitId	=	214,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [246]
+	[247] = 
+	{
+		y	=	15692.032226563,
+		x	=	11559.6171875,
+		heading	=	-3.43829870224,
+		unitId	=	215,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [247]
+	[248] = 
+	{
+		y	=	15868.685546875,
+		x	=	11310.490234375,
+		heading	=	-3.43829870224,
+		unitId	=	216,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [248]
+	[249] = 
+	{
+		y	=	15042.038085938,
+		x	=	10909.623046875,
+		heading	=	-3.43829870224,
+		unitId	=	217,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [249]
+	[250] = 
+	{
+		y	=	14435.075195313,
+		x	=	10640.11328125,
+		heading	=	-3.43829870224,
+		unitId	=	218,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [250]
+	[251] = 
+	{
+		y	=	13282.298828125,
+		x	=	10148.655273438,
+		heading	=	-3.43829870224,
+		unitId	=	219,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Gepard",
+	}, -- end of [251]
+	[252] = 
+	{
+		y	=	12414.885742188,
+		x	=	10282.27734375,
+		heading	=	-3.43829870224,
+		unitId	=	220,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [252]
+	[253] = 
+	{
+		y	=	12589.274414063,
+		x	=	9746.4287109375,
+		heading	=	-3.43829870224,
+		unitId	=	221,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [253]
+	[254] = 
+	{
+		y	=	16467.04296875,
+		x	=	11414.217773438,
+		heading	=	-3.43829870224,
+		unitId	=	222,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [254]
+	[255] = 
+	{
+		y	=	16219.727539063,
+		x	=	11873.969726563,
+		heading	=	-3.43829870224,
+		unitId	=	223,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Osa 9A33 ln",
+	}, -- end of [255]
+	[256] = 
+	{
+		y	=	16419.482421875,
+		x	=	11452.266601563,
+		heading	=	-3.43829870224,
+		unitId	=	224,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [256]
+	[257] = 
+	{
+		y	=	16184.849609375,
+		x	=	11918.359375,
+		heading	=	-3.43829870224,
+		unitId	=	225,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [257]
+	[258] = 
+	{
+		y	=	12427.568359375,
+		x	=	10247.399414063,
+		heading	=	-3.43829870224,
+		unitId	=	226,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [258]
+	[259] = 
+	{
+		y	=	12560.73828125,
+		x	=	9774.96484375,
+		heading	=	-3.43829870224,
+		unitId	=	227,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [259]
+	[260] = 
+	{
+		y	=	49847.640625,
+		x	=	75842.6875,
+		heading	=	0,
+		unitId	=	1014,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"M 818",
+	}, -- end of [260]
+	[261] = 
+	{
+		y	=	49847.640625,
+		x	=	75822.6875,
+		heading	=	0,
+		unitId	=	592,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [261]
+	[262] = 
+	{
+		y	=	90668.5,
+		x	=	166871.3125,
+		heading	=	0,
+		unitId	=	600,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [262]
+	[263] = 
+	{
+		y	=	90734.9921875,
+		x	=	166888,
+		heading	=	0,
+		unitId	=	601,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"M 818",
+	}, -- end of [263]
+	[264] = 
+	{
+		y	=	101948.7109375,
+		x	=	180177.6875,
+		heading	=	0,
+		unitId	=	608,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"Tor 9A331",
+	}, -- end of [264]
+	[265] = 
+	{
+		y	=	101991.6953125,
+		x	=	180251.265625,
+		heading	=	0,
+		unitId	=	609,
+		speed	=	0,
+		coalition	=	"blue",
+		country	=	80,
+		type	=	"M 818",
+	}, -- end of [265]
+	[266] = 
+	{
+		alt	=	9140.2392578125,
+		type	=	"E-3A",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	-120908.8203125,
+		speed	=	220.97222900391,
+		heading	=	0.52027839422226,
+		y	=	100000,
+		unitId	=	854,
+	}, -- end of [266]
+	[267] = 
+	{
+		alt	=	7616.2387695313,
+		type	=	"KC135MPRS",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	-35507.29296875,
+		speed	=	220.97222900391,
+		heading	=	0.62499088048935,
+		y	=	93020.9765625,
+		unitId	=	616,
+	}, -- end of [267]
+	[268] = 
+	{
+		alt	=	7616.2387695313,
+		type	=	"KC-135",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	27146.099609375,
+		speed	=	220.97222900391,
+		heading	=	0.76779645681381,
+		y	=	-134039.125,
+		unitId	=	528,
+	}, -- end of [268]
+	[269] = 
+	{
+		alt	=	2000.8037109375,
+		type	=	"F-16C_50",
+		country	=	0,
+		coalition	=	"red",
+		x	=	107532.765625,
+		speed	=	220.93087768555,
+		heading	=	-4.2074451446533,
+		y	=	-72460.2890625,
+		unitId	=	1000001,
+	}, -- end of [269]
+	[270] = 
+	{
+		alt	=	2000.1662597656,
+		type	=	"F-16C_50",
+		country	=	0,
+		coalition	=	"red",
+		x	=	106904.0625,
+		speed	=	220.93395996094,
+		heading	=	-4.2074451446533,
+		y	=	-73520.3125,
+		unitId	=	1000002,
+	}, -- end of [270]
+	[271] = 
+	{
+		alt	=	2031.8225097656,
+		type	=	"Su-33",
+		country	=	0,
+		coalition	=	"red",
+		x	=	58118.65625,
+		speed	=	169.36511230469,
+		heading	=	-1.3723487854004,
+		y	=	240653.078125,
+		unitId	=	1000004,
+	}, -- end of [271]
+	[272] = 
+	{
+		alt	=	2022.4631347656,
+		type	=	"Su-33",
+		country	=	0,
+		coalition	=	"red",
+		x	=	59036.76953125,
+		speed	=	177.97427368164,
+		heading	=	-1.3723487854004,
+		y	=	241506.109375,
+		unitId	=	1000005,
+	}, -- end of [272]
+	[273] = 
+	{
+		alt	=	2014.0363769531,
+		type	=	"MiG-29A",
+		country	=	0,
+		coalition	=	"red",
+		x	=	265455.59375,
+		speed	=	220.88519287109,
+		heading	=	-3.8610606193542,
+		y	=	65668.1171875,
+		unitId	=	1000007,
+	}, -- end of [273]
+	[274] = 
+	{
+		alt	=	2013.4461669922,
+		type	=	"MiG-29A",
+		country	=	0,
+		coalition	=	"red",
+		x	=	265227.4375,
+		speed	=	221.06219482422,
+		heading	=	-3.8610596656799,
+		y	=	64452.15234375,
+		unitId	=	1000008,
+	}, -- end of [274]
+	[275] = 
+	{
+		alt	=	1999.7659912109,
+		type	=	"Su-27",
+		country	=	0,
+		coalition	=	"red",
+		x	=	176217.78125,
+		speed	=	169.58250427246,
+		heading	=	-1.0631085634232,
+		y	=	209119.109375,
+		unitId	=	1000010,
+	}, -- end of [275]
+	[276] = 
+	{
+		alt	=	1999.919921875,
+		type	=	"Su-27",
+		country	=	0,
+		coalition	=	"red",
+		x	=	176846.15625,
+		speed	=	177.6389465332,
+		heading	=	-1.0631085634232,
+		y	=	210186.953125,
+		unitId	=	1000011,
+	}, -- end of [276]
+	[277] = 
+	{
+		alt	=	9143.849609375,
+		type	=	"E-3A",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	-115866.34375,
+		speed	=	220.96136474609,
+		heading	=	-5.762903213501,
+		y	=	102889.03125,
+		unitId	=	1000013,
+	}, -- end of [277]
+	[278] = 
+	{
+		alt	=	7619.8452148438,
+		type	=	"KC135MPRS",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	-30793.041015625,
+		speed	=	220.95677185059,
+		heading	=	-5.6581945419312,
+		y	=	96422.1796875,
+		unitId	=	1000015,
+	}, -- end of [278]
+	[279] = 
+	{
+		alt	=	7619.8452148438,
+		type	=	"KC-135",
+		country	=	7,
+		coalition	=	"blue",
+		x	=	31328.30078125,
+		speed	=	220.95677185059,
+		heading	=	-5.5153880119324,
+		y	=	-130001.609375,
+		unitId	=	1000017,
+	}, -- end of [279]
+	[280] = 
+	{
+		y	=	87593.625,
+		x	=	170120.0625,
+		unitId	=	628,
+		heading	=	-0,
+		coalition	=	"blue",
+		country	=	2,
+		type	=	"FARP",
+	}, -- end of [280]
+} -- end of world_state

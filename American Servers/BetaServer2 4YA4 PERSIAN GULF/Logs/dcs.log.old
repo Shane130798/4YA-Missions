@@ -1,0 +1,23 @@
+=== Log opened UTC 2021-09-26 21:37:55
+2021-09-26 21:37:54.949 INFO    DCS: Command line: "C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 2\bin\DCS.exe"  --norender --server -w BetaServer2
+2021-09-26 21:37:54.949 INFO    DCS: DCS/2.7.6.13133 (x86_64; Windows NT 10.0.17763)
+2021-09-26 21:37:54.949 INFO    DCS: DCS revision: 193131
+2021-09-26 21:37:54.949 INFO    DCS: Renderer revision: 22322
+2021-09-26 21:37:54.949 INFO    DCS: Terrain revision: 22345
+2021-09-26 21:37:54.949 INFO    DCS: Build number: 655
+2021-09-26 21:37:54.949 INFO    DCS: CPU cores: 6, threads: 12, System RAM: 130998 MB, Pagefile: 19456 MB
+2021-09-26 21:37:55.101 INFO    EDCORE: (dDispatcher)enterToState_:0
+2021-09-26 21:37:55.106 INFO    Dispatcher: 2021/9/26 14:37 V1803061700
+2021-09-26 21:37:55.128 ERROR   NET: Failed to decode network.vault: either hardware ID or OS username are different. Saved login data will be reset.
+2021-09-26 21:37:55.129 INFO    NET: ProtocolVersion: 269
+2021-09-26 21:37:55.133 INFO    SOUND: Using driver: wasapi
+2021-09-26 21:37:55.133 INFO    SOUND: Found 0 available audio device(s):
+2021-09-26 21:37:55.133 INFO    Dispatcher: InitLow
+2021-09-26 21:37:55.278 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 2/bin/CockpitBase.dll
+2021-09-26 21:37:56.866 INFO    NET: login was cancelled.
+2021-09-26 21:37:56.866 WARNING DCS: Login was cancelled, offline auth is not available.
+2021-09-26 21:37:56.866 INFO    DCS: application shutdown
+2021-09-26 21:37:57.001 WARNING EDOBJECTS: lTypeObjectManager::Create() doesn't exist.
+2021-09-26 21:37:57.003 INFO    TERRAIN: lSystem::exit()
+2021-09-26 21:37:57.003 INFO    TERRAIN: lSystem::CleanScenes()
+=== Log closed.

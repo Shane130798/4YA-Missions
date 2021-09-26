@@ -1,0 +1,3 @@
+CHAT: Sep 26 14:42:34 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:49766", id = 2} said "$ping" to all
+CHAT: Sep 26 14:42:36 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:49766", id = 2} said "$help" to all
+CHAT: Sep 26 14:42:39 {name  = "Lurcher", ucid = "6622068cf1e120486feaf49dae55bcb2", ip = "80.101.235.231:49766", id = 2} said "$admins" to all

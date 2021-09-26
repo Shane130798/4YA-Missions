@@ -24,7 +24,7 @@ cfg = {
 	},
 	['bind_address'] = '',
 	['current'] = 2,
-	['description'] = '[4YA] TRAINING 24/7 - Syria PVE BETA (CAPTURE BASES) \n\n**DISCORD**  https://discord.gg/CaYRRDd\n**SRS**      Type  -motd  in-game chat for ip\n\nWelcome to 4YA Training Grounds mission, this mission is designed to help both new and experienced pilots refine \ntheir skills in their chosen airframe. The mission incorporates both fixed wing and rotary wing aircraft and the \nability to train on both Air to Air/Air to Ground techniques, missile evasion, land-based circuit landings as \nwell as carrier-based recovery operations. You may fly alone or with a wingman/squadron to develop skills essential in a coordinated attack.\n\nAvailable:\n\nCtld\nCombined Arms\nPVE\nSRS\nCarrierOps ',
+	['description'] = '[4YA] TRAINING 24/7 - Syria PVE BETA (CAPTURE BASES) US SERVER \n\n**DISCORD**  https://discord.gg/CaYRRDd\n**SRS**      Type  -motd  in-game chat for ip\n\nWelcome to 4YA Training Grounds mission, this mission is designed to help both new and experienced pilots refine \ntheir skills in their chosen airframe. The mission incorporates both fixed wing and rotary wing aircraft and the \nability to train on both Air to Air/Air to Ground techniques, missile evasion, land-based circuit landings as \nwell as carrier-based recovery operations. You may fly alone or with a wingman/squadron to develop skills essential in a coordinated attack.\n\nAvailable:\n\nCtld\nCombined Arms\nPVE\nSRS\nCarrierOps ',
 	['isPublic'] = true,
 	['listLoop'] = true,
 	['listShuffle'] = false,

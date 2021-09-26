@@ -43,14 +43,14 @@ CarrierOps ",
         ["event_Role"] = false,
         ["maxPing"] = 0,
     }, -- end of ["advanced"]
-    ["port"] = 10315,
+    ["port"] = 10314,
     ["mode"] = 0,
     ["bind_address"] = "",
     ["isPublic"] = true,
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v25S.miz",
-        [2] = "C:\\Users\\Administrator\\Saved Games\\StableServer4\\Missions\\4YA_Capture_Bases_Persian_Large_v25B.miz",
+        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v25S.miz",
+        [2] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v25B.miz",
     }, -- end of ["missionList"]
     ["password"] = "",
     ["listShuffle"] = false,

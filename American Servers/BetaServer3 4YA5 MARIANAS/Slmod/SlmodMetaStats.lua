@@ -2,6 +2,27 @@ metaStats =
 {
     ["mapStats"] = 
     {
+        ["Syria"] = 
+        {
+            ["totalFlightHours"] = 1476.0588983337,
+            ["mostRecentPlayed"] = "Feb 13, 2021 at 20 39 15",
+            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
+            ["missions"] = 
+            {
+                ["4YA_Syria_Capture_Bases_BLUE_v28C"] = "Nov 08, 2020 at 20 59 49",
+                ["4YA_Syria_Capture_Bases_BLUE_v28B"] = "Nov 08, 2020 at 20 52 45",
+                ["4YA_Syria_Capture_Bases_BLUE_v28D"] = "Nov 10, 2020 at 16 17 21",
+                ["4YA_Syria_Capture_Bases_BLUE_v27B"] = "Oct 30, 2020 at 22 30 34",
+                ["4YA_Syria_Capture_Bases_BLUE_v28A"] = "Nov 14, 2020 at 16 52 58",
+                ["4YA_Syria_Capture_Bases_BLUE_v26D"] = "Oct 28, 2020 at 21 20 30",
+                ["Operation_Scarlet_Dawn"] = "Feb 07, 2021 at 18 23 13",
+                ["4YA_Syria_Capture_Bases_BLUE_v27A"] = "Oct 27, 2020 at 19 59 21",
+                ["4YA_Syria_Capture_Bases_BLUE_v25C"] = "Oct 27, 2020 at 20 16 16",
+            }, -- end of ["missions"]
+            ["maxClients"] = 42,
+            ["timesPlayed"] = 79,
+            ["hoursHosted"] = 443.19460777777,
+        }, -- end of ["Syria"]
         ["Caucasus"] = 
         {
             ["totalFlightHours"] = 4882.9220433333,
@@ -43,47 +64,47 @@ metaStats =
                 ["Caucasus Playground"] = "Apr 02, 2020 at 22 01 48",
                 ["SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)"] = "Jun 25, 2021 at 17 51 05",
                 ["Caucasus Playground V4"] = "Apr 03, 2020 at 18 37 21",
-                ["4YA_Capture_Bases_CW_PVE_V20B"] = "Mar 02, 2021 at 14 24 26",
+                ["map_development_23"] = "May 08, 2020 at 23 08 17",
                 ["Operation Clear Field v123"] = "Apr 03, 2020 at 22 24 34",
                 ["map development 13"] = "May 05, 2020 at 20 40 59",
-                ["4YA_Capture_Bases_Full_War_V35D"] = "Jan 14, 2021 at 18 37 53",
+                ["EDITED_Operation_Clear_Field_vBG20"] = "Mar 26, 2020 at 23 44 30",
                 ["map development 6"] = "May 04, 2020 at 20 03 59",
                 ["4YA_Caucasus_Capture_Base_v136NightSnow"] = "Feb 16, 2021 at 10 48 52",
-                ["OPERATION RHINOS HORN DAY 1A"] = "Jun 25, 2020 at 20 58 43",
                 ["4YA_Capture_Bases_Full_War_V34D"] = "Dec 01, 2020 at 17 57 44",
+                ["OPERATION RHINOS HORN DAY 1A"] = "Jun 25, 2020 at 20 58 43",
                 ["EDITED_Operation_Clear_Field_vBG17"] = "Mar 25, 2020 at 17 41 51",
-                ["OPERATION RHINOS HORN"] = "May 24, 2020 at 14 02 51",
+                ["map development 7"] = "May 04, 2020 at 20 12 15",
                 ["Caucasus Playground V5"] = "Apr 04, 2020 at 10 01 47",
                 ["OPERATION RHINOS HORN3456"] = "May 27, 2020 at 18 22 14",
                 ["map_development_25A"] = "May 10, 2020 at 19 23 05",
-                ["4YA_NEW_EVENT2_8"] = "Jan 28, 2021 at 21 13 53",
-                ["EDITED_Operation_Clear_Field_vBG13"] = "Mar 22, 2020 at 20 48 23",
+                ["map_development_31"] = "May 16, 2020 at 20 27 33",
+                ["map development 11"] = "May 04, 2020 at 21 01 35",
                 ["4YA_NEW_EVENT4_2"] = "Mar 13, 2021 at 13 27 19",
                 ["4YA_CAP_Training_V07"] = "Jul 09, 2020 at 20 00 48",
                 ["map development 10"] = "May 04, 2020 at 20 40 13",
                 ["Caucasus Playground V7"] = "May 04, 2020 at 19 44 20",
                 ["EDITED_Operation_Clear_Field_vBG22"] = "Mar 30, 2020 at 12 05 12",
                 ["NEWCAUCUSES"] = "May 22, 2020 at 18 10 03",
-                ["EDITED_Operation_Clear_Field_v120"] = "Mar 10, 2020 at 17 18 14",
-                ["EDITED_Operation_Clear_Field_vBG11"] = "Mar 22, 2020 at 19 12 41",
+                ["OPERATION RHINOS HORN DAY 4"] = "May 28, 2020 at 21 07 05",
+                ["EDITED_Operation_Clear_Field_vBG21"] = "Mar 28, 2020 at 15 52 18",
                 ["Caucasus Playground V6"] = "Apr 07, 2020 at 20 48 41",
                 ["map development 9"] = "May 04, 2020 at 20 33 11",
                 ["map development 15"] = "May 06, 2020 at 16 36 41",
                 ["map_development_24"] = "May 09, 2020 at 16 24 07",
-                ["4YA_Full_War_EVENT_18_10_v07"] = "Oct 18, 2020 at 18 18 23",
                 ["EDITED_Operation_Clear_Field_vBG16"] = "Mar 24, 2020 at 18 44 24",
-                ["EDITED_Operation_Clear_Field_vBG21"] = "Mar 28, 2020 at 15 52 18",
-                ["OPERATION RHINOS HORN DAY 4"] = "May 28, 2020 at 21 07 05",
+                ["4YA_Full_War_EVENT_18_10_v07"] = "Oct 18, 2020 at 18 18 23",
+                ["EDITED_Operation_Clear_Field_vBG11"] = "Mar 22, 2020 at 19 12 41",
+                ["EDITED_Operation_Clear_Field_v120"] = "Mar 10, 2020 at 17 18 14",
                 ["map development 5"] = "May 04, 2020 at 19 44 08",
                 ["map_development_29"] = "May 15, 2020 at 12 42 44",
-                ["map development 11"] = "May 04, 2020 at 21 01 35",
-                ["map_development_31"] = "May 16, 2020 at 20 27 33",
+                ["EDITED_Operation_Clear_Field_vBG13"] = "Mar 22, 2020 at 20 48 23",
+                ["4YA_NEW_EVENT2_8"] = "Jan 28, 2021 at 21 13 53",
                 ["EDITED_Operation_Clear_Field_vBG15"] = "Mar 24, 2020 at 17 44 24",
                 ["EDITED_Operation_Clear_Field_vBG18"] = "Mar 26, 2020 at 19 11 34",
-                ["map development 7"] = "May 04, 2020 at 20 12 15",
+                ["OPERATION RHINOS HORN"] = "May 24, 2020 at 14 02 51",
                 ["4YA_NEW_EVENT5_1HOT"] = "May 15, 2021 at 18 20 36",
-                ["EDITED_Operation_Clear_Field_vBG20"] = "Mar 26, 2020 at 23 44 30",
-                ["map_development_23"] = "May 08, 2020 at 23 08 17",
+                ["4YA_Capture_Bases_Full_War_V35D"] = "Jan 14, 2021 at 18 37 53",
+                ["4YA_Capture_Bases_CW_PVE_V20B"] = "Mar 02, 2021 at 14 24 26",
                 ["EDITED_Operation_Clear_Field_vBG3"] = "Mar 18, 2020 at 19 13 58",
                 ["map development 17"] = "May 06, 2020 at 17 22 12",
             }, -- end of ["missions"]
@@ -91,27 +112,6 @@ metaStats =
             ["timesPlayed"] = 616,
             ["hoursHosted"] = 2909.928418332,
         }, -- end of ["Caucasus"]
-        ["Syria"] = 
-        {
-            ["totalFlightHours"] = 1476.0588983337,
-            ["mostRecentPlayed"] = "Feb 13, 2021 at 20 39 15",
-            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
-            ["missions"] = 
-            {
-                ["4YA_Syria_Capture_Bases_BLUE_v28C"] = "Nov 08, 2020 at 20 59 49",
-                ["4YA_Syria_Capture_Bases_BLUE_v28B"] = "Nov 08, 2020 at 20 52 45",
-                ["4YA_Syria_Capture_Bases_BLUE_v28D"] = "Nov 10, 2020 at 16 17 21",
-                ["4YA_Syria_Capture_Bases_BLUE_v25C"] = "Oct 27, 2020 at 20 16 16",
-                ["4YA_Syria_Capture_Bases_BLUE_v27A"] = "Oct 27, 2020 at 19 59 21",
-                ["4YA_Syria_Capture_Bases_BLUE_v26D"] = "Oct 28, 2020 at 21 20 30",
-                ["Operation_Scarlet_Dawn"] = "Feb 07, 2021 at 18 23 13",
-                ["4YA_Syria_Capture_Bases_BLUE_v28A"] = "Nov 14, 2020 at 16 52 58",
-                ["4YA_Syria_Capture_Bases_BLUE_v27B"] = "Oct 30, 2020 at 22 30 34",
-            }, -- end of ["missions"]
-            ["maxClients"] = 42,
-            ["timesPlayed"] = 79,
-            ["hoursHosted"] = 443.19460777777,
-        }, -- end of ["Syria"]
         ["PersianGulf"] = 
         {
             ["totalFlightHours"] = 630.74896444441,
@@ -147,12 +147,12 @@ metaStats =
                 ["Operation Rolling Thunder V3"] = "Jun 18, 2020 at 13 41 03",
                 ["4YA_Capture_Bases_Persian_Full_War_v17A"] = "Jul 14, 2020 at 19 22 15",
                 ["Operation_Secure_Passage_day-2_04"] = "Apr 14, 2020 at 18 28 29",
-                ["JF-17 Aggressor"] = "Mar 22, 2020 at 14 57 30",
-                ["Turkey_Smokers_2"] = "May 07, 2020 at 17 51 09",
-                ["Operation_Secure_Passage_day-2_09"] = "Apr 18, 2020 at 15 16 50",
-                ["OG_Operation_Snowfox_v124"] = "Mar 09, 2020 at 21 58 41",
-                ["Turkey_Smokers1"] = "Apr 23, 2020 at 20 10 08",
                 ["Operation_Secure_Passage_day-2_09_nocv"] = "Apr 28, 2020 at 17 55 45",
+                ["Turkey_Smokers_2"] = "May 07, 2020 at 17 51 09",
+                ["Turkey_Smokers1"] = "Apr 23, 2020 at 20 10 08",
+                ["OG_Operation_Snowfox_v124"] = "Mar 09, 2020 at 21 58 41",
+                ["Operation_Secure_Passage_day-2_09"] = "Apr 18, 2020 at 15 16 50",
+                ["JF-17 Aggressor"] = "Mar 22, 2020 at 14 57 30",
                 ["Operation Rolling Thunder V6"] = "Jun 20, 2020 at 21 19 55",
                 ["Operation Rolling Thunder V7"] = "Jun 23, 2020 at 19 08 39",
             }, -- end of ["missions"]
@@ -174,8 +174,8 @@ metaStats =
                 ["24FEB20_NEVADA_Operation_Black_Spire_v105"] = "Mar 12, 2020 at 19 13 48",
                 ["Nevada Playground V1"] = "Apr 06, 2020 at 18 38 49",
                 ["NTTR_VFR-1_09"] = "Apr 29, 2020 at 19 36 48",
-                ["Operation_Black_Spire_vBG3"] = "Mar 16, 2020 at 21 30 04",
                 ["Nevada Playground V2"] = "Apr 11, 2020 at 15 15 54",
+                ["Operation_Black_Spire_vBG3"] = "Mar 16, 2020 at 21 30 04",
             }, -- end of ["missions"]
             ["maxClients"] = 12,
             ["timesPlayed"] = 57,
@@ -1168,18 +1168,18 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 23, 2020 at 19 27 57",
             ["hoursHosted"] = 22.254599166667,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG14"]
-        ["SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)"] = 
+        ["OPERATION RHINOS HORN DAY 4"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 8,
-            ["maxClients"] = 2,
-            ["totalFlightHours"] = 0,
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 14.358332777778,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 25, 2021 at 17 51 05",
+            ["firstPlayed"] = "May 28, 2020 at 21 07 05",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jul 23, 2021 at 18 52 58",
-            ["hoursHosted"] = 0.11667694444444,
-        }, -- end of ["SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)"]
+            ["mostRecentPlayed"] = "May 30, 2020 at 17 19 05",
+            ["hoursHosted"] = 21.451371666667,
+        }, -- end of ["OPERATION RHINOS HORN DAY 4"]
         ["Caucasus Playground"] = 
         {
             ["map"] = "Caucasus",
@@ -1204,42 +1204,42 @@ metaStats =
             ["mostRecentPlayed"] = "May 05, 2020 at 20 25 46",
             ["hoursHosted"] = 0.20001055555556,
         }, -- end of ["map development 12"]
-        ["EDITED_Operation_Snowfox_v127"] = 
+        ["Operation Rolling Thunder V5"] = 
         {
             ["map"] = "PersianGulf",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 1,
-            ["totalFlightHours"] = 0,
+            ["timesPlayed"] = 3,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 31.495446944444,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 18, 2020 at 18 47 09",
+            ["firstPlayed"] = "Jun 19, 2020 at 16 07 19",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 02, 2020 at 19 12 37",
-            ["hoursHosted"] = 0.43336166666667,
-        }, -- end of ["EDITED_Operation_Snowfox_v127"]
-        ["Turkey_Smokers_3"] = 
-        {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 1,
-            ["totalFlightHours"] = 0,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 23, 2020 at 17 18 25",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 23, 2020 at 17 18 39",
-            ["hoursHosted"] = 0.033333888888889,
-        }, -- end of ["Turkey_Smokers_3"]
-        ["map development 2"] = 
+            ["mostRecentPlayed"] = "Jun 20, 2020 at 11 03 42",
+            ["hoursHosted"] = 28.936556388889,
+        }, -- end of ["Operation Rolling Thunder V5"]
+        ["4YA_NEW_EVENT2_8"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 6,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 5.9301327777777,
+            ["timesPlayed"] = 17,
+            ["maxClients"] = 26,
+            ["totalFlightHours"] = 223.23536194444,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 03, 2020 at 18 19 10",
+            ["firstPlayed"] = "Jan 28, 2021 at 21 13 53",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 04, 2020 at 19 18 00",
-            ["hoursHosted"] = 3.5002211111111,
-        }, -- end of ["map development 2"]
+            ["mostRecentPlayed"] = "Feb 07, 2021 at 01 17 12",
+            ["hoursHosted"] = 77.732156388888,
+        }, -- end of ["4YA_NEW_EVENT2_8"]
+        ["24FEB20_NEVADA_Operation_Black_Spire_v105"] = 
+        {
+            ["map"] = "Nevada",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 2.7594466666667,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Mar 12, 2020 at 19 13 48",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Mar 16, 2020 at 18 22 57",
+            ["hoursHosted"] = 1.9834477777778,
+        }, -- end of ["24FEB20_NEVADA_Operation_Black_Spire_v105"]
         ["OPERATION RHINOS HORN3456"] = 
         {
             ["map"] = "Caucasus",
@@ -1252,18 +1252,18 @@ metaStats =
             ["mostRecentPlayed"] = "May 27, 2020 at 18 22 14",
             ["hoursHosted"] = 1.0667438888889,
         }, -- end of ["OPERATION RHINOS HORN3456"]
-        ["map development 8"] = 
+        ["4YA_Syria_Capture_Bases_BLUE_v28D"] = 
         {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 0,
-            ["totalFlightHours"] = 0,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 13,
+            ["totalFlightHours"] = 63.431768611111,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 04, 2020 at 20 28 48",
+            ["firstPlayed"] = "Nov 10, 2020 at 16 17 21",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 04, 2020 at 20 30 26",
-            ["hoursHosted"] = 0,
-        }, -- end of ["map development 8"]
+            ["mostRecentPlayed"] = "Nov 28, 2020 at 00 07 19",
+            ["hoursHosted"] = 44.571168055555,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28D"]
         ["Caucasus Playground V7"] = 
         {
             ["map"] = "Caucasus",
@@ -1288,30 +1288,30 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 28, 2020 at 15 52 01",
             ["hoursHosted"] = 38.639188888888,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG20"]
-        ["4YA_Nevada_Capture_bases_v08A"] = 
+        ["4YA_Capture_Bases_Full_War_V34D"] = 
         {
-            ["map"] = "Nevada",
-            ["timesPlayed"] = 8,
-            ["maxClients"] = 2,
-            ["totalFlightHours"] = 0,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 25,
+            ["maxClients"] = 32,
+            ["totalFlightHours"] = 525.61291138886,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 03, 2020 at 15 27 27",
+            ["firstPlayed"] = "Dec 01, 2020 at 17 57 44",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 07, 2020 at 16 55 51",
-            ["hoursHosted"] = 0.06667,
-        }, -- end of ["4YA_Nevada_Capture_bases_v08A"]
-        ["Operation_Secure_Passage_day-2_04 (1)"] = 
+            ["mostRecentPlayed"] = "Jan 11, 2021 at 09 37 34",
+            ["hoursHosted"] = 242.21373000001,
+        }, -- end of ["4YA_Capture_Bases_Full_War_V34D"]
+        ["Operation_Secure_Passage_day-2_04"] = 
         {
             ["map"] = "PersianGulf",
-            ["timesPlayed"] = 4,
+            ["timesPlayed"] = 3,
             ["maxClients"] = 8,
-            ["totalFlightHours"] = 10.604224722222,
+            ["totalFlightHours"] = 4.5915097222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 15, 2020 at 18 18 15",
+            ["firstPlayed"] = "Apr 14, 2020 at 18 28 29",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 16, 2020 at 18 28 51",
-            ["hoursHosted"] = 24.118223888889,
-        }, -- end of ["Operation_Secure_Passage_day-2_04 (1)"]
+            ["mostRecentPlayed"] = "Apr 15, 2020 at 18 18 01",
+            ["hoursHosted"] = 2.3835063888889,
+        }, -- end of ["Operation_Secure_Passage_day-2_04"]
         ["Operation Rolling Thunder V1"] = 
         {
             ["map"] = "PersianGulf",
@@ -1324,42 +1324,42 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 16, 2020 at 06 35 53",
             ["hoursHosted"] = 53.387024444444,
         }, -- end of ["Operation Rolling Thunder V1"]
-        ["OPERATION RHINOS HORN DAY 1A"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 3,
-            ["totalFlightHours"] = 0,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 25, 2020 at 20 58 43",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 25, 2020 at 21 03 14",
-            ["hoursHosted"] = 0.033336388888889,
-        }, -- end of ["OPERATION RHINOS HORN DAY 1A"]
-        ["Operation Rolling Thunder V3"] = 
+        ["Operation_Secure_Passage_day-2_04 (1)"] = 
         {
             ["map"] = "PersianGulf",
             ["timesPlayed"] = 4,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 3.5376786111111,
+            ["maxClients"] = 8,
+            ["totalFlightHours"] = 10.604224722222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 18, 2020 at 13 41 03",
+            ["firstPlayed"] = "Apr 15, 2020 at 18 18 15",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 18, 2020 at 18 43 33",
-            ["hoursHosted"] = 5.0840769444444,
-        }, -- end of ["Operation Rolling Thunder V3"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28B"] = 
+            ["mostRecentPlayed"] = "Apr 16, 2020 at 18 28 51",
+            ["hoursHosted"] = 24.118223888889,
+        }, -- end of ["Operation_Secure_Passage_day-2_04 (1)"]
+        ["map_development_29"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 9,
-            ["maxClients"] = 14,
-            ["totalFlightHours"] = 94.829044722223,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 9,
+            ["totalFlightHours"] = 25.798594444444,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 08, 2020 at 20 52 45",
+            ["firstPlayed"] = "May 15, 2020 at 12 42 44",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 27, 2020 at 09 43 58",
-            ["hoursHosted"] = 60.70622611111,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28B"]
+            ["mostRecentPlayed"] = "May 15, 2020 at 17 11 44",
+            ["hoursHosted"] = 28.751904444444,
+        }, -- end of ["map_development_29"]
+        ["map_development_28"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 1,
+            ["maxClients"] = 1,
+            ["totalFlightHours"] = 0,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "May 14, 2020 at 19 55 25",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "May 14, 2020 at 19 55 25",
+            ["hoursHosted"] = 16.684390277778,
+        }, -- end of ["map_development_28"]
         ["JF-17 Aggressor"] = 
         {
             ["map"] = "PersianGulf",
@@ -1372,66 +1372,42 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 22, 2020 at 14 57 30",
             ["hoursHosted"] = 0,
         }, -- end of ["JF-17 Aggressor"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28C"] = 
+        ["4YA_Capture_Bases_Full_War_V35C"] = 
         {
-            ["map"] = "Syria",
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 78,
+            ["maxClients"] = 32,
+            ["totalFlightHours"] = 572.45756416668,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Jan 12, 2021 at 20 45 17",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Jan 28, 2021 at 21 11 12",
+            ["hoursHosted"] = 112.15321972222,
+        }, -- end of ["4YA_Capture_Bases_Full_War_V35C"]
+        ["map_development_31"] = 
+        {
+            ["map"] = "Caucasus",
             ["timesPlayed"] = 11,
-            ["maxClients"] = 21,
-            ["totalFlightHours"] = 172.97753166667,
+            ["maxClients"] = 11,
+            ["totalFlightHours"] = 48.441228611111,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 08, 2020 at 20 59 49",
+            ["firstPlayed"] = "May 16, 2020 at 20 27 33",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 26, 2020 at 19 46 00",
-            ["hoursHosted"] = 85.274641666666,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28C"]
-        ["4YA_Syria_Capture_Bases_BLUE_v27B"] = 
-        {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 6,
-            ["maxClients"] = 34,
-            ["totalFlightHours"] = 201.90705083333,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 30, 2020 at 22 30 34",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 06, 2020 at 01 04 35",
-            ["hoursHosted"] = 35.771030833334,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27B"]
-        ["map_development_30"] = 
+            ["mostRecentPlayed"] = "May 24, 2020 at 01 52 32",
+            ["hoursHosted"] = 123.25782916667,
+        }, -- end of ["map_development_31"]
+        ["EDITED_Operation_Clear_Field_vBG11"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 0.088923333333333,
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 3.3411336111111,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 16, 2020 at 17 31 36",
+            ["firstPlayed"] = "Mar 22, 2020 at 19 12 41",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 16, 2020 at 20 12 02",
-            ["hoursHosted"] = 2.8501988888889,
-        }, -- end of ["map_development_30"]
-        ["map development 11"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 5,
-            ["totalFlightHours"] = 4.4183938888889,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 04, 2020 at 21 01 35",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 05, 2020 at 17 43 14",
-            ["hoursHosted"] = 2.6835094444444,
-        }, -- end of ["map development 11"]
-        ["4YA_NEW_EVENT4_2"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 40,
-            ["totalFlightHours"] = 71.7403025,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 13, 2021 at 13 27 19",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 13, 2021 at 19 01 31",
-            ["hoursHosted"] = 4.2506127777778,
-        }, -- end of ["4YA_NEW_EVENT4_2"]
+            ["mostRecentPlayed"] = "Mar 23, 2020 at 17 23 11",
+            ["hoursHosted"] = 1.5834358333333,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG11"]
         ["4YA_CAP_Training_V07"] = 
         {
             ["map"] = "Caucasus",
@@ -1444,18 +1420,42 @@ metaStats =
             ["mostRecentPlayed"] = "Jul 14, 2020 at 19 21 45",
             ["hoursHosted"] = 15.068629722222,
         }, -- end of ["4YA_CAP_Training_V07"]
-        ["OPERATION RHINOS HORN DAY 5"] = 
+        ["4YA_NEW_EVENT4_2"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 1,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 9.1258875,
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 40,
+            ["totalFlightHours"] = 71.7403025,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 29, 2020 at 19 29 53",
+            ["firstPlayed"] = "Mar 13, 2021 at 13 27 19",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 29, 2020 at 19 29 53",
-            ["hoursHosted"] = 16.151051666667,
-        }, -- end of ["OPERATION RHINOS HORN DAY 5"]
+            ["mostRecentPlayed"] = "Mar 13, 2021 at 19 01 31",
+            ["hoursHosted"] = 4.2506127777778,
+        }, -- end of ["4YA_NEW_EVENT4_2"]
+        ["map development 11"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 5,
+            ["totalFlightHours"] = 4.4183938888889,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "May 04, 2020 at 21 01 35",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "May 05, 2020 at 17 43 14",
+            ["hoursHosted"] = 2.6835094444444,
+        }, -- end of ["map development 11"]
+        ["4YA_Syria_Capture_Bases_BLUE_v28A"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 12,
+            ["totalFlightHours"] = 44.364494444444,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Nov 14, 2020 at 16 52 58",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 21, 2020 at 17 37 15",
+            ["hoursHosted"] = 22.035425555556,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28A"]
         ["Turkey_Smokers_2A"] = 
         {
             ["map"] = "PersianGulf",
@@ -1468,18 +1468,18 @@ metaStats =
             ["mostRecentPlayed"] = "May 07, 2020 at 21 08 22",
             ["hoursHosted"] = 2.033455,
         }, -- end of ["Turkey_Smokers_2A"]
-        ["4YA_Full_War_EVENT_18_10_v07"] = 
+        ["4YA_Syria_Capture_Bases_BLUE_v27A"] = 
         {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 4,
-            ["totalFlightHours"] = 0.13342222222222,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 15,
+            ["maxClients"] = 38,
+            ["totalFlightHours"] = 309.1546336111,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 18, 2020 at 18 18 23",
+            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Oct 27, 2020 at 19 59 52",
-            ["hoursHosted"] = 0.16669027777778,
-        }, -- end of ["4YA_Full_War_EVENT_18_10_v07"]
+            ["mostRecentPlayed"] = "Nov 08, 2020 at 17 45 25",
+            ["hoursHosted"] = 71.14056638889,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27A"]
         ["NEWCAUCUSES"] = 
         {
             ["map"] = "Caucasus",
@@ -1540,30 +1540,30 @@ metaStats =
             ["mostRecentPlayed"] = "May 04, 2020 at 20 37 31",
             ["hoursHosted"] = 0,
         }, -- end of ["map development 9"]
-        ["4YA_Syria_Capture_Bases_BLUE_v27A"] = 
+        ["4YA_Full_War_EVENT_18_10_v07"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 15,
-            ["maxClients"] = 38,
-            ["totalFlightHours"] = 309.1546336111,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 4,
+            ["totalFlightHours"] = 0.13342222222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
+            ["firstPlayed"] = "Oct 18, 2020 at 18 18 23",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 08, 2020 at 17 45 25",
-            ["hoursHosted"] = 71.14056638889,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27A"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28A"] = 
+            ["mostRecentPlayed"] = "Oct 27, 2020 at 19 59 52",
+            ["hoursHosted"] = 0.16669027777778,
+        }, -- end of ["4YA_Full_War_EVENT_18_10_v07"]
+        ["OPERATION RHINOS HORN DAY 5"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 12,
-            ["totalFlightHours"] = 44.364494444444,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 1,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 9.1258875,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 14, 2020 at 16 52 58",
+            ["firstPlayed"] = "May 29, 2020 at 19 29 53",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 21, 2020 at 17 37 15",
-            ["hoursHosted"] = 22.035425555556,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28A"]
+            ["mostRecentPlayed"] = "May 29, 2020 at 19 29 53",
+            ["hoursHosted"] = 16.151051666667,
+        }, -- end of ["OPERATION RHINOS HORN DAY 5"]
         ["Persian Gulf Playground V3"] = 
         {
             ["map"] = "PersianGulf",
@@ -1576,90 +1576,90 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 06, 2020 at 17 22 01",
             ["hoursHosted"] = 119.32947555556,
         }, -- end of ["Persian Gulf Playground V3"]
-        ["EDITED_Operation_Clear_Field_vBG11"] = 
+        ["map_development_30"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 3,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 0.088923333333333,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "May 16, 2020 at 17 31 36",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "May 16, 2020 at 20 12 02",
+            ["hoursHosted"] = 2.8501988888889,
+        }, -- end of ["map_development_30"]
+        ["4YA_Syria_Capture_Bases_BLUE_v27B"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 6,
+            ["maxClients"] = 34,
+            ["totalFlightHours"] = 201.90705083333,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Oct 30, 2020 at 22 30 34",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 06, 2020 at 01 04 35",
+            ["hoursHosted"] = 35.771030833334,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27B"]
+        ["4YA_Syria_Capture_Bases_BLUE_v28C"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 11,
+            ["maxClients"] = 21,
+            ["totalFlightHours"] = 172.97753166667,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Nov 08, 2020 at 20 59 49",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 26, 2020 at 19 46 00",
+            ["hoursHosted"] = 85.274641666666,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28C"]
+        ["4YA_Syria_Capture_Bases_BLUE_v28B"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 9,
+            ["maxClients"] = 14,
+            ["totalFlightHours"] = 94.829044722223,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Nov 08, 2020 at 20 52 45",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 27, 2020 at 09 43 58",
+            ["hoursHosted"] = 60.70622611111,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28B"]
+        ["Operation Rolling Thunder V3"] = 
+        {
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 3.5376786111111,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Jun 18, 2020 at 13 41 03",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Jun 18, 2020 at 18 43 33",
+            ["hoursHosted"] = 5.0840769444444,
+        }, -- end of ["Operation Rolling Thunder V3"]
+        ["OPERATION RHINOS HORN DAY 1A"] = 
         {
             ["map"] = "Caucasus",
             ["timesPlayed"] = 2,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 3.3411336111111,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 22, 2020 at 19 12 41",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 23, 2020 at 17 23 11",
-            ["hoursHosted"] = 1.5834358333333,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG11"]
-        ["map_development_31"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 11,
-            ["maxClients"] = 11,
-            ["totalFlightHours"] = 48.441228611111,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 16, 2020 at 20 27 33",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 24, 2020 at 01 52 32",
-            ["hoursHosted"] = 123.25782916667,
-        }, -- end of ["map_development_31"]
-        ["4YA_Capture_Bases_Full_War_V35C"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 78,
-            ["maxClients"] = 32,
-            ["totalFlightHours"] = 572.45756416668,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jan 12, 2021 at 20 45 17",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jan 28, 2021 at 21 11 12",
-            ["hoursHosted"] = 112.15321972222,
-        }, -- end of ["4YA_Capture_Bases_Full_War_V35C"]
-        ["map_development_28"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 1,
-            ["maxClients"] = 1,
+            ["maxClients"] = 3,
             ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 14, 2020 at 19 55 25",
+            ["firstPlayed"] = "Jun 25, 2020 at 20 58 43",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 14, 2020 at 19 55 25",
-            ["hoursHosted"] = 16.684390277778,
-        }, -- end of ["map_development_28"]
-        ["map_development_29"] = 
+            ["mostRecentPlayed"] = "Jun 25, 2020 at 21 03 14",
+            ["hoursHosted"] = 0.033336388888889,
+        }, -- end of ["OPERATION RHINOS HORN DAY 1A"]
+        ["4YA_Nevada_Capture_bases_v08A"] = 
         {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 9,
-            ["totalFlightHours"] = 25.798594444444,
+            ["map"] = "Nevada",
+            ["timesPlayed"] = 8,
+            ["maxClients"] = 2,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 15, 2020 at 12 42 44",
+            ["firstPlayed"] = "May 03, 2020 at 15 27 27",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 15, 2020 at 17 11 44",
-            ["hoursHosted"] = 28.751904444444,
-        }, -- end of ["map_development_29"]
-        ["Operation_Secure_Passage_day-2_04"] = 
-        {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 8,
-            ["totalFlightHours"] = 4.5915097222222,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 14, 2020 at 18 28 29",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 15, 2020 at 18 18 01",
-            ["hoursHosted"] = 2.3835063888889,
-        }, -- end of ["Operation_Secure_Passage_day-2_04"]
-        ["4YA_Capture_Bases_Full_War_V34D"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 25,
-            ["maxClients"] = 32,
-            ["totalFlightHours"] = 525.61291138886,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Dec 01, 2020 at 17 57 44",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jan 11, 2021 at 09 37 34",
-            ["hoursHosted"] = 242.21373000001,
-        }, -- end of ["4YA_Capture_Bases_Full_War_V34D"]
+            ["mostRecentPlayed"] = "May 07, 2020 at 16 55 51",
+            ["hoursHosted"] = 0.06667,
+        }, -- end of ["4YA_Nevada_Capture_bases_v08A"]
         ["EDITED_Operation_Clear_Field_vBG15"] = 
         {
             ["map"] = "Caucasus",
@@ -1672,18 +1672,18 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 24, 2020 at 17 44 32",
             ["hoursHosted"] = 0.98339888888889,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG15"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28D"] = 
+        ["map development 8"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 13,
-            ["totalFlightHours"] = 63.431768611111,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 0,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 10, 2020 at 16 17 21",
+            ["firstPlayed"] = "May 04, 2020 at 20 28 48",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 28, 2020 at 00 07 19",
-            ["hoursHosted"] = 44.571168055555,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28D"]
+            ["mostRecentPlayed"] = "May 04, 2020 at 20 30 26",
+            ["hoursHosted"] = 0,
+        }, -- end of ["map development 8"]
         ["OPERATION RHINOS HORN"] = 
         {
             ["map"] = "Caucasus",
@@ -1696,42 +1696,42 @@ metaStats =
             ["mostRecentPlayed"] = "May 27, 2020 at 18 22 02",
             ["hoursHosted"] = 53.150904444445,
         }, -- end of ["OPERATION RHINOS HORN"]
-        ["24FEB20_NEVADA_Operation_Black_Spire_v105"] = 
-        {
-            ["map"] = "Nevada",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 2.7594466666667,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 12, 2020 at 19 13 48",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 16, 2020 at 18 22 57",
-            ["hoursHosted"] = 1.9834477777778,
-        }, -- end of ["24FEB20_NEVADA_Operation_Black_Spire_v105"]
-        ["4YA_NEW_EVENT2_8"] = 
+        ["map development 2"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 17,
-            ["maxClients"] = 26,
-            ["totalFlightHours"] = 223.23536194444,
+            ["timesPlayed"] = 6,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 5.9301327777777,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jan 28, 2021 at 21 13 53",
+            ["firstPlayed"] = "May 03, 2020 at 18 19 10",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Feb 07, 2021 at 01 17 12",
-            ["hoursHosted"] = 77.732156388888,
-        }, -- end of ["4YA_NEW_EVENT2_8"]
-        ["Operation Rolling Thunder V5"] = 
+            ["mostRecentPlayed"] = "May 04, 2020 at 19 18 00",
+            ["hoursHosted"] = 3.5002211111111,
+        }, -- end of ["map development 2"]
+        ["Turkey_Smokers_3"] = 
         {
             ["map"] = "PersianGulf",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 31.495446944444,
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 1,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 19, 2020 at 16 07 19",
+            ["firstPlayed"] = "May 23, 2020 at 17 18 25",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 20, 2020 at 11 03 42",
-            ["hoursHosted"] = 28.936556388889,
-        }, -- end of ["Operation Rolling Thunder V5"]
+            ["mostRecentPlayed"] = "May 23, 2020 at 17 18 39",
+            ["hoursHosted"] = 0.033333888888889,
+        }, -- end of ["Turkey_Smokers_3"]
+        ["EDITED_Operation_Snowfox_v127"] = 
+        {
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 1,
+            ["totalFlightHours"] = 0,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Mar 18, 2020 at 18 47 09",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Apr 02, 2020 at 19 12 37",
+            ["hoursHosted"] = 0.43336166666667,
+        }, -- end of ["EDITED_Operation_Snowfox_v127"]
         ["EDITED_Operation_Clear_Field_vBG3"] = 
         {
             ["map"] = "Caucasus",
@@ -1744,18 +1744,18 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 20, 2020 at 20 01 54",
             ["hoursHosted"] = 23.118218055556,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG3"]
-        ["OPERATION RHINOS HORN DAY 4"] = 
+        ["SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 14.358332777778,
+            ["timesPlayed"] = 8,
+            ["maxClients"] = 2,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 28, 2020 at 21 07 05",
+            ["firstPlayed"] = "Jun 25, 2021 at 17 51 05",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 30, 2020 at 17 19 05",
-            ["hoursHosted"] = 21.451371666667,
-        }, -- end of ["OPERATION RHINOS HORN DAY 4"]
+            ["mostRecentPlayed"] = "Jul 23, 2021 at 18 52 58",
+            ["hoursHosted"] = 0.11667694444444,
+        }, -- end of ["SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)"]
     }, -- end of ["missionStats"]
     ["missionStatsFile"] = 
     {
@@ -1764,3 +1764,30 @@ metaStats =
     }, -- end of ["missionStatsFile"]
 } -- end of metaStats
 
+metaStats["missionStatsFile"]["previousMissionFile"] = "SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)- Jul 23, 2021 at 18 52 58.lua"
+metaStats["missionStatsFile"]["currentMissionFile"] = "4YA_Marianas_LS_V.1.7- Sep 26, 2021 at 14 49 38.lua"
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"] = { }
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["firstPlayed"] = "Sep 26, 2021 at 14 49 38"
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["mostRecentPlayed"] = "Sep 26, 2021 at 14 49 38"
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["map"] = "MarianaIslands"
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["timesPlayed"] = 1
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["hoursHosted"] = 0
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["totalFlightHours"] = 0
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["maxClients"] = 0
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["voteEnabled"] = true
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["totalVoteLoaded"] = 0
+metaStats["mapStats"]["MarianaIslands"] = { }
+metaStats["mapStats"]["MarianaIslands"]["firstPlayed"] = "Sep 26, 2021 at 14 49 38"
+metaStats["mapStats"]["MarianaIslands"]["mostRecentPlayed"] = "Sep 26, 2021 at 14 49 38"
+metaStats["mapStats"]["MarianaIslands"]["missions"] = { }
+metaStats["mapStats"]["MarianaIslands"]["timesPlayed"] = 1
+metaStats["mapStats"]["MarianaIslands"]["hoursHosted"] = 0
+metaStats["mapStats"]["MarianaIslands"]["totalFlightHours"] = 0
+metaStats["mapStats"]["MarianaIslands"]["maxClients"] = 0
+metaStats["mapStats"]["MarianaIslands"]["missions"]["4YA_Marianas_LS_V.1.7"] = "Sep 26, 2021 at 14 49 38"
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["totalFlightHours"] = 0
+metaStats["mapStats"]["MarianaIslands"]["totalFlightHours"] = 0
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["totalFlightHours"] = 0
+metaStats["mapStats"]["MarianaIslands"]["totalFlightHours"] = 0
+metaStats["missionStats"]["4YA_Marianas_LS_V.1.7"]["totalFlightHours"] = 0
+metaStats["mapStats"]["MarianaIslands"]["totalFlightHours"] = 0

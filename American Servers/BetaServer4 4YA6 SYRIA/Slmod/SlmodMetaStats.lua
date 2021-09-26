@@ -2,37 +2,6 @@ metaStats =
 {
     ["mapStats"] = 
     {
-        ["Syria"] = 
-        {
-            ["totalFlightHours"] = 20969.903121931,
-            ["mostRecentPlayed"] = "Aug 05, 2021 at 15 14 12",
-            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
-            ["missions"] = 
-            {
-                ["4YA_Syria_Capture_Bases_BLUE_v25C"] = "Oct 27, 2020 at 20 16 16",
-                ["4YA_Syria_Capture_Bases_BLUE_v27B"] = "Oct 30, 2020 at 22 30 34",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v31ClearDay"] = "Jun 26, 2021 at 20 17 44",
-                ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"] = "May 04, 2021 at 08 50 20",
-                ["4YA_Syria_Capture_Bases_BLUE_v27A"] = "Oct 27, 2020 at 19 59 21",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"] = "May 20, 2021 at 06 43 37",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"] = "May 03, 2021 at 21 48 09",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v30B"] = "May 19, 2021 at 23 18 03",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v29B"] = "May 02, 2021 at 21 39 49",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"] = "Jun 26, 2021 at 23 32 29",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"] = "Jun 26, 2021 at 16 24 55",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v29O"] = "May 03, 2021 at 04 14 16",
-                ["4YA_Syria_Capture_Bases_BLUE_v28D"] = "Nov 10, 2020 at 16 17 21",
-                ["4YA_Syria_Capture_Bases_BLUE_v28C"] = "Nov 08, 2020 at 20 59 49",
-                ["4YA_Syria_Capture_Bases_BLUE_v28A"] = "Nov 14, 2020 at 16 52 58",
-                ["4YA_Syria_Capture_Bases_BLUE-KING_v30O"] = "May 22, 2021 at 14 49 15",
-                ["4YA_Syria_Capture_Bases_BLUE_v26D"] = "Oct 28, 2020 at 21 20 30",
-                ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"] = "May 19, 2021 at 17 36 53",
-                ["4YA_Syria_Capture_Bases_BLUE_v28B"] = "Nov 08, 2020 at 20 52 45",
-            }, -- end of ["missions"]
-            ["maxClients"] = 42,
-            ["timesPlayed"] = 493,
-            ["hoursHosted"] = 3460.3840622185,
-        }, -- end of ["Syria"]
         ["Caucasus"] = 
         {
             ["totalFlightHours"] = 5322.4670705559,
@@ -82,37 +51,37 @@ metaStats =
                 ["OPERATION RHINOS HORN DAY 1A"] = "Jun 25, 2020 at 20 58 43",
                 ["EDITED_Operation_Clear_Field_vBG17"] = "Mar 25, 2020 at 17 41 51",
                 ["map_development_23"] = "May 08, 2020 at 23 08 17",
-                ["Caucasus Playground V4"] = "Apr 03, 2020 at 18 37 21",
-                ["EDITED_Operation_Clear_Field_vBG13"] = "Mar 22, 2020 at 20 48 23",
+                ["EDITED_Operation_Clear_Field_vBG20"] = "Mar 26, 2020 at 23 44 30",
+                ["Caucasus Playground V5"] = "Apr 04, 2020 at 10 01 47",
                 ["map_development_25A"] = "May 10, 2020 at 19 23 05",
-                ["map development 7"] = "May 04, 2020 at 20 12 15",
-                ["OPERATION RHINOS HORN"] = "May 24, 2020 at 14 02 51",
-                ["map development 11"] = "May 04, 2020 at 21 01 35",
+                ["OPERATION RHINOS HORN3456"] = "May 27, 2020 at 18 22 14",
+                ["4YA_NEW_EVENT2_8"] = "Feb 27, 2021 at 11 27 42",
                 ["4YA_CAP_Training_V07"] = "Jul 09, 2020 at 20 00 48",
+                ["map development 11"] = "May 04, 2020 at 21 01 35",
                 ["map_development_31"] = "May 16, 2020 at 20 27 33",
-                ["Caucasus Playground V7"] = "May 04, 2020 at 19 44 20",
+                ["EDITED_Operation_Clear_Field_vBG22"] = "Mar 30, 2020 at 12 05 12",
                 ["4YA_Capture_Bases_Full_War_V36C"] = "Mar 13, 2021 at 23 35 26",
                 ["NEWCAUCUSES"] = "May 22, 2020 at 18 10 03",
-                ["OPERATION RHINOS HORN DAY 4"] = "May 28, 2020 at 21 07 05",
-                ["4YA_Full_War_EVENT_18_10_v07"] = "Oct 18, 2020 at 18 18 23",
+                ["EDITED_Operation_Clear_Field_v120"] = "Mar 10, 2020 at 17 18 14",
+                ["map development 15"] = "May 06, 2020 at 16 36 41",
                 ["Caucasus Playground V6"] = "Apr 07, 2020 at 20 48 41",
                 ["map development 9"] = "May 04, 2020 at 20 33 11",
-                ["map development 15"] = "May 06, 2020 at 16 36 41",
+                ["4YA_Full_War_EVENT_18_10_v07"] = "Oct 18, 2020 at 18 18 23",
                 ["map_development_24"] = "May 09, 2020 at 16 24 07",
                 ["map development 10"] = "May 04, 2020 at 20 40 13",
+                ["EDITED_Operation_Clear_Field_vBG16"] = "Mar 24, 2020 at 18 44 24",
                 ["EDITED_Operation_Clear_Field_vBG21"] = "Mar 28, 2020 at 15 52 18",
                 ["EDITED_Operation_Clear_Field_vBG11"] = "Mar 22, 2020 at 19 12 41",
-                ["EDITED_Operation_Clear_Field_vBG16"] = "Mar 24, 2020 at 18 44 24",
                 ["map development 5"] = "May 04, 2020 at 19 44 08",
                 ["map_development_29"] = "May 15, 2020 at 12 42 44",
-                ["EDITED_Operation_Clear_Field_v120"] = "Mar 10, 2020 at 17 18 14",
-                ["EDITED_Operation_Clear_Field_vBG22"] = "Mar 30, 2020 at 12 05 12",
+                ["OPERATION RHINOS HORN DAY 4"] = "May 28, 2020 at 21 07 05",
+                ["Caucasus Playground V7"] = "May 04, 2020 at 19 44 20",
                 ["EDITED_Operation_Clear_Field_vBG15"] = "Mar 24, 2020 at 17 44 24",
                 ["EDITED_Operation_Clear_Field_vBG18"] = "Mar 26, 2020 at 19 11 34",
-                ["4YA_NEW_EVENT2_8"] = "Feb 27, 2021 at 11 27 42",
-                ["OPERATION RHINOS HORN3456"] = "May 27, 2020 at 18 22 14",
-                ["Caucasus Playground V5"] = "Apr 04, 2020 at 10 01 47",
-                ["EDITED_Operation_Clear_Field_vBG20"] = "Mar 26, 2020 at 23 44 30",
+                ["map development 7"] = "May 04, 2020 at 20 12 15",
+                ["OPERATION RHINOS HORN"] = "May 24, 2020 at 14 02 51",
+                ["EDITED_Operation_Clear_Field_vBG13"] = "Mar 22, 2020 at 20 48 23",
+                ["Caucasus Playground V4"] = "Apr 03, 2020 at 18 37 21",
                 ["EDITED_Operation_Clear_Field_vBG3"] = "Mar 18, 2020 at 19 13 58",
                 ["map development 17"] = "May 06, 2020 at 17 22 12",
             }, -- end of ["missions"]
@@ -120,6 +89,38 @@ metaStats =
             ["timesPlayed"] = 463,
             ["hoursHosted"] = 2084.1815052783,
         }, -- end of ["Caucasus"]
+        ["Syria"] = 
+        {
+            ["totalFlightHours"] = 20970.108852209,
+            ["mostRecentPlayed"] = "Aug 05, 2021 at 20 01 42",
+            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
+            ["missions"] = 
+            {
+                ["4YA_Syria_Capture_Bases_BLUE_v25C"] = "Oct 27, 2020 at 20 16 16",
+                ["4YA_Syria_Capture_Bases_BLUE_v27B"] = "Oct 30, 2020 at 22 30 34",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v31ClearDay"] = "Jun 26, 2021 at 20 17 44",
+                ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"] = "May 04, 2021 at 08 50 20",
+                ["4YA_Syria_Capture_Bases_BLUE_v27A"] = "Oct 27, 2020 at 19 59 21",
+                ["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"] = "Aug 05, 2021 at 20 01 42",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"] = "May 20, 2021 at 06 43 37",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"] = "May 03, 2021 at 21 48 09",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v30B"] = "May 19, 2021 at 23 18 03",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v29B"] = "May 02, 2021 at 21 39 49",
+                ["4YA_Syria_Capture_Bases_BLUE_v28B"] = "Nov 08, 2020 at 20 52 45",
+                ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"] = "May 19, 2021 at 17 36 53",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v29O"] = "May 03, 2021 at 04 14 16",
+                ["4YA_Syria_Capture_Bases_BLUE_v28D"] = "Nov 10, 2020 at 16 17 21",
+                ["4YA_Syria_Capture_Bases_BLUE_v26D"] = "Oct 28, 2020 at 21 20 30",
+                ["4YA_Syria_Capture_Bases_BLUE_v28A"] = "Nov 14, 2020 at 16 52 58",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v30O"] = "May 22, 2021 at 14 49 15",
+                ["4YA_Syria_Capture_Bases_BLUE_v28C"] = "Nov 08, 2020 at 20 59 49",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"] = "Jun 26, 2021 at 16 24 55",
+                ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"] = "Jun 26, 2021 at 23 32 29",
+            }, -- end of ["missions"]
+            ["maxClients"] = 42,
+            ["timesPlayed"] = 495,
+            ["hoursHosted"] = 3460.7341052741,
+        }, -- end of ["Syria"]
         ["PersianGulf"] = 
         {
             ["totalFlightHours"] = 696.55986999998,
@@ -154,13 +155,13 @@ metaStats =
                 ["4YA_Capture_Bases_Persian_Large_v22A"] = "Dec 03, 2020 at 13 01 05",
                 ["Operation Rolling Thunder V3"] = "Jun 18, 2020 at 13 41 03",
                 ["4YA_Capture_Bases_Persian_Full_War_v17A"] = "Jul 14, 2020 at 19 22 15",
-                ["Operation_Secure_Passage_day-2_09_nocv"] = "Apr 28, 2020 at 17 55 45",
-                ["Turkey_Smokers1"] = "Apr 23, 2020 at 20 10 08",
-                ["Turkey_Smokers_2"] = "May 07, 2020 at 17 51 09",
-                ["OG_Operation_Snowfox_v124"] = "Mar 09, 2020 at 21 58 41",
-                ["Operation_Secure_Passage_day-2_09"] = "Apr 18, 2020 at 15 16 50",
-                ["JF-17 Aggressor"] = "Mar 22, 2020 at 14 57 30",
                 ["Operation_Secure_Passage_day-2_04"] = "Apr 14, 2020 at 18 28 29",
+                ["JF-17 Aggressor"] = "Mar 22, 2020 at 14 57 30",
+                ["Turkey_Smokers_2"] = "May 07, 2020 at 17 51 09",
+                ["Operation_Secure_Passage_day-2_09"] = "Apr 18, 2020 at 15 16 50",
+                ["OG_Operation_Snowfox_v124"] = "Mar 09, 2020 at 21 58 41",
+                ["Turkey_Smokers1"] = "Apr 23, 2020 at 20 10 08",
+                ["Operation_Secure_Passage_day-2_09_nocv"] = "Apr 28, 2020 at 17 55 45",
                 ["Operation Rolling Thunder V6"] = "Jun 20, 2020 at 21 19 55",
                 ["Operation Rolling Thunder V7"] = "Jun 23, 2020 at 19 08 39",
             }, -- end of ["missions"]
@@ -182,8 +183,8 @@ metaStats =
                 ["24FEB20_NEVADA_Operation_Black_Spire_v105"] = "Mar 12, 2020 at 19 13 48",
                 ["Nevada Playground V1"] = "Apr 06, 2020 at 18 38 49",
                 ["NTTR_VFR-1_09"] = "Apr 29, 2020 at 19 36 48",
-                ["Nevada Playground V2"] = "Apr 11, 2020 at 15 15 54",
                 ["Operation_Black_Spire_vBG3"] = "Mar 16, 2020 at 21 30 04",
+                ["Nevada Playground V2"] = "Apr 11, 2020 at 15 15 54",
             }, -- end of ["missions"]
             ["maxClients"] = 12,
             ["timesPlayed"] = 57,
@@ -699,13 +700,13 @@ metaStats =
         ["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"] = 
         {
             ["map"] = "Syria",
-            ["timesPlayed"] = 46,
+            ["timesPlayed"] = 47,
             ["maxClients"] = 40,
             ["totalFlightHours"] = 1503.3649597226,
             ["voteEnabled"] = true,
             ["firstPlayed"] = "Jun 26, 2021 at 16 24 55",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Aug 04, 2021 at 22 16 22",
+            ["mostRecentPlayed"] = "Aug 05, 2021 at 20 00 57",
             ["hoursHosted"] = 371.79972611109,
         }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"]
         ["4YA_Capture_Bases_Full_War_V36C"] = 
@@ -1044,6 +1045,18 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 21, 2020 at 14 54 52",
             ["hoursHosted"] = 0.1333425,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG7"]
+        ["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 1,
+            ["maxClients"] = 5,
+            ["totalFlightHours"] = 0.20573027777778,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Aug 05, 2021 at 20 01 42",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Aug 05, 2021 at 20 01 42",
+            ["hoursHosted"] = 0.35004305555556,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]
         ["4YA_Syria_Capture_Bases_BLUE-KING_v30O"] = 
         {
             ["map"] = "Syria",
@@ -1056,18 +1069,18 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 25, 2021 at 13 12 03",
             ["hoursHosted"] = 162.51674083333,
         }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v30O"]
-        ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"] = 
+        ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"] = 
         {
             ["map"] = "Syria",
-            ["timesPlayed"] = 27,
+            ["timesPlayed"] = 10,
             ["maxClients"] = 40,
-            ["totalFlightHours"] = 1234.6912483334,
+            ["totalFlightHours"] = 571.21085527778,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 26, 2021 at 23 32 29",
+            ["firstPlayed"] = "May 04, 2021 at 08 50 20",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Aug 04, 2021 at 16 22 15",
-            ["hoursHosted"] = 197.54816833332,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"]
+            ["mostRecentPlayed"] = "May 19, 2021 at 14 10 32",
+            ["hoursHosted"] = 70.563826111111,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"]
         ["4YA_Syria_Capture_Bases_BLUE_v28D"] = 
         {
             ["map"] = "Syria",
@@ -1092,42 +1105,42 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 24, 2020 at 20 21 30",
             ["hoursHosted"] = 45.88705611111,
         }, -- end of ["Operation Rolling Thunder V7"]
-        ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"] = 
-        {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 13,
-            ["maxClients"] = 40,
-            ["totalFlightHours"] = 732.16550416669,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 03, 2021 at 21 48 09",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 19, 2021 at 03 08 27",
-            ["hoursHosted"] = 112.18568555555,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"]
-        ["4YA_Capture_Bases_Persian_Full_War_v17A"] = 
-        {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 51,
-            ["maxClients"] = 13,
-            ["totalFlightHours"] = 172.13588222222,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jul 14, 2020 at 19 22 15",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Oct 18, 2020 at 18 17 55",
-            ["hoursHosted"] = 141.43299722222,
-        }, -- end of ["4YA_Capture_Bases_Persian_Full_War_v17A"]
-        ["map development 2"] = 
+        ["EDITED_Operation_Clear_Field_vBG17"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 6,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 5.9301327777777,
+            ["timesPlayed"] = 10,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 13.639946944445,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 03, 2020 at 18 19 10",
+            ["firstPlayed"] = "Mar 25, 2020 at 17 41 51",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 04, 2020 at 19 18 00",
-            ["hoursHosted"] = 3.5002211111111,
-        }, -- end of ["map development 2"]
+            ["mostRecentPlayed"] = "Mar 26, 2020 at 19 11 16",
+            ["hoursHosted"] = 24.771491111111,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG17"]
+        ["4YA_Syria_Capture_Bases_BLUE_v25C"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 10,
+            ["maxClients"] = 42,
+            ["totalFlightHours"] = 353.95535083332,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Oct 27, 2020 at 20 16 16",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 06, 2020 at 19 39 15",
+            ["hoursHosted"] = 56.588345833334,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v25C"]
+        ["Operation Clear Field v123"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 5,
+            ["totalFlightHours"] = 3.8960138888889,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Apr 03, 2020 at 22 24 34",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Apr 03, 2020 at 22 27 50",
+            ["hoursHosted"] = 11.567444166667,
+        }, -- end of ["Operation Clear Field v123"]
         ["map_development_26"] = 
         {
             ["map"] = "Caucasus",
@@ -1164,18 +1177,18 @@ metaStats =
             ["mostRecentPlayed"] = "May 30, 2020 at 17 20 36",
             ["hoursHosted"] = 4.4336161111111,
         }, -- end of ["Carrier Training"]
-        ["map development 7"] = 
+        ["OPERATION RHINOS HORN3456"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 6,
+            ["timesPlayed"] = 1,
             ["maxClients"] = 2,
-            ["totalFlightHours"] = 0,
+            ["totalFlightHours"] = 0.62803972222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 04, 2020 at 20 12 15",
+            ["firstPlayed"] = "May 27, 2020 at 18 22 14",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 04, 2020 at 20 31 16",
-            ["hoursHosted"] = 0.21668,
-        }, -- end of ["map development 7"]
+            ["mostRecentPlayed"] = "May 27, 2020 at 18 22 14",
+            ["hoursHosted"] = 1.0667438888889,
+        }, -- end of ["OPERATION RHINOS HORN3456"]
         ["Operation_Secure_Passage_day-2_02"] = 
         {
             ["map"] = "PersianGulf",
@@ -1200,18 +1213,18 @@ metaStats =
             ["mostRecentPlayed"] = "Apr 08, 2020 at 22 56 37",
             ["hoursHosted"] = 28.935299722222,
         }, -- end of ["Persian Gulf Playground V2"]
-        ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"] = 
+        ["EDITED_Operation_Clear_Field_vBG15"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 43,
-            ["maxClients"] = 40,
-            ["totalFlightHours"] = 2419.6275216667,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 5,
+            ["totalFlightHours"] = 0.66190722222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 19, 2021 at 17 36 53",
+            ["firstPlayed"] = "Mar 24, 2020 at 17 44 24",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 25, 2021 at 23 10 46",
-            ["hoursHosted"] = 265.32644444445,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"]
+            ["mostRecentPlayed"] = "Mar 24, 2020 at 17 44 32",
+            ["hoursHosted"] = 0.98339888888889,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG15"]
         ["map_development_23A"] = 
         {
             ["map"] = "Caucasus",
@@ -1272,6 +1285,18 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 23, 2020 at 19 27 57",
             ["hoursHosted"] = 22.254599166667,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG14"]
+        ["Nevada Playground V3"] = 
+        {
+            ["map"] = "Nevada",
+            ["timesPlayed"] = 8,
+            ["maxClients"] = 12,
+            ["totalFlightHours"] = 28.125293333333,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Apr 19, 2020 at 16 41 52",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "May 01, 2020 at 21 30 51",
+            ["hoursHosted"] = 33.418891111111,
+        }, -- end of ["Nevada Playground V3"]
         ["Caucasus Playground"] = 
         {
             ["map"] = "Caucasus",
@@ -1284,42 +1309,30 @@ metaStats =
             ["mostRecentPlayed"] = "Apr 02, 2020 at 22 02 03",
             ["hoursHosted"] = 16.435416944444,
         }, -- end of ["Caucasus Playground"]
-        ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"] = 
+        ["Nevada Playground V2"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 29,
-            ["maxClients"] = 40,
-            ["totalFlightHours"] = 1570.5410533335,
+            ["map"] = "Nevada",
+            ["timesPlayed"] = 7,
+            ["maxClients"] = 9,
+            ["totalFlightHours"] = 14.296449166667,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 20, 2021 at 06 43 37",
+            ["firstPlayed"] = "Apr 11, 2020 at 15 15 54",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 26, 2021 at 14 36 03",
-            ["hoursHosted"] = 214.12461416666,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"]
-        ["Operation_Secure_Passage_day-2_09"] = 
+            ["mostRecentPlayed"] = "Apr 23, 2020 at 13 51 51",
+            ["hoursHosted"] = 24.918298611111,
+        }, -- end of ["Nevada Playground V2"]
+        ["Operation_Secure_Passage_day-2_04"] = 
         {
             ["map"] = "PersianGulf",
-            ["timesPlayed"] = 14,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 24.080534444444,
+            ["timesPlayed"] = 3,
+            ["maxClients"] = 8,
+            ["totalFlightHours"] = 4.5915097222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 18, 2020 at 15 16 50",
+            ["firstPlayed"] = "Apr 14, 2020 at 18 28 29",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 26, 2020 at 07 38 36",
-            ["hoursHosted"] = 47.632424999999,
-        }, -- end of ["Operation_Secure_Passage_day-2_09"]
-        ["map_development_29"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 9,
-            ["totalFlightHours"] = 25.798594444444,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 15, 2020 at 12 42 44",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 15, 2020 at 17 11 44",
-            ["hoursHosted"] = 28.751904444444,
-        }, -- end of ["map_development_29"]
+            ["mostRecentPlayed"] = "Apr 15, 2020 at 18 18 01",
+            ["hoursHosted"] = 2.3835063888889,
+        }, -- end of ["Operation_Secure_Passage_day-2_04"]
         ["Operation Rolling Thunder V4"] = 
         {
             ["map"] = "PersianGulf",
@@ -1332,42 +1345,42 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 19, 2020 at 16 07 28",
             ["hoursHosted"] = 18.608401666667,
         }, -- end of ["Operation Rolling Thunder V4"]
-        ["EDITED_Operation_Clear_Field_vBG16"] = 
+        ["Operation Rolling Thunder V3"] = 
+        {
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 3.5376786111111,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Jun 18, 2020 at 13 41 03",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Jun 18, 2020 at 18 43 33",
+            ["hoursHosted"] = 5.0840769444444,
+        }, -- end of ["Operation Rolling Thunder V3"]
+        ["4YA_NEW_EVENT2_8GS"] = 
         {
             ["map"] = "Caucasus",
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 37,
+            ["totalFlightHours"] = 92.753221111111,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Jan 22, 2021 at 15 45 24",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Jan 22, 2021 at 19 23 41",
+            ["hoursHosted"] = 5.8173024999999,
+        }, -- end of ["4YA_NEW_EVENT2_8GS"]
+        ["Operation_Secure_Passage_day-2_06"] = 
+        {
+            ["map"] = "PersianGulf",
             ["timesPlayed"] = 3,
-            ["maxClients"] = 8,
-            ["totalFlightHours"] = 14.972798055556,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 24, 2020 at 18 44 24",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 25, 2020 at 17 39 26",
-            ["hoursHosted"] = 11.200863055556,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG16"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28B"] = 
-        {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 42,
-            ["maxClients"] = 32,
-            ["totalFlightHours"] = 1426.2950319446,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 08, 2020 at 20 52 45",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jan 22, 2021 at 13 13 36",
-            ["hoursHosted"] = 305.60793416667,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28B"]
-        ["EDITED_Operation_Clear_Field_vBG10"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
             ["maxClients"] = 10,
-            ["totalFlightHours"] = 39.329829166666,
+            ["totalFlightHours"] = 10.340033333333,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 21, 2020 at 17 16 48",
+            ["firstPlayed"] = "Apr 16, 2020 at 18 29 15",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 22, 2020 at 15 01 22",
-            ["hoursHosted"] = 25.8050625,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG10"]
+            ["mostRecentPlayed"] = "Apr 16, 2020 at 23 03 32",
+            ["hoursHosted"] = 3.6502397222222,
+        }, -- end of ["Operation_Secure_Passage_day-2_06"]
         ["Caucasus Playground V7"] = 
         {
             ["map"] = "Caucasus",
@@ -1404,18 +1417,18 @@ metaStats =
             ["mostRecentPlayed"] = "May 04, 2020 at 20 49 40",
             ["hoursHosted"] = 0.050003611111111,
         }, -- end of ["map development 10"]
-        ["OPERATION RHINOS HORN DAY 1A"] = 
+        ["EDITED_Operation_Clear_Field_vBG11"] = 
         {
             ["map"] = "Caucasus",
             ["timesPlayed"] = 2,
-            ["maxClients"] = 3,
-            ["totalFlightHours"] = 0,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 3.3411336111111,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 25, 2020 at 20 58 43",
+            ["firstPlayed"] = "Mar 22, 2020 at 19 12 41",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 25, 2020 at 21 03 14",
-            ["hoursHosted"] = 0.033336388888889,
-        }, -- end of ["OPERATION RHINOS HORN DAY 1A"]
+            ["mostRecentPlayed"] = "Mar 23, 2020 at 17 23 11",
+            ["hoursHosted"] = 1.5834358333333,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG11"]
         ["Operation Rolling Thunder V1"] = 
         {
             ["map"] = "PersianGulf",
@@ -1428,30 +1441,30 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 16, 2020 at 06 35 53",
             ["hoursHosted"] = 53.387024444444,
         }, -- end of ["Operation Rolling Thunder V1"]
-        ["Operation_Secure_Passage_day-2_04 (1)"] = 
+        ["OPERATION RHINOS HORN DAY 1A"] = 
         {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 8,
-            ["totalFlightHours"] = 10.604224722222,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 3,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 15, 2020 at 18 18 15",
+            ["firstPlayed"] = "Jun 25, 2020 at 20 58 43",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 16, 2020 at 18 28 51",
-            ["hoursHosted"] = 24.118223888889,
-        }, -- end of ["Operation_Secure_Passage_day-2_04 (1)"]
-        ["4YA_Syria_Capture_Bases_BLUE_v28A"] = 
+            ["mostRecentPlayed"] = "Jun 25, 2020 at 21 03 14",
+            ["hoursHosted"] = 0.033336388888889,
+        }, -- end of ["OPERATION RHINOS HORN DAY 1A"]
+        ["4YA_Full_War_EVENT_18_10_v07"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 51,
-            ["maxClients"] = 32,
-            ["totalFlightHours"] = 1660.3579233335,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 5,
+            ["maxClients"] = 4,
+            ["totalFlightHours"] = 0.13342222222222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Nov 14, 2020 at 16 52 58",
+            ["firstPlayed"] = "Oct 18, 2020 at 18 18 23",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jan 29, 2021 at 05 04 09",
-            ["hoursHosted"] = 371.66412444443,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28A"]
+            ["mostRecentPlayed"] = "Oct 27, 2020 at 19 59 52",
+            ["hoursHosted"] = 0.16669027777778,
+        }, -- end of ["4YA_Full_War_EVENT_18_10_v07"]
         ["OPERATION RHINOS HORN DAY 4"] = 
         {
             ["map"] = "Caucasus",
@@ -1488,30 +1501,30 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 18, 2020 at 13 26 26",
             ["hoursHosted"] = 35.169258333334,
         }, -- end of ["Operation Rolling Thunder V2"]
-        ["4YA_Syria_Capture_Bases_BLUE_v27B"] = 
+        ["Persian Gulf Playground V1"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 6,
-            ["maxClients"] = 34,
-            ["totalFlightHours"] = 201.90705083333,
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 8,
+            ["totalFlightHours"] = 23.642185,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 30, 2020 at 22 30 34",
+            ["firstPlayed"] = "Apr 04, 2020 at 14 22 22",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 06, 2020 at 01 04 35",
-            ["hoursHosted"] = 35.771030833334,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27B"]
-        ["OPERATION RHINOS HORN DAY 5"] = 
+            ["mostRecentPlayed"] = "Apr 05, 2020 at 10 49 28",
+            ["hoursHosted"] = 15.317913611111,
+        }, -- end of ["Persian Gulf Playground V1"]
+        ["map_development_30"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 1,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 9.1258875,
+            ["timesPlayed"] = 3,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 0.088923333333333,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 29, 2020 at 19 29 53",
+            ["firstPlayed"] = "May 16, 2020 at 17 31 36",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 29, 2020 at 19 29 53",
-            ["hoursHosted"] = 16.151051666667,
-        }, -- end of ["OPERATION RHINOS HORN DAY 5"]
+            ["mostRecentPlayed"] = "May 16, 2020 at 20 12 02",
+            ["hoursHosted"] = 2.8501988888889,
+        }, -- end of ["map_development_30"]
         ["EDITED_Operation_Clear_Field_vBG22"] = 
         {
             ["map"] = "Caucasus",
@@ -1524,6 +1537,18 @@ metaStats =
             ["mostRecentPlayed"] = "Apr 01, 2020 at 19 12 39",
             ["hoursHosted"] = 0.18334666666667,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG22"]
+        ["4YA_Syria_Capture_Bases_BLUE_v27A"] = 
+        {
+            ["map"] = "Syria",
+            ["timesPlayed"] = 15,
+            ["maxClients"] = 38,
+            ["totalFlightHours"] = 309.1546336111,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Nov 08, 2020 at 17 45 25",
+            ["hoursHosted"] = 71.14056638889,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27A"]
         ["map development 11"] = 
         {
             ["map"] = "Caucasus",
@@ -1536,18 +1561,6 @@ metaStats =
             ["mostRecentPlayed"] = "May 05, 2020 at 17 43 14",
             ["hoursHosted"] = 2.6835094444444,
         }, -- end of ["map development 11"]
-        ["4YA_CAP_Training_V07"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 12,
-            ["maxClients"] = 3,
-            ["totalFlightHours"] = 2.6548672222223,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jul 09, 2020 at 20 00 48",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jul 14, 2020 at 19 21 45",
-            ["hoursHosted"] = 15.068629722222,
-        }, -- end of ["4YA_CAP_Training_V07"]
         ["map development 15"] = 
         {
             ["map"] = "Caucasus",
@@ -1572,18 +1585,18 @@ metaStats =
             ["mostRecentPlayed"] = "May 07, 2020 at 21 08 22",
             ["hoursHosted"] = 2.033455,
         }, -- end of ["Turkey_Smokers_2A"]
-        ["4YA_Syria_Capture_Bases_BLUE_v27A"] = 
+        ["4YA_CAP_Training_V07"] = 
         {
-            ["map"] = "Syria",
-            ["timesPlayed"] = 15,
-            ["maxClients"] = 38,
-            ["totalFlightHours"] = 309.1546336111,
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 12,
+            ["maxClients"] = 3,
+            ["totalFlightHours"] = 2.6548672222223,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 27, 2020 at 19 59 21",
+            ["firstPlayed"] = "Jul 09, 2020 at 20 00 48",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 08, 2020 at 17 45 25",
-            ["hoursHosted"] = 71.14056638889,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27A"]
+            ["mostRecentPlayed"] = "Jul 14, 2020 at 19 21 45",
+            ["hoursHosted"] = 15.068629722222,
+        }, -- end of ["4YA_CAP_Training_V07"]
         ["NEWCAUCUSES"] = 
         {
             ["map"] = "Caucasus",
@@ -1596,30 +1609,30 @@ metaStats =
             ["mostRecentPlayed"] = "May 24, 2020 at 14 23 27",
             ["hoursHosted"] = 3.1168888888889,
         }, -- end of ["NEWCAUCUSES"]
-        ["map_development_30"] = 
+        ["OPERATION RHINOS HORN DAY 5"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 0.088923333333333,
+            ["timesPlayed"] = 1,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 9.1258875,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 16, 2020 at 17 31 36",
+            ["firstPlayed"] = "May 29, 2020 at 19 29 53",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 16, 2020 at 20 12 02",
-            ["hoursHosted"] = 2.8501988888889,
-        }, -- end of ["map_development_30"]
-        ["Persian Gulf Playground V1"] = 
+            ["mostRecentPlayed"] = "May 29, 2020 at 19 29 53",
+            ["hoursHosted"] = 16.151051666667,
+        }, -- end of ["OPERATION RHINOS HORN DAY 5"]
+        ["4YA_Syria_Capture_Bases_BLUE_v27B"] = 
         {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 8,
-            ["totalFlightHours"] = 23.642185,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 6,
+            ["maxClients"] = 34,
+            ["totalFlightHours"] = 201.90705083333,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 04, 2020 at 14 22 22",
+            ["firstPlayed"] = "Oct 30, 2020 at 22 30 34",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 05, 2020 at 10 49 28",
-            ["hoursHosted"] = 15.317913611111,
-        }, -- end of ["Persian Gulf Playground V1"]
+            ["mostRecentPlayed"] = "Nov 06, 2020 at 01 04 35",
+            ["hoursHosted"] = 35.771030833334,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v27B"]
         ["Caucasus Playground V6"] = 
         {
             ["map"] = "Caucasus",
@@ -1644,30 +1657,30 @@ metaStats =
             ["mostRecentPlayed"] = "May 04, 2020 at 20 37 31",
             ["hoursHosted"] = 0,
         }, -- end of ["map development 9"]
-        ["4YA_Full_War_EVENT_18_10_v07"] = 
+        ["4YA_Syria_Capture_Bases_BLUE_v28A"] = 
         {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 4,
-            ["totalFlightHours"] = 0.13342222222222,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 51,
+            ["maxClients"] = 32,
+            ["totalFlightHours"] = 1660.3579233335,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 18, 2020 at 18 18 23",
+            ["firstPlayed"] = "Nov 14, 2020 at 16 52 58",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Oct 27, 2020 at 19 59 52",
-            ["hoursHosted"] = 0.16669027777778,
-        }, -- end of ["4YA_Full_War_EVENT_18_10_v07"]
-        ["EDITED_Operation_Clear_Field_vBG11"] = 
+            ["mostRecentPlayed"] = "Jan 29, 2021 at 05 04 09",
+            ["hoursHosted"] = 371.66412444443,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28A"]
+        ["Operation_Secure_Passage_day-2_04 (1)"] = 
         {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 3.3411336111111,
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 8,
+            ["totalFlightHours"] = 10.604224722222,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 22, 2020 at 19 12 41",
+            ["firstPlayed"] = "Apr 15, 2020 at 18 18 15",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 23, 2020 at 17 23 11",
-            ["hoursHosted"] = 1.5834358333333,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG11"]
+            ["mostRecentPlayed"] = "Apr 16, 2020 at 18 28 51",
+            ["hoursHosted"] = 24.118223888889,
+        }, -- end of ["Operation_Secure_Passage_day-2_04 (1)"]
         ["Persian Gulf Playground V3"] = 
         {
             ["map"] = "PersianGulf",
@@ -1680,42 +1693,42 @@ metaStats =
             ["mostRecentPlayed"] = "Jun 06, 2020 at 17 22 01",
             ["hoursHosted"] = 119.32947555556,
         }, -- end of ["Persian Gulf Playground V3"]
-        ["Operation_Secure_Passage_day-2_06"] = 
-        {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 10,
-            ["totalFlightHours"] = 10.340033333333,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 16, 2020 at 18 29 15",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 16, 2020 at 23 03 32",
-            ["hoursHosted"] = 3.6502397222222,
-        }, -- end of ["Operation_Secure_Passage_day-2_06"]
-        ["4YA_NEW_EVENT2_8GS"] = 
+        ["EDITED_Operation_Clear_Field_vBG10"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 5,
-            ["maxClients"] = 37,
-            ["totalFlightHours"] = 92.753221111111,
+            ["timesPlayed"] = 2,
+            ["maxClients"] = 10,
+            ["totalFlightHours"] = 39.329829166666,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jan 22, 2021 at 15 45 24",
+            ["firstPlayed"] = "Mar 21, 2020 at 17 16 48",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jan 22, 2021 at 19 23 41",
-            ["hoursHosted"] = 5.8173024999999,
-        }, -- end of ["4YA_NEW_EVENT2_8GS"]
-        ["Operation Rolling Thunder V3"] = 
+            ["mostRecentPlayed"] = "Mar 22, 2020 at 15 01 22",
+            ["hoursHosted"] = 25.8050625,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG10"]
+        ["4YA_Syria_Capture_Bases_BLUE_v28B"] = 
         {
-            ["map"] = "PersianGulf",
-            ["timesPlayed"] = 4,
-            ["maxClients"] = 6,
-            ["totalFlightHours"] = 3.5376786111111,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 42,
+            ["maxClients"] = 32,
+            ["totalFlightHours"] = 1426.2950319446,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Jun 18, 2020 at 13 41 03",
+            ["firstPlayed"] = "Nov 08, 2020 at 20 52 45",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Jun 18, 2020 at 18 43 33",
-            ["hoursHosted"] = 5.0840769444444,
-        }, -- end of ["Operation Rolling Thunder V3"]
+            ["mostRecentPlayed"] = "Jan 22, 2021 at 13 13 36",
+            ["hoursHosted"] = 305.60793416667,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v28B"]
+        ["EDITED_Operation_Clear_Field_vBG16"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 3,
+            ["maxClients"] = 8,
+            ["totalFlightHours"] = 14.972798055556,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Mar 24, 2020 at 18 44 24",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Mar 25, 2020 at 17 39 26",
+            ["hoursHosted"] = 11.200863055556,
+        }, -- end of ["EDITED_Operation_Clear_Field_vBG16"]
         ["4YA_Syria_Capture_Bases_BLUE-KING_v29B"] = 
         {
             ["map"] = "Syria",
@@ -1728,66 +1741,66 @@ metaStats =
             ["mostRecentPlayed"] = "May 18, 2021 at 15 51 09",
             ["hoursHosted"] = 111.39621083333,
         }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v29B"]
-        ["Operation_Secure_Passage_day-2_04"] = 
+        ["map_development_29"] = 
+        {
+            ["map"] = "Caucasus",
+            ["timesPlayed"] = 4,
+            ["maxClients"] = 9,
+            ["totalFlightHours"] = 25.798594444444,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "May 15, 2020 at 12 42 44",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "May 15, 2020 at 17 11 44",
+            ["hoursHosted"] = 28.751904444444,
+        }, -- end of ["map_development_29"]
+        ["Operation_Secure_Passage_day-2_09"] = 
         {
             ["map"] = "PersianGulf",
-            ["timesPlayed"] = 3,
-            ["maxClients"] = 8,
-            ["totalFlightHours"] = 4.5915097222222,
+            ["timesPlayed"] = 14,
+            ["maxClients"] = 7,
+            ["totalFlightHours"] = 24.080534444444,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 14, 2020 at 18 28 29",
+            ["firstPlayed"] = "Apr 18, 2020 at 15 16 50",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 15, 2020 at 18 18 01",
-            ["hoursHosted"] = 2.3835063888889,
-        }, -- end of ["Operation_Secure_Passage_day-2_04"]
-        ["Nevada Playground V2"] = 
+            ["mostRecentPlayed"] = "Apr 26, 2020 at 07 38 36",
+            ["hoursHosted"] = 47.632424999999,
+        }, -- end of ["Operation_Secure_Passage_day-2_09"]
+        ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"] = 
         {
-            ["map"] = "Nevada",
-            ["timesPlayed"] = 7,
-            ["maxClients"] = 9,
-            ["totalFlightHours"] = 14.296449166667,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 29,
+            ["maxClients"] = 40,
+            ["totalFlightHours"] = 1570.5410533335,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 11, 2020 at 15 15 54",
+            ["firstPlayed"] = "May 20, 2021 at 06 43 37",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 23, 2020 at 13 51 51",
-            ["hoursHosted"] = 24.918298611111,
-        }, -- end of ["Nevada Playground V2"]
-        ["Nevada Playground V3"] = 
+            ["mostRecentPlayed"] = "Jun 26, 2021 at 14 36 03",
+            ["hoursHosted"] = 214.12461416666,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v30R"]
+        ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"] = 
         {
-            ["map"] = "Nevada",
-            ["timesPlayed"] = 8,
-            ["maxClients"] = 12,
-            ["totalFlightHours"] = 28.125293333333,
+            ["map"] = "Syria",
+            ["timesPlayed"] = 43,
+            ["maxClients"] = 40,
+            ["totalFlightHours"] = 2419.6275216667,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 19, 2020 at 16 41 52",
+            ["firstPlayed"] = "May 19, 2021 at 17 36 53",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 01, 2020 at 21 30 51",
-            ["hoursHosted"] = 33.418891111111,
-        }, -- end of ["Nevada Playground V3"]
-        ["EDITED_Operation_Clear_Field_vBG15"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 5,
-            ["totalFlightHours"] = 0.66190722222222,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 24, 2020 at 17 44 24",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 24, 2020 at 17 44 32",
-            ["hoursHosted"] = 0.98339888888889,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG15"]
-        ["OPERATION RHINOS HORN3456"] = 
+            ["mostRecentPlayed"] = "Jun 25, 2021 at 23 10 46",
+            ["hoursHosted"] = 265.32644444445,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-INC_v30S"]
+        ["map development 7"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 1,
+            ["timesPlayed"] = 6,
             ["maxClients"] = 2,
-            ["totalFlightHours"] = 0.62803972222222,
+            ["totalFlightHours"] = 0,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 27, 2020 at 18 22 14",
+            ["firstPlayed"] = "May 04, 2020 at 20 12 15",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 27, 2020 at 18 22 14",
-            ["hoursHosted"] = 1.0667438888889,
-        }, -- end of ["OPERATION RHINOS HORN3456"]
+            ["mostRecentPlayed"] = "May 04, 2020 at 20 31 16",
+            ["hoursHosted"] = 0.21668,
+        }, -- end of ["map development 7"]
         ["OPERATION RHINOS HORN"] = 
         {
             ["map"] = "Caucasus",
@@ -1800,42 +1813,42 @@ metaStats =
             ["mostRecentPlayed"] = "May 27, 2020 at 18 22 02",
             ["hoursHosted"] = 53.150904444445,
         }, -- end of ["OPERATION RHINOS HORN"]
-        ["Operation Clear Field v123"] = 
+        ["map development 2"] = 
         {
             ["map"] = "Caucasus",
-            ["timesPlayed"] = 2,
-            ["maxClients"] = 5,
-            ["totalFlightHours"] = 3.8960138888889,
+            ["timesPlayed"] = 6,
+            ["maxClients"] = 6,
+            ["totalFlightHours"] = 5.9301327777777,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Apr 03, 2020 at 22 24 34",
+            ["firstPlayed"] = "May 03, 2020 at 18 19 10",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Apr 03, 2020 at 22 27 50",
-            ["hoursHosted"] = 11.567444166667,
-        }, -- end of ["Operation Clear Field v123"]
-        ["4YA_Syria_Capture_Bases_BLUE_v25C"] = 
+            ["mostRecentPlayed"] = "May 04, 2020 at 19 18 00",
+            ["hoursHosted"] = 3.5002211111111,
+        }, -- end of ["map development 2"]
+        ["4YA_Capture_Bases_Persian_Full_War_v17A"] = 
+        {
+            ["map"] = "PersianGulf",
+            ["timesPlayed"] = 51,
+            ["maxClients"] = 13,
+            ["totalFlightHours"] = 172.13588222222,
+            ["voteEnabled"] = true,
+            ["firstPlayed"] = "Jul 14, 2020 at 19 22 15",
+            ["totalVoteLoaded"] = 0,
+            ["mostRecentPlayed"] = "Oct 18, 2020 at 18 17 55",
+            ["hoursHosted"] = 141.43299722222,
+        }, -- end of ["4YA_Capture_Bases_Persian_Full_War_v17A"]
+        ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"] = 
         {
             ["map"] = "Syria",
-            ["timesPlayed"] = 10,
-            ["maxClients"] = 42,
-            ["totalFlightHours"] = 353.95535083332,
+            ["timesPlayed"] = 13,
+            ["maxClients"] = 40,
+            ["totalFlightHours"] = 732.16550416669,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "Oct 27, 2020 at 20 16 16",
+            ["firstPlayed"] = "May 03, 2021 at 21 48 09",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Nov 06, 2020 at 19 39 15",
-            ["hoursHosted"] = 56.588345833334,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE_v25C"]
-        ["EDITED_Operation_Clear_Field_vBG17"] = 
-        {
-            ["map"] = "Caucasus",
-            ["timesPlayed"] = 10,
-            ["maxClients"] = 7,
-            ["totalFlightHours"] = 13.639946944445,
-            ["voteEnabled"] = true,
-            ["firstPlayed"] = "Mar 25, 2020 at 17 41 51",
-            ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "Mar 26, 2020 at 19 11 16",
-            ["hoursHosted"] = 24.771491111111,
-        }, -- end of ["EDITED_Operation_Clear_Field_vBG17"]
+            ["mostRecentPlayed"] = "May 19, 2021 at 03 08 27",
+            ["hoursHosted"] = 112.18568555555,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v29R"]
         ["EDITED_Operation_Clear_Field_vBG3"] = 
         {
             ["map"] = "Caucasus",
@@ -1848,351 +1861,48 @@ metaStats =
             ["mostRecentPlayed"] = "Mar 20, 2020 at 20 01 54",
             ["hoursHosted"] = 23.118218055556,
         }, -- end of ["EDITED_Operation_Clear_Field_vBG3"]
-        ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"] = 
+        ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"] = 
         {
             ["map"] = "Syria",
-            ["timesPlayed"] = 10,
+            ["timesPlayed"] = 27,
             ["maxClients"] = 40,
-            ["totalFlightHours"] = 571.21085527778,
+            ["totalFlightHours"] = 1234.6912483334,
             ["voteEnabled"] = true,
-            ["firstPlayed"] = "May 04, 2021 at 08 50 20",
+            ["firstPlayed"] = "Jun 26, 2021 at 23 32 29",
             ["totalVoteLoaded"] = 0,
-            ["mostRecentPlayed"] = "May 19, 2021 at 14 10 32",
-            ["hoursHosted"] = 70.563826111111,
-        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-INC_v29S"]
+            ["mostRecentPlayed"] = "Aug 04, 2021 at 16 22 15",
+            ["hoursHosted"] = 197.54816833332,
+        }, -- end of ["4YA_Syria_Capture_Bases_BLUE-KING_v31HeavyClouds"]
     }, -- end of ["missionStats"]
     ["missionStatsFile"] = 
     {
-        ["currentMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31ClearDay- Aug 05, 2021 at 15 14 12.lua",
-        ["previousMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud- Aug 04, 2021 at 22 16 21.lua",
+        ["currentMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather- Aug 05, 2021 at 20 01 42.lua",
+        ["previousMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud- Aug 05, 2021 at 20 00 57.lua",
     }, -- end of ["missionStatsFile"]
 } -- end of metaStats
 
-metaStats["missionStatsFile"]["previousMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31ClearDay- Aug 05, 2021 at 15 14 12.lua"
-metaStats["missionStatsFile"]["currentMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud- Aug 05, 2021 at 20 00 57.lua"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"]["timesPlayed"] = 47
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud"]["mostRecentPlayed"] = "Aug 05, 2021 at 20 00 57"
-metaStats["mapStats"]["Syria"]["timesPlayed"] = 494
-metaStats["mapStats"]["Syria"]["mostRecentPlayed"] = "Aug 05, 2021 at 20 00 57"
-metaStats["missionStatsFile"]["previousMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-KING_v31MedCloud- Aug 05, 2021 at 20 00 57.lua"
-metaStats["missionStatsFile"]["currentMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather- Aug 05, 2021 at 20 01 42.lua"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"] = { }
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["firstPlayed"] = "Aug 05, 2021 at 20 01 42"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["mostRecentPlayed"] = "Aug 05, 2021 at 20 01 42"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["map"] = "Syria"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["timesPlayed"] = 1
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["maxClients"] = 0
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["voteEnabled"] = true
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalVoteLoaded"] = 0
-metaStats["mapStats"]["Syria"]["timesPlayed"] = 495
-metaStats["mapStats"]["Syria"]["mostRecentPlayed"] = "Aug 05, 2021 at 20 01 42"
-metaStats["mapStats"]["Syria"]["missions"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"] = "Aug 05, 2021 at 20 01 42"
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.016671944444444
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4007341629
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["maxClients"] = 2
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.033343888888889
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4174061074
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.050012222222222
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4340744407
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.903121931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.0027808333333333
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.905902764
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.0055605555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.908682487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.0083411111111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.911463042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.011118888888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.91424082
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.013897222222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.917019153
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.066679444444444
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4507416629
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["maxClients"] = 4
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.016677222222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.919799153
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.019456944444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.922578875
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.022235555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.925357487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.025015555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.928137487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.027794444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.930916375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.030574722222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.933696653
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.083346666666667
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4674088852
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.033355555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.936477487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.036133611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.939255542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.10001388888889
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.4840761074
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.038913611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.942035542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.11668111111111
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5007433296
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.13335194444444
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5174141629
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.15001861111111
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5340808296
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.16668916666667
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5507513852
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.18335805555556
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5674202741
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.20002555555556
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.5840877741
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.041692777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.944814709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.044472222222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.947594153
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.04725
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.950371931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.050028333333333
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.953150264
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.052806111111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.955928042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.055586111111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.958708042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.21669444444444
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6007566629
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.058368055555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.961489987
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.061151111111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.964273042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.063930555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.967052487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.066711666666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.969833598
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.069493055555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.972614987
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.072271944444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.975393875
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.23336222222222
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6174244407
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.075050555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.978172487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.077828611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.980950542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.080606388888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.98372832
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.083384444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.986506375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.086164166666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.989286098
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.088943888888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.99206582
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.25003222222222
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6340944407
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.091723888888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.99484582
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.094501944444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20969.997623875
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.097281944444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.000403875
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.10006638888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.00318832
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.10284916666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.005971098
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.10562861111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.008750542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.26669972222222
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6507619407
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.10840777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.011529709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.11118555555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.014307487
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.113965
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.017086931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.11676027777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.019882209
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.11953916666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.022661098
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.12231777777778
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.025439709
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.28336694444444
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6674291629
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.12509666666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.028218598
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.12787444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.030996375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.13065444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.033776375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.13345833333333
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.036580264
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.13623916666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.039361098
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.13902222222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.042144153
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.30003555555556
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.6840977741
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["maxClients"] = 5
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.14180166666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.044923598
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.14458138888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.04770332
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.14736
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.050481931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.15014916666667
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.053271098
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.15292861111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.056050542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.15570638888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.05882832
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.316705
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.7007672185
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.15848444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.061606375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.16126388888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.06438582
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.1640425
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.067164431
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.16682111111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.069943042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.1696
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.072721931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.17237805555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.075499987
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.33337277777778
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.7174349963
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.17515583333333
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.078277764
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.17793388888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.08105582
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.18071361111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.083835542
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.18349472222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.086616653
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.18627444444444
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.089396375
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.189055
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.092176931
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["hoursHosted"] = 0.35004305555556
-metaStats["mapStats"]["Syria"]["hoursHosted"] = 3460.7341052741
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.19183638888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.09495832
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.19461611111111
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.097738042
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.19739388888889
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.10051582
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.20017305555556
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.103294987
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.20295222222222
-metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.106074153
-metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather"]["totalFlightHours"] = 0.20573027777778
+metaStats["missionStatsFile"]["previousMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather- Aug 05, 2021 at 20 01 42.lua"
+metaStats["missionStatsFile"]["currentMissionFile"] = "4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather- Sep 26, 2021 at 14 52 54.lua"
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"] = { }
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["firstPlayed"] = "Sep 26, 2021 at 14 52 54"
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["mostRecentPlayed"] = "Sep 26, 2021 at 14 52 54"
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["map"] = "Syria"
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["timesPlayed"] = 1
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["hoursHosted"] = 0
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["maxClients"] = 0
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["voteEnabled"] = true
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalVoteLoaded"] = 0
+metaStats["mapStats"]["Syria"]["timesPlayed"] = 496
+metaStats["mapStats"]["Syria"]["mostRecentPlayed"] = "Sep 26, 2021 at 14 52 54"
+metaStats["mapStats"]["Syria"]["missions"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"] = "Sep 26, 2021 at 14 52 54"
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
+metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.108852209
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
+metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.108852209
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
+metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.108852209
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
+metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.108852209
+metaStats["missionStats"]["4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather"]["totalFlightHours"] = 0
 metaStats["mapStats"]["Syria"]["totalFlightHours"] = 20970.108852209

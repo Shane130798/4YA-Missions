@@ -1,0 +1,1215 @@
+=== Log opened UTC 2021-09-26 21:46:16
+2021-09-26 21:46:16.544 INFO    DCS: Command line: "C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 3\bin\DCS.exe"  --norender --server -w BetaServer3
+2021-09-26 21:46:16.544 INFO    DCS: DCS/2.7.6.13133 (x86_64; Windows NT 10.0.17763)
+2021-09-26 21:46:16.544 INFO    DCS: DCS revision: 193131
+2021-09-26 21:46:16.544 INFO    DCS: Renderer revision: 22322
+2021-09-26 21:46:16.544 INFO    DCS: Terrain revision: 22345
+2021-09-26 21:46:16.544 INFO    DCS: Build number: 655
+2021-09-26 21:46:16.544 INFO    DCS: CPU cores: 6, threads: 12, System RAM: 130998 MB, Pagefile: 19456 MB
+2021-09-26 21:46:16.713 INFO    EDCORE: (dDispatcher)enterToState_:0
+2021-09-26 21:46:16.756 INFO    Dispatcher: 2021/9/26 14:46 V1803061700
+2021-09-26 21:46:16.800 ERROR   NET: Failed to decode network.vault: either hardware ID or OS username are different. Saved login data will be reset.
+2021-09-26 21:46:16.800 INFO    NET: ProtocolVersion: 269
+2021-09-26 21:46:16.804 INFO    SOUND: Using driver: wasapi
+2021-09-26 21:46:16.804 INFO    SOUND: Found 0 available audio device(s):
+2021-09-26 21:46:16.805 INFO    Dispatcher: InitLow
+2021-09-26 21:46:16.947 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/bin/CockpitBase.dll
+2021-09-26 21:46:31.528 ERROR   NET: Login failed because of an invalid username or password.
+2021-09-26 21:46:31.839 ERROR   DCS: Login failed with code 403
+2021-09-26 21:46:44.481 ERROR   NET: Login failed because of an invalid username or password.
+2021-09-26 21:46:44.808 ERROR   DCS: Login failed with code 403
+2021-09-26 21:47:13.625 ERROR   NET: Login failed because of an invalid username or password.
+2021-09-26 21:47:13.964 ERROR   DCS: Login failed with code 403
+2021-09-26 21:48:57.262 INFO    NET: Login success.
+2021-09-26 21:48:57.967 INFO    NET: Got auth data.
+2021-09-26 21:48:57.971 INFO    DCS: Successfully got authorization data.
+2021-09-26 21:48:57.980 INFO    Dispatcher: Loading installed modules...
+2021-09-26 21:48:59.197 INFO    SECURITYCONTROL: Loaded mods/tech/wwii units/dcs_module.pak.crypt
+2021-09-26 21:49:03.845 INFO    Scripting: OBSOLETE mount_vfs_sound_path() used in ./CoreMods/aircraft/AJS37/entry.lua
+2021-09-26 21:49:04.309 INFO    Scripting: PLUGINS START-------------------------------------------------
+2021-09-26 21:49:04.355 INFO    SOUND: Added sound path: ./CoreMods/tech/Animals/Sounds
+2021-09-26 21:49:04.381 INFO    SOUND: Added sound path: ./CoreMods/tech/TechWeaponPack/Sounds
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineShutOff.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_Engine.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveFast_HT.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveSlow_HT.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccEnd.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccStart.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineIdle.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineMax.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun_hall.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun_hall.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun_hall.sdef
+2021-09-26 21:49:04.384 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannondistant.sdef"
+2021-09-26 21:49:04.384 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonDistant referenced in /sounds/2/sdef.tar:Weapons/Cannon/CannonDistant_76mm.sdef
+2021-09-26 21:49:04.433 INFO    SOUND: Added sound path: ./CoreMods/tech/USS John C Stennis/Sounds
+2021-09-26 21:49:04.436 INFO    SOUND: Added sound path: ./CoreMods/tech/USS_Nimitz/Sounds
+2021-09-26 21:49:04.606 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AJS37/Sounds
+2021-09-26 21:49:04.657 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AV8BNA/Sounds
+2021-09-26 21:49:04.686 WARNING EDCORE: Source ./CoreMods/aircraft/AV8BNA/Shapes is already mounted to the same mount /models/.
+2021-09-26 21:49:04.703 INFO    SOUND: Added sound path: ./CoreMods/aircraft/C-101/Sounds
+2021-09-26 21:49:04.723 INFO    SOUND: Added sound path: ./CoreMods/aircraft/ChinaAssetPack/Sounds
+2021-09-26 21:49:04.767 INFO    SOUND: Added sound path: ./CoreMods/aircraft/Christen Eagle II/Sounds
+2021-09-26 21:49:04.797 INFO    SOUND: Added sound path: ./CoreMods/aircraft/F14/Sounds
+2021-09-26 21:49:04.855 INFO    SOUND: Added sound path: ./CoreMods/aircraft/I-16/Sounds
+2021-09-26 21:49:04.909 INFO    SOUND: Added sound path: ./CoreMods/aircraft/M-2000C/Sounds
+2021-09-26 21:49:04.953 INFO    SOUND: Added sound path: ./CoreMods/aircraft/MiG-21bis/Sounds
+2021-09-26 21:49:04.965 INFO    SOUND: Added sound path: ./CoreMods/aircraft/SA342/Sounds
+2021-09-26 21:49:04.988 ERROR   EDCORE: Drivers errors while mounting mods/tech/wwii units/sounds:
+2021-09-26 21:49:04.988 ERROR   EDCORE: 	EDCDriver: can't open header file mods/tech/wwii units/sounds.edc//header.edch
+2021-09-26 21:49:05.024 ERROR   EDCORE: Drivers errors while mounting mods/terrains/marianaislands/sounds:
+2021-09-26 21:49:05.024 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/marianaislands/sounds.edc//header.edch
+2021-09-26 21:49:05.025 ERROR   EDCORE: Drivers errors while mounting mods/terrains/nevada/sounds:
+2021-09-26 21:49:05.025 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/nevada/sounds.edc//header.edch
+2021-09-26 21:49:05.027 ERROR   EDCORE: Drivers errors while mounting mods/terrains/normandy/sounds:
+2021-09-26 21:49:05.027 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/normandy/sounds.edc//header.edch
+2021-09-26 21:49:05.028 ERROR   EDCORE: Drivers errors while mounting mods/terrains/persiangulf/sounds:
+2021-09-26 21:49:05.028 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/persiangulf/sounds.edc//header.edch
+2021-09-26 21:49:05.031 ERROR   EDCORE: Drivers errors while mounting mods/terrains/thechannel/sounds:
+2021-09-26 21:49:05.031 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/thechannel/sounds.edc//header.edch
+2021-09-26 21:49:05.040 INFO    Scripting: PLUGINS DONE--------------------------------------------------
+2021-09-26 21:49:08.893 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/AV8BNA/bin/AV8B_AI.dll
+2021-09-26 21:49:08.897 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/C-101/bin/C101Core.dll
+2021-09-26 21:49:08.901 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/ChinaAssetPack/bin/CAP_AI.dll
+2021-09-26 21:49:08.905 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/ChinaAssetPack/bin/JF-17_AI.dll
+2021-09-26 21:49:08.909 INFO    CE2_AI: Loading CE AI
+2021-09-26 21:49:08.909 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/Christen Eagle II/bin/CE2_AI.dll
+2021-09-26 21:49:08.913 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/F14/bin/F14-AI.dll
+2021-09-26 21:49:08.918 INFO    MiG21_AI: Loading Mig21 AI
+2021-09-26 21:49:08.918 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/aircraft/MiG-21bis/bin/MiG21_AI.dll
+2021-09-26 21:49:08.925 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/services/CaptoGlove/bin/edCaptoGlove.dll
+2021-09-26 21:49:08.949 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/services/LeapMotion/bin/edLeapMotion.dll
+2021-09-26 21:49:08.969 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/services/SensoryxVRFree/bin/edSensoryxVRFree.dll
+2021-09-26 21:49:09.009 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/services/VoiceChat/bin/VoiceChat.dll
+2021-09-26 21:49:09.043 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/CoreMods/services/jsAvionics/bin/jsAvionics.dll
+2021-09-26 21:49:09.596 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World OpenBeta Server 3/Mods/tech/Supercarrier/bin/edSupercarrier.dll
+2021-09-26 21:49:09.623 ERROR   EDCORE: Failed to load C:/Users/Administrator/Saved Games/BetaServer3/Mods/services/LotAtc/bin/Qt5Corelotatc.dll: (126) The specified module could not be found.
+2021-09-26 21:49:09.687 INFO    DCS: options.graphics =
+{
+	['messagesFontScale'] = 1;
+	['forestDetailsFactor'] = 1;
+	['LensEffects'] = 3;
+	['heatBlr'] = 0;
+	['anisotropy'] = 4;
+	['water'] = 2;
+	['scaleGui'] = 1;
+	['outputGamma'] = 2.2;
+	['treesVisibility'] = 6000;
+	['aspect'] = 1.6666666666;
+	['lights'] = 2;
+	['shadows'] = 2;
+	['MSAA'] = 2;
+	['SSAA'] = 0;
+	['civTraffic'] = '';
+	['clutterMaxDistance'] = 0;
+	['cockpitGI'] = 1;
+	['terrainTextures'] = 'min';
+	['multiMonitorSetup'] = '1camera';
+	['shadowTree'] = false;
+	['chimneySmokeDensity'] = 4;
+	['fullScreen'] = false;
+	['disableAero'] = false;
+	['DOF'] = 0;
+	['clouds'] = 1;
+	['sceneryDetailsFactor'] = 1;
+	['flatTerrainShadows'] = 0;
+	['forestDistanceFactor'] = 0.5;
+	['width'] = 0;
+	['SSLR'] = 0;
+	['effects'] = 3;
+	['SSAO'] = 0;
+	['visibRange'] = 'High';
+	['sync'] = false;
+	['useDeferredShading'] = 1;
+	['textures'] = 0;
+	['preloadRadius'] = 150000;
+	['height'] = 0;
+	['terrainMapMFD'] = 
+	{
+		['distance'] = 
+		{
+			['mapLodDistance3'] = 200000;
+			['mapLodDistance2'] = 100000;
+			['mapLodDistance0'] = 25000;
+			['mapLodDistance1'] = 50000;
+		};
+	};
+};
+2021-09-26 21:49:09.688 INFO    GRAPHICSVISTA: renderer: 'rendererStub.dll'
+2021-09-26 21:49:09.778 INFO    VISUALIZER: SceneManagerStub initialization
+2021-09-26 21:49:09.959 WARNING RENDERERSTUB: Static mode not implemented yet for structured buffer
+2021-09-26 21:49:10.164 WARNING LOG: 7 duplicate message(s) skipped.
+2021-09-26 21:49:10.164 INFO    INPUT: Device [Keyboard] created.
+2021-09-26 21:49:10.164 INFO    INPUT: Device [Mouse] created.
+2021-09-26 21:49:10.213 ERROR   EDOBJECTS: Destruction shape not found AVIASHTAB_CRASH
+2021-09-26 21:49:10.213 ERROR   EDOBJECTS: Destruction shape not found GAZ-66_P_1
+2021-09-26 21:49:10.213 ERROR   EDOBJECTS: Destruction shape not found KAMAZ-FIRE_P_1
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object AV8BNA_AERO1D_EMPTY with id=299 already declared in table ContainerTable
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object M2KC_02_RPL541_EMPTY with id=603 already declared in table ContainerTable
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object M2KC_08_RPL541_EMPTY with id=604 already declared in table ContainerTable
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object M2KC_RPL_522_EMPTY with id=605 already declared in table ContainerTable
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object HB_F14_EXT_PHX_ALU with id=320 already declared in table MissileTable
+2021-09-26 21:49:10.216 ERROR   EDOBJECTS: Object X-59M with id=54 already declared in table MissileTable
+2021-09-26 21:49:10.350 ERROR   WEAPONSBASE: invalid cx data <weapons.missiles.MBDA_Mistral><./CoreMods/aircraft/SA342/SA342_Weapons.lua>
+2021-09-26 21:49:16.317 WARNING LOG: 1 duplicate message(s) skipped.
+2021-09-26 21:49:16.317 INFO    NET: No UPNP devices found.
+2021-09-26 21:49:16.317 INFO    NET: Registering HTTP control interface as 104.243.33.190:8090 (port is assumed to be open)
+2021-09-26 21:49:16.319 INFO    EDCORE: (dDispatcher)enterToState_:1
+2021-09-26 21:49:21.111 INFO    LuaNET: [jester::hook] Loading jester from C:\Users\Administrator\Saved Games\BetaServer3\../Jester_scripts/
+2021-09-26 21:49:21.112 INFO    LuaNET: [jester] init
+2021-09-26 21:49:21.115 INFO    LuaNET: [jester::abs] early init - DCS environment
+2021-09-26 21:49:21.117 INFO    LuaNET: first run, created vardir at C:\Users\Administrator\Saved Games\BetaServer3\./Jester
+2021-09-26 21:49:21.122 INFO    LuaNET: [jester::main      ] *** init
+2021-09-26 21:49:21.123 INFO    LuaNET: [jester::config    ] *** init
+2021-09-26 21:49:21.123 INFO    LuaNET: [jester::config    ] load config at C:\Users\Administrator\Saved Games\BetaServer3\../Jester_scripts/jester_config_defaults.lua
+2021-09-26 21:49:21.125 INFO    LuaNET: [jester::config    ] no config file found at C:\Users\Administrator\Saved Games\BetaServer3\../Jester_scripts/jester_config_local.lua, skipping
+2021-09-26 21:49:21.125 INFO    LuaNET: [jester::config    ] no config file found at C:\Users\Administrator\Saved Games\BetaServer3\./Jester/config.lua, skipping
+2021-09-26 21:49:21.127 INFO    LuaNET: [jester::state     ] *** init
+2021-09-26 21:49:21.127 INFO    LuaNET: [jester::state     ] first run, creating state file
+2021-09-26 21:49:21.127 INFO    LuaNET: [jester::state     ] saving state
+2021-09-26 21:49:21.129 INFO    LuaNET: [jester::state     ] recovered state
+2021-09-26 21:49:21.129 INFO    LuaNET: [jester::state     ] No UUID yet
+2021-09-26 21:49:21.129 INFO    LuaNET: [jester::state     ] saving state
+2021-09-26 21:49:21.133 INFO    LuaNET: [jester::hooks     ] *** init
+2021-09-26 21:49:21.135 INFO    LuaNET: [jester::cb        ] *** init
+2021-09-26 21:49:21.137 INFO    LuaNET: [jester::env_utils ] *** init
+2021-09-26 21:49:21.140 INFO    LuaNET: [jester::net       ] *** init
+2021-09-26 21:49:21.142 INFO    LuaNET: [jester::cmdnet    ] *** init
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] *** init
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ping
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $admins
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $alert
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $y
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $n
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $pause
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered mod command $unpause
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered admin command $nuke
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered admin command $jreload
+2021-09-26 21:49:21.144 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $help
+2021-09-26 21:49:21.146 INFO    LuaNET: [jester::telemetry ] *** init
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::moderation] *** init
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1m
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban10m
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1h
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1d
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1w
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban31d
+2021-09-26 21:49:21.148 INFO    LuaNET: [jester::cmdchat   ] registered mod command $kick
+2021-09-26 21:49:21.150 INFO    LuaNET: [jester::server_player_name] *** init
+2021-09-26 21:49:21.151 INFO    LuaNET: [jester::rotation  ] *** init
+2021-09-26 21:49:21.151 INFO    LuaNET: [jester::cmdchat   ] registered mod command $end
+2021-09-26 21:49:21.151 INFO    LuaNET: [jester::cmdchat   ] registered mod command $endnow
+2021-09-26 21:49:21.153 INFO    LuaNET: [jester::motd      ] *** init
+2021-09-26 21:49:21.153 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $motd
+2021-09-26 21:49:21.155 INFO    LuaNET: [jester::events    ] *** init
+2021-09-26 21:49:21.155 INFO    LuaNET: [jester::cmdchat   ] registered admin command $evdump
+2021-09-26 21:49:21.155 INFO    LuaNET: [jester::cmdchat   ] registered admin command $evdumpa
+2021-09-26 21:49:21.157 INFO    LuaNET: [jester::filter_events] *** init
+2021-09-26 21:49:21.158 INFO    LuaNET: [jester::pvp       ] *** init
+2021-09-26 21:49:21.163 INFO    LuaNET: Loaded - DCS-SRS-AutoConnect 1.7.7.0
+2021-09-26 21:49:21.168 INFO    LuaNET: Loaded - SIMPLE SLOT BLOCK v1.1 by Ciribob
+2021-09-26 21:49:21.172 INFO    TACVIEW.GUI.LUA: Loading C++ flight data recorder from [C:\Users\Administrator\Saved Games\BetaServer3\Mods\tech\Tacview\bin\]
+2021-09-26 21:49:21.199 INFO    TACVIEW.GUI.LUA: Tacview 1.8.6.201 C++ flight data recorder successfully loaded.
+2021-09-26 21:49:21.201 INFO    LuaNET: [LOTATC] GameGUI loading...
+2021-09-26 21:49:21.204 INFO    LuaNET: [LOTATC] LotAtc Mod found, load it
+2021-09-26 21:49:21.207 INFO    LuaNET: [LOTATC] [1/5] LotAtc core loading...
+2021-09-26 21:49:21.227 INFO    LuaNET: SLMOD INIT: Loading Slmodv7_5_119...
+2021-09-26 21:49:21.238 INFO    LuaNET: SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\config.lua
+2021-09-26 21:49:21.248 INFO    LuaNET: SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
+2021-09-26 21:49:21.249 INFO    LuaNET: SLMOD INFO: SlmodConfig.lua loaded.
+2021-09-26 21:49:21.257 INFO    LuaNET: SLMOD INFO: SlmodUtils.lua loaded.
+2021-09-26 21:49:21.261 INFO    LuaNET: SLMOD INFO: SlmodEvents.lua loaded.
+2021-09-26 21:49:21.266 INFO    LuaNET: SLMOD INFO: SlmodUnits.lua loaded.
+2021-09-26 21:49:21.270 INFO    LuaNET: SLMOD INFO: SlmodMenu.lua loaded.
+2021-09-26 21:49:21.275 INFO    LuaNET: SLMOD INFO: SlmodConvMenu.lua loaded.
+2021-09-26 21:49:21.277 INFO    LuaNET: SLMOD INFO: SlmodPTSMenu.lua loaded.
+2021-09-26 21:49:21.281 INFO    LuaNET: SLMOD INFO: SlmodPOSMenu.lua loaded.
+2021-09-26 21:49:21.286 INFO    LuaNET: SLMOD INFO: SlmodAdminMenu.lua loaded
+2021-09-26 21:49:21.292 INFO    LuaNET: SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\BetaServer3\Slmod\\SlmodStats.lua
+2021-09-26 21:49:21.293 INFO    LuaNET: SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\SlmodStats.lua
+2021-09-26 21:49:21.293 INFO    LuaNET: SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer3\Slmod\\SlmodPenaltyStats.lua
+2021-09-26 21:49:21.293 INFO    LuaNET: SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\SlmodPenaltyStats.lua
+2021-09-26 21:49:21.293 INFO    LuaNET: SLMOD INFO: SlmodStats.lua loaded.
+2021-09-26 21:49:21.298 INFO    LuaNET: SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer3\Slmod\\SlmodMetaStats.lua
+2021-09-26 21:49:21.302 INFO    LuaNET: SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\SlmodMetaStats.lua
+2021-09-26 21:49:21.305 INFO    LuaNET: SLMOD INFO: SlmodMetaStats.lua loaded.
+2021-09-26 21:49:21.310 INFO    LuaNET: SLMOD INFO: SlmodAutoAdmin.lua loaded.
+2021-09-26 21:49:21.312 INFO    LuaNET: SLMOD INFO: SlmodPingCheck.lua loaded.
+2021-09-26 21:49:21.317 INFO    LuaNET: SLMOD INFO: SlmodVote.lua loaded.
+2021-09-26 21:49:21.323 INFO    LuaNET: SLMOD INFO: SlmodLibs.lua loaded.
+2021-09-26 21:49:21.327 INFO    LuaNET: SLMOD INFO: SlmodDebugger.lua loaded.
+2021-09-26 21:49:21.331 INFO    LuaNET: SLMOD INFO: SlmodMOTD.lua loaded.
+2021-09-26 21:49:21.333 INFO    LuaNET: SLMOD INFO: SlmodHelp.lua loaded.
+2021-09-26 21:49:21.337 INFO    LuaNET: SLMOD INFO: SlmodCallbacks.lua loaded
+2021-09-26 21:49:21.342 INFO    LuaNET: SLMOD INFO: SlmodTests.lua loaded.
+2021-09-26 21:49:21.347 INFO    Dispatcher: //=== END OF INIT ======================================//
+2021-09-26 21:49:21.347 INFO    NET: server has started
+2021-09-26 21:49:21.350 INFO    NET: Using LEDBAT for UDP congestion control.
+2021-09-26 21:49:25.395 INFO    NET: No UPNP devices found.
+2021-09-26 21:49:25.395 INFO    NET: Successfully set up Dual-Stack socket, using both IPv4 and IPv6
+2021-09-26 21:49:25.395 INFO    NET: Listen to IPv6 on port 10310
+2021-09-26 21:49:25.395 INFO    Dispatcher: loadMission C:\Users\Administrator\Saved Games\BetaServer3\Missions\4YA_Marianas_LS_V.1.7.miz
+2021-09-26 21:49:25.401 INFO    WORLDGENERAL: loading mission from: "C:\Users\Administrator\Saved Games\BetaServer3\Missions\4YA_Marianas_LS_V.1.7.miz"
+2021-09-26 21:49:25.488 INFO    DCS: use_xRay: yes
+2021-09-26 21:49:25.488 INFO    DCS: netfm_enable_coeff_switching: yes
+2021-09-26 21:49:25.646 INFO    NET: Loading mission: "C:\Users\Administrator\Saved Games\BetaServer3\Missions\4YA_Marianas_LS_V.1.7.miz"
+2021-09-26 21:49:25.646 INFO    NET: Registering server as 104.243.33.190:10310 (port is assumed to be open)
+2021-09-26 21:49:25.649 INFO    EDCORE: (dDispatcher)enterToState_:2
+2021-09-26 21:49:25.649 INFO    LuaNET: SLMOD INFO: Modifying netview... results: , true
+2021-09-26 21:49:25.649 INFO    LuaNET: SLMOD INFO: connected client 1
+2021-09-26 21:49:25.649 INFO    LuaNET: SLMOD INFO: num clients: 1
+2021-09-26 21:49:25.649 INFO    TACVIEW.DLL: Tacview Flight Data Recorder 1.8.6.201 Loaded.
+2021-09-26 21:49:25.649 INFO    TACVIEW.DLL: Config={tacviewModuleEnabled=1, tacviewFlightDataRecordingEnabled=1, tacviewSinglePlayerFlights=2, tacviewMultiplayerFlightsAsClient=2, tacviewMultiplayerFlightsAsHost=2, tacviewBookmarkShortcut=0, tacviewAutoDiscardFlights=10, tacviewDebugMode=0, tacviewTerrainExport=0, tacviewRealTimeTelemetryEnabled=1, tacviewRealTimeTelemetryPort=42674, tacviewRealTimeTelemetryPassword="", tacviewRemoteControlEnabled=0, tacviewRemoteControlPort=42675, tacviewRemoteControlPassword=""}
+2021-09-26 21:49:25.649 INFO    TACVIEW.DLL: Running as the host of a multiplayer session.
+2021-09-26 21:49:25.649 INFO    TACVIEW.DLL: Tacview is set to [Record All Available Data]
+2021-09-26 21:49:25.649 INFO    LuaNET: [jester::cb        ] player added: {['id']=1,['name']='PILOT_735797',['ucid']='0573826f55756586fa6a0b3b9dd23108',}
+2021-09-26 21:49:25.676 INFO    EDCORE: (dDispatcher)enterToState_:3
+2021-09-26 21:49:25.691 INFO    EDCORE: (dDispatcher)enterToState_:4
+2021-09-26 21:49:25.691 INFO    Dispatcher: Start
+2021-09-26 21:49:25.693 INFO    NET: state=ssLoading
+2021-09-26 21:49:25.702 INFO    Dispatcher: Terrain theatre MarianaIslands
+2021-09-26 21:49:25.702 INFO    Dispatcher: load terrain from ./Mods/terrains/MarianaIslands\terrain.cfg.lua
+2021-09-26 21:49:25.712 INFO    SECURITYCONTROL: Loaded mods/terrains/marianaislands/terrain.cfg.lua.pak.crypt
+2021-09-26 21:49:25.713 INFO    TERRAIN: lSystem::load(./Mods/terrains/MarianaIslands\terrain.cfg.lua)
+2021-09-26 21:49:25.713 INFO    TERRAIN: lSystem::openSession(./Mods/terrains/MarianaIslands\terrain.cfg.lua)
+2021-09-26 21:49:25.713 INFO    TERRAIN: lSystem::exit()
+2021-09-26 21:49:25.713 INFO    TERRAIN: lSystem::CleanScenes()
+2021-09-26 21:49:25.713 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 13
+2021-09-26 21:49:26.073 INFO    EDTERRAIN4: TERRAIN_REVISION = 4650
+2021-09-26 21:49:26.073 INFO    EDTERRAIN4: Open terrain cfg "./Mods/terrains/MarianaIslands\terrain.cfg.lua"
+2021-09-26 21:49:26.073 INFO    EDTERRAIN4: Build date: 
+2021-09-26 21:49:26.073 INFO    EDTERRAIN4: Texture quality: "min"
+2021-09-26 21:49:26.073 INFO    EDTERRAIN4: Language: "en"
+2021-09-26 21:49:26.214 INFO    EDCORE: 0.141 s  terrain references
+2021-09-26 21:49:26.214 INFO    EDCORE: 0.000 s  terrain models
+2021-09-26 21:49:26.214 INFO    EDCORE: 0.000 s  terrain assets
+2021-09-26 21:49:26.369 INFO    EDCORE: 0.155 s  terrain assets2
+2021-09-26 21:49:26.492 INFO    EDCORE: 0.123 s  terrain landfile
+2021-09-26 21:49:26.504 INFO    EDCORE: 0.012 s  terrain surfaceTile
+2021-09-26 21:49:26.504 INFO    EDTERRAIN4: switchTextures (season=1, minTexture=true)
+2021-09-26 21:49:26.504 INFO    EDCORE: 0.000 s  terrain vfstextures
+2021-09-26 21:49:26.518 INFO    EDCORE: 0.013 s  terrain scene
+2021-09-26 21:49:26.518 INFO    EDCORE: 0.000 s  terrain roaddetails
+2021-09-26 21:49:26.518 INFO    EDCORE: 0.000 s  terrain forest
+2021-09-26 21:49:26.675 INFO    EDCORE: 0.158 s  terrain routes
+2021-09-26 21:49:26.675 INFO    EDCORE: 0.000 s  terrain surfacedetails
+2021-09-26 21:49:26.675 INFO    EDCORE: 0.000 s  terrain blocks
+2021-09-26 21:49:26.683 INFO    EDCORE: 0.000 s  terrain references
+2021-09-26 21:49:27.520 INFO    EDCORE: 0.845 s  terrain superficials
+2021-09-26 21:49:27.535 INFO    EDCORE: 0.014 s  terrain lma
+2021-09-26 21:49:27.535 INFO    EDCORE: 0.000 s  terrain vectordatasettings
+2021-09-26 21:49:28.487 INFO    EDCORE: 0.952 s  terrain navgraph
+2021-09-26 21:49:28.487 INFO    EDCORE: 0.000 s  terrain vti
+2021-09-26 21:49:28.758 INFO    EDTERRAIN4: terrain time: 2.684964 s
+2021-09-26 21:49:28.811 ERROR   EDOBJECTS: Destruction shape not found HOUSEHOLD_BUILDING_CRASH
+2021-09-26 21:49:28.812 INFO    TERRAIN: lSystem::InitScenes()
+2021-09-26 21:49:28.812 INFO    EDTERRAIN4: ITerrainContextImpl4::setTrafficDecimation(0)
+2021-09-26 21:49:28.812 INFO    EDTERRAIN4: ITerrainContextImpl4::setDate( day=21, month=6)
+2021-09-26 21:49:28.812 INFO    EDTERRAIN4: lTerraDispatchImpl::setDate( day=21, month=6)
+2021-09-26 21:49:28.812 INFO    EDTERRAIN4: ITerrainContextImpl4::setTextureMode(full=0)
+2021-09-26 21:49:28.816 INFO    Dispatcher: load terrain done
+2021-09-26 21:49:28.818 WARNING GRAPHICSCORE: already registered Renderer callback
+2021-09-26 21:49:29.533 INFO    Dispatcher: initial random seed = 2969173
+2021-09-26 21:49:29.533 INFO    Dispatcher: apply random seed = 2969173
+2021-09-26 21:49:29.535 ERROR   GRAPHICSVISTA: Can't open model constr_crane.
+2021-09-26 21:49:29.537 INFO    WORLDGENERAL: loaded from mission Scripts/World/GPS_GNSS.lua
+2021-09-26 21:49:30.025 INFO    WORLDGENERAL: loaded from mission Config/View/SnapViewsDefault.lua
+2021-09-26 21:49:30.025 INFO    WORLDGENERAL: loaded from mission Config/View/View.lua
+2021-09-26 21:49:30.028 INFO    WORLDGENERAL: loaded from mission Config/View/Server.lua
+2021-09-26 21:49:30.074 INFO    UIBASERENDERER: Cannot load font [C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 3\dxgui\skins\fonts\]!
+2021-09-26 21:49:30.107 INFO    Config: netview started
+2021-09-26 21:49:31.114 INFO    DCS: MissionSpawn:spawnShips 81
+2021-09-26 21:49:31.335 INFO    DCS: MissionSpawn:spawnShips 0
+2021-09-26 21:49:31.358 INFO    DCS: MissionSpawn:spawnShips 7
+2021-09-26 21:49:31.457 ERROR   WEAPONS: Invalid connector name (Gun_Point_lha_02): unit type = LHA_Tarawa, ws id=4, ln id=1, br id=1
+2021-09-26 21:49:31.458 ERROR   wWeaponSystem: invalid connector Gun_Point_lha_02 for unit LHA_Tarawa
+2021-09-26 21:49:31.548 INFO    ANIMATOR: load_basic() started
+2021-09-26 21:49:32.749 ERROR   ANIMATOR: animation '' not found
+2021-09-26 21:49:32.874 WARNING RENDERERSTUB: Static mode not implemented yet for structured buffer
+2021-09-26 21:49:32.874 WARNING LOG: 3 duplicate message(s) skipped.
+2021-09-26 21:49:32.874 INFO    ANIMATOR: Loading graphs:
+2021-09-26 21:49:32.880 ERROR   ANIMATOR: animation '' not found
+2021-09-26 21:49:32.881 INFO    ANIMATOR: load_basic() ended
+2021-09-26 21:49:32.882 INFO    ANIMATOR: load_main() started
+2021-09-26 21:49:32.883 WARNING RENDERERSTUB: Static mode not implemented yet for structured buffer
+2021-09-26 21:49:32.960 WARNING LOG: 7 duplicate message(s) skipped.
+2021-09-26 21:49:32.960 INFO    ANIMATOR: load_main() ended
+2021-09-26 21:49:32.960 WARNING FLIGHT: carrier technician [1: shooter] created, id 0
+2021-09-26 21:49:32.960 INFO    ANIMATOR: load_basic() started
+2021-09-26 21:49:33.037 INFO    ANIMATOR: load_basic() ended
+2021-09-26 21:49:33.037 INFO    ANIMATOR: load_main() started
+2021-09-26 21:49:33.039 WARNING RENDERERSTUB: Static mode not implemented yet for structured buffer
+2021-09-26 21:49:33.110 WARNING LOG: 7 duplicate message(s) skipped.
+2021-09-26 21:49:33.110 INFO    ANIMATOR: load_main() ended
+2021-09-26 21:49:33.110 WARNING FLIGHT: carrier technician [1: director] created, id 0
+2021-09-26 21:49:33.110 WARNING FLIGHT: carrier technician [1: white1] created, id 1
+2021-09-26 21:49:33.110 WARNING ANIMATOR: TextureArray::open() returned false, may be in dedicated server mode
+2021-09-26 21:49:33.110 WARNING LOG: 3 duplicate message(s) skipped.
+2021-09-26 21:49:33.110 WARNING FLIGHT: carrier technician [1: white2] created, id 2
+2021-09-26 21:49:33.110 WARNING FLIGHT: carrier technician [1: green_hbb] created, id 3
+2021-09-26 21:49:33.110 WARNING ANIMATOR: TextureArray::open() returned false, may be in dedicated server mode
+2021-09-26 21:49:33.129 WARNING LOG: 3 duplicate message(s) skipped.
+2021-09-26 21:49:33.129 WARNING FLIGHT: carrier technician [1: green_nw] created, id 1
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: shooter] created, id 4
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: director] created, id 2
+2021-09-26 21:49:33.136 WARNING ANIMATOR: TextureArray::open() returned false, may be in dedicated server mode
+2021-09-26 21:49:33.136 WARNING LOG: 3 duplicate message(s) skipped.
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: white1] created, id 3
+2021-09-26 21:49:33.136 WARNING ANIMATOR: TextureArray::open() returned false, may be in dedicated server mode
+2021-09-26 21:49:33.136 WARNING LOG: 3 duplicate message(s) skipped.
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: white2] created, id 5
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: green_hbb] created, id 6
+2021-09-26 21:49:33.136 WARNING FLIGHT: carrier technician [2: green_nw] created, id 7
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: shooter] created, id 8
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: director] created, id 4
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: white1] created, id 5
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: white2] created, id 9
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: green_hbb] created, id 6
+2021-09-26 21:49:33.141 WARNING FLIGHT: carrier technician [3: green_nw] created, id 7
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: shooter] created, id 8
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: director] created, id 9
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: white1] created, id 10
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: white2] created, id 11
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: green_hbb] created, id 10
+2021-09-26 21:49:33.146 WARNING FLIGHT: carrier technician [4: green_nw] created, id 12
+2021-09-26 21:49:33.160 WARNING ANIMATOR: TextureArray::open() returned false, may be in dedicated server mode
+2021-09-26 21:49:33.413 WARNING LOG: 23 duplicate message(s) skipped.
+2021-09-26 21:49:33.413 INFO    SCRIPTING: Loading SLMOD MissionScripting.lua
+2021-09-26 21:49:33.413 INFO    SCRIPTING: Slmod: using settings defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\config.lua
+2021-09-26 21:49:34.047 INFO    SCRIPTING: MissionScripting.lua SLMOD code loaded
+2021-09-26 21:49:34.107 INFO    DCS: MissionSpawn:initScript
+2021-09-26 21:49:34.107 INFO    DCS: MissionSpawn:spawnCoalition neutrals
+2021-09-26 21:49:34.107 INFO    DCS: MissionSpawn:spawnCoalition red
+2021-09-26 21:49:34.107 INFO    DCS: MissionSpawn:spawnVehicles 81
+2021-09-26 21:49:34.179 INFO    GRAPHICSVISTA: Creating Resource "Unicode" of type 1
+2021-09-26 21:49:34.935 INFO    DCS: MissionSpawn:spawnPlanes 0
+2021-09-26 21:49:35.276 INFO    DCS: MissionSpawn:spawnVehicles 0
+2021-09-26 21:49:35.928 INFO    DCS: MissionSpawn:spawnCoalition blue
+2021-09-26 21:49:35.928 INFO    DCS: MissionSpawn:spawnVehicles 2
+2021-09-26 21:49:35.978 INFO    DCS: MissionSpawn:spawnVehicles 80
+2021-09-26 21:49:36.030 INFO    DCS: MissionSpawn:spawnPlanes 7
+2021-09-26 21:49:36.099 INFO    DCS: MissionSpawn:spawnHelicopters 7
+2021-09-26 21:49:36.100 INFO    Scripting: event:t=0,type=mission start,ta=28800,
+2021-09-26 21:49:36.115 INFO    TACVIEW.EXPORT.LUA: Loading C++ flight data recorder from [C:\Users\Administrator\Saved Games\BetaServer3\Mods\tech\Tacview\bin\]
+2021-09-26 21:49:36.116 INFO    TACVIEW.EXPORT.LUA: Tacview 1.8.6.201 C++ flight data recorder successfully loaded.
+2021-09-26 21:49:36.230 INFO    SCRIPTING: *** MOOSE GITHUB Commit Hash ID: 2021-08-22T10:02:52.0000000Z-6cc3d73c04a3393cc3566eb93aef03080f2375b7 ***
+2021-09-26 21:49:36.230 INFO    SCRIPTING: *** MOOSE STATIC INCLUDE START *** 
+2021-09-26 21:49:36.230 INFO    SCRIPTING: Init: Scripts Loaded v1.1
+2021-09-26 21:49:36.235 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: TINIAN_SA-11)
+2021-09-26 21:49:36.235 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-1)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-2)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-3)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-9)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-4)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-5)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-6)
+2021-09-26 21:49:36.236 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-7)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: -2-8)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Rota SA-2)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-1)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-2)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-3)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-4)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-5)
+2021-09-26 21:49:36.237 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-6)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-7)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-8)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-9)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-10)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-11)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-12)
+2021-09-26 21:49:36.238 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-13)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-14)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: round-1-15)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_ISLAND_BTRGROUP_RED)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-1)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-2)
+2021-09-26 21:49:36.239 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-3)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-4)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA_ISLAND_BTRGROUP_RED-1)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-5)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-6)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-7)
+2021-09-26 21:49:36.240 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-141-8)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SOUTH_FARP_ENEMYGROUP)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-40-1)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-1)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-2)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-3)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-4)
+2021-09-26 21:49:36.241 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-5)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-6)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-7)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-8)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-9)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-10)
+2021-09-26 21:49:36.242 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-11)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-12)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-13)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-14)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-15)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-16)
+2021-09-26 21:49:36.243 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-17)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-18)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: WEST_FARP_ENEMYGROUP-19)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: NORTH FIELD_BASE_RED)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-1)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-2)
+2021-09-26 21:49:36.244 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-3)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-4)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-5)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-6)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-7)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_TRIGGER_FLIP_BLUE-1-8)
+2021-09-26 21:49:36.245 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: USAF_3)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Pilot #634-1)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: USAF_2-1-1)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: USAF_4)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Pilot #105-1)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: USAF_4-1)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: USAF_2)
+2021-09-26 21:49:36.246 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Pilot #599-1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: USAF_6-1-1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: USAF_1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Pilot #628-1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: USAF_1-1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA INTL-RED-1)
+2021-09-26 21:49:36.247 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-1-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-2-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-3-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-4-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-5-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-6-1-1)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA INTL-RED-1-2)
+2021-09-26 21:49:36.248 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA INTL-RED-1-1)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-7-1-1)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-8-1-1)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-9-1-1)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-10-1-1)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: TINIANBASE-RED)
+2021-09-26 21:49:36.249 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-1-1)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-2-1)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-3-1)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-4-1)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-5-1)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-4)
+2021-09-26 21:49:36.250 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-3)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-8)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-7)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-6)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-5)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-6-1)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-7-1)
+2021-09-26 21:49:36.251 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-8-1)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-9-1)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-2)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TINIANBASE-RED-1)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-10-1)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPANBASE-RED)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-1)
+2021-09-26 21:49:36.252 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-2)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-3)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-4)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-5)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-6)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-10)
+2021-09-26 21:49:36.253 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-9)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-8)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-7)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-6)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-5)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-4)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-3)
+2021-09-26 21:49:36.254 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-2)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPANBASE-RED-1)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-7)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-8)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-9)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: SAIPAN_T90_GROUPRED-2-10)
+2021-09-26 21:49:36.255 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPAN_T90_GROUPRED-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-1-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-2-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-3-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-4-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-5-1)
+2021-09-26 21:49:36.256 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-6-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_ISLAND_BMP+VULCANREDGROUP-2)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-64-1-5-4-1-2-1-7-3-1-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-1-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-2-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-3-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-4-1)
+2021-09-26 21:49:36.257 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-5-1)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_ISLAND_SOUTH_REDLANDGROUP)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-1)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-2)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-3)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-4)
+2021-09-26 21:49:36.258 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-5)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-6)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-7)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-8)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-9)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-10)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-11)
+2021-09-26 21:49:36.259 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-126-12)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPAN_IFVBRADLEY_REDGROUP)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-1)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-2)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-3)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-4)
+2021-09-26 21:49:36.260 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-5)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-6)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-7)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-8)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-258-9)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: NORTH FIELD_BASE_RED1)
+2021-09-26 21:49:36.261 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-160-1-6)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-1)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-2)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-3)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-4)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-5)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-6)
+2021-09-26 21:49:36.262 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-7)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-8)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-170-9)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: REDCONVOY_SAIPAN_1)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-275-1)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-1)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-2)
+2021-09-26 21:49:36.263 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-3)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-4)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-5)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-6)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDCONVOY_SAIPAN_1-7)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPAN_MARDER_REDGROUP)
+2021-09-26 21:49:36.264 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-226-1-6-1)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-239-1)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-239-2)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-239-3)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-239-4)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-239-5)
+2021-09-26 21:49:36.265 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPAN_IFV_REDGROUP)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-226-1-1-1)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-232-1)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-232-2)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-232-3)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: NORTH FIELD_BASE_RED2)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-200-1-1)
+2021-09-26 21:49:36.266 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-201-1)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-201-2)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-201-3)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-201-4)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-201-5)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: NORTH FIELD_BASE_RED3)
+2021-09-26 21:49:36.267 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-1)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-2)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-3)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-4)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-5)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-186-6)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_ISLAND_BMP+VULCANREDGROUP)
+2021-09-26 21:49:36.268 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-64-1-5-4-1-2-1-7-3-1)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-1)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-2)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-3)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-4)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-103-5)
+2021-09-26 21:49:36.269 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Generals Sub)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Generals Sub)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SOUTH_FARP_SPEEDBOATS_RED-1)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-1-1)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-2-1)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-3-1)
+2021-09-26 21:49:36.270 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-4-1)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SOUTH_FARP_SPEEDBOATS_RED)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-1)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-2)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-3)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-9-4)
+2021-09-26 21:49:36.271 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: RED_CARRIER_FLEET)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: REDPACKAGE_NORTHEAST_1-1)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: RED_CARRIER_FLEET-1)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: RED_CARRIER_FLEET-2)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: RED_CARRIER_FLEET-3)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: RED_CARRIER_FLEET-4)
+2021-09-26 21:49:36.272 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: RED_CARRIER_FLEET-5)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_SSK)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-17-1-1)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA_SSK_1-1)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA_SSK_1-2)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_TANKERGIANT)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-15-1-1)
+2021-09-26 21:49:36.273 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA_TANKERGIANT_2-1)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: AMPHIBIOUS_RED)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-12-1)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: AMPHIBIOUS_RED_3-1)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: TANKER135_BLUE)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TANKER135_BLUE)
+2021-09-26 21:49:36.274 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: TANKER135_BLUE_MPRS)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: TANKER135_BLUE_MPRS)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: AWACS_BLUE_OVERLORD)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: AWACS_BLUE_OVERLORD)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: SAIPAN_BLUE)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA _BLUE-6-1-1-1)
+2021-09-26 21:49:36.275 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA _BLUE-6-2-1-1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: TINIAN_BLUE)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA _BLUE-6-1-1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA _BLUE-6-2-1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: ROTA_BLUE_1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA_BLUE_1-1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: ROTA _BLUE-6-1)
+2021-09-26 21:49:36.276 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-63)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-60-1-3)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-62)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-60-1-2)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-61)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-60-1-1)
+2021-09-26 21:49:36.277 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-60)
+2021-09-26 21:49:36.278 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-60-1)
+2021-09-26 21:49:36.278 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-59)
+2021-09-26 21:49:36.278 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-56-1-3)
+2021-09-26 21:49:36.278 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-58)
+2021-09-26 21:49:36.278 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-56-1-2)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-57)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-56-1-1)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-56)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-56-1)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-55)
+2021-09-26 21:49:36.279 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-6)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-54)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-5)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-53)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-4)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-52)
+2021-09-26 21:49:36.280 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-3)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-51)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-2)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-50)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1-1)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-49)
+2021-09-26 21:49:36.281 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-49-1-1)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-9)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-8-1-1)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-8)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-8-1)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-7)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-5-1-2)
+2021-09-26 21:49:36.282 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-6)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-5-1-1)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-5)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-5-1)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-4)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-1-1-1-1-1)
+2021-09-26 21:49:36.283 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-3)
+2021-09-26 21:49:36.284 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-1-1-1-1)
+2021-09-26 21:49:36.284 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-2)
+2021-09-26 21:49:36.284 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-1-1-1)
+2021-09-26 21:49:36.284 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-1)
+2021-09-26 21:49:36.284 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-1-1)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-16)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-6)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-15)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-5)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-14)
+2021-09-26 21:49:36.285 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-4)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-13)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-3)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-12)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-2)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-11)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1-1)
+2021-09-26 21:49:36.286 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: Ground-10)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Ground-10-1)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15874( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Group: BLUE_FLEET)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-11-1)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-11-2)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-11-3)
+2021-09-26 21:49:36.287 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-11-4)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: Naval-11-5)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15884( 15062)/I:                      DATABASE00003._RegisterGroupsAndUnits(Register Unit: BLUE_FLEET-1)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1-1-1)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1-1-2)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: 00_ADMIRAL_SU33-1-1)
+2021-09-26 21:49:36.288 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2)
+2021-09-26 21:49:36.289 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo29)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: 00_ADMIRAL_SU33-1-1-1)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-2)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.290 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo14)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo2)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo28)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1-1)
+2021-09-26 21:49:36.291 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2-1-2)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1-1-1)
+2021-09-26 21:49:36.292 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2-1-1-2)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo21)
+2021-09-26 21:49:36.293 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo17)
+2021-09-26 21:49:36.294 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1)
+2021-09-26 21:49:36.294 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1)
+2021-09-26 21:49:36.294 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1)
+2021-09-26 21:49:36.294 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo10)
+2021-09-26 21:49:36.294 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo6)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo32)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: 00_ADMIRAL_SU33-1-1-1-1)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1)
+2021-09-26 21:49:36.295 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo7)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-12)
+2021-09-26 21:49:36.296 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo36)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo12)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1-1-1-1)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo18)
+2021-09-26 21:49:36.297 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1-1)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: 00_ADMIRAL_SU33-1-1-1-2)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo35)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1-1-1-2)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1)
+2021-09-26 21:49:36.298 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.299 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.299 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo31)
+2021-09-26 21:49:36.299 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.299 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo5)
+2021-09-26 21:49:36.299 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo27)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo26)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.300 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo19)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-11)
+2021-09-26 21:49:36.301 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo34)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1)
+2021-09-26 21:49:36.302 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo3)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-11-1)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-12-1)
+2021-09-26 21:49:36.303 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-10-1)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-21)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.304 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-20)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-19)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-18)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.305 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo4)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-3)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo25)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1-1)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.306 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-3)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.307 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo33)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1-1-1-1)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.308 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo20)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-4)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo13)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5)
+2021-09-26 21:49:36.309 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2-1-1-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2-1-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo23)
+2021-09-26 21:49:36.310 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo22)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1-1-1)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo11)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1)
+2021-09-26 21:49:36.311 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1)
+2021-09-26 21:49:36.312 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-9-1-1-2)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1)
+2021-09-26 21:49:36.313 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo8)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo1)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: TINIAN_FARP_KA50-1)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo9)
+2021-09-26 21:49:36.314 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo24)
+2021-09-26 21:49:36.315 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: 00_ADMIRAL_SU33-1-1-2)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1-1-1-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-3-1)
+2021-09-26 21:49:36.316 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo30)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-10)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-5-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.317 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-2-1)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1-1)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-7-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo16)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-2-1-1-1-2)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1)
+2021-09-26 21:49:36.318 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-2-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-6-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: helicargo15)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-4-1)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15904( 15063)/I:                      DATABASE00003._RegisterClients(Register Client: Aerial-1-8-1-1-1-1-1-1-1-1-1)
+2021-09-26 21:49:36.319 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Ammo Storage-3-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Ammo Storage-3-1-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Command Post-3)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Command Post-3-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Fuel Depot-3)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Fuel Depot-3-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: TINIAN_FARP_TENT1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: TINIAN_FARP_TENT2)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: logistic1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: logistic2)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: logistic3)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Command Post-1-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Tent-5)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Tent-5-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Command Post-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Fuel Depot-1-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Fuel Depot-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Ammo Storage-1-1-1)
+2021-09-26 21:49:36.320 INFO    SCRIPTING:  15922( 15064)/I:                      DATABASE00003._RegisterStatics(Register Static: Static FARP Ammo Storage-1-1)
+2021-09-26 21:49:36.321 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Rota Intl (ID=1 UID=1), parking=11 [244=0 68=0 40=0 216=0 176=0 104=9 16=2 72=0 ])
+2021-09-26 21:49:36.323 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Saipan Intl (ID=2 UID=2), parking=21 [244=0 68=0 40=0 216=0 176=0 104=19 16=2 72=0 ])
+2021-09-26 21:49:36.324 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Tinian Intl (ID=3 UID=3), parking=6 [244=0 68=0 40=0 216=0 176=0 104=4 16=2 72=0 ])
+2021-09-26 21:49:36.327 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Antonio B. Won Pat Intl (ID=4 UID=4), parking=27 [244=0 68=0 40=0 216=0 176=0 104=23 16=4 72=0 ])
+2021-09-26 21:49:36.328 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Olf Orote (ID=5 UID=5), parking=4 [244=0 68=0 40=4 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.346 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: Andersen AFB (ID=6 UID=6), parking=198 [244=0 68=0 40=0 216=0 176=0 104=182 16=4 72=12 ])
+2021-09-26 21:49:36.346 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Airdrome: North West Field (ID=8 UID=8), parking=0 [244=0 68=0 40=0 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.347 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Helipad: TINIAN_FARP (ID=628 UID=628), parking=4 [244=0 68=0 40=4 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.348 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Helipad: SOUTH FARP-1 (ID=49 UID=49), parking=4 [244=0 68=0 40=4 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.348 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-12-1 (ID=530 UID=530), parking=2 [244=0 68=0 40=2 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.349 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: AMPHIBIOUS_RED_3-1 (ID=729 UID=729), parking=2 [244=0 68=0 40=2 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.349 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-15-1-1 (ID=534 UID=534), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.350 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: ROTA_TANKERGIANT_2-1 (ID=732 UID=732), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.351 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: RED_CARRIER_FLEET-1 (ID=644 UID=644), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.352 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: RED_CARRIER_FLEET-2 (ID=645 UID=645), parking=17 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=9 ])
+2021-09-26 21:49:36.353 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: RED_CARRIER_FLEET-3 (ID=646 UID=646), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.354 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: RED_CARRIER_FLEET-4 (ID=647 UID=647), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.354 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: RED_CARRIER_FLEET-5 (ID=649 UID=649), parking=2 [244=0 68=0 40=2 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.356 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-11-1 (ID=250 UID=250), parking=17 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=9 ])
+2021-09-26 21:49:36.359 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-11-2 (ID=251 UID=251), parking=30 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=22 ])
+2021-09-26 21:49:36.362 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-11-3 (ID=252 UID=252), parking=30 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=22 ])
+2021-09-26 21:49:36.364 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-11-4 (ID=253 UID=253), parking=16 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=8 ])
+2021-09-26 21:49:36.365 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: Naval-11-5 (ID=254 UID=254), parking=1 [244=0 68=0 40=1 216=0 176=0 104=0 16=0 72=0 ])
+2021-09-26 21:49:36.367 INFO    SCRIPTING:  15960( 15065)/I:                      DATABASE00003._RegisterAirbases(Register Ship: BLUE_FLEET-1 (ID=700 UID=700), parking=24 [244=0 68=0 40=8 216=0 176=0 104=0 16=0 72=16 ])
+2021-09-26 21:49:36.371 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: ROTA AIRSPACE (Circular))
+2021-09-26 21:49:36.371 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: pickzone2 (Circular))
+2021-09-26 21:49:36.372 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: SAIPAN AIRSPACE (Circular))
+2021-09-26 21:49:36.372 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: General Loading Zone (Circular))
+2021-09-26 21:49:36.372 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: pickzone1 (Circular))
+2021-09-26 21:49:36.372 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: pickzone3 (Circular))
+2021-09-26 21:49:36.373 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: ANTONIO AIRSPACE (Circular))
+2021-09-26 21:49:36.373 INFO    SCRIPTING:  15242(162643)/I:                      DATABASE00003.?(Register ZONE: TINIAN AIRSPACE (Circular))
+2021-09-26 21:49:36.373 INFO    SCRIPTING: 162646(    -1)/I:                          BASE00000.function(Checking de-sanitization of os, io and lfs:)
+2021-09-26 21:49:36.373 INFO    SCRIPTING: 162651(    -1)/I:                          BASE00000.function(- os NOT available! Some functions may not work.)
+2021-09-26 21:49:36.373 INFO    SCRIPTING: 162657(    -1)/I:                          BASE00000.function(- io NOT available! Some functions may not work.)
+2021-09-26 21:49:36.373 INFO    SCRIPTING: 162663(    -1)/I:                          BASE00000.function(- lfs NOT available! Some functions may not work.)
+2021-09-26 21:49:36.373 INFO    SCRIPTING: 162667(    -1)/I:                          BASE00000.function(Check <DCS install folder>/Scripts/MissionScripting.lua and comment out the lines with sanitizeModule(''). Use at your own risk!))
+2021-09-26 21:49:36.373 INFO    SCRIPTING:   7013(162669)/I:                          BASE00000.?(Tracing in MOOSE is OFF)
+2021-09-26 21:49:36.373 INFO    SCRIPTING: *** MOOSE INCLUDE END *** 
+2021-09-26 21:49:36.373 INFO    NET: simulation is ready, state=ssPaused
+2021-09-26 21:49:36.374 INFO    LuaNET: [jester::env_utils ] injecting lua functions
+2021-09-26 21:49:36.374 INFO    LuaNET: [jester::telemetry ] *heartbeat*
+2021-09-26 21:49:36.375 INFO    DCS: Screen: mission_online
+2021-09-26 21:49:36.375 INFO    Dispatcher: precache units resources in slots
+2021-09-26 21:49:38.226 INFO    Lua: Lua CPU usage: metric: average mission loading: 9.8884 %
+2021-09-26 21:49:38.226 INFO    Dispatcher: loadMission Done: Сontrol passed to the player
+2021-09-26 21:49:38.301 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+2021-09-26 21:49:38.302 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+2021-09-26 21:49:38.302 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+2021-09-26 21:49:38.302 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+2021-09-26 21:49:38.302 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+2021-09-26 21:49:38.303 INFO    LuaNET: SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+2021-09-26 21:49:38.305 INFO    LuaNET: SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\BannedClients.lua
+2021-09-26 21:49:38.308 INFO    LuaNET: SLMOD INFO: using server admins as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\ServerAdmins.lua
+2021-09-26 21:49:38.308 INFO    LuaNET: SLMOD INFO: load exempt clients
+2021-09-26 21:49:38.310 INFO    LuaNET: SLMOD INFO: using exempt ucids as defined in C:\Users\Administrator\Saved Games\BetaServer3\Slmod\ExemptClients.lua
+2021-09-26 21:49:38.343 INFO    LuaNET: SLMOD INFO: successfully loaded unitAttributes.
+2021-09-26 21:49:38.347 INFO    LuaNET: SLMOD INFO: no misStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer3\Slmod\Mission Stats\\SATAL_2020_Diamond_MAYKOP-ANAPA_2.5.6.55960 (1)- Jul 23, 2021 at 18 52 58.lua
+2021-09-26 21:49:38.347 INFO    LuaNET: SLMOD INFO: Old Mission Stat file doesnt exist
+2021-09-26 21:49:38.348 INFO    LuaNET: SLMOD INFO: weapons_impacting_code loaded successfully to server env
+2021-09-26 21:49:38.348 INFO    LuaNET: SLMOD INFO: using random seed 2978
+2021-09-26 21:49:38.349 INFO    LuaNET: SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+2021-09-26 21:49:38.367 INFO    LuaNET: SLMOD INFO: successfully completed slmod.getMissionUnitData()
+2021-09-26 21:49:38.368 INFO    LuaNET: [jester::net       ] enter net coro
+2021-09-26 21:49:38.368 INFO    LuaNET: [jester::net       ] creating tcp socket
+2021-09-26 21:49:38.368 INFO    LuaNET: [jester::net       ] attempting tcp connection {[1]='127.0.0.1',[2]=50777,}
+2021-09-26 21:49:38.368 INFO    LuaNET: [jester::env_utils ] injecting lua functions
+2021-09-26 21:49:38.368 INFO    LuaNET: [jester::server_player_name] set server player name to "Server"
+2021-09-26 21:49:38.369 INFO    LuaNET: [jester::events    ] injecting world event handler
+2021-09-26 21:49:38.863 INFO    LuaNET: [jester::cmdnet    ] message {['body']='27693ac6-485c-4bf1-b99b-dcd004cee079',['type']='set_uuid',}
+2021-09-26 21:49:38.864 INFO    LuaNET: [jester::state     ] uuid file written and succesfully read back: 27693ac6-485c-4bf1-b99b-dcd004cee079
+2021-09-26 21:49:38.864 INFO    LuaNET: [jester::cmdnet    ] saved new uuid:
+2021-09-26 21:49:39.895 INFO    LuaNET: [jester::cmdnet    ] message {['body']={['admins']={['201cb4e87d594aa1eb21b2016e44cfda']={['discord_name']='[4YA] Commissar Hudson',['id']=26,['name']='Techmarine Toaster 1-1',},['396fb38e33a8efc1601cf9f56593a7dd']={['discord_name']='[4YA][RODO]{TS\'s}(OG)(OF)Wojtek',['id']=11,['name']='Stroke-1 Wojtek',},['3fafe44f7d1998d0d5d122ba95231f31']={['discord_name']='[4YA] [TN] Sir Rhino',['id']=8,['name']='[TN] Sir Rhino',},['417257e229b7eb912210a7dca349ddf6']={['discord_name']='[4YA] Steevo',['id']=47,['name']='[4YA][RODO] Steevo',},['4ae0a986e141046d217b55d089f83ab9']={['discord_name']='[4YA] LindaBrownie',['id']=18,['name']='[115AGR✡] 4YA | Linda',},['63b1f5e78c1282b291e8d36b36837a29']={['discord_name']='[4YA] Mobius01',['id']=7,['name']='[4YA] Mobius01',},['6622068cf1e120486feaf49dae55bcb2']={['discord_name']='[4YA] Lurcher',['id']=1,['name']='Lurcher',},['6d3aac548e6edc0460b064d92564b2c2']={['discord_name']='[4YA] [RODO] Clooterus',['id']=17,['name']='StepBruh 1-4 | Clooterus',},['99b1dc3b9766de1a9a1e85771d6f05dd']={['discord_name']='[4YA] [RODO] [TS\'s] Gluttony',['id']=15,['name']='[4YA] Gluttony',},['9bb6bb900f8495eb61e14b3168a960f9']={['discord_name']='[4YA] Sandwich',['id']=6,['name']='Rage 1-1 | Sandwich',},['b151f4963a4c52d3666addc10a1547b3']={['discord_name']='[4YA] [RODO]OmnSquirrel',['id']=2,['name']='[4YA]Omnom_Squirrel',},['bbe55cc56f97be2f4899924e851054db']={['discord_name']='[4YA] Hawg',['id']=40,['name']='[4YA] Hawg',},['c7eb32446427deea1e7098a54d3922a6']={['discord_name']='[4YA] Cobra 171 | SevenAlpha',['id']=10,['name']='Cobra 171 | SevenAlpha',},['e391ed0549bb19d1e802c92b58ed6b41']={['discord_name']='[4YA] [RODO] [TS] Wellsy13',['id']=5,['name']='[4YA][RODO] Wellsy13',},},['bans_global']={['0eedff41a5838bc57520e8ec5246f8e0']={['actor_name']='|269| Wilk168',['actor_ucid']='0c5bfc1b8b395b5e27fd7d26158ab3ac',['duration']=604800,['name']='Auraka',['reason']='if you would like to come to discord and talk to us about the game master spot that’s fine, you don’t get to kill the server. 1 week ban next one is permanent',['ts']=1632319218,['ucid']='0eedff41a5838bc57520e8ec5246f8e0',},['240bd36a90f071576eda4b3e94e11d1d']={['actor_name']='Lurcher',['actor_ucid']='6622068cf1e120486feaf49dae55bcb2',['name']='USAF_Guy',['reason']='You had another chance, now it\'s final.',['ts']=1628349428,['ucid']='240bd36a90f071576eda4b3e94e11d1d',},['47f8b79274ead0a1407967af686b5d6b']={['actor_name']='[4YA]Omnom_Squirrel',['actor_ucid']='b151f4963a4c52d3666addc10a1547b3',['name']='|269| Icarus',['reason']='Tk, Rude, Disrespectful',['ts']=1628405756,['ucid']='47f8b79274ead0a1407967af686b5d6b',},['b2811abf287295495cd321d084f4df63']={['actor_name']='Lurcher',['actor_ucid']='6622068cf1e120486feaf49dae55bcb2',['duration']=604800,['name']='12al3',['reason']='Smoke on the ground is forbidden per server rules. Stop harassing other players.',['ts']=1632681245,['ucid']='b2811abf287295495cd321d084f4df63',},},['mods']={['0c5bfc1b8b395b5e27fd7d26158ab3ac']={['discord_name']='[4YA] Wilk168',['id']=46,['name']='|269| Wilk168',},['4bd4e0dde22d55d2f260cdad013060a0']={['discord_name']='[4YA] Aaron',['id']=52,['name']='[4YA] Aaron',},},},['type']='set_state',}
+2021-09-26 21:49:39.895 INFO    LuaNET: [jester::cmdnet    ] updated state item <mods>
+2021-09-26 21:49:39.895 INFO    LuaNET: [jester::cmdnet    ] updated state item <admins>
+2021-09-26 21:49:39.895 INFO    LuaNET: [jester::cmdnet    ] updated state item <bans_global>
+2021-09-26 21:49:39.895 INFO    LuaNET: [jester::state     ] saving state
+2021-09-26 21:50:06.191 INFO    LuaNET: [jester::telemetry ] *heartbeat*
+2021-09-26 21:50:06.707 INFO    LuaNET: [jester::cmdnet    ] message {['id']=976,['type']='ping',}
+2021-09-26 21:50:06.707 INFO    LuaNET: [jester::state     ] saving state
+2021-09-26 21:50:33.576 INFO    NET: accepting connection from 80.101.235.231:50056
+2021-09-26 21:50:33.582 INFO    NET: adding client[2]
+2021-09-26 21:50:33.629 INFO    LuaNET: [jester::cb        ] cb.onPlayerTryConnect 80.101.235.231:50056 Lurcher 6622068cf1e120486feaf49dae55bcb2
+2021-09-26 21:50:33.629 INFO    NET: added client[2] name=Lurcher addr=80.101.235.231:50056
+2021-09-26 21:50:33.630 INFO    LuaNET: SLMOD INFO: connected client 2
+2021-09-26 21:50:33.630 INFO    LuaNET: SLMOD INFO: num clients: 2
+2021-09-26 21:50:33.631 INFO    LuaNET: [jester::cb        ] player added: {['id']=2,['name']='Lurcher',['ucid']='6622068cf1e120486feaf49dae55bcb2',}
+2021-09-26 21:50:34.767 INFO    NET: client[2] UDP port changed from 50056 to 52772
+2021-09-26 21:50:50.441 INFO    NET: client[2] is ready to start
+2021-09-26 21:50:50.441 INFO    NET: simResume: curTime=277.441636, syncDelay=0.500000, startTime=277.941636
+2021-09-26 21:50:50.441 INFO    NET: simulation starting, state=ssStarting
+2021-09-26 21:50:50.441 INFO    NET: syncStart at 277.941636:
+2021-09-26 21:50:50.957 INFO    NET: simulation started, state=ssRunning
+2021-09-26 21:50:50.977 INFO    TACVIEW.DLL: Recording flight data in [C:\Users\Administrator\Documents\Tacview\Tacview-20210926-145051-DCS-4YA_Marianas_LS_V.1.7.zip.acmi]
+2021-09-26 21:50:50.979 INFO    TACVIEW.DLL: Export rights granted by the host: PlayerPlane=[1] PlayerSensors=[0] OtherObjects=[1]
+2021-09-26 21:50:50.981 INFO    NET: spawning client[2]
+2021-09-26 21:50:51.030 INFO    NET: client[2] started
+2021-09-26 21:50:51.566 INFO    LuaNET: [jester::telemetry ] *heartbeat*
+2021-09-26 21:50:53.947 INFO    SCRIPTING: Mist version 4.3.74 loaded.
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generating Laser Codes
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generated Laser Codes
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generating UHF Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generated  UHF Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generating VHF Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generated VHF Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generating FM Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Generated FM Frequencies
+2021-09-26 21:50:54.969 INFO    SCRIPTING: Searching for Crates
+2021-09-26 21:50:54.969 INFO    SCRIPTING: END search for crates
+2021-09-26 21:50:54.969 INFO    SCRIPTING: CTLD READY
+2021-09-26 21:50:56.021 INFO    Scripting: event:type=base captured,target=Rota Intl,place=Rota Intl,t=5.05,placeDisplayName=Rota Intl,initiatorMissionID=847,
+2021-09-26 21:50:56.725 INFO    Scripting: event:type=base captured,target=Saipan Intl,place=Saipan Intl,t=5.765,placeDisplayName=Saipan Intl,initiatorMissionID=831,
+2021-09-26 21:50:57.442 INFO    Scripting: event:type=base captured,target=Tinian Intl,place=Tinian Intl,t=6.479,placeDisplayName=Tinian Intl,initiatorMissionID=840,
+2021-09-26 21:50:57.817 INFO    NET: onPlayerSlot(2, 37)
+2021-09-26 21:50:57.817 INFO    LuaNET: [jester::cb        ] cb.onPlayerTryChangeSlot 2 2 37
+2021-09-26 21:50:57.829 INFO    NET: passed onPlayerTryChangeSlot
+2021-09-26 21:50:57.829 INFO    NET: release unit 
+2021-09-26 21:50:57.829 INFO    NET: client[2] occupied unit 37
+2021-09-26 21:50:57.832 INFO    LuaNET: [jester::cb        ] cb.onPlayerChangeSlot 2
+2021-09-26 21:50:58.867 INFO    Scripting: event:type=base captured,target=Olf Orote,place=Olf Orote,t=7.908,placeDisplayName=Olf Orote,initiatorMissionID=46,
+2021-09-26 21:51:00.570 INFO    SCRIPTING:  16022(    -1)/I:                      DATABASE00003.function(Player 'Lurcher' joint unit 'helicargo9' of group '00_ANTONIO_FARP_KA50')
+2021-09-26 21:51:00.570 INFO    SCRIPTING:  10814( 16039)/I:                      SETTINGS01622.SetPlayerMenu(Setting menu for player Lurcher)
+2021-09-26 21:51:00.847 INFO    LuaNET: [jester::events    ] found player for birthed unit {['p']={[1]=2,[2]='Lurcher',},['rtid']='16777986',}
+2021-09-26 21:51:01.343 INFO    SCRIPTING: entry not found: 1000001
+2021-09-26 21:51:01.343 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000001,
+2021-09-26 21:51:01.344 INFO    SCRIPTING: entry not found: 1000002
+2021-09-26 21:51:01.344 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000002,
+2021-09-26 21:51:01.345 INFO    SCRIPTING: entry not found: 1000004
+2021-09-26 21:51:01.345 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000004,
+2021-09-26 21:51:01.346 INFO    SCRIPTING: entry not found: 1000005
+2021-09-26 21:51:01.346 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000005,
+2021-09-26 21:51:01.346 INFO    SCRIPTING: entry not found: 1000007
+2021-09-26 21:51:01.346 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000007,
+2021-09-26 21:51:01.347 INFO    SCRIPTING: entry not found: 1000008
+2021-09-26 21:51:01.347 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000008,
+2021-09-26 21:51:01.348 INFO    SCRIPTING: entry not found: 1000010
+2021-09-26 21:51:01.348 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000010,
+2021-09-26 21:51:01.349 INFO    SCRIPTING: entry not found: 1000011
+2021-09-26 21:51:01.349 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000011,
+2021-09-26 21:51:01.350 INFO    SCRIPTING: entry not found: 1000013
+2021-09-26 21:51:01.350 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000013,
+2021-09-26 21:51:01.351 INFO    SCRIPTING: entry not found: 1000015
+2021-09-26 21:51:01.351 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000015,
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker)enterToState_:0
+2021-09-26 21:51:01.351 INFO    DCS: wcTanker::onEvent:4
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker)enterToState_:1
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker::Channel)enterToState_:0
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker::Channel)enterToState_:1
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker::Channel)enterToState_:0
+2021-09-26 21:51:01.351 INFO    EDCORE: (wcTanker::Channel)enterToState_:1
+2021-09-26 21:51:01.351 INFO    SCRIPTING: entry not found: 1000017
+2021-09-26 21:51:01.351 INFO    Scripting: event:t=10.101,type=engine startup,initiatorMissionID=1000017,
+2021-09-26 21:51:01.352 INFO    EDCORE: (wcTanker)enterToState_:0
+2021-09-26 21:51:01.352 INFO    DCS: wcTanker::onEvent:4
+2021-09-26 21:51:01.352 INFO    EDCORE: (wcTanker)enterToState_:1
+2021-09-26 21:51:01.352 INFO    EDCORE: (wcTanker::Channel)enterToState_:0
+2021-09-26 21:51:01.352 INFO    EDCORE: (wcTanker::Channel)enterToState_:1
+2021-09-26 21:51:27.442 INFO    Dispatcher: Stop
+2021-09-26 21:51:27.475 INFO    TACVIEW.DLL: Closing current flight data recording...
+2021-09-26 21:51:27.487 INFO    TACVIEW.DLL: Successfully saved [C:\Users\Administrator\Documents\Tacview\Tacview-20210926-145051-DCS-4YA_Marianas_LS_V.1.7.zip.acmi]
+2021-09-26 21:51:27.487 INFO    TACVIEW.DLL: End of flight data recorder.
+2021-09-26 21:51:27.737 INFO    Scripting: event:type=mission end,t=36.47,
+2021-09-26 21:51:27.780 INFO    Config: netview stopped
+2021-09-26 21:51:27.786 ERROR   VFS: VFS_open_write: CreateFile(): The system cannot find the path specified.
+2021-09-26 21:51:27.786 ERROR   DCS: can't open file
+2021-09-26 21:51:27.787 INFO    DCS: wcTanker::onEvent:5
+2021-09-26 21:51:27.787 INFO    EDCORE: (wcTanker::Channel)enterToState_:6
+2021-09-26 21:51:27.787 INFO    EDCORE: (wcTanker)enterToState_:3
+2021-09-26 21:51:27.787 INFO    DCS: wcTanker::onEvent:5
+2021-09-26 21:51:27.787 INFO    EDCORE: (wcTanker::Channel)enterToState_:6
+2021-09-26 21:51:27.787 WARNING LOG: 1 duplicate message(s) skipped.
+2021-09-26 21:51:27.787 INFO    EDCORE: (wcTanker)enterToState_:3
+2021-09-26 21:51:27.860 INFO    TERRAIN: lSystem::CleanScenes()
+2021-09-26 21:51:27.860 INFO    NET: messages tracked: 513
+2021-09-26 21:51:27.860 INFO    NET: simulation stopped, state=ssIdle
+2021-09-26 21:51:27.875 INFO    EDCORE: (dDispatcher)enterToState_:3
+2021-09-26 21:51:27.875 INFO    DCS: application shutdown
+2021-09-26 21:51:28.756 INFO    NET: remove: client[2]
+2021-09-26 21:51:28.756 INFO    NET: server has stopped
+2021-09-26 21:51:28.758 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 0
+2021-09-26 21:51:28.760 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 1
+2021-09-26 21:51:28.760 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 2
+2021-09-26 21:51:28.868 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 3
+2021-09-26 21:51:28.964 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 4
+2021-09-26 21:51:28.971 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 5
+2021-09-26 21:51:28.973 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 6
+2021-09-26 21:51:28.976 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 7
+2021-09-26 21:51:28.976 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 8
+2021-09-26 21:51:28.979 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 9
+2021-09-26 21:51:28.979 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 10
+2021-09-26 21:51:28.980 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 11
+2021-09-26 21:51:28.980 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 12
+2021-09-26 21:51:28.980 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 13
+2021-09-26 21:51:29.168 INFO    EDCORE: try to write dump information
+2021-09-26 21:51:29.171 INFO    EDCORE: # -------------- 20210926-215129 --------------
+2021-09-26 21:51:29.171 INFO    EDCORE: DCS/2.7.6.13133 (x86_64; Windows NT 10.0.17763)
+2021-09-26 21:51:29.172 INFO    EDCORE: C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 3\bin\ed_sound.dll
+2021-09-26 21:51:29.172 INFO    EDCORE: # C0000005 ACCESS_VIOLATION at EFA75266 00:00000000
+2021-09-26 21:51:29.175 INFO    EDCORE: SymInit: Symbol-SearchPath: '.;C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 3;C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 3\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: 528, UserName: 'Administrator'
+2021-09-26 21:51:29.176 INFO    EDCORE: OS-Version: 10.0.17763 () 0x110-0x3
+2021-09-26 21:51:29.542 INFO    EDCORE: 0x0000000000015266 (ed_sound): SND_speaker_layout_get_info + 0xBF6
+2021-09-26 21:51:29.543 INFO    EDCORE: 0x000000000001478E (ed_sound): SND_speaker_layout_get_info + 0x11E
+2021-09-26 21:51:29.543 INFO    EDCORE: 0x000000000000392A (ed_sound): SND_exit + 0xEA
+2021-09-26 21:51:29.544 INFO    EDCORE: 0x00000000007FB0F2 (DCS): SW + 0x4F9FA2
+2021-09-26 21:51:29.545 INFO    EDCORE: 0x0000000001CBF6B4 (DCS): AmdPowerXpressRequestHighPerformance + 0xEB46B0
+2021-09-26 21:51:29.546 INFO    EDCORE: 0x0000000000A1F40E (DCS): SW + 0x71E2BE
+2021-09-26 21:51:29.547 INFO    EDCORE: 0x0000000000017E94 (KERNEL32): BaseThreadInitThunk + 0x14
+2021-09-26 21:51:29.548 INFO    EDCORE: 0x0000000000067AD1 (ntdll): RtlUserThreadStart + 0x21
+2021-09-26 21:51:29.629 INFO    EDCORE: Minidump created.
+2021-09-26 21:51:29.629 INFO    Lua::Config: stack traceback:
