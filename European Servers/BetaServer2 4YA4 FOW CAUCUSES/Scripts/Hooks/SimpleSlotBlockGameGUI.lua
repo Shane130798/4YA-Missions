@@ -1,5 +1,7 @@
 local ssb = {} -- DONT REMOVE!!!
 
+return -- XXX Temporarily disable SSB entirely.
+
 --[[
 
    Simple Slot Block - V 1.1
