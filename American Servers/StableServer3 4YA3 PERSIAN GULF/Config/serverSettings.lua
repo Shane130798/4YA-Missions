@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER\
+    ["description"] = "[4YA] TRAINING 24/7 PERSIAN GULF STABLE (CAPTURE BASES) US SERVER\
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -54,7 +54,7 @@ CarrierOps ",
     }, -- end of ["missionList"]
     ["password"] = "",
     ["listShuffle"] = false,
-    ["name"] = "[4YA] TRAINING 24/7 - Persian Gulf (CAPTURE BASES) US SERVER",
+    ["name"] = "[4YA] TRAINING 24/7 PERSIAN GULF STABLE (CAPTURE BASES) US SERVER",
     ["listLoop"] = true,
     ["uri"] = "startServer",
     ["require_pure_clients"] = false,

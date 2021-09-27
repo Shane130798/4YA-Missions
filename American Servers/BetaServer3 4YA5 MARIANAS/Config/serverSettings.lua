@@ -1,6 +1,6 @@
 cfg = 
 {
-    ["description"] = "[4YA] TRAINING 24/7 - MARIANAS (CAPTURE BASES) PVE BETA US SERVER\
+    ["description"] = "[4YA] TRAINING 24/7 MARIANAS PVE BETA (CAPTURE BASES) US SERVER\
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
@@ -50,7 +50,7 @@ CarrierOps ",
     ["uri"] = "startServer",
     ["password"] = "",
     ["listShuffle"] = false,
-    ["name"] = "[4YA] TRAINING 24/7 - MARIANAS (CAPTURE BASES) PVE BETA US SERVER",
+    ["name"] = "[4YA] TRAINING 24/7 MARIANAS PVE BETA (CAPTURE BASES) US SERVER",
     ["listLoop"] = true,
     ["missionList"] = 
     {

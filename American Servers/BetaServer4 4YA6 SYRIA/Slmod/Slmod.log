@@ -1,53 +1,206 @@
-Slmod started at Sep 26, 2021, 14:52:21
-44.603  SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\config.lua
-44.616  SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
-44.617  SLMOD INFO: SlmodConfig.lua loaded.
-44.625  SLMOD INFO: SlmodUtils.lua loaded.
-44.631  SLMOD INFO: SlmodEvents.lua loaded.
-44.636  SLMOD INFO: SlmodUnits.lua loaded.
-44.641  SLMOD INFO: SlmodMenu.lua loaded.
-44.646  SLMOD INFO: SlmodConvMenu.lua loaded.
-44.648  SLMOD INFO: SlmodPTSMenu.lua loaded.
-44.652  SLMOD INFO: SlmodPOSMenu.lua loaded.
-44.658  SLMOD INFO: SlmodAdminMenu.lua loaded
-44.665  SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodStats.lua
-44.665  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodStats.lua
-44.665  SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodPenaltyStats.lua
-44.665  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodPenaltyStats.lua
-44.666  SLMOD INFO: SlmodStats.lua loaded.
-44.67  SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodMetaStats.lua
-44.675  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodMetaStats.lua
-44.68  SLMOD INFO: SlmodMetaStats.lua loaded.
-44.685  SLMOD INFO: SlmodAutoAdmin.lua loaded.
-44.687  SLMOD INFO: SlmodPingCheck.lua loaded.
-44.693  SLMOD INFO: SlmodVote.lua loaded.
-44.699  SLMOD INFO: SlmodLibs.lua loaded.
-44.704  SLMOD INFO: SlmodDebugger.lua loaded.
-44.708  SLMOD INFO: SlmodMOTD.lua loaded.
-44.712  SLMOD INFO: SlmodHelp.lua loaded.
-44.717  SLMOD INFO: SlmodCallbacks.lua loaded
-44.722  SLMOD INFO: SlmodTests.lua loaded.
-51.125  SLMOD INFO: Modifying netview... results: , true
-51.125  SLMOD INFO: connected client 1
-51.125  SLMOD INFO: num clients: 1
-77.224  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
-77.225  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
-77.225  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
-77.225  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
-77.225  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
-77.226  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
-77.23  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\BannedClients.lua
-77.23  SLMOD INFO: using server admins as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\ServerAdmins.lua
-77.23  SLMOD INFO: load exempt clients
-77.233  SLMOD INFO: using exempt ucids as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\ExemptClients.lua
-77.265  SLMOD INFO: successfully loaded unitAttributes.
-77.267  SLMOD INFO: no misStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\Mission Stats\\4YA_Syria_Capture_Bases_BLUE-INC_v32ClearWeather- Aug 05, 2021 at 20 01 42.lua
-77.267  SLMOD INFO: Old Mission Stat file doesnt exist
-77.268  SLMOD INFO: weapons_impacting_code loaded successfully to server env
-77.268  SLMOD INFO: using random seed 3174
-77.269  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
-77.353  SLMOD INFO: successfully completed slmod.getMissionUnitData()
-145.523  SLMOD INFO: connected client 2
-145.523  SLMOD INFO: num clients: 2
-240.731  SLMOD INFO: slmod_onPlayerDisconnect 2
-240.731  SLMOD INFO: num clients: 1
+Slmod started at Sep 26, 2021, 15:19:23
+31.501  SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\config.lua
+31.516  SLMOD INFO: ./Scripts/MissionScripting.lua is up to date, no installation required.
+31.52  SLMOD INFO: SlmodUtils.lua loaded.
+31.523  SLMOD INFO: SlmodEvents.lua loaded.
+31.526  SLMOD INFO: SlmodUnits.lua loaded.
+31.529  SLMOD INFO: SlmodMenu.lua loaded.
+31.532  SLMOD INFO: SlmodConvMenu.lua loaded.
+31.534  SLMOD INFO: SlmodPTSMenu.lua loaded.
+31.536  SLMOD INFO: SlmodPOSMenu.lua loaded.
+31.539  SLMOD INFO: SlmodAdminMenu.lua loaded
+31.543  SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodStats.lua
+31.543  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodStats.lua
+31.543  SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodPenaltyStats.lua
+31.543  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodPenaltyStats.lua
+31.544  SLMOD INFO: SlmodStats.lua loaded.
+31.546  SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\\SlmodMetaStats.lua
+31.547  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\SlmodMetaStats.lua
+31.552  SLMOD INFO: SlmodMetaStats.lua loaded.
+31.556  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+31.558  SLMOD INFO: SlmodPingCheck.lua loaded.
+31.562  SLMOD INFO: SlmodVote.lua loaded.
+31.567  SLMOD INFO: SlmodLibs.lua loaded.
+31.569  SLMOD INFO: SlmodDebugger.lua loaded.
+31.572  SLMOD INFO: SlmodMOTD.lua loaded.
+31.574  SLMOD INFO: SlmodHelp.lua loaded.
+31.577  SLMOD INFO: SlmodCallbacks.lua loaded
+31.58  SLMOD INFO: SlmodTests.lua loaded.
+38.921  SLMOD INFO: Modifying netview... results: , true
+38.921  SLMOD INFO: connected client 1
+38.921  SLMOD INFO: num clients: 1
+64.649  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+64.649  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+64.649  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+64.649  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+64.649  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+64.65  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+64.65  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\BannedClients.lua
+64.651  SLMOD INFO: using server admins as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\ServerAdmins.lua
+64.651  SLMOD INFO: load exempt clients
+64.651  SLMOD INFO: using exempt ucids as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\ExemptClients.lua
+64.681  SLMOD INFO: successfully loaded unitAttributes.
+64.686  SLMOD INFO: no misStats , loading from file: C:\Users\Administrator\Saved Games\BetaServer4\Slmod\Mission Stats\\4YA_Syria_Capture_Bases_BLUE-INC_v35ClearWeather- Sep 26, 2021 at 15 07 01.lua
+64.687  SLMOD INFO: using  as defined in C:\Users\Administrator\Saved Games\BetaServer4\Slmod\Mission Stats\
+64.688  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+64.688  SLMOD INFO: using random seed 4796
+64.689  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+64.776  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+1170.465  SLMOD INFO: connected client 2
+1170.465  SLMOD INFO: num clients: 2
+1257.314  SLMOD INFO: connected client 3
+1257.314  SLMOD INFO: num clients: 3
+1334.3  SLMOD INFO: slmod_onPlayerDisconnect 3
+1334.3  SLMOD INFO: num clients: 2
+3800.472  SLMOD INFO: connected client 3
+3800.473  SLMOD INFO: num clients: 3
+4815.647  SLMOD INFO: connected client 4
+4815.647  SLMOD INFO: num clients: 4
+7409.194  SLMOD INFO: slmod_onPlayerDisconnect 4
+7409.194  SLMOD INFO: num clients: 3
+7409.278  SLMOD INFO: SlmodStats- hit client unitName: 01_INCIRLIK_F16C-1-9, hits[#hits]: { ["target"] = { [1] = { ["pingCheck"] = { ["ping"] = 16, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632699547, ["checkActive"] = true, ["avgPing"] = 15, }, ["rtid"] = 16779780, ["ip"] = "96.243.34.34:50581", ["coalition"] = "blue", ["addr"] = "96.243.34.34:50581", ["name"] = "|269| Bigmac", ["ucid"] = "e259836692b88cf4f2f660e79780c53a", ["motdTime"] = 4910.5847462, ["unitName"] = "01_INCIRLIK_F16C-1-9", ["id"] = 4, }, }, ["inAirHit"] = true, ["time"] = 6206.967, ["initiator"] = "USAF_8#003-01", }  no longer exists, running death logic.
+13562.738  SLMOD INFO: connected client 4
+13562.739  SLMOD INFO: num clients: 4
+14573.449  SLMOD INFO: connected client 5
+14573.449  SLMOD INFO: num clients: 5
+14647.326  SLMOD INFO: connected client 6
+14647.326  SLMOD INFO: num clients: 6
+14826.153  SLMOD INFO: connected client 7
+14826.153  SLMOD INFO: num clients: 7
+16277.961  SLMOD INFO: connected client 8
+16277.961  SLMOD INFO: num clients: 8
+16441.993  SLMOD INFO: connected client 9
+16441.993  SLMOD INFO: num clients: 9
+16574.152  SLMOD INFO: slmod_onPlayerDisconnect 3
+16574.152  SLMOD INFO: num clients: 8
+16574.884  SLMOD INFO: SlmodStats- hit client unitName: 01_INCIRLIK_F18C-1-1, hits[#hits]: { ["target"] = { [1] = { ["pingCheck"] = { ["ping"] = 47, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632698532, ["checkActive"] = true, ["avgPing"] = 47, }, ["rtid"] = 16936195, ["ip"] = "50.89.108.50:52087", ["coalition"] = "blue", ["addr"] = "50.89.108.50:52087", ["name"] = "Ritalin", ["unitName"] = "01_INCIRLIK_F18C-1-1", ["motdTime"] = 8905.3819966, ["ucid"] = "79b71e2f286622df901dbe293ba6852b", ["id"] = 3, }, }, ["inAirHit"] = true, ["time"] = 15379.599, ["initiator"] = "USAF_3#008-01", }  no longer exists, running death logic.
+17479.914  SLMOD INFO: slmod_onPlayerDisconnect 6
+17479.914  SLMOD INFO: num clients: 7
+18431.383  SLMOD INFO: connected client 3
+18431.383  SLMOD INFO: num clients: 8
+18476.026  SLMOD INFO: connected client 6
+18476.026  SLMOD INFO: num clients: 9
+18657.874  SLMOD INFO: slmod_onPlayerDisconnect 7
+18657.874  SLMOD INFO: num clients: 8
+18836.299  SLMOD INFO: connected client 7
+18836.299  SLMOD INFO: num clients: 9
+18920.686  SLMOD INFO: connected client 10
+18920.686  SLMOD INFO: num clients: 10
+19019.623  SLMOD INFO: slmod_onPlayerDisconnect 3
+19019.623  SLMOD INFO: num clients: 9
+19145.706  SLMOD INFO: connected client 3
+19145.706  SLMOD INFO: num clients: 10
+19472.004  SLMOD INFO: slmod_onPlayerDisconnect 2
+19472.004  SLMOD INFO: num clients: 9
+19706.932  SLMOD INFO: connected client 2
+19706.932  SLMOD INFO: num clients: 10
+21863.809  SLMOD INFO: slmod_onPlayerDisconnect 10
+21863.809  SLMOD INFO: num clients: 9
+22004.465  SLMOD INFO: connected client 10
+22004.465  SLMOD INFO: num clients: 10
+22073.567  SLMOD INFO: slmod_onPlayerDisconnect 7
+22073.567  SLMOD INFO: num clients: 9
+22167.075  SLMOD INFO: slmod_onPlayerDisconnect 10
+22167.075  SLMOD INFO: num clients: 8
+22173.815  SLMOD INFO: slmod_onPlayerDisconnect 2
+22173.815  SLMOD INFO: num clients: 7
+22519.601  SLMOD INFO: slmod_onPlayerDisconnect 8
+22519.601  SLMOD INFO: num clients: 6
+22538.116  SLMOD INFO: slmod_onPlayerDisconnect 4
+22538.116  SLMOD INFO: num clients: 5
+22710.062  SLMOD INFO: connected client 2
+22710.062  SLMOD INFO: num clients: 6
+22893.165  SLMOD INFO: slmod_onPlayerDisconnect 9
+22893.165  SLMOD INFO: num clients: 5
+22893.594  SLMOD INFO: SlmodStats- hit client unitName: 15_BEIRUT_RAFIC_HARIRI_MIG29-1-1, hits[#hits]: { ["target"] = { [1] = { ["id"] = 9, ["rtid"] = 17217801, ["ip"] = "45.51.18.226:49922", ["coalition"] = "blue", ["addr"] = "45.51.18.226:49922", ["name"] = "The_Beatles_Guy", ["ucid"] = "b0123dd4548bb75b77f499b4b9d13e4d", ["motdTime"] = 21012.9452892, ["unitName"] = "15_BEIRUT_RAFIC_HARIRI_MIG29-1-1", ["pingCheck"] = { ["ping"] = 75, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632711173, ["checkActive"] = true, ["avgPing"] = 75, }, }, }, ["inAirHit"] = true, ["time"] = 21695.256, ["initiator"] = "USAF_1#014-01", }  no longer exists, running death logic.
+24526.435  SLMOD INFO: connected client 4
+24526.436  SLMOD INFO: num clients: 6
+24566.494  SLMOD INFO: connected client 7
+24566.494  SLMOD INFO: num clients: 7
+24662.1  SLMOD INFO: slmod_onPlayerDisconnect 5
+24662.1  SLMOD INFO: num clients: 6
+25065.413  SLMOD INFO: slmod_onPlayerDisconnect 6
+25065.413  SLMOD INFO: num clients: 5
+25606.019  SLMOD INFO: slmod_onPlayerDisconnect 3
+25606.019  SLMOD INFO: num clients: 4
+27435.397  SLMOD INFO: slmod_onPlayerDisconnect 2
+27435.397  SLMOD INFO: num clients: 3
+28094.562  SLMOD INFO: slmod_onPlayerDisconnect 7
+28094.562  SLMOD INFO: num clients: 2
+28135.235  SLMOD INFO: slmod_onPlayerDisconnect 4
+28135.235  SLMOD INFO: num clients: 1
+63327.057  SLMOD INFO: connected client 2
+63327.057  SLMOD INFO: num clients: 2
+64378.972  SLMOD INFO: connected client 3
+64378.972  SLMOD INFO: num clients: 3
+65559.411  SLMOD INFO: connected client 4
+65559.411  SLMOD INFO: num clients: 4
+66164.69  SLMOD INFO: connected client 5
+66164.69  SLMOD INFO: num clients: 5
+66422.085  SLMOD INFO: slmod_onPlayerDisconnect 3
+66422.086  SLMOD INFO: num clients: 4
+68131.461  SLMOD INFO: connected client 3
+68131.461  SLMOD INFO: num clients: 5
+68145.543  SLMOD INFO: connected client 6
+68145.543  SLMOD INFO: num clients: 6
+68174.654  SLMOD INFO: slmod_onPlayerDisconnect 3
+68174.654  SLMOD INFO: num clients: 5
+68792.232  SLMOD INFO: slmod_onPlayerDisconnect 5
+68792.232  SLMOD INFO: num clients: 4
+69578.939  SLMOD INFO: connected client 3
+69578.939  SLMOD INFO: num clients: 5
+69583.245  SLMOD INFO: slmod_onPlayerDisconnect 6
+69583.245  SLMOD INFO: num clients: 4
+69620.298  SLMOD INFO: slmod_onPlayerDisconnect 4
+69620.298  SLMOD INFO: num clients: 3
+70154.552  SLMOD INFO: connected client 4
+70154.553  SLMOD INFO: num clients: 4
+70254.137  SLMOD INFO: connected client 5
+70254.137  SLMOD INFO: num clients: 5
+70318.54  SLMOD INFO: slmod_onPlayerDisconnect 5
+70318.54  SLMOD INFO: num clients: 4
+70733.104  SLMOD INFO: connected client 5
+70733.104  SLMOD INFO: num clients: 5
+70911.933  SLMOD INFO: SlmodStats- hit client unitName: 05_ALEPPO_F18C-1-1, hits[#hits]: { ["target"] = { [1] = { ["id"] = 3, ["rtid"] = 16801283, ["ip"] = "82.81.65.225:60617", ["coalition"] = "blue", ["addr"] = "82.81.65.225:60617", ["name"] = "Orna", ["ucid"] = "f3d931425597db38f0c853811cf9f4a6", ["motdTime"] = 70397.2155631, ["unitName"] = "05_ALEPPO_F18C-1-1", ["pingCheck"] = { ["ping"] = 139, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632764310, ["checkActive"] = true, ["avgPing"] = 138, }, }, }, ["inAirHit"] = true, ["time"] = 34473.351, ["initiator"] = "USAF_1#024-01", }  no longer exists, running death logic.
+71114.901  SLMOD INFO: connected client 6
+71114.901  SLMOD INFO: num clients: 6
+71299.041  SLMOD INFO: slmod_onPlayerDisconnect 6
+71299.041  SLMOD INFO: num clients: 5
+71440.748  SLMOD INFO: connected client 6
+71440.748  SLMOD INFO: num clients: 6
+71630.495  SLMOD INFO: connected client 7
+71630.495  SLMOD INFO: num clients: 7
+71890.72  SLMOD INFO: connected client 8
+71890.72  SLMOD INFO: num clients: 8
+72118.785  SLMOD INFO: connected client 9
+72118.785  SLMOD INFO: num clients: 9
+72368.762  SLMOD INFO: slmod_onPlayerDisconnect 7
+72368.762  SLMOD INFO: num clients: 8
+72488.076  SLMOD INFO: connected client 7
+72488.076  SLMOD INFO: num clients: 9
+72599.849  SLMOD INFO: connected client 10
+72599.849  SLMOD INFO: num clients: 10
+72618.686  SLMOD INFO: slmod_onPlayerDisconnect 8
+72618.686  SLMOD INFO: num clients: 9
+72618.893  SLMOD INFO: SlmodStats- hit client unitName: 17_AN_NASIRIYAH_F18C-2, hits[#hits]: { ["target"] = { [1] = { ["pingCheck"] = { ["ping"] = 87, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632766622, ["checkActive"] = true, ["avgPing"] = 86, }, ["rtid"] = 16779784, ["ip"] = "145.53.244.168:64885", ["coalition"] = "blue", ["addr"] = "145.53.244.168:64885", ["name"] = "Kaayman12", ["ucid"] = "5b2c0e8541625b42be085c0fe0655636", ["motdTime"] = 71968.7826245, ["unitName"] = "17_AN_NASIRIYAH_F18C-2", ["id"] = 8, }, }, ["inAirHit"] = true, ["time"] = 36176.154, ["initiator"] = "USAF_1#026-01", }  no longer exists, running death logic.
+73061.246  SLMOD INFO: slmod_onPlayerDisconnect 7
+73061.246  SLMOD INFO: num clients: 8
+73304.283  SLMOD INFO: slmod_onPlayerDisconnect 6
+73304.283  SLMOD INFO: num clients: 7
+73331.146  SLMOD INFO: slmod_onPlayerDisconnect 4
+73331.146  SLMOD INFO: num clients: 6
+73596.843  SLMOD INFO: slmod_onPlayerDisconnect 2
+73596.843  SLMOD INFO: num clients: 5
+73875.654  SLMOD INFO: connected client 2
+73875.654  SLMOD INFO: num clients: 6
+73886.533  SLMOD INFO: slmod_onPlayerDisconnect 3
+73886.533  SLMOD INFO: num clients: 5
+73896.66  SLMOD INFO: slmod_onPlayerDisconnect 9
+73896.66  SLMOD INFO: num clients: 4
+74434.297  SLMOD INFO: slmod_onPlayerDisconnect 5
+74434.297  SLMOD INFO: num clients: 3
+75141.482  SLMOD INFO: slmod_onPlayerDisconnect 10
+75141.482  SLMOD INFO: num clients: 2
+75838.231  SLMOD INFO: slmod_onPlayerDisconnect 2
+75838.231  SLMOD INFO: num clients: 1
+75838.719  SLMOD INFO: SlmodStats- hit client unitName: Aerial-1-8, hits[#hits]: { ["target"] = { [1] = { ["pingCheck"] = { ["ping"] = 88, ["lastWarnTime"] = 0, ["warnings"] = 0, ["connectTime"] = 1632768607, ["checkActive"] = true, ["avgPing"] = 87, }, ["rtid"] = 16843522, ["ip"] = "81.244.178.49:59173", ["coalition"] = "blue", ["addr"] = "81.244.178.49:59173", ["name"] = "Felix 1 - 1", ["ucid"] = "2e9b5fe831571bbe64ec98a1f27300ab", ["motdTime"] = 74014.5709901, ["unitName"] = "Aerial-1-8", ["id"] = 2, }, }, ["inAirHit"] = true, ["time"] = 39386.624, ["initiator"] = "25_USAF_UNITS_RAMAT_DAVID-1-8", }  no longer exists, running death logic.

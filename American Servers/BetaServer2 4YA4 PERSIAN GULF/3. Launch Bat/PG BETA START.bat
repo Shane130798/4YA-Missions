@@ -1,7 +1,7 @@
 @echo off
 :dcs
-echo (%time%) DCS started STABLE SERVER 4.
-"C:\Program Files\Eagle Dynamics\DCS World Server 4\bin\DCS.exe" --norender --server -w StableServer4
+echo (%time%) DCS started BETA SERVER 2.
+"C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 2\bin\DCS.exe" --norender --server -w BetaServer2
 echo (%time%) WARNING: dcs closed or crashed, restarting.
 ping 1.1.1.1 -n 1 -w 3000 >nul
 goto dcs
