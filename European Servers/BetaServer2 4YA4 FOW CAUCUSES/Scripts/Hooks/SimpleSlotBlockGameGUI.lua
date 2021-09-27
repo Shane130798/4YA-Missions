@@ -1,6 +1,6 @@
 local ssb = {} -- DONT REMOVE!!!
 
-return -- XXX Temporarily disable SSB entirely.
+return
 
 --[[
 

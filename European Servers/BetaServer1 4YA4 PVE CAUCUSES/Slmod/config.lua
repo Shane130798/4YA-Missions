@@ -76,7 +76,7 @@ enable_slmod_stats = true
 	
 	--[[Enables mission-specific stats. The mission-specific stats may be written to a file and/or displayed in the in-game
 	stats menu.]]
-	enable_mission_stats = true
+	enable_mission_stats = false
 	
 		--[[If mission-specific stats are enabled, then set this variable to true to save these mission stats to a file.  By default, 
 		these files are located in Saved Games/DCS/Slmod/Mission Stats.]]
@@ -551,7 +551,7 @@ pingcheck_conf.warning_msg = true
 pause_when_empty = false
 
 --Set to true to make Slmod output a chat log to \Saved Games\DCS\Slmod\Chat Logs\<Date, time stamp>.txt.
-chat_log = true
+chat_log = false
 
 	-- IF chat logging is set true, then enable this variable to also log team hitting events in the chat log.
 	-- SLMOD STATS MUST BE ENABLED FOR THIS OPTION TO WORK

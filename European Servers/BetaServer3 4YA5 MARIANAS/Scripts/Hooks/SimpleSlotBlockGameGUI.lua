@@ -1,5 +1,7 @@
 local ssb = {} -- DONT REMOVE!!!
 
+return
+
 --[[
 
    Simple Slot Block - V 1.1
