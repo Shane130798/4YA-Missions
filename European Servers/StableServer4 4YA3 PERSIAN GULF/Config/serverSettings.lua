@@ -54,7 +54,7 @@ CarrierOps ",
     }, -- end of ["missionList"]
     ["password"] = "",
     ["listShuffle"] = false,
-    ["name"] = "[4YA] TRAINING 24/7 PERSIAN GULF PVE STABLE (CAPTURE BASES) EU SERVER",
+    ["name"] = "[4YA] TRAINING 24/7 PERSIAN GULF PVE STABLE EU SERVER",
     ["listLoop"] = true,
     ["uri"] = "startServer",
     ["require_pure_clients"] = false,

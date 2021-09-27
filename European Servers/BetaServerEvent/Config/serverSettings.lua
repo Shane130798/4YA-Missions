@@ -1,7 +1,7 @@
 cfg = 
 {
     ["current"] = 2,
-    ["description"] = "[4YA] EVENT \
+    ["description"] = "[4YA] EVENT BETA EU SERVER \
 \
 **DISCORD**  https://discord.gg/CaYRRDd\
 **SRS**      Type  -motd  in-game chat for ip\
