@@ -1,0 +1,20 @@
+{
+    "users" : {
+        "exclusive" : false, 
+        "blue" : [
+            { 
+                "login": "DArt", "password": "lotatc", 
+                "admin": true,
+                "allow_god_view": true, 
+                "allow_user_flag": true,
+                "allow_full_move": false
+            }
+        ],
+        "red" : []
+    },
+    "blacklist" : [
+        "111.222.333.444",
+        "111.222.333.445"
+    ],
+    "whitelist" : [ ]
+}

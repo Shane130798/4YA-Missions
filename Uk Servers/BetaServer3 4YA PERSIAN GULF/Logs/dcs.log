@@ -1,0 +1,350 @@
+=== Log opened UTC 2021-09-29 19:50:40
+2021-09-29 19:50:40.363 INFO    DCS: Command line: "C:\Program Files\Eagle Dynamics 43B\DCS World OpenBeta Server\bin\dcs.exe"  --server --norender -w 8.4YA3
+2021-09-29 19:50:40.363 INFO    DCS: DCS/2.7.6.13436 (x86_64; Windows NT 10.0.19043)
+2021-09-29 19:50:40.363 INFO    DCS: DCS revision: 193433
+2021-09-29 19:50:40.363 INFO    DCS: Renderer revision: 22322
+2021-09-29 19:50:40.364 INFO    DCS: Terrain revision: 22345
+2021-09-29 19:50:40.364 INFO    DCS: Build number: 662
+2021-09-29 19:50:40.364 INFO    DCS: CPU cores: 16, threads: 32, System RAM: 65480 MB, Pagefile: 9783 MB
+2021-09-29 19:50:40.534 INFO    EDCORE: (dDispatcher)enterToState_:0
+2021-09-29 19:50:40.592 INFO    Dispatcher: 2021/9/29 20:50 V1803061700
+2021-09-29 19:50:40.629 INFO    NET: ProtocolVersion: 270
+2021-09-29 19:50:40.634 INFO    SOUND: Using driver: wasapi
+2021-09-29 19:50:40.636 INFO    SOUND: Found 2 available audio device(s):
+2021-09-29 19:50:40.636 INFO    SOUND:   0: ID: "{0.0.0.00000000}.{c3ca0f8d-5f5b-41dc-863b-27df40c0967b}", Name: "3 - LC49G95T (2- AMD High Definition Audio Device)"
+2021-09-29 19:50:40.636 INFO    SOUND:   1: ID: "{0.0.0.00000000}.{fad840a3-cca1-4756-906c-7274aaaefc4a}", Name: "Realtek Digital Output (Realtek(R) Audio)"
+2021-09-29 19:50:40.637 INFO    Dispatcher: InitLow
+2021-09-29 19:50:40.768 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/bin/CockpitBase.dll
+2021-09-29 19:50:41.145 INFO    NET: Login success.
+2021-09-29 19:50:41.753 INFO    NET: Got auth data.
+2021-09-29 19:50:41.808 INFO    DCS: Successfully got authorization data.
+2021-09-29 19:50:41.811 INFO    Dispatcher: Loading installed modules...
+2021-09-29 19:50:43.097 INFO    SECURITYCONTROL: Loaded mods/tech/wwii units/dcs_module.pak.crypt
+2021-09-29 19:50:47.917 INFO    Scripting: OBSOLETE mount_vfs_sound_path() used in ./CoreMods/aircraft/AJS37/entry.lua
+2021-09-29 19:50:48.367 INFO    Scripting: PLUGINS START-------------------------------------------------
+2021-09-29 19:50:48.412 INFO    SOUND: Added sound path: ./CoreMods/tech/Animals/Sounds
+2021-09-29 19:50:48.435 INFO    SOUND: Added sound path: ./CoreMods/tech/TechWeaponPack/Sounds
+2021-09-29 19:50:48.435 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.435 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccEnd.sdef
+2021-09-29 19:50:48.435 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.435 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineShutOff.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_Engine.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveFast_HT.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveSlow_HT.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccEnd.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccStart.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineIdle.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineMax.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun_hall.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun_hall.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun_hall.sdef
+2021-09-29 19:50:48.436 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannondistant.sdef"
+2021-09-29 19:50:48.436 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonDistant referenced in /sounds/2/sdef.tar:Weapons/Cannon/CannonDistant_76mm.sdef
+2021-09-29 19:50:48.509 INFO    SOUND: Added sound path: ./CoreMods/tech/USS John C Stennis/Sounds
+2021-09-29 19:50:48.511 INFO    SOUND: Added sound path: ./CoreMods/tech/USS_Nimitz/Sounds
+2021-09-29 19:50:48.682 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AJS37/Sounds
+2021-09-29 19:50:48.713 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AV8BNA/Sounds
+2021-09-29 19:50:48.736 WARNING EDCORE: Source ./CoreMods/aircraft/AV8BNA/Shapes is already mounted to the same mount /models/.
+2021-09-29 19:50:48.756 INFO    SOUND: Added sound path: ./CoreMods/aircraft/C-101/Sounds
+2021-09-29 19:50:48.783 INFO    SOUND: Added sound path: ./CoreMods/aircraft/ChinaAssetPack/Sounds
+2021-09-29 19:50:48.828 INFO    SOUND: Added sound path: ./CoreMods/aircraft/Christen Eagle II/Sounds
+2021-09-29 19:50:48.855 INFO    SOUND: Added sound path: ./CoreMods/aircraft/F14/Sounds
+2021-09-29 19:50:48.913 INFO    SOUND: Added sound path: ./CoreMods/aircraft/I-16/Sounds
+2021-09-29 19:50:48.949 INFO    SOUND: Added sound path: ./CoreMods/aircraft/M-2000C/Sounds
+2021-09-29 19:50:48.985 INFO    SOUND: Added sound path: ./CoreMods/aircraft/MiG-21bis/Sounds
+2021-09-29 19:50:49.001 INFO    SOUND: Added sound path: ./CoreMods/aircraft/SA342/Sounds
+2021-09-29 19:50:49.028 ERROR   EDCORE: Drivers errors while mounting mods/tech/wwii units/sounds:
+2021-09-29 19:50:49.028 ERROR   EDCORE: 	EDCDriver: can't open header file mods/tech/wwii units/sounds.edc//header.edch
+2021-09-29 19:50:49.077 ERROR   EDCORE: Drivers errors while mounting mods/terrains/marianaislands/sounds:
+2021-09-29 19:50:49.077 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/marianaislands/sounds.edc//header.edch
+2021-09-29 19:50:49.078 ERROR   EDCORE: Drivers errors while mounting mods/terrains/nevada/sounds:
+2021-09-29 19:50:49.078 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/nevada/sounds.edc//header.edch
+2021-09-29 19:50:49.080 ERROR   EDCORE: Drivers errors while mounting mods/terrains/normandy/sounds:
+2021-09-29 19:50:49.080 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/normandy/sounds.edc//header.edch
+2021-09-29 19:50:49.081 ERROR   EDCORE: Drivers errors while mounting mods/terrains/persiangulf/sounds:
+2021-09-29 19:50:49.081 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/persiangulf/sounds.edc//header.edch
+2021-09-29 19:50:49.084 ERROR   EDCORE: Drivers errors while mounting mods/terrains/thechannel/sounds:
+2021-09-29 19:50:49.084 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/thechannel/sounds.edc//header.edch
+2021-09-29 19:50:49.094 INFO    Scripting: PLUGINS DONE--------------------------------------------------
+2021-09-29 19:50:52.930 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/AV8BNA/bin/AV8B_AI.dll
+2021-09-29 19:50:52.933 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/C-101/bin/C101Core.dll
+2021-09-29 19:50:52.937 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/ChinaAssetPack/bin/CAP_AI.dll
+2021-09-29 19:50:52.940 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/ChinaAssetPack/bin/JF-17_AI.dll
+2021-09-29 19:50:52.943 INFO    CE2_AI: Loading CE AI
+2021-09-29 19:50:52.943 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/Christen Eagle II/bin/CE2_AI.dll
+2021-09-29 19:50:52.946 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/F14/bin/F14-AI.dll
+2021-09-29 19:50:52.950 INFO    MiG21_AI: Loading Mig21 AI
+2021-09-29 19:50:52.950 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/aircraft/MiG-21bis/bin/MiG21_AI.dll
+2021-09-29 19:50:52.957 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/services/CaptoGlove/bin/edCaptoGlove.dll
+2021-09-29 19:50:52.979 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/services/LeapMotion/bin/edLeapMotion.dll
+2021-09-29 19:50:53.002 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/services/SensoryxVRFree/bin/edSensoryxVRFree.dll
+2021-09-29 19:50:53.039 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/services/VoiceChat/bin/VoiceChat.dll
+2021-09-29 19:50:53.075 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/CoreMods/services/jsAvionics/bin/jsAvionics.dll
+2021-09-29 19:50:53.605 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics 43B/DCS World OpenBeta Server/Mods/tech/Supercarrier/bin/edSupercarrier.dll
+2021-09-29 19:50:53.637 INFO    EDCORE: Loaded C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/bin/Qt5Corelotatc.dll
+2021-09-29 19:50:53.654 INFO    EDCORE: Loaded C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/bin/Qt5Sqllotatc.dll
+2021-09-29 19:50:53.672 INFO    EDCORE: Loaded C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/bin/Qt5Positioninglotatc.dll
+2021-09-29 19:50:53.694 INFO    EDCORE: Loaded C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/bin/Qt5Networklotatc.dll
+2021-09-29 19:50:53.719 INFO    EDCORE: Loaded C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/bin/lotatc.dll
+2021-09-29 19:50:53.827 INFO    DCS: options.graphics =
+{
+	['messagesFontScale'] = 1;
+	['forestDetailsFactor'] = 1;
+	['LensEffects'] = 3;
+	['heatBlr'] = 0;
+	['anisotropy'] = 4;
+	['water'] = 2;
+	['scaleGui'] = 1;
+	['outputGamma'] = 2.2;
+	['treesVisibility'] = 6000;
+	['aspect'] = 1.6666666666;
+	['lights'] = 2;
+	['shadows'] = 2;
+	['MSAA'] = 2;
+	['SSAA'] = 0;
+	['civTraffic'] = '';
+	['clutterMaxDistance'] = 0;
+	['cockpitGI'] = 1;
+	['terrainTextures'] = 'min';
+	['multiMonitorSetup'] = '1camera';
+	['shadowTree'] = false;
+	['chimneySmokeDensity'] = 4;
+	['fullScreen'] = false;
+	['DOF'] = 0;
+	['clouds'] = 1;
+	['sceneryDetailsFactor'] = 1;
+	['flatTerrainShadows'] = 0;
+	['forestDistanceFactor'] = 0.5;
+	['width'] = 1280;
+	['SSLR'] = 0;
+	['effects'] = 3;
+	['SSAO'] = 0;
+	['visibRange'] = 'High';
+	['sync'] = false;
+	['useDeferredShading'] = 1;
+	['textures'] = 0;
+	['preloadRadius'] = 150000;
+	['height'] = 768;
+	['terrainMapMFD'] = 
+	{
+		['distance'] = 
+		{
+			['mapLodDistance3'] = 200000;
+			['mapLodDistance2'] = 100000;
+			['mapLodDistance0'] = 25000;
+			['mapLodDistance1'] = 50000;
+		};
+	};
+};
+2021-09-29 19:50:53.828 INFO    GRAPHICSVISTA: renderer: 'rendererStub.dll'
+2021-09-29 19:50:53.907 INFO    VISUALIZER: SceneManagerStub initialization
+2021-09-29 19:50:54.054 WARNING RENDERERSTUB: Static mode not implemented yet for structured buffer
+2021-09-29 19:50:54.333 WARNING LOG: 7 duplicate message(s) skipped.
+2021-09-29 19:50:54.333 INFO    INPUT: Device [Keyboard] created.
+2021-09-29 19:50:54.385 INFO    INPUT: Device [Mouse] created.
+2021-09-29 19:50:54.433 ERROR   EDOBJECTS: Destruction shape not found AVIASHTAB_CRASH
+2021-09-29 19:50:54.433 ERROR   EDOBJECTS: Destruction shape not found GAZ-66_P_1
+2021-09-29 19:50:54.433 ERROR   EDOBJECTS: Destruction shape not found KAMAZ-FIRE_P_1
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object AV8BNA_AERO1D_EMPTY with id=299 already declared in table ContainerTable
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object M2KC_02_RPL541_EMPTY with id=603 already declared in table ContainerTable
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object M2KC_08_RPL541_EMPTY with id=604 already declared in table ContainerTable
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object M2KC_RPL_522_EMPTY with id=605 already declared in table ContainerTable
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object HB_F14_EXT_PHX_ALU with id=320 already declared in table MissileTable
+2021-09-29 19:50:54.437 ERROR   EDOBJECTS: Object X-59M with id=54 already declared in table MissileTable
+2021-09-29 19:50:54.663 ERROR   WEAPONSBASE: invalid cx data <weapons.missiles.MBDA_Mistral><./CoreMods/aircraft/SA342/SA342_Weapons.lua>
+2021-09-29 19:51:00.766 WARNING LOG: 1 duplicate message(s) skipped.
+2021-09-29 19:51:00.766 INFO    NET: Registering HTTP control interface as 217.45.171.19:8093 (port is assumed to be open)
+2021-09-29 19:51:00.768 INFO    EDCORE: (dDispatcher)enterToState_:1
+2021-09-29 19:51:05.067 INFO    LuaNET: [jester::hook] Loading jester from C:\Users\jayir\Saved Games\8.4YA3\../Jester_scripts/
+2021-09-29 19:51:05.068 INFO    LuaNET: [jester] init
+2021-09-29 19:51:05.071 INFO    LuaNET: [jester::abs] early init - DCS environment
+2021-09-29 19:51:05.078 INFO    LuaNET: [jester::main      ] *** init
+2021-09-29 19:51:05.079 INFO    LuaNET: [jester::config    ] *** init
+2021-09-29 19:51:05.079 INFO    LuaNET: [jester::config    ] load config at C:\Users\jayir\Saved Games\8.4YA3\../Jester_scripts/jester_config_defaults.lua
+2021-09-29 19:51:05.081 INFO    LuaNET: [jester::config    ] load config at C:\Users\jayir\Saved Games\8.4YA3\../Jester_scripts/jester_config_local.lua
+2021-09-29 19:51:05.082 INFO    LuaNET: [jester::config    ] no config file found at C:\Users\jayir\Saved Games\8.4YA3\./Jester/config.lua, skipping
+2021-09-29 19:51:05.084 INFO    LuaNET: [jester::state     ] *** init
+2021-09-29 19:51:05.087 INFO    LuaNET: [jester::state     ] recovered state
+2021-09-29 19:51:05.088 INFO    LuaNET: [jester::state     ] loaded UUID ca52ff58-0cc0-492b-9356-4b11617d8478
+2021-09-29 19:51:05.088 INFO    LuaNET: [jester::state     ] saving state
+2021-09-29 19:51:05.090 INFO    LuaNET: [jester::hooks     ] *** init
+2021-09-29 19:51:05.091 INFO    LuaNET: [jester::cb        ] *** init
+2021-09-29 19:51:05.093 INFO    LuaNET: [jester::env_utils ] *** init
+2021-09-29 19:51:05.096 INFO    LuaNET: [jester::net       ] *** init
+2021-09-29 19:51:05.098 INFO    LuaNET: [jester::cmdnet    ] *** init
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] *** init
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ping
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $admins
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $alert
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $y
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $n
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $pause
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered mod command $unpause
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered admin command $nuke
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered admin command $jreload
+2021-09-29 19:51:05.100 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $help
+2021-09-29 19:51:05.102 INFO    LuaNET: [jester::telemetry ] *** init
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::moderation] *** init
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1m
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban10m
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1h
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1d
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban1w
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $ban31d
+2021-09-29 19:51:05.104 INFO    LuaNET: [jester::cmdchat   ] registered mod command $kick
+2021-09-29 19:51:05.105 INFO    LuaNET: [jester::server_player_name] *** init
+2021-09-29 19:51:05.108 INFO    LuaNET: [jester::rotation  ] *** init
+2021-09-29 19:51:05.108 INFO    LuaNET: [jester::cmdchat   ] registered mod command $end
+2021-09-29 19:51:05.108 INFO    LuaNET: [jester::cmdchat   ] registered mod command $endnow
+2021-09-29 19:51:05.109 INFO    LuaNET: [jester::motd      ] *** init
+2021-09-29 19:51:05.109 INFO    LuaNET: [jester::cmdchat   ] registered pleb command $motd
+2021-09-29 19:51:05.112 INFO    LuaNET: [jester::events    ] *** init
+2021-09-29 19:51:05.112 INFO    LuaNET: [jester::cmdchat   ] registered admin command $evdump
+2021-09-29 19:51:05.112 INFO    LuaNET: [jester::cmdchat   ] registered admin command $evdumpa
+2021-09-29 19:51:05.113 INFO    LuaNET: [jester::filter_events] *** init
+2021-09-29 19:51:05.115 INFO    LuaNET: [jester::pvp       ] *** init
+2021-09-29 19:51:05.127 INFO    LuaNET: Loaded - DCS-SRS-AutoConnect 1.7.7.0
+2021-09-29 19:51:05.132 INFO    LuaNET: Loaded - SIMPLE SLOT BLOCK v1.1 by Ciribob
+2021-09-29 19:51:05.134 INFO    LuaNET: [LOTATC] GameGUI loading...
+2021-09-29 19:51:05.137 INFO    LuaNET: [LOTATC] LotAtc Mod found, load it
+2021-09-29 19:51:05.141 INFO    LuaNET: [LOTATC] [1/5] LotAtc core loading...
+2021-09-29 19:51:05.143 INFO    LuaNET: [LOTATC] [2/5] LotAtc config loading...
+2021-09-29 19:51:05.143 INFO    LuaNET: [LOTATC]        --> LFS C:\Users\jayir\Saved Games\8.4YA3\Mods\services\LotAtc\
+2021-09-29 19:51:05.145 INFO    LuaNET: [LOTATC] [3/5] LotAtc glue loading...
+2021-09-29 19:51:05.164 INFO    LuaNET: [LOTATC] [4/5] LotAtc User Db loading...
+2021-09-29 19:51:05.165 INFO    LuaNET: [LOTATC] [5/5] LotAtc instance loading...
+2021-09-29 19:51:05.168 INFO    LuaNET: [LOTATC] ---- LotAtc is ready and correctly LOADED ----
+2021-09-29 19:51:05.168 INFO    LuaNET: [LOTATC] ---- Version is	2.2.2-cdfce462
+2021-09-29 19:51:05.168 INFO    LuaNET: [LOTATC] ---- Common directory is	C:/Users/jayir/LotAtc Data/Server
+2021-09-29 19:51:05.170 INFO    LuaNET: [LOTATC]         -> LotAtc custom config file loading...
+2021-09-29 19:51:05.170 INFO    LuaNET: [LOTATC]         -> C:\Users\jayir\Saved Games\8.4YA3\Mods\services\LotAtc\config.custom.lua
+2021-09-29 19:51:05.171 INFO    LuaNET: [LOTATC]         -> LotAtc custom config file loaded
+2021-09-29 19:51:05.171 INFO    LuaNET: [LOTATC]         -> LotAtc custom config applied
+2021-09-29 19:51:05.173 INFO    LuaNET: [LOTATC] Load callbacks
+2021-09-29 19:51:05.173 INFO    LuaNET: Register callbacks
+2021-09-29 19:51:05.180 INFO    LuaNET: SLMOD INIT: Loading Slmodv7_5_119...
+2021-09-29 19:51:05.191 INFO    LuaNET: SLMOD INFO: using settings defined in C:\Users\jayir\Saved Games\8.4YA3\Slmod\config.lua
+2021-09-29 19:51:05.198 INFO    LuaNET: SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
+2021-09-29 19:51:05.198 INFO    LuaNET: SLMOD INFO: SlmodConfig.lua loaded.
+2021-09-29 19:51:05.206 INFO    LuaNET: SLMOD INFO: SlmodUtils.lua loaded.
+2021-09-29 19:51:05.211 INFO    LuaNET: SLMOD INFO: SlmodEvents.lua loaded.
+2021-09-29 19:51:05.217 INFO    LuaNET: SLMOD INFO: SlmodUnits.lua loaded.
+2021-09-29 19:51:05.223 INFO    LuaNET: SLMOD INFO: SlmodMenu.lua loaded.
+2021-09-29 19:51:05.228 INFO    LuaNET: SLMOD INFO: SlmodConvMenu.lua loaded.
+2021-09-29 19:51:05.229 INFO    LuaNET: SLMOD INFO: SlmodPTSMenu.lua loaded.
+2021-09-29 19:51:05.231 INFO    LuaNET: SLMOD INFO: SlmodPOSMenu.lua loaded.
+2021-09-29 19:51:05.238 INFO    LuaNET: SLMOD INFO: SlmodAdminMenu.lua loaded
+2021-09-29 19:51:05.245 INFO    LuaNET: SLMOD INFO: no stats , loading from file: C:\Users\jayir\Saved Games\8.4YA3\Slmod\\SlmodStats.lua
+2021-09-29 19:51:05.245 INFO    LuaNET: SLMOD WARNING: Unable to open SlmodStats.lua , will make a new SlmodStats.lua file.
+2021-09-29 19:51:05.245 INFO    LuaNET: SLMOD INFO: no penStats , loading from file: C:\Users\jayir\Saved Games\8.4YA3\Slmod\\SlmodPenaltyStats.lua
+2021-09-29 19:51:05.246 INFO    LuaNET: SLMOD WARNING: Unable to open SlmodPenaltyStats.lua , will make a new SlmodPenaltyStats.lua file.
+2021-09-29 19:51:05.246 INFO    LuaNET: SLMOD INFO: SlmodStats.lua loaded.
+2021-09-29 19:51:05.251 INFO    LuaNET: SLMOD INFO: no metaStats , loading from file: C:\Users\jayir\Saved Games\8.4YA3\Slmod\\SlmodMetaStats.lua
+2021-09-29 19:51:05.251 INFO    LuaNET: SLMOD WARNING: Unable to open SlmodMetaStats.lua , will make a new SlmodMetaStats.lua file.
+2021-09-29 19:51:05.251 INFO    LuaNET: SLMOD INFO: SlmodMetaStats.lua loaded.
+2021-09-29 19:51:05.257 INFO    LuaNET: SLMOD INFO: SlmodAutoAdmin.lua loaded.
+2021-09-29 19:51:05.259 INFO    LuaNET: SLMOD INFO: SlmodPingCheck.lua loaded.
+2021-09-29 19:51:05.265 INFO    LuaNET: SLMOD INFO: SlmodVote.lua loaded.
+2021-09-29 19:51:05.271 INFO    LuaNET: SLMOD INFO: SlmodLibs.lua loaded.
+2021-09-29 19:51:05.273 INFO    LuaNET: SLMOD INFO: SlmodDebugger.lua loaded.
+2021-09-29 19:51:05.278 INFO    LuaNET: SLMOD INFO: SlmodMOTD.lua loaded.
+2021-09-29 19:51:05.280 INFO    LuaNET: SLMOD INFO: SlmodHelp.lua loaded.
+2021-09-29 19:51:05.285 INFO    LuaNET: SLMOD INFO: SlmodCallbacks.lua loaded
+2021-09-29 19:51:05.290 INFO    LuaNET: SLMOD INFO: SlmodTests.lua loaded.
+2021-09-29 19:51:05.295 INFO    Dispatcher: //=== END OF INIT ======================================//
+2021-09-29 19:51:05.296 INFO    NET: server has started
+2021-09-29 19:51:05.297 INFO    NET: Using LEDBAT for UDP congestion control.
+2021-09-29 19:51:09.971 INFO    NET: Successfully set up Dual-Stack socket, using both IPv4 and IPv6
+2021-09-29 19:51:09.971 INFO    NET: Listen to IPv6 on port 10314
+2021-09-29 19:51:09.972 INFO    Dispatcher: loadMission C:\Users\jayir\Saved Games\8.4YA3\Missions\4YA_Capture_Bases_Persian_Large_v25B.miz
+2021-09-29 19:51:09.979 INFO    WORLDGENERAL: loading mission from: "C:\Users\jayir\Saved Games\8.4YA3\Missions\4YA_Capture_Bases_Persian_Large_v25B.miz"
+2021-09-29 19:51:10.111 INFO    DCS: use_xRay: yes
+2021-09-29 19:51:10.111 INFO    DCS: netfm_enable_coeff_switching: yes
+2021-09-29 19:51:10.774 INFO    NET: Loading mission: "C:\Users\jayir\Saved Games\8.4YA3\Missions\4YA_Capture_Bases_Persian_Large_v25B.miz"
+2021-09-29 19:51:10.774 INFO    NET: Registering server as 217.45.171.19:10314 (port is assumed to be open)
+2021-09-29 19:51:10.775 INFO    EDCORE: (dDispatcher)enterToState_:2
+2021-09-29 19:51:10.776 INFO    LuaNET: SLMOD INFO: Modifying netview... results: , true
+2021-09-29 19:51:10.776 INFO    LuaNET: SLMOD INFO: connected client 1
+2021-09-29 19:51:10.776 INFO    LuaNET: SLMOD INFO: num clients: 1
+2021-09-29 19:51:10.776 INFO    LuaNET: [LOTATC] Player connect: 217.45.171.19
+2021-09-29 19:51:10.776 INFO    LuaNET: [LOTATC] Player connect done
+2021-09-29 19:51:10.776 INFO    LuaNET: [jester::cb        ] player added: {['id']=1,['name']='PILOT_914351',['ucid']='72c0f0dd120719e2a87573cbdea881ed',}
+2021-09-29 19:51:10.787 INFO    DCS: application shutdown
+2021-09-29 19:51:11.305 INFO    NET: server has stopped
+2021-09-29 19:51:11.307 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 0
+2021-09-29 19:51:11.309 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 1
+2021-09-29 19:51:11.309 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 2
+2021-09-29 19:51:11.367 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 3
+2021-09-29 19:51:11.417 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 4
+2021-09-29 19:51:11.421 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 5
+2021-09-29 19:51:11.422 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 6
+2021-09-29 19:51:11.423 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 7
+2021-09-29 19:51:11.423 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 8
+2021-09-29 19:51:11.424 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 9
+2021-09-29 19:51:11.424 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 10
+2021-09-29 19:51:11.424 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 11
+2021-09-29 19:51:11.424 INFO    EDOBJECTS: lTypeObjectManagerImpl::clear 12
+2021-09-29 19:51:11.596 INFO    TERRAIN: lSystem::exit()
+2021-09-29 19:51:11.596 INFO    TERRAIN: lSystem::CleanScenes()
+=== Log closed.

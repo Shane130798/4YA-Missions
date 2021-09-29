@@ -1,0 +1,11 @@
+[20:51:05 +01:00] [I] 
+[20:51:05 +01:00] [I] --- STARTING LOG ---
+[20:51:05 +01:00] [I] Date        : Wed Sep 29 20:51:05 2021
+[20:51:05 +01:00] [I] Version     : 2.2.2-cdfce462
+[20:51:05 +01:00] [I] Machine     : Windows 10 Version 2009
+[20:51:05 +01:00] [I] LotAtc path : C:\Program Files\LotAtc\
+[20:51:05 +01:00] [I] --------------------
+[20:51:05 +01:00] [W] [default] Logger: Filedump is true
+[20:51:05 +01:00] [I] [mainentry] Create Main entry for LotAtc on 768
+[20:51:05 +01:00] [I] [mainentry] ModPath: "C:\\Users\\jayir\\Saved Games\\8.4YA3\\Mods\\services\\LotAtc\\"
+[20:51:05 +01:00] [I] [mainentry] PLUGINS  "C:/Users/jayir/Saved Games/8.4YA3/Mods/services/LotAtc/plugins"
