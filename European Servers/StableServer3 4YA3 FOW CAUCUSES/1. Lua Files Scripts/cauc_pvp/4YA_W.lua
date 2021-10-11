@@ -247,14 +247,14 @@ end
 
 function dcsprotect.addF10MenuOptions(_unit)
 
-    local _groupId = dcsprotect.getGroupId(_unit)
+    --local _groupId = dcsprotect.getGroupId(_unit)
 
 
-    missionCommands.removeItemForGroup(_groupId, {"Validate Loadout"})
+    --missionCommands.removeItemForGroup(_groupId, {"Validate Loadout"})
 
-    missionCommands.addCommandForGroup(_groupId, "Validate Loadout", nil, dcsprotect.validateLoadout, _unit:getName())
+    --missionCommands.addCommandForGroup(_groupId, "Validate Loadout", nil, dcsprotect.validateLoadout, _unit:getName())
 
-    env.info("Added Loadout Menu for ".._unit:getName())
+    --env.info("Added Loadout Menu for ".._unit:getName())
 
 end
 
