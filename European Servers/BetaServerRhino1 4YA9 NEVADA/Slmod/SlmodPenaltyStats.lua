@@ -1,4 +1,0 @@
-penStats = 
-{
-} -- end of penStats
-
