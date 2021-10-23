@@ -657,8 +657,8 @@ ctld.spawnableCrates = {
     },
 
     ["AA Crates"] = {
-        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 1, cratesRequired = 2 },
-        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 2, cratesRequired = 2 },
+        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 1, cratesRequired = 1 },
+        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 2, cratesRequired = 1 },
 
         { weight = 400, desc = "M1097 Avenger",       unit = "M1097 Avenger",   side = 1, cratesRequired = 2 },
         { weight = 400, desc = "M1097 Avenger",       unit = "M1097 Avenger",   side = 2, cratesRequired = 2 },
