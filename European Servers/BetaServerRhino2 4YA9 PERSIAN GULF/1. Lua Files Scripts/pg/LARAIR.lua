@@ -1,1 +1,0 @@
-BLUE_LAR_AIRBASE = SPAWN:New( "BLUE_LAR_AIRBASE" ) :InitRepeat():Spawn()

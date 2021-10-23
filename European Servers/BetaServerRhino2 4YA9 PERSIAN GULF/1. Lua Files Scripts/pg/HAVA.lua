@@ -1,1 +1,0 @@
-BLUE_HAVADARYA = SPAWN:New( "BLUE_HAVADARYA" ) :InitRepeat():Spawn()
