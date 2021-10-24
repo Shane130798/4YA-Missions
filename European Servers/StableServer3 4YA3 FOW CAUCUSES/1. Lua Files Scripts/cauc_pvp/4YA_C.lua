@@ -625,72 +625,72 @@ ctld.spawnableCrates = {
         -- cratesRequired - if set requires that many crates of the same type within 100m of each other in order build the unit
         -- side is optional but 2 is BLUE and 1 is RED
         -- dont use that option with the HAWK Crates
-        { weight = 500, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 2, cratesRequired = 2 },
-        { weight = 500, desc = "HMMWV - TOW", unit = "M1045 HMMWV TOW", side = 1, cratesRequired = 2 },		
+        { weight = 500, desc = "HMMWV - TOW",         unit = "M1045 HMMWV TOW", side = 2, cratesRequired = 2 },
+        { weight = 500, desc = "HMMWV - TOW",         unit = "M1045 HMMWV TOW", side = 1, cratesRequired = 2 },
 
-        { weight = 510, desc = "BTR-D", unit = "BTR_D", side = 2 },
-        { weight = 515, desc = "BRDM-2", unit = "BRDM-2", side = 1 },
+        { weight = 510, desc = "BTR-D",               unit = "BTR_D",           side = 2, cratesRequired = 1 },
+        { weight = 515, desc = "BRDM-2",              unit = "BRDM-2",          side = 1, cratesRequired = 1 },
 
-        { weight = 520, desc = "HMMWV - JTAC", unit = "Hummer", side = 2, }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
-        { weight = 525, desc = "SKP-11 - JTAC", unit = "SKP-11", side = 1, }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
+        { weight = 520, desc = "HMMWV - JTAC",        unit = "Hummer",          side = 2, cratesRequired = 1 }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
+        { weight = 525, desc = "SKP-11 - JTAC",       unit = "SKP-11",          side = 1, cratesRequired = 1 }, -- used as jtac and unarmed, not on the crate list if JTAC is disabled
 
-        { weight = 100, desc = "2B11 Mortar", unit = "2B11 mortar" },
+        { weight = 100, desc = "2B11 Mortar",         unit = "2B11 mortar" },
 
-        { weight = 250, desc = "SPH 2S19 Msta", unit = "SAU Msta", side = 1, cratesRequired = 2 },
-        { weight = 255, desc = "M-109", unit = "M-109", side = 2, cratesRequired = 2 },
-		{ weight = 255, desc = "M-109", unit = "M-109", side = 1, cratesRequired = 2 },
-		
-	    { weight = 502, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 2,  cratesRequired = 3 },
-	    { weight = 503, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 2, cratesRequired = 2   },
-        { weight = 504, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2  },
-		
-		{ weight = 502, desc = "M-1 Abrams", unit = "M-1 Abrams", side = 1,  cratesRequired = 3 },
-	    { weight = 503, desc = "M-2 Bradley", unit = "M-2 Bradley", side = 1, cratesRequired = 2   },
-        { weight = 504, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2  },
+        { weight = 250, desc = "SPH 2S19 Msta",       unit = "SAU Msta",        side = 1, cratesRequired = 2 },
+        { weight = 255, desc = "M-109",               unit = "M-109",           side = 2, cratesRequired = 2 },
+        { weight = 255, desc = "M-109",               unit = "M-109",           side = 1, cratesRequired = 2 },
 
-        { weight = 252, desc = "Ural-375 Ammo Truck", unit = "Ural-375", side = 1, cratesRequired = 1 },
-        { weight = 253, desc = "M-818 Ammo Truck", unit = "M 818", side = 2, cratesRequired = 1 },
+        { weight = 502, desc = "M-1 Abrams",          unit = "M-1 Abrams",      side = 2, cratesRequired = 3 },
+        { weight = 503, desc = "M-2 Bradley",         unit = "M-2 Bradley",     side = 2, cratesRequired = 2 },
+        { weight = 504, desc = "Vulcan",              unit = "Vulcan",          side = 2, cratesRequired = 2 },
+
+        { weight = 502, desc = "M-1 Abrams",          unit = "M-1 Abrams",      side = 1, cratesRequired = 3 },
+        { weight = 503, desc = "M-2 Bradley",         unit = "M-2 Bradley",     side = 1, cratesRequired = 2 },
+        { weight = 504, desc = "Vulcan",              unit = "Vulcan",          side = 1, cratesRequired = 2 },
+
+        { weight = 252, desc = "Ural-375 Ammo Truck", unit = "Ural-375",        side = 1, cratesRequired = 1 },
+        { weight = 253, desc = "M-818 Ammo Truck",    unit = "M 818",           side = 2, cratesRequired = 1 },
     },
-	
-	    ["FOB"] = {	
-	    { weight = 800, desc = "FOB Crate - Small", unit = "FOB-SMALL" }, -- Builds a FOB! - requires 3 * ctld.cratesRequiredForFOB
+
+    ["FOB"] = {
+        { weight = 800, desc = "FOB Crate - Small",   unit = "FOB-SMALL" }, -- Builds a FOB! - requires 3 * ctld.cratesRequiredForFOB
     },
-	
+
     ["AA Crates"] = {
-        { weight = 50, desc = "Stinger", unit = "Stinger manpad", side = 0 },
+        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 1, cratesRequired = 1 },
+        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR",        side = 2, cratesRequired = 1 },
 
-        -- HAWK System
-        { weight = 540, desc = "HAWK Launcher", unit = "Hawk ln", side = 2},
-        { weight = 545, desc = "HAWK Search Radar", unit = "Hawk sr", side = 2 },
-        { weight = 550, desc = "HAWK Track Radar", unit = "Hawk tr", side = 2 },
-        { weight = 551, desc = "HAWK PCP", unit = "Hawk pcp" , side = 2 }, -- Remove this if on 1.2
-        { weight = 552, desc = "HAWK Repair", unit = "HAWK Repair" , side = 2 },
-        -- End of HAWK
+        { weight = 400, desc = "M1097 Avenger",       unit = "M1097 Avenger",   side = 1, cratesRequired = 2 },
+        { weight = 400, desc = "M1097 Avenger",       unit = "M1097 Avenger",   side = 2, cratesRequired = 2 },
 
         -- KUB SYSTEM
-        { weight = 560, desc = "KUB Launcher", unit = "Kub 2P25 ln", side = 1},
-        { weight = 565, desc = "KUB Radar", unit = "Kub 1S91 str", side = 1 },
-        { weight = 570, desc = "KUB Repair", unit = "KUB Repair", side = 1},
-		{ weight = 560, desc = "KUB Launcher", unit = "Kub 2P25 ln", side = 2},
-        { weight = 565, desc = "KUB Radar", unit = "Kub 1S91 str", side = 2 },
-        { weight = 570, desc = "KUB Repair", unit = "KUB Repair", side = 2},
+        { weight = 560, desc = "KUB Launcher",        unit = "Kub 2P25 ln",     side = 1 },
+        { weight = 565, desc = "KUB Radar",           unit = "Kub 1S91 str",    side = 1 },
+        { weight = 570, desc = "KUB Repair",          unit = "KUB Repair",      side = 1 },
+        { weight = 560, desc = "KUB Launcher",        unit = "Kub 2P25 ln",     side = 2 },
+        { weight = 565, desc = "KUB Radar",           unit = "Kub 1S91 str",    side = 2 },
+        { weight = 570, desc = "KUB Repair",          unit = "KUB Repair",      side = 2 },
         -- End of KUB
 
+        -- HAWK System
+        { weight = 540, desc = "HAWK Launcher",       unit = "Hawk ln",         side = 2 },
+        { weight = 545, desc = "HAWK Search Radar",   unit = "Hawk sr",         side = 2 },
+        { weight = 550, desc = "HAWK Track Radar",    unit = "Hawk tr",         side = 2 },
+        { weight = 551, desc = "HAWK PCP",            unit = "Hawk pcp" ,       side = 2 },
+        { weight = 552, desc = "HAWK Repair",         unit = "HAWK Repair" ,    side = 2 },
+        -- End of HAWK
+
+        --{ weight =  50, desc = "Stinger",             unit = "Stinger manpad",  side = 0 },
+
         -- BUK System
-        --        { weight = 575, desc = "BUK Launcher", unit = "SA-11 Buk LN 9A310M1"},
-        --        { weight = 580, desc = "BUK Search Radar", unit = "SA-11 Buk SR 9S18M1"},
-        --        { weight = 585, desc = "BUK CC Radar", unit = "SA-11 Buk CC 9S470M1"},
-        --        { weight = 590, desc = "BUK Repair", unit = "BUK Repair"},
+        { weight = 575, desc = "BUK Launcher",        unit = "SA-11 Buk LN 9A310M1", side = 1 },
+        { weight = 580, desc = "BUK Search Radar",    unit = "SA-11 Buk SR 9S18M1",  side = 1 },
+        { weight = 585, desc = "BUK CC Radar",        unit = "SA-11 Buk CC 9S470M1", side = 1 },
+        { weight = 590, desc = "BUK Repair",          unit = "BUK Repair",           side = 1 },
         -- END of BUK
 
-        { weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR", side = 1 },
-		{ weight = 595, desc = "Early Warning Radar", unit = "1L13 EWR", side = 2 },		-- cant be used by BLUE coalition
-		
-		{ weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 2 },
-        { weight = 405, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 2 },
-        { weight = 400, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 2 },
-		{ weight = 400, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 2 },
-
+        --{ weight = 405, desc = "Strela-1 9P31",       unit = "Strela-1 9P31",   side = 1, cratesRequired = 2 },
+        --{ weight = 405, desc = "Strela-1 9P31",       unit = "Strela-1 9P31",   side = 2, cratesRequired = 2 },
     },
 }
 
