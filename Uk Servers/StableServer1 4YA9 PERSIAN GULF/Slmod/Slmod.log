@@ -1,0 +1,48 @@
+Slmod started at Oct 27, 2021, 17:15:57
+28.681  SLMOD INFO: using settings defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\config.lua
+28.683  SLMOD INFO: ./Scripts/MissionScripting.lua is up to date, no installation required.
+28.686  SLMOD INFO: SlmodUtils.lua loaded.
+28.688  SLMOD INFO: SlmodEvents.lua loaded.
+28.69  SLMOD INFO: SlmodUnits.lua loaded.
+28.692  SLMOD INFO: SlmodMenu.lua loaded.
+28.694  SLMOD INFO: SlmodConvMenu.lua loaded.
+28.696  SLMOD INFO: SlmodPTSMenu.lua loaded.
+28.697  SLMOD INFO: SlmodPOSMenu.lua loaded.
+28.7  SLMOD INFO: SlmodAdminMenu.lua loaded
+28.704  SLMOD INFO: no stats , loading from file: C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\\SlmodStats.lua
+28.704  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\SlmodStats.lua
+28.704  SLMOD INFO: no penStats , loading from file: C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\\SlmodPenaltyStats.lua
+28.704  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\SlmodPenaltyStats.lua
+28.704  SLMOD INFO: SlmodStats.lua loaded.
+28.706  SLMOD INFO: no metaStats , loading from file: C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\\SlmodMetaStats.lua
+28.706  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\SlmodMetaStats.lua
+28.706  SLMOD INFO: SlmodMetaStats.lua loaded.
+28.709  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+28.71  SLMOD INFO: SlmodPingCheck.lua loaded.
+28.713  SLMOD INFO: SlmodVote.lua loaded.
+28.716  SLMOD INFO: SlmodLibs.lua loaded.
+28.717  SLMOD INFO: SlmodDebugger.lua loaded.
+28.719  SLMOD INFO: SlmodMOTD.lua loaded.
+28.72  SLMOD INFO: SlmodHelp.lua loaded.
+28.722  SLMOD INFO: SlmodCallbacks.lua loaded
+28.724  SLMOD INFO: SlmodTests.lua loaded.
+34.56  SLMOD INFO: Modifying netview... results: , true
+34.56  SLMOD INFO: connected client 1
+34.56  SLMOD INFO: num clients: 1
+50.217  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+50.217  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+50.217  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+50.217  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+50.217  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+50.218  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+50.219  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\BannedClients.lua
+50.219  SLMOD INFO: using server admins as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\ServerAdmins.lua
+50.219  SLMOD INFO: load exempt clients
+50.219  SLMOD INFO: using exempt ucids as defined in C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\ExemptClients.lua
+50.25  SLMOD INFO: successfully loaded unitAttributes.
+50.251  SLMOD INFO: no misStats , loading from file: C:\Users\jayir\Saved Games\4YAPS4STABLE\Slmod\Mission Stats\\4YA_Capture_Bases_Persian_Large_v28S- Oct 27, 2021 at 17 12 18.lua
+50.251  SLMOD INFO: Old Mission Stat file doesnt exist
+50.252  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+50.252  SLMOD INFO: using random seed 1379
+50.255  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+50.317  SLMOD INFO: successfully completed slmod.getMissionUnitData()
