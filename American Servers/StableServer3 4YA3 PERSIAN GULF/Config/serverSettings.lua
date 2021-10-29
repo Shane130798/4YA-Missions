@@ -49,8 +49,8 @@ CarrierOps ",
     ["isPublic"] = true,
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v25S.miz",
-        [2] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v25B.miz",
+        [1] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v28S.miz",
+        [2] = "C:\\Users\\Administrator\\Saved Games\\StableServer3\\Missions\\4YA_Capture_Bases_Persian_Large_v28B.miz",
     }, -- end of ["missionList"]
     ["password"] = "",
     ["listShuffle"] = false,
