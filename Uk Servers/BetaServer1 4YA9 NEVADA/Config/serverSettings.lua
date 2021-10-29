@@ -38,12 +38,12 @@ cfg =
     ["name"] = "[4YA] TRAINING 24/7 NEVADA PVE BETA UK SERVER",
     ["missionList"] = 
     {
-        [1] = "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Missions\\4YA_Nevada_Capture_bases_v20B.miz",
-        [2] = "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Missions\\4YA_Nevada_Capture_bases_v20C.miz",
-        [3] = "C:\\Users\\jayir\\Saved Games\\7.4YA2\\Missions\\4YA_Nevada_Capture_bases_v20S.miz",
+        [1] = "C:\\Users\\jayir\\Saved Games\\4YAPS1OB\\Missions\\4YA_Nevada_Capture_bases_v20B.miz",
+        [2] = "C:\\Users\\jayir\\Saved Games\\4YAPS1OB\\Missions\\4YA_Nevada_Capture_bases_v20C.miz",
+        [3] = "C:\\Users\\jayir\\Saved Games\\4YAPS1OB\\Missions\\4YA_Nevada_Capture_bases_v20S.miz",
     }, -- end of ["missionList"]
     ["listShuffle"] = false,
     ["require_pure_clients"] = false,
     ["require_pure_models"] = true,
-    ["maxPlayers"] = "35",
+    ["maxPlayers"] = "40",
 } -- end of cfg
