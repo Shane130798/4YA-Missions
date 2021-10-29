@@ -1,4 +1,0 @@
-metaStats = 
-{
-} -- end of metaStats
-
