@@ -1,5 +1,5 @@
 USAF_MAGIC = SPAWN:New("E3_GUDAUTA")
-  :InitLimit(1, 3)
+  :InitLimit(1, 4)
   :InitRepeatOnLanding()
   :SpawnScheduled(900, 1)
 
@@ -14,7 +14,7 @@ BLUE_WIZARD = SPAWN:New("E3_ANAPA")
   :SpawnScheduled(900, 1)
 
 BLUE_MAGIC = SPAWN:New("E3_MAYKOP")
-  :InitLimit(1, 3)
+  :InitLimit(1, 4)
   :InitRepeatOnLanding()
   :SpawnScheduled(900, 1)
 

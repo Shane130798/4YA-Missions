@@ -673,11 +673,11 @@ ctld.spawnableCrates = {
         -- End of KUB
 
         -- HAWK System
-        { weight = 540, desc = "HAWK Launcher",       unit = "Hawk ln",         side = 2 },
-        { weight = 545, desc = "HAWK Search Radar",   unit = "Hawk sr",         side = 2 },
-        { weight = 550, desc = "HAWK Track Radar",    unit = "Hawk tr",         side = 2 },
-        { weight = 551, desc = "HAWK PCP",            unit = "Hawk pcp" ,       side = 2 },
-        { weight = 552, desc = "HAWK Repair",         unit = "HAWK Repair" ,    side = 2 },
+        --{ weight = 540, desc = "HAWK Launcher",       unit = "Hawk ln",         side = 2 },
+        --{ weight = 545, desc = "HAWK Search Radar",   unit = "Hawk sr",         side = 2 },
+        --{ weight = 550, desc = "HAWK Track Radar",    unit = "Hawk tr",         side = 2 },
+        --{ weight = 551, desc = "HAWK PCP",            unit = "Hawk pcp" ,       side = 2 },
+        --{ weight = 552, desc = "HAWK Repair",         unit = "HAWK Repair" ,    side = 2 },
         -- End of HAWK
 
         --{ weight =  50, desc = "Stinger",             unit = "Stinger manpad",  side = 0 },
@@ -687,6 +687,10 @@ ctld.spawnableCrates = {
         { weight = 580, desc = "BUK Search Radar",    unit = "SA-11 Buk SR 9S18M1",  side = 1 },
         { weight = 585, desc = "BUK CC Radar",        unit = "SA-11 Buk CC 9S470M1", side = 1 },
         { weight = 590, desc = "BUK Repair",          unit = "BUK Repair",           side = 1 },
+		{ weight = 575, desc = "BUK Launcher",        unit = "SA-11 Buk LN 9A310M1", side = 2 },
+        { weight = 580, desc = "BUK Search Radar",    unit = "SA-11 Buk SR 9S18M1",  side = 2 },
+        { weight = 585, desc = "BUK CC Radar",        unit = "SA-11 Buk CC 9S470M1", side = 2 },
+        { weight = 590, desc = "BUK Repair",          unit = "BUK Repair",           side = 2 },
         -- END of BUK
 
         --{ weight = 405, desc = "Strela-1 9P31",       unit = "Strela-1 9P31",   side = 1, cratesRequired = 2 },
