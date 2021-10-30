@@ -72,4 +72,26 @@ TANKER135_BLUE = SPAWN:New( "TANKER135_BLUE" )
 TANKER135_BLUE_MPRS = SPAWN:New( "TANKER135_BLUE_MPRS" ) 
 	:InitLimit( 1, 500 )
 	:SpawnScheduled( 40, .870 )
+	
+function ScheduleDelete(group)
+  SCHEDULER:New( nil, function()
+    env.info("Cleaning up: Destroying landed group")
+    group:Destroy()
+  end, {}, 60)
+end
+
+DeleteLanding = EVENTHANDLER:New()
+DeleteLanding:HandleEvent( EVENTS.Land )
+function DeleteLanding:OnEventLand( EventData )
+  ThisGroup = GROUP:FindByName(EventData.IniGroupName)
+  GroupUnit = ThisGroup:GetDCSUnit(1)
+  FirstUnit = UNIT:Find(GroupUnit)
+  if FirstUnit:GetPlayerName() then
+    PlayerName = FirstUnit:GetPlayerName()
+    env.info(PlayerName .. " has landed")
+  else
+    env.info("Not a player landed, deleting")
+    ScheduleDelete(ThisGroup)
+  end
+end
 
