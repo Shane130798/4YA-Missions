@@ -1,65 +1,46 @@
-cfg = 
-{
-    ["current"] = 1,
-    ["description"] = "[4YA] TRAINING 24/7 CAUCASUS PVP FOW BETA EU SERVER\
-\
-**DISCORD**  https://discord.gg/CaYRRDd\
-**SRS**      Type  -motd  in-game chat for ip\
-\
-Welcome to 4YA Training Grounds mission, this mission is designed to help both new and experienced pilots refine \
-their skills in their chosen airframe. The mission incorporates both fixed wing and rotary wing aircraft and the \
-ability to train on both Air to Air/Air to Ground techniques, missile evasion, land-based circuit landings as \
-well as carrier-based recovery operations. You may fly alone or with a wingman/squadron to develop skills essential in a coordinated attack.\
-\
-Available:\
-\
-Ctld\
-Combined Arms\
-PVE\
-SRS\
-CarrierOps ",
-    ["require_pure_textures"] = true,
-    ["listStartIndex"] = 3,
-    ["advanced"] = 
-    {
-        ["allow_change_tailno"] = true,
-        ["disable_events"] = false,
-        ["allow_ownship_export"] = true,
-        ["allow_object_export"] = true,
-        ["pause_on_load"] = false,
-        ["allow_sensor_export"] = true,
-        ["event_Takeoff"] = false,
-        ["pause_without_clients"] = true,
-        ["client_outbound_limit"] = 0,
-        ["client_inbound_limit"] = 0,
-        ["server_can_screenshot"] = true,
-        ["voice_chat_server"] = false,
-        ["allow_change_skin"] = true,
-        ["event_Connect"] = true,
-        ["allow_trial_only_clients"] = false,
-        ["event_Kill"] = true,
-        ["event_Crash"] = false,
-        ["event_Ejecting"] = false,
-        ["maxPing"] = 300,
-        ["event_Role"] = false,
-        ["resume_mode"] = 2,
-    }, -- end of ["advanced"]
-    ["port"] = 10309,
-    ["mode"] = 0,
-    ["bind_address"] = "",
-    ["isPublic"] = true,
-    ["listShuffle"] = false,
-    ["password"] = "",
-    ["missionList"] = 
-    {
-        [1] = "C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V54_JAN_OVC.miz",
-        [2] = "C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V54_JUN_BKN.miz",
-        [3] = "C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V54_NOV_SCT.miz",
-    }, -- end of ["missionList"]
-    ["name"] = "[4YA] TRAINING 24/7 CAUCASUS PVP FOW BETA EU SERVER",
-    ["uri"] = "startServer",
-    ["listLoop"] = true,
-    ["require_pure_clients"] = true,
-    ["require_pure_models"] = true,
-    ["maxPlayers"] = "40",
-} -- end of cfg
+cfg = {
+	['advanced'] = {
+		['allow_change_skin'] = true,
+		['allow_change_tailno'] = true,
+		['allow_object_export'] = true,
+		['allow_ownship_export'] = true,
+		['allow_sensor_export'] = true,
+		['allow_trial_only_clients'] = false,
+		['client_inbound_limit'] = 0,
+		['client_outbound_limit'] = 0,
+		['disable_events'] = false,
+		['event_Connect'] = true,
+		['event_Crash'] = false,
+		['event_Ejecting'] = false,
+		['event_Kill'] = true,
+		['event_Role'] = false,
+		['event_Takeoff'] = false,
+		['maxPing'] = 300,
+		['pause_on_load'] = false,
+		['pause_without_clients'] = true,
+		['resume_mode'] = 2,
+		['server_can_screenshot'] = true,
+		['voice_chat_server'] = false,
+	},
+	['bind_address'] = '',
+	['current'] = 1,
+	['description'] = '[4YA] TRAINING 24/7 CAUCASUS PVP FOW BETA EU SERVER\n\n**DISCORD**  https://discord.gg/CaYRRDd\n**SRS**      Type  -motd  in-game chat for ip\n\nWelcome to 4YA Training Grounds mission, this mission is designed to help both new and experienced pilots refine \ntheir skills in their chosen airframe. The mission incorporates both fixed wing and rotary wing aircraft and the \nability to train on both Air to Air/Air to Ground techniques, missile evasion, land-based circuit landings as \nwell as carrier-based recovery operations. You may fly alone or with a wingman/squadron to develop skills essential in a coordinated attack.\n\nAvailable:\n\nCtld\nCombined Arms\nPVE\nSRS\nCarrierOps ',
+	['isPublic'] = true,
+	['listLoop'] = true,
+	['listShuffle'] = false,
+	['listStartIndex'] = 3,
+	['maxPlayers'] = '40',
+	['missionList'] = {
+		[1] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V55_JAN_OVC.miz',
+		[2] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V55_JUN_BKN.miz',
+		[3] = 'C:/Users/Administrator/Saved Games/BetaServer2/Missions/4YA_Capture_Bases_Full_War_V55_NOV_SCT.miz',
+	},
+	['mode'] = 0,
+	['name'] = '[4YA] TRAINING 24/7 CAUCASUS PVP FOW BETA EU SERVER',
+	['password'] = '',
+	['port'] = 10309,
+	['require_pure_clients'] = true,
+	['require_pure_models'] = true,
+	['require_pure_textures'] = true,
+	['uri'] = 'startServer',
+}

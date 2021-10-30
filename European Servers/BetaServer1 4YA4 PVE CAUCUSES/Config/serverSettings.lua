@@ -31,7 +31,7 @@ cfg = {
 	['listStartIndex'] = 4,
 	['maxPlayers'] = '40',
 	['missionList'] = {
-		[1] = 'C:/Users/Administrator/Saved Games/BetaServer1/Missions/4YA_Cauc_Capture_Base_v3.4_Maykop_BC.miz',
+		[1] = 'C:/Users/Administrator/Saved Games/BetaServer1/Missions/4YA_Cauc_Capture_Base_v3.6_Maykop_BC.miz',
 	},
 	['mode'] = 0,
 	['name'] = '[4YA] TRAINING 24/7 CAUCASUS PVE BETA EU SERVER',
