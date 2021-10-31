@@ -2,7 +2,7 @@ USAF_MAGIC = SPAWN:New("E3_GUDAUTA")
   :InitLimit(1, 4)
   :InitRepeatOnLanding()
   :SpawnScheduled(900, 1)
-
+ 
 USAF_WIZARD = SPAWN:New("E3_SENAKI")
   :InitLimit(1, 3)
   :InitRepeatOnLanding()
