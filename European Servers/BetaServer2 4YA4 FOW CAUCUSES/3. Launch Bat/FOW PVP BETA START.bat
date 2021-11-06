@@ -1,5 +1,6 @@
 @echo off
 :dcs
+title BETA2 CAUC PVP
 echo (%time%) DCS started BETA SERVER 2 CAUCASUS PVP.
 "D:\DCS World OpenBeta Server 1\bin\DCS.exe" --norender --server -w BetaServer2
 echo (%time%) WARNING: dcs closed or crashed, restarting.

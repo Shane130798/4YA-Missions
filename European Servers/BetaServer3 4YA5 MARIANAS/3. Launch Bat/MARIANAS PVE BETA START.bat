@@ -1,5 +1,6 @@
 @echo off
 :dcs
+title BETA3 MARIANAS
 echo (%time%) DCS started BETA SERVER 3 MARIANAS.
 "D:\DCS World OpenBeta Server 1\bin\DCS.exe" --norender --server -w BetaServer3
 echo (%time%) WARNING: dcs closed or crashed, restarting.

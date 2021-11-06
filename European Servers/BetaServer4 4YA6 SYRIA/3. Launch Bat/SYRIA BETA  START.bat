@@ -1,5 +1,6 @@
 @echo off
 :dcs
+title BETA4 SYRIA
 echo (%time%) DCS started BETA SERVER 4 SYRIA.
 "D:\DCS World OpenBeta Server 1\bin\DCS.exe" --norender --server -w BetaServer4
 echo (%time%) WARNING: dcs closed or crashed, restarting.

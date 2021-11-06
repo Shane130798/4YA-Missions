@@ -1,5 +1,6 @@
 @echo off
 :dcs
+title BETA EVENT
 echo (%time%) DCS started Beta Event.
 "D:\DCS World OpenBeta Server 1\bin\DCS.exe" --norender --server -w BetaEvent
 echo (%time%) WARNING: dcs closed or crashed, restarting.

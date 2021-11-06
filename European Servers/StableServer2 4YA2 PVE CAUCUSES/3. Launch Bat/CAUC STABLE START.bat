@@ -1,5 +1,6 @@
 @echo off
 :dcs
+title STABLE2 CAUC
 echo (%time%) DCS started STABLE SERVER 2 CAUCASUS.
 "C:\Program Files\Eagle Dynamics\DCS World Server 1\bin\DCS.exe" --norender --server -w StableServer2
 echo (%time%) WARNING: dcs closed or crashed, restarting.
