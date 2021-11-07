@@ -32,3 +32,9 @@ BLUE_CAP_1 = SPAWN:New( "AWACS_OVERLORD" )
 :InitRandomizePosition(true,0,0)
   :InitLimit( 1, 500 )
   :SpawnScheduled( 300, .100 )
+  
+BLUE_CAP_1 = SPAWN:New( "AWACS_MAGIC" )
+:InitRandomizePosition(true,0,0)
+  :InitLimit( 1, 500 )
+  :SpawnScheduled( 300, .100 )  
+ 
