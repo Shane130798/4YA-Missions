@@ -1041,7 +1041,12 @@ ctld.spawnableCrates = {
 		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2 },
 		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
         { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
-	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },	
+	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },
+-- BUK System
+        { weight = 575, desc = "BUK Launcher",        unit = "SA-11 Buk LN 9A310M1", side = 2, cratesRequired = 1 },
+        { weight = 580, desc = "BUK Search Radar",    unit = "SA-11 Buk SR 9S18M1",  side = 2, cratesRequired = 1 },
+        { weight = 585, desc = "BUK CC Radar",        unit = "SA-11 Buk CC 9S470M1", side = 2, cratesRequired = 1 },
+        { weight = 590, desc = "BUK Repair",          unit = "BUK Repair",           side = 2, cratesRequired = 1 },		
 		
 		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
 		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 1, cratesRequired = 3 },
@@ -1049,8 +1054,7 @@ ctld.spawnableCrates = {
 		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2 },
 		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
         { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },
-
-
+		
 
     },
 	
