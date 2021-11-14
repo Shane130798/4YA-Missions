@@ -10,7 +10,10 @@ dcsprotect.bannedWeapons = {
     "RN-24",
     "RN-28",
 	"S-8TsM",
-    "M274", 
+    "M274",
+	"M156",
+	"HVAR"
+				
 }
 
 dcsprotect.unitIds = {}
@@ -43,8 +46,8 @@ function dcsprotect.queueExplosion(_oldUnit, _banned)
                         if dcsprotect.matches(_weapon.desc.displayName, _bannedWeapon) then
 
                             local _groupId = dcsprotect.getGroupId(_unit)
-                            trigger.action.outTextForUnit(_unit, "****** WARNING ******* \n\nYou are carrying an illegal loadout. You have been fired upon! \n\nBanned Weapons:\n " .. _weapon.desc.displayName, 20, true)
-                                trigger.action.outSoundForGroup(_groupId, "")
+                            trigger.action.outTextForGroup(_groupId, "****** WARNING ******* \n\nYou are carrying an illegal loadout. You have been fired upon! \n\nBanned Weapons:\n " .. _weapon.desc.displayName, 25, true)
+                                trigger.action.outSoundForGroup(_groupId, "l10n/DEFAULT/dingdong.wav")
                             trigger.action.explosion(_unit:getPoint(), 1000)
 
                                 env.info("Destroyed player ".._playerName.." for weapon ".._weapon.desc.displayName.." unit name ".._unitName)
@@ -59,8 +62,8 @@ function dcsprotect.queueExplosion(_oldUnit, _banned)
     end, nil, timer.getTime() + (60 * 5))
 
     local _groupId = dcsprotect.getGroupId(_oldUnit)
-    trigger.action.outTextForUnit(_unit, "****** WARNING ******* \n\nYou carrying an illegal loadout, smoke rockets and nukes are not allowed. Please read the briefing! You have 5 minutes to land and rearm! \n\n Do not fire or jettison your loadout.\n\n 5 Minutes to comply.\n\nBanned Weapons:\n " .. _banned, 20, true)
-    trigger.action.outSoundForGroup(_groupId, "")
+    trigger.action.outTextForGroup(_groupId, "****** WARNING ******* \n\nYou are carrying an illegal loadout. Land IMMEDIATELY and unload with ground crew - Don't jettison bombs - it counts as a launch! \n\n If you fire the illegal weapon you'll be immediately destroyed.\n\n 5 Minutes to comply. \n\nDo not launch them! \n\nBanned Weapons:\n " .. _banned, 20, true)
+    trigger.action.outSoundForGroup(_groupId, "l10n/DEFAULT/dingdong.ogg")
 
 end
 
@@ -98,7 +101,7 @@ function dcsprotect.eventHandler:onEvent(_event)
                                 trigger.action.explosion(_unit:getPoint(), 1000)
 
                                 local _groupId = dcsprotect.getGroupId(_unit)
-                                trigger.action.outTextForGroup(_groupId, "****** WARNING ******* \n\nSomeone from this group was just shot down for using illegal weapons. Please read the rules in the briefing! " .. _weaponName, 10)
+                                trigger.action.outTextForGroup(_groupId, "****** WARNING ******* \n\nYou have been fired upon for using ILLEGAL WEAPONS - Banned Weapons: " .. _weaponName, 10)
 
 
                         -- destroy what was fired
@@ -175,7 +178,7 @@ function dcsprotect.eventHandler:onEvent(_event)
 
             -- warning
             local _groupId = dcsprotect.getGroupId(_unit)
-            -- trigger.action.outTextForGroup(_groupId, "" .. _list, 13, true)
+            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING PVE: Short Mission Briefing** \n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\Training area available in Tbilisi, hot & cold starts, practice a2g, a2a & air refuling. \n\Available: CTLD, CSAR, Planes & Heli mods, Dynamic weather, Roadbases & SRS \n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\Join us on discord and please read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
 
         end
 
@@ -213,9 +216,9 @@ function dcsprotect.validateLoadout(_unitName)
     end
 
     if _banned == "" then
-        trigger.action.outTextForUnit(_unit, "**** VALID LOADOUT ****\n\nYour loadout is valid!", 10, false)
+        trigger.action.outTextForGroup(_groupId, "**** VALID LOADOUT ****\n\nYour loadout is valid! Have a good flight!", 20, false)
     else
-        trigger.action.outTextForUnit(_unit, "WARNING!!! Your loadout is not allowed. Please return to base and rearm. You have 5 minutes to change loadout or you will be shot down. And do not jettison your weapons" .. _banned, 30, true)
+        trigger.action.outTextForGroup(_groupId, "****** WARNING ******* \n\nYou are carrying an illegal loadout. Land IMMEDIATELY and unload - Don't jettison bombs - as it counts as a launch! \n\n If you fire the illegal weapon you'll be immediately destroyed \n\n If you take off with your illegal loadout, you must land again IMMEDIATELY and unload the banned weapons - if you don't comply within 5 minutes, you will be fired upon! \n\nBanned Weapons:\n " .. _banned, 30, true)
     end
 
     end)

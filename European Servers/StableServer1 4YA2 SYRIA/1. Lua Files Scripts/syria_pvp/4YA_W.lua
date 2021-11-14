@@ -10,7 +10,10 @@ dcsprotect.bannedWeapons = {
     "RN-24",
     "RN-28",
 	"S-8TsM",
-    "M274", 
+    "M274",
+	"M156",
+	"HVAR"
+				
 }
 
 dcsprotect.unitIds = {}
@@ -175,7 +178,7 @@ function dcsprotect.eventHandler:onEvent(_event)
 
             -- warning
             local _groupId = dcsprotect.getGroupId(_unit)
-            trigger.action.outTextForGroup(_groupId, "[4YA] SYRIA Full War: Short Mission Briefing** F10 MAP VIEW: ALLIES ONLY \n\ \n\-The objective is to coordinate attacks against the opposing team's bases and at the same time actively defend all friendly bases from incoming attacks\n\ \n\-The team that controls all 8 bases in the end wins the war!\n\-All airports that needs to be captured/defended have markers on the F10 map (list in briefing). \n\-If the airport has no friendly ground units visible on the F10 map, then it is hostile! Same goes for Heliports/Farps. \n\ \n\-SRS main channel:305AM. Check the briefing for more info! Lalt + B\n\Banned weapons:" .. _list, 15, true)
+            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING PVE: Short Mission Briefing** \n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\Training area available in Tbilisi, hot & cold starts, practice a2g, a2a & air refuling. \n\Available: CTLD, CSAR, Planes & Heli mods, Dynamic weather, Roadbases & SRS \n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\Join us on discord and please read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
 
         end
 

@@ -10,7 +10,10 @@ dcsprotect.bannedWeapons = {
     "RN-24",
     "RN-28",
 	"S-8TsM",
-    "M274", 
+    "M274",
+	"M156",
+	"HVAR"
+				
 }
 
 dcsprotect.unitIds = {}
@@ -175,7 +178,7 @@ function dcsprotect.eventHandler:onEvent(_event)
 
             -- warning
             local _groupId = dcsprotect.getGroupId(_unit)
-            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING PVE SYRIA: Short Mission Briefing** \n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\ \n\Available: CTLD, SRS \n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\Join us on discord and please read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
+            trigger.action.outTextForGroup(_groupId, "[4YA] TRAINING PVE: Short Mission Briefing** \n\ \n\Capture all enemy bases before the time runs out! \n\Server will restart when all bases are friendly. \n\Training area available in Tbilisi, hot & cold starts, practice a2g, a2a & air refuling. \n\Available: CTLD, CSAR, Planes & Heli mods, Dynamic weather, Roadbases & SRS \n\ \n\Use radio menu & F10 to check tacans, waypoints, jtac and more\n\Join us on discord and please read the briefing for more info Lalt+B!\n\Banned weapons:" .. _list, 15, true)
 
         end
 
