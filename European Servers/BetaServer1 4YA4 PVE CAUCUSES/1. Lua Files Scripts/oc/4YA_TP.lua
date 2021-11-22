@@ -6,7 +6,7 @@ do
 	if seconds <= 0 then
 		message = "06:00:00";
 	else
-		restart = 25200 - seconds;
+		restart = 39600 - seconds;
 		hours = string.format("%02.f", math.floor(restart/3600));
 		mins = string.format("%02.f", math.floor(restart/60 - (hours*60)));
 		secs = string.format("%02.f", math.floor(restart - hours*3600 - mins *60));
