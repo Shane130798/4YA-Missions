@@ -103,9 +103,9 @@ ctld.hoverTime = 3 -- Time to hold hover above a crate for loading in seconds
 -- When this limit is hit, a player will still be able to get crates for an AA system, just unable
 -- to unpack them
 
-ctld.AASystemLimitRED = 3 -- Red side limit
+ctld.AASystemLimitRED = 20 -- Red side limit
 
-ctld.AASystemLimitBLUE = 3 -- Blue side limit
+ctld.AASystemLimitBLUE = 20 -- Blue side limit
 
 --END AA SYSTEM CONFIG --
 
@@ -880,15 +880,8 @@ ctld.vehicleTransportEnabled = {
     "76MD", -- the il-76 mod doesnt use a normal - sign so il-76md wont match... !!!! GRR
     "C-130",
 	"UH-1H",
-	"tu-142",
-	"IL-78M",
 	"An-26B",
-	"C-17A",
-	"E-3A",
-	"B-52H",
-	"KC-135",
-	"Yak-40",
-}
+	}
 
 
 -- ************** Maximum Units SETUP for UNITS ******************
@@ -1041,7 +1034,12 @@ ctld.spawnableCrates = {
 		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 2, cratesRequired = 2 },
 		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 2, cratesRequired = 3 },
         { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 2, cratesRequired = 3 },
-	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },	
+	    { weight = 719, desc = "FOB Crate - Small", unit = "FOB-SMALL" },
+-- BUK System
+        { weight = 575, desc = "BUK Launcher",        unit = "SA-11 Buk LN 9A310M1", side = 2, cratesRequired = 2 },
+        { weight = 580, desc = "BUK Search Radar",    unit = "SA-11 Buk SR 9S18M1",  side = 2, cratesRequired = 2 },
+        { weight = 585, desc = "BUK CC Radar",        unit = "SA-11 Buk CC 9S470M1", side = 2, cratesRequired = 2 },
+        { weight = 590, desc = "BUK Repair",          unit = "BUK Repair",           side = 2, cratesRequired = 2 },		
 		
 		{ weight = 712, desc = "Strela-9p31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
 		{ weight = 713, desc = "Shilka", unit = "ZSU-23-4 Shilka", side = 1, cratesRequired = 3 },
@@ -1049,8 +1047,7 @@ ctld.spawnableCrates = {
 		{ weight = 715, desc = "Vulcan", unit = "Vulcan", side = 1, cratesRequired = 2 },
 		{ weight = 716, desc = "Strela-1 9P31", unit = "Strela-1 9P31", side = 1, cratesRequired = 3 },
         { weight = 717, desc = "M1097 Avenger", unit = "M1097 Avenger", side = 1, cratesRequired = 3 },
-
-
+		
 
     },
 	
