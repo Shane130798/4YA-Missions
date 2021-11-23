@@ -184,8 +184,10 @@ function SB.onPlayerTrySendChat(playerId, message, all)
 		if DEBUG then
 			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand = "..newCommand[2]..", "..newCommand[3])
 		end
-		--BLOCKER, AIRFIELD, COALITION
-		ref["BLOCKER"][newCommand[2]] = newCommand[3]
+		if ref["BLOCKER"] then
+		    --BLOCKER, AIRFIELD, COALITION
+		    ref["BLOCKER"][newCommand[2]] = newCommand[3]
+		end
 		return ""
 	end
 	--RETURN TO OVERIDE, RETURN "" TO FILTER MESSAGE!
