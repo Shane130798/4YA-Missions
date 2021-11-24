@@ -1,7 +1,7 @@
 USAF_1 = SPAWN:New( "USAF_1" )
 :InitRandomizePosition(true,0,0)
 	:InitLimit( 2, 500 )
-	:SpawnScheduled( 300, .850 )
+	:SpawnScheduled( 900, .850 )
  
 USAF_2 = SPAWN:New( "USAF_2" )
 :InitRandomizePosition(true,0,0)
@@ -16,17 +16,22 @@ USAF_3 = SPAWN:New( "USAF_3" )
 USAF_4 = SPAWN:New( "USAF_4" )
 :InitRandomizePosition(true,0,0)
 	:InitLimit( 2, 500 )
-	:SpawnScheduled( 420, .850 )
+	:SpawnScheduled( 600, .850 )
 
 USAF_5 = SPAWN:New( "USAF_5" ) 
 :InitRandomizePosition(true,0,0)
 	:InitLimit( 2, 500 )
-	:SpawnScheduled( 420, .850 )
+	:SpawnScheduled( 600, .850 )
  
 USAF_6 = SPAWN:New( "USAF_6" )
 :InitRandomizePosition(true,0,0)
 	:InitLimit( 2, 500 )
-	:SpawnScheduled( 420, .850 )
+	:SpawnScheduled( 600, .850 )
+
+USAF_7 = SPAWN:New( "USAF_7" )
+:InitRandomizePosition(true,0,0)
+	:InitLimit( 1, 500 )
+	:SpawnScheduled( 300, .850 )
 
 CONVOY_7 = SPAWN:New( "CONVOY_7" )
 :InitRandomizePosition(true,0,0)
@@ -72,6 +77,18 @@ TANKER135_BLUE = SPAWN:New( "TANKER135_BLUE" )
 TANKER135_BLUE_MPRS = SPAWN:New( "TANKER135_BLUE_MPRS" ) 
 	:InitLimit( 1, 500 )
 	:SpawnScheduled( 40, .870 )
+
+ESCORT_1 = SPAWN:New( "ESCORT_1" ) 
+	:InitLimit( 2, 500 )
+	:SpawnScheduled( 120, .870 )
+
+ESCORT_2 = SPAWN:New( "ESCORT_2" ) 
+	:InitLimit( 2, 500 )
+	:SpawnScheduled( 120, .870 )
+
+ESCORT_3 = SPAWN:New( "ESCORT_3" ) 
+	:InitLimit( 2, 500 )
+	:SpawnScheduled( 120, .870 )
 	
 function ScheduleDelete(group)
   SCHEDULER:New( nil, function()
