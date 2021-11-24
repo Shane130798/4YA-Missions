@@ -12,8 +12,7 @@ dcsprotect.bannedWeapons = {
 	"S-8TsM",
     "M274",
 	"M156",
-	"HVAR"
-				
+					
 }
 
 dcsprotect.unitIds = {}
