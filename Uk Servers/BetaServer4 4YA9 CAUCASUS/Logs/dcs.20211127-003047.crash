@@ -1,0 +1,16 @@
+# -------------- 20211127-003047 --------------
+DCS/2.7.8.16140 (x86_64; Windows NT 10.0.19043)
+C:\Program Files\Eagle Dynamics 4YA\DCS World OpenBeta Server\bin\WorldGeneral.dll
+# C0000005 ACCESS_VIOLATION at 8883CFC9 00:00000000
+SymInit: Symbol-SearchPath: '.;C:\Program Files\Eagle Dynamics 4YA\DCS World OpenBeta Server;C:\Program Files\Eagle Dynamics 4YA\DCS World OpenBeta Server\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: 528, UserName: 'jayir'
+OS-Version: 10.0.19043 () 0x100-0x1
+0x00000000000CCFC9 (WorldGeneral): MovingObject::~MovingObject + 0x69
+0x00000000000D57FB (Flight): woRunWay::~woRunWay + 0xFB
+0x000000000001E2DB (edObjects): RegStorage::setHostID + 0x91B
+0x000000000001E3F4 (edObjects): RegStorage::setHostID + 0xA34
+0x000000000001FBA2 (edObjects): RegStorage::setHostID + 0x21E2
+0x0000000000802AD4 (DCS): SW + 0x501934
+0x0000000001CF4A67 (DCS): AmdPowerXpressRequestHighPerformance + 0xED2A63
+0x0000000000A2E35E (DCS): SW + 0x72D1BE
+0x0000000000017034 (KERNEL32): BaseThreadInitThunk + 0x14
+0x0000000000052651 (ntdll): RtlUserThreadStart + 0x21

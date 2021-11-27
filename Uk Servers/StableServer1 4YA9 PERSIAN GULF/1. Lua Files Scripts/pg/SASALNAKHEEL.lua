@@ -1,1 +1,0 @@
-BLUE_SAS_AL_NAKHEEL = SPAWN:New( "BLUE_SAS_AL_NAKHEEL" ) :InitRepeat():Spawn()
