@@ -68,15 +68,20 @@ AWACS_BLUE_OVERLORD2 = SPAWN:New( "AWACS_BLUE_OVERLORD2" )
  
 TANKERS3B_BLUE = SPAWN:New( "TANKERS3B_BLUE" ) 
 	:InitLimit( 1, 500 )
-	:SpawnScheduled( 780, .870 )
+	:SpawnScheduled( 40, .870 )
 
 TANKER135_BLUE = SPAWN:New( "TANKER135_BLUE" ) 
 	:InitLimit( 1, 500 )
-	:SpawnScheduled( 780, .870 )
+	:SpawnScheduled( 40, .870 )
 
 TANKER135_BLUE_MPRS = SPAWN:New( "TANKER135_BLUE_MPRS" ) 
 	:InitLimit( 1, 500 )
 	:SpawnScheduled( 40, .870 )
+
+TANKERIL78M_BLUE = SPAWN:New( "TANKERIL78M_BLUE" ) 
+	:InitLimit( 1, 500 )
+	:SpawnScheduled( 40, .870 )
+
 
 ESCORT_1 = SPAWN:New( "ESCORT_1" ) 
 	:InitLimit( 2, 500 )
