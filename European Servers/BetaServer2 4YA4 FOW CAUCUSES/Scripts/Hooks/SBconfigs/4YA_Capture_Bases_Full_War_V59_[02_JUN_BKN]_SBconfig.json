@@ -1,0 +1,30 @@
+{
+    "BLOCKER": {
+        "ANAPA": "BLUE",
+        "FARP-GUDAUTA_BLUE": "BLUE",
+        "FARP-GUDAUTA_USAF": "RED",
+        "FARP-KRASNODAR_BLUE": "BLUE",
+        "FARP-KRASNODAR_USAF": "RED",
+        "FARP-KRYMSK_BLUE": "BLUE",
+        "FARP-KRYMSK_USAF": "RED",
+        "FARP-MAYKOP_BLUE": "BLUE",
+        "FARP-MAYKOP_USAF": "RED",
+        "FARP-SENAKI_BLUE": "BLUE",
+        "FARP-SENAKI_USAF": "RED",
+        "FARP-SOCHI_BLUE": "BLUE",
+        "FARP-SOCHI_USAF": "RED",
+        "FARP-SUKHUMI_USAF": "RED",
+        "FARP-SUKHUMI_BLUE": "BLUE",
+        "GUDAUTA": "RED",
+        "KOBULETI": "RED",
+        "KRASNODAR_CTR": "BLUE",
+        "KRASNODAR_PSH": "BLUE",
+        "KRYMSK": "BLUE",
+        "KUTAISI": "RED",
+        "MAYKOP": "BLUE",
+        "NOVOROSSIYSK": "BLUE",
+        "SENAKI": "RED",
+        "SOCHI": "RED",
+        "SUKHUMI": "RED"
+    }
+}
