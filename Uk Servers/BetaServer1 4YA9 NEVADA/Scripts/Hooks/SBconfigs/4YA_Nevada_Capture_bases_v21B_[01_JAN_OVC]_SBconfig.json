@@ -1,17 +1,21 @@
 {
     "BLOCKER": {
-        "BEATTY":                   "BLUE",
-        "BOULDER_CITY":             "RED",
-        "CREECH":                   "RED",
-        "FARP-RED_COMMAND_BASE":    "RED",
-        "GROOM_LAKE":               "RED",
-        "HENDERSON_EXECUTIVE":      "RED",
-        "LAUGHLIN":                 "RED",
-        "LINCOLN_COUNTY":           "RED",
-        "MCCARREN":                 "RED",
-        "MESQUITE":                 "RED",
-        "NELLIS":                   "RED",
-        "NORTH_LAS_VEGAS":          "RED",
-        "TONOPAH_RANGE":            "BLUE"
+        "BEATTY": "BLUE",
+        "BOULDER_CITY": "RED",
+        "CREECH": "RED",
+        "FARP-GROOM/CREECH": "BLUE",
+        "FARP-MESQUITE": "BLUE",
+        "FARP-VEGAS_EAST": "BLUE",
+        "FARP-VEGAS_SOUTH": "BLUE",
+        "FARP-VEGAS_WEST": "BLUE",
+        "GROOM_LAKE": "RED",
+        "HENDERSON_EXECUTIVE": "RED",
+        "LAUGHLIN": "RED",
+        "LINCOLN_COUNTY": "RED",
+        "MCCARREN": "RED",
+        "MESQUITE": "RED",
+        "NELLIS": "RED",
+        "NORTH_LAS_VEGAS": "RED",
+        "TONOPAH_RANGE": "BLUE"
     }
 }
