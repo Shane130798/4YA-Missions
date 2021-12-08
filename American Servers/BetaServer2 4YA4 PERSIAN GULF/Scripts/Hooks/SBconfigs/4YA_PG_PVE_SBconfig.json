@@ -1,0 +1,32 @@
+{
+    "BLOCKER": {
+        "ABU_DHABI": "RED",
+        "ABU_MUSA": "RED",
+        "AL_AIN": "RED",
+        "AL_BATEEN": "RED",
+        "AL_DHAFRA": "RED",
+        "AL_MAKTOUM": "RED",
+        "AL_MINHAD": "RED",
+        "BANDAR_ABBAS": "RED",
+        "BANDAR_LENGEH": "RED",
+        "DUBAI": "RED",
+        "FUJAIRAH": "RED",
+        "HAVADARYAH": "RED",
+        "JIROFT": "RED",
+        "KERMAN": "RED",
+        "KHASAB": "RED",
+        "KISH": "RED",
+        "LAR": "RED",
+        "LAVAN_ISLAND": "RED",
+        "LIWA": "BLUE",
+        "QESHM_ISLAND": "RED",
+        "RAS_AL_KHAIMAH": "RED",
+        "SARJAH": "RED",
+        "SAS_AL_NAKHEEL": "RED",
+        "SHIRAZ": "RED",
+        "SIRRI": "RED",
+        "SIR_ABU_NUAYR": "RED",
+        "TUNB_AFB": "RED",
+        "TUNB_KOCHAK": "RED"
+    }
+}
