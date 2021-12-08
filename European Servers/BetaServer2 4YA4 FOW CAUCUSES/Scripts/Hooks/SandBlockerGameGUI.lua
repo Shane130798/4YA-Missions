@@ -15,8 +15,6 @@ if DEBUG then
 	net.log("SANDBLOCKER INFO: [DEBUG] currentDir > "..currentDir)
 end
 
-
-
 --INDEPENDANT FUNCTIONS
 local function file_exists(file)
 	local f = io.open(file, "rb")
@@ -84,23 +82,24 @@ function SB.onMissionLoadEnd()
 	end
 
 	mizName = DCS.getMissionName()
-	
-	
+
 	if DEBUG then
 		net.log("SANDBLOCKER INFO: [DEBUG] onMissionLoadEnd, fetching complete!")
+		net.log("SANDBLOCKER INFO: [DEBUG] onMissionLoadEnd mission name: "..mizName)
 	end
 end
 
 function SB.onSimulationStart()
-	local dataFile = currentDir.."Scripts\\Hooks\\SBconfigs\\"..mizName.."_SBconfig.json"
-	
-	
+	-- 3 blocks followed by _SBconfig
+	local cutMizName = splitStr(mizName, '_')
+
 	if DEBUG then
-		net.log("SANDBLOCKER INFO: [DEBUG] onSimulationStart, loading key...")
+		net.log("SANDBLOCKER INFO: [DEBUG] 1: "..cutMizName[1]..", 2: "..cutMizName[2]..", 3: "..cutMizName[3].."_SBconfig.json")
 	end
 
-	loadKey(dataFile)
+	local dataFile = currentDir.."Scripts\\Hooks\\SBconfigs\\"..cutMizName[1].."_"..cutMizName[2].."_"..cutMizName[3].."_SBconfig.json"
 	
+	loadKey(dataFile)
 	
 	if DEBUG then
 		net.log("SANDBLOCKER INFO: [DEBUG] onSimulationStart, loading complete!")
@@ -178,17 +177,20 @@ end
 function SB.onPlayerTrySendChat(playerId, message, all)
 	--ID 1 = server / net
 	if playerId == 1 and string.find(message, "SB ") then
-		local newCommand = splitStr(message, "%s")
+		local firstStage = splitStr(message, "%s")
+		local newCommand = splitStr(firstStage[2], "_")
 
 		
 		if DEBUG then
-			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand = "..newCommand[2]..", "..newCommand[3])
+			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand = "..newCommand[1]..", "..newCommand[2])
 		end
+		--BLOCKER, AIRFIELD, COALITION
 		if ref["BLOCKER"] then
-		    --BLOCKER, AIRFIELD, COALITION
-		    ref["BLOCKER"][newCommand[2]] = newCommand[3]
+			ref["BLOCKER"][newCommand[1]] = newCommand[2]
 		end
+
 		return ""
+
 	end
 	--RETURN TO OVERIDE, RETURN "" TO FILTER MESSAGE!
 end
