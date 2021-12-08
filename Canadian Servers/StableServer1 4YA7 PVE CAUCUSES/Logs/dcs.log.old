@@ -1,0 +1,169 @@
+=== Log opened UTC 2021-12-08 20:13:54
+2021-12-08 20:13:53.208 INFO    APP: Command line: "C:\Program Files\Eagle Dynamics\DCS World Server Stable\bin\DCS.exe" 
+2021-12-08 20:13:53.208 INFO    APP: DCS/2.7.7.15038 (x86_64; Windows NT 10.0.17763)
+2021-12-08 20:13:53.208 INFO    APP: Application revision: 195037
+2021-12-08 20:13:53.208 INFO    APP: Renderer revision: 22490
+2021-12-08 20:13:53.208 INFO    APP: Terrain revision: 22438
+2021-12-08 20:13:53.208 INFO    APP: Build number: 687
+2021-12-08 20:13:53.208 INFO    APP: CPU cores: 4, threads: 8, System RAM: 32449 MB, Pagefile: 5120 MB
+2021-12-08 20:13:53.368 INFO    EDCORE: (dDispatcher)enterToState_:0
+2021-12-08 20:13:53.424 INFO    Dispatcher: 2021/12/8 12:13 V1803061700
+2021-12-08 20:13:53.431 INFO    NET: ProtocolVersion: 272
+2021-12-08 20:13:53.439 INFO    SOUND: Using driver: wasapi
+2021-12-08 20:13:53.439 INFO    SOUND: Found 1 available audio device(s):
+2021-12-08 20:13:53.439 INFO    SOUND:   0: ID: "{3.0.0.00000002}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}", Name: "Remote Audio"
+2021-12-08 20:13:53.440 ERROR   SOUND: source_add(host:WorldFX, proto:SonicBoom, alt_proto:): can't find proto
+2021-12-08 20:13:53.440 ERROR   SOUND: source_add(host:WorldFX, proto:SonicBoomLight, alt_proto:): can't find proto
+2021-12-08 20:13:53.440 INFO    Dispatcher: InitLow
+2021-12-08 20:13:53.582 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/bin/CockpitBase.dll
+2021-12-08 20:14:06.867 INFO    NET: Login success.
+2021-12-08 20:14:07.604 INFO    NET: Got auth data.
+2021-12-08 20:14:07.625 INFO    APP: Successfully got authorization data.
+2021-12-08 20:14:07.626 INFO    Dispatcher: Loading installed modules...
+2021-12-08 20:14:09.265 ERROR   SECURITYCONTROL: Can't load mods/tech/wwii units/dcs_module: not authorized
+2021-12-08 20:14:14.088 INFO    Scripting: OBSOLETE mount_vfs_sound_path() used in ./CoreMods/aircraft/AJS37/entry.lua
+2021-12-08 20:14:14.441 ALERT   Scripting: loadfile: can't open './Mods/tech/WWII Units/entry.lua'
+2021-12-08 20:14:14.441 INFO    Scripting: plugin 
+2021-12-08 20:14:14.465 INFO    Scripting: PLUGINS START-------------------------------------------------
+2021-12-08 20:14:14.515 INFO    SOUND: Added sound path: ./CoreMods/tech/Animals/Sounds
+2021-12-08 20:14:14.549 INFO    SOUND: Added sound path: ./CoreMods/tech/TechWeaponPack/Sounds
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccEnd.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineAccStart.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineIdle.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Chrysler_A57_Multibank_EngineMax.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccEnd.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineAccStart.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineIdle.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineMax.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/D12A-525_EngineShutOff.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_Engine.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccEnd.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineAccStart.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Leyland_L60_EngineMax.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccEnd.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineAccStart.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineIdle.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/Maybach_HL_120TRM_EngineMax.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveFast_HT.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/TankMoveSlow_HT.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccEnd.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineAccStart.sdef
+2021-12-08 20:14:14.550 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.550 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineIdle.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/V6_EngineMax.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccEnd.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineAccStart.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineIdle.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/VAB_EngineMax.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccEnd.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineAccStart.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineIdle.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/gndtech/defaultvehicle.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef GndTech/DefaultVehicle referenced in /sounds/2/sdef.tar:GndTech/White_160AX_EngineMax.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/75mmGun_hall.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/76mmGun_hall.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannon.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/Cannon referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannonhall.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonHall referenced in /sounds/2/sdef.tar:Weapons/Cannon/88mmGun_hall.sdef
+2021-12-08 20:14:14.551 ERROR   SOUND: can't open proto file "/sounds/2/sdef/weapons/cannon/cannondistant.sdef"
+2021-12-08 20:14:14.551 ERROR   SOUND: failed to load sdef Weapons/Cannon/CannonDistant referenced in /sounds/2/sdef.tar:Weapons/Cannon/CannonDistant_76mm.sdef
+2021-12-08 20:14:14.552 INFO    SOUNDER: Loaded 48 packed sounders.
+2021-12-08 20:14:14.608 INFO    SOUND: Added sound path: ./CoreMods/tech/USS John C Stennis/Sounds
+2021-12-08 20:14:14.612 INFO    SOUNDER: Loaded 1 packed sounders.
+2021-12-08 20:14:14.618 INFO    SOUND: Added sound path: ./CoreMods/tech/USS_Nimitz/Sounds
+2021-12-08 20:14:14.619 INFO    SOUNDER: Loaded 5 packed sounders.
+2021-12-08 20:14:14.825 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AJS37/Sounds
+2021-12-08 20:14:14.878 INFO    SOUND: Added sound path: ./CoreMods/aircraft/AV8BNA/Sounds
+2021-12-08 20:14:14.916 INFO    SOUNDER: Loaded 1 sounders.
+2021-12-08 20:14:14.917 WARNING EDCORE: Source ./CoreMods/aircraft/AV8BNA/Shapes is already mounted to the same mount /models/.
+2021-12-08 20:14:14.937 INFO    SOUND: Added sound path: ./CoreMods/aircraft/C-101/Sounds
+2021-12-08 20:14:14.963 INFO    SOUND: Added sound path: ./CoreMods/aircraft/ChinaAssetPack/Sounds
+2021-12-08 20:14:15.019 INFO    SOUNDER: Loaded 12 sounders.
+2021-12-08 20:14:15.039 INFO    SOUND: Added sound path: ./CoreMods/aircraft/Christen Eagle II/Sounds
+2021-12-08 20:14:15.076 INFO    SOUND: Added sound path: ./CoreMods/aircraft/F14/Sounds
+2021-12-08 20:14:15.145 INFO    SOUNDER: Loaded 1 sounders.
+2021-12-08 20:14:15.157 INFO    SOUND: Added sound path: ./CoreMods/aircraft/I-16/Sounds
+2021-12-08 20:14:15.215 INFO    SOUND: Added sound path: ./CoreMods/aircraft/M-2000C/Sounds
+2021-12-08 20:14:15.258 INFO    SOUND: Added sound path: ./CoreMods/aircraft/MiG-21bis/Sounds
+2021-12-08 20:14:15.272 INFO    SOUND: Added sound path: ./CoreMods/aircraft/SA342/Sounds
+2021-12-08 20:14:15.294 INFO    Scripting: plugin: SKIPPED 'Supercarrier': not authorized
+2021-12-08 20:14:15.294 INFO    Scripting: plugin: SKIPPED './Mods/tech/WWII Units': not supported
+2021-12-08 20:14:15.307 ERROR   EDCORE: Drivers errors while mounting mods/terrains/marianaislands/sounds:
+2021-12-08 20:14:15.307 ERROR   EDCORE: 	EDCDriver: can't open header file mods/terrains/marianaislands/sounds.edc//header.edch
+2021-12-08 20:14:18.222 WARNING APP: Not Authorized, user-skipped: ./Mods/terrains/Nevada
+2021-12-08 20:14:18.222 INFO    Scripting: plugin: SKIPPED 'Nevada': not authorized
+2021-12-08 20:14:18.224 INFO    Scripting: plugin: SKIPPED 'Normandy': not authorized
+2021-12-08 20:14:19.006 WARNING APP: Not Authorized, user-skipped: ./Mods/terrains/PersianGulf
+2021-12-08 20:14:19.006 INFO    Scripting: plugin: SKIPPED 'PersianGulf': not authorized
+2021-12-08 20:14:19.007 INFO    Scripting: plugin: SKIPPED 'Syria': not authorized
+2021-12-08 20:14:19.009 INFO    Scripting: plugin: SKIPPED 'TheChannel': not authorized
+2021-12-08 20:14:19.020 INFO    Scripting: PLUGINS DONE--------------------------------------------------
+2021-12-08 20:14:23.609 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/AV8BNA/bin/AV8B_AI.dll
+2021-12-08 20:14:23.614 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/C-101/bin/C101Core.dll
+2021-12-08 20:14:23.620 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/ChinaAssetPack/bin/CAP_AI.dll
+2021-12-08 20:14:23.624 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/ChinaAssetPack/bin/JF-17_AI.dll
+2021-12-08 20:14:23.629 INFO    CE2_AI: Loading CE AI
+2021-12-08 20:14:23.629 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/Christen Eagle II/bin/CE2_AI.dll
+2021-12-08 20:14:23.635 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/F14/bin/F14-AI.dll
+2021-12-08 20:14:23.640 INFO    MiG21_AI: Loading Mig21 AI
+2021-12-08 20:14:23.640 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/aircraft/MiG-21bis/bin/MiG21_AI.dll
+2021-12-08 20:14:23.648 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/services/CaptoGlove/bin/edCaptoGlove.dll
+2021-12-08 20:14:23.680 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/services/LeapMotion/bin/edLeapMotion.dll
+2021-12-08 20:14:23.706 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/services/SensoryxVRFree/bin/edSensoryxVRFree.dll
+2021-12-08 20:14:23.755 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/services/VoiceChat/bin/VoiceChat.dll
+2021-12-08 20:14:23.841 INFO    EDCORE: Loaded C:/Program Files/Eagle Dynamics/DCS World Server Stable/CoreMods/services/jsAvionics/bin/jsAvionics.dll
+2021-12-08 20:14:23.912 INFO    APP: options.graphics =
+{
+	['terrainMapMFD'] = 
+	{
+		['distance'] = 
+		{
+			['mapLodDistance3'] = 200000;
+			['mapLodDistance2'] = 100000;
+			['mapLodDistance0'] = 25000;
+			['mapLodDistance1'] = 50000;
+		};
+	};
+	['visibRange'] = 'High';
+	['height'] = 600;
+	['width'] = 800;
+};
+2021-12-08 20:14:23.915 INFO    GRAPHICSVISTA: renderer: 'dx11backend.dll'
+2021-12-08 20:14:23.915 ERROR   GRAPHICSVISTA: Can't load render backend 'dx11backend.dll'. Reason: The specified module could not be found.
+=== Log closed.
