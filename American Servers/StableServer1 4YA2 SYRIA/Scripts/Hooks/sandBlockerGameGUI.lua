@@ -38,6 +38,7 @@ local function splitStr (inputstr, sep)
 	return t
 end
 
+--[[
 local function printMap(table)	--beautiful magic
 	for key, value in pairs(table) do
 
@@ -58,9 +59,10 @@ local function print_ref()
 
 	print("=======================================")
 end
+]]--
 
 --EXEC
-local function loadKey(file)
+local function loadKey(file)	--add DEBUG, exact key name + ?path?
 	if file_exists(file) == true then
 		net.log("SANDBLOCKER INFO: loading key")
 
@@ -175,22 +177,35 @@ function SB.onPlayerTryChangeSlot(playerId, side, slotId)	--side 1 = Red, side 2
 end
 
 function SB.onPlayerTrySendChat(playerId, message, all)
+	if DEBUG then
+		net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, playerId: "..playerId..", message: "..message)
+	end
+
 	--ID 1 = server / net
 	if playerId == 1 and string.find(message, "SB ") then
-		local firstStage = splitStr(message, "%s")
-		local newCommand = splitStr(firstStage[2], "_")
+		if DEBUG then
+			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, this is a SB command!")
+		end
+		
+		--example switch message: "SB KRASNODAR_CTR BLUE"
+		local newCommand = splitStr(message, "%s")
 
 		
 		if DEBUG then
-			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand = "..newCommand[1]..", "..newCommand[2])
+			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand 1, 2, 3 :"..newCommand[1]..", "..newCommand[2]..", "..newCommand[3])
+			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, newCommand = "..newCommand[2]..", "..newCommand[3])
 		end
 		--BLOCKER, AIRFIELD, COALITION
 		if ref["BLOCKER"] then
-			ref["BLOCKER"][newCommand[1]] = newCommand[2]
+			ref["BLOCKER"][newCommand[2]] = newCommand[3]
 		end
 
 		return ""
-
+	
+	else
+		if DEBUG then
+			net.log("SANDBLOCKER INFO: [DEBUG] onPlayerTrySendChat, this is not a SB command!")
+		end
 	end
 	--RETURN TO OVERIDE, RETURN "" TO FILTER MESSAGE!
 end
