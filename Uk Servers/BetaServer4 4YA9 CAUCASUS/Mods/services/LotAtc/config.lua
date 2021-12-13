@@ -15,7 +15,7 @@ lotatc_inst.options =  {
 
     -- LotAtc Server port
     -- (default=10310)
-    port = 10325,
+    port = 10310,
 
     -- Red password
     -- Put "" to disable it
@@ -47,9 +47,18 @@ lotatc_inst.options =  {
     -- (default="")
     virtual_awacs_name = "",
 
+    -- Virtual awacs static on bulls for each coalition
+    -- Use virtual awacs altitude/range below to set altitude/range
+    -- (default=false)
+    virtual_awacs_bulls = false,
+
     -- Radius detection range in kilometer for virtual AWACS ( must be > 5km )
     -- (default=400)
     virtual_awacs_range = 400,
+
+    -- Altitude in meter for virtual AWACS (only use for bulls virtual awacs)
+    -- (default=8000)
+    virtual_awacs_altitude = 8000,
 
 
 
@@ -156,6 +165,16 @@ lotatc_inst.options =  {
     -- (default="stats.json")
     dump_json_filename = "stats.json",
 
+    -- Enable CSV file export of the computed tactical situation
+    -- For monomodelisation, each radar will generate its own view + datalink
+    -- (default=false)
+    export_log = false,
+
+    -- Enable TacView file export of the computed tactical situation
+    -- For monomodelisation, each radar will generate its own view + datalink
+    -- (default=false)
+    export_tacview = false,
+
 
 
     ----------------------------------------------------------------------
@@ -194,7 +213,7 @@ lotatc_inst.options =  {
     ----------------------------------------------------------------------
     -- Optimisation flags [BE CAREFUL WITH THEM]
     ----------------------------------------------------------------------
-    -- Number of seconds between DCS data extraction
+    -- Number of seconds between data extraction
     -- Lower can reduce performances
     -- (default=2)
     update_time = 2,

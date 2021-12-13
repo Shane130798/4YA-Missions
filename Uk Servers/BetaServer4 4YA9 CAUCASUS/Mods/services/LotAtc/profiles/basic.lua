@@ -1,8 +1,8 @@
 return {
     name = "basic",
-    short = "Basic",
+    short = _("Basic"),
     locked = true,
-    profile_name = "Basic - see enemy SAM mid/long range",
+    profile_name = _("Basic - see enemy SAM mid/long range"),
     show_datas = false,
     show_sams = true,
     show_weapons = true,
@@ -17,6 +17,7 @@ return {
     neutral_coalition_by_default = false,
     use_callsign = 1,
     use_rcs = false,
+    use_realtracking = false,
     modelisation = "global",
     tracking_delay = 0,
     use_range_resolution = false,

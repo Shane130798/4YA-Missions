@@ -1,8 +1,8 @@
 return {
     name = "advanced-realistic",
-    short = "Advanced Realistic",
+    short = _("Advanced Realistic"),
     locked = true,
-    profile_name = "Advanced Realistic - see only what you can really see, no IFF",
+    profile_name = _("Advanced Realistic - see only what you can really see, no IFF"),
     show_datas = false,
     show_sams = false,
     show_weapons = true,
@@ -17,6 +17,7 @@ return {
     neutral_coalition_by_default = true,
     use_callsign = 0,
     use_rcs = true,
+    use_realtracking = true,
     modelisation = "global",
     tracking_delay = 6,
     use_range_resolution = true,

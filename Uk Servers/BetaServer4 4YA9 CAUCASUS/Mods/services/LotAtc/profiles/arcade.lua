@@ -1,7 +1,7 @@
 return {
     name = "arcade",
-    short = "Arcade",
-    profile_name = "Arcade - see all",
+    short = _("Arcade"),
+    profile_name = _("Arcade - see all"),
     locked = true,
     show_datas = true,
     show_sams = true,
@@ -17,6 +17,7 @@ return {
     neutral_coalition_by_default = false,
     use_callsign = 1,
     use_rcs = false,
+    use_realtracking = false,
     modelisation = "global",
     tracking_delay = 0,
     use_range_resolution = false,

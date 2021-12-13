@@ -1,6 +1,6 @@
 return {
     name = "custom",
-    short = "Custom",
+    short = _("Custom"),
     locked = true,
-    profile_name = "Custom profile",
+    profile_name = _("Custom profile"),
 }

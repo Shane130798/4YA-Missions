@@ -31,9 +31,9 @@ cfg = {
 	['listStartIndex'] = 4,
 	['maxPlayers'] = '40',
 	['missionList'] = {
-		[1] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_Cauc_Capture_Base_v4.1_Maykop_[01_JAN_OVC].miz',
-		[2] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_Cauc_Capture_Base_v4.1_Maykop_[02_JUN_BKN].miz',
-		[3] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_Cauc_Capture_Base_v4.1_Maykop_[03_DEC_SCT].miz',
+		[1] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_CAU_PVE_v4.5_Maykop_[01_JAN_OVC].miz',
+		[2] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_CAU_PVE_v4.5_Maykop_[02_JUN_BKN].miz',
+		[3] = 'C:/Users/jayir/Saved Games/4YAPS4OB/Missions/4YA_CAU_PVE_v4.5_Maykop_[03_DEC_SCT].miz',
 	},
 	['mode'] = 0,
 	['name'] = '[4YA] TRAINING 24/7 CAUCASUS PVE BETA UK',

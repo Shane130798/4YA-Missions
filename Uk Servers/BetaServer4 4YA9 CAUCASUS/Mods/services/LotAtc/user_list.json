@@ -4,7 +4,10 @@
         "blue" : [
             { 
                 "login": "DArt", "password": "lotatc", 
-                "admin": true, "allow_god_view": true
+                "admin": true,
+                "allow_god_view": true, 
+                "allow_user_flag": true,
+                "allow_full_move": false
             }
         ],
         "red" : []

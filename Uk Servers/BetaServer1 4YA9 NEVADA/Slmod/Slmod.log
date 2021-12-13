@@ -1,0 +1,256 @@
+Slmod started at Dec 11, 2021, 11:15:31
+28.163  SLMOD INFO: using settings defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\config.lua
+28.166  SLMOD INFO: ./Scripts/MissionScripting.lua is up to date, no installation required.
+28.168  SLMOD INFO: SlmodUtils.lua loaded.
+28.17  SLMOD INFO: SlmodEvents.lua loaded.
+28.172  SLMOD INFO: SlmodUnits.lua loaded.
+28.174  SLMOD INFO: SlmodMenu.lua loaded.
+28.176  SLMOD INFO: SlmodConvMenu.lua loaded.
+28.177  SLMOD INFO: SlmodPTSMenu.lua loaded.
+28.179  SLMOD INFO: SlmodPOSMenu.lua loaded.
+28.182  SLMOD INFO: SlmodAdminMenu.lua loaded
+28.186  SLMOD INFO: no stats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\\SlmodStats.lua
+28.203  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\SlmodStats.lua
+28.252  SLMOD INFO: no penStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\\SlmodPenaltyStats.lua
+28.253  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\SlmodPenaltyStats.lua
+28.266  SLMOD INFO: SlmodStats.lua loaded.
+28.27  SLMOD INFO: SlmodStatsDisplay.lua loaded.
+28.272  SLMOD INFO: no metaStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\\SlmodMetaStats.lua
+28.272  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\SlmodMetaStats.lua
+28.274  SLMOD INFO: SlmodMetaStats.lua loaded.
+28.277  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+28.279  SLMOD INFO: SlmodPingCheck.lua loaded.
+28.281  SLMOD INFO: SlmodVote.lua loaded.
+28.284  SLMOD INFO: SlmodLibs.lua loaded.
+28.286  SLMOD INFO: SlmodDebugger.lua loaded.
+28.287  SLMOD INFO: SlmodMOTD.lua loaded.
+28.289  SLMOD INFO: SlmodHelp.lua loaded.
+28.291  SLMOD INFO: SlmodCallbacks.lua loaded
+28.293  SLMOD INFO: SlmodTests.lua loaded.
+32.845  SLMOD INFO: Modifying netview... results: , true
+32.845  SLMOD INFO: connected client 1
+32.845  SLMOD INFO: num clients: 1
+45.285  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+45.286  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+45.287  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+45.287  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+45.287  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+45.288  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+45.34  SLMOD INFO: successfully loaded unitAttributes.
+45.399  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+45.401  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+45.401  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\BannedClients.lua
+45.402  SLMOD INFO: using server admins as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ServerAdmins.lua
+45.402  SLMOD INFO: load exempt clients
+45.402  SLMOD INFO: using exempt ucids as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ExemptClients.lua
+45.454  SLMOD INFO: no misStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\Mission Stats\\4YA_NEV_PVE_v22B_[01_JAN_OVC]- Dec 11, 2021 at 11 02 23.lua
+45.504  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+45.504  SLMOD INFO: using random seed 1348
+45.504  SLMOD INFO: Create Events
+20454.99  SLMOD INFO: connected client 2
+20454.99  SLMOD INFO: num clients: 2
+20938.126  SLMOD INFO: connected client 3
+20938.126  SLMOD INFO: num clients: 3
+21715.051  SLMOD INFO: connected client 4
+21715.051  SLMOD INFO: num clients: 4
+22069.729  SLMOD INFO: slmod_onPlayerDisconnect 3
+22069.729  SLMOD INFO: num clients: 3
+22708.651  SLMOD INFO: connected client 3
+22708.651  SLMOD INFO: num clients: 4
+25270.765  SLMOD INFO: slmod_onPlayerDisconnect 3
+25270.765  SLMOD INFO: num clients: 3
+25456.208  SLMOD INFO: slmod_onPlayerDisconnect 2
+25456.208  SLMOD INFO: num clients: 2
+26789.687  SLMOD INFO: connected client 2
+26789.687  SLMOD INFO: num clients: 3
+27229.027  SLMOD INFO: slmod_onPlayerDisconnect 4
+27229.027  SLMOD INFO: num clients: 2
+27243.472  SLMOD INFO: slmod_onPlayerDisconnect 2
+27243.472  SLMOD INFO: num clients: 1
+34364.054  SLMOD INFO: connected client 2
+34364.054  SLMOD INFO: num clients: 2
+34713.775  SLMOD INFO: connected client 3
+34713.775  SLMOD INFO: num clients: 3
+35923.73  SLMOD INFO: connected client 4
+35923.73  SLMOD INFO: num clients: 4
+37169.624  SLMOD INFO: connected client 5
+37169.624  SLMOD INFO: num clients: 5
+37226.675  SLMOD INFO: slmod_onPlayerDisconnect 5
+37226.675  SLMOD INFO: num clients: 4
+37366.083  SLMOD INFO: connected client 5
+37366.083  SLMOD INFO: num clients: 5
+38283.354  SLMOD INFO: connected client 6
+38283.354  SLMOD INFO: num clients: 6
+38668.455  SLMOD INFO: connected client 7
+38668.455  SLMOD INFO: num clients: 7
+38924.207  SLMOD INFO: slmod_onPlayerDisconnect 3
+38924.207  SLMOD INFO: num clients: 6
+39230.79  SLMOD INFO: slmod_onPlayerDisconnect 2
+39230.79  SLMOD INFO: num clients: 5
+39526.201  SLMOD INFO: connected client 2
+39526.201  SLMOD INFO: num clients: 6
+40122.538  SLMOD INFO: slmod_onPlayerDisconnect 4
+40122.538  SLMOD INFO: num clients: 5
+40205.872  SLMOD INFO: slmod_onPlayerDisconnect 5
+40205.872  SLMOD INFO: num clients: 4
+40339.01  SLMOD INFO: slmod_onPlayerDisconnect 2
+40339.01  SLMOD INFO: num clients: 3
+41082.703  SLMOD INFO: slmod_onPlayerDisconnect 6
+41082.703  SLMOD INFO: num clients: 2
+45100.483  SLMOD INFO: connected client 2
+45100.483  SLMOD INFO: num clients: 3
+45467.811  SLMOD INFO: slmod_onPlayerDisconnect 7
+45467.811  SLMOD INFO: num clients: 2
+46176.183  SLMOD INFO: connected client 3
+46176.183  SLMOD INFO: num clients: 3
+47013.838  SLMOD INFO: slmod_onPlayerDisconnect 2
+47013.838  SLMOD INFO: num clients: 2
+47845.675  SLMOD INFO: slmod_onPlayerDisconnect 3
+47845.675  SLMOD INFO: num clients: 1
+63349.632  SLMOD INFO: connected client 2
+63349.632  SLMOD INFO: num clients: 2
+63670.297  SLMOD INFO: slmod_onPlayerDisconnect 2
+63670.297  SLMOD INFO: num clients: 1
+63830.77  SLMOD INFO: connected client 2
+63830.77  SLMOD INFO: num clients: 2
+65057.971  SLMOD INFO: slmod_onPlayerDisconnect 2
+65057.971  SLMOD INFO: num clients: 1
+68905.046  SLMOD INFO: connected client 2
+68905.046  SLMOD INFO: num clients: 2
+72555.793  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+72555.794  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+72555.794  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+72555.794  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+72555.794  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+72555.795  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+72555.973  SLMOD INFO: successfully loaded unitAttributes.
+72556.026  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+72556.029  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+72556.03  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\BannedClients.lua
+72556.03  SLMOD INFO: using server admins as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ServerAdmins.lua
+72556.031  SLMOD INFO: load exempt clients
+72556.034  SLMOD INFO: using exempt ucids as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ExemptClients.lua
+72556.075  SLMOD INFO: no misStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\Mission Stats\\4YA_NEV_PVE_v22B_[01_JAN_OVC]- Dec 11, 2021 at 11 15 48.lua
+72556.15  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+72556.15  SLMOD INFO: using random seed 3860
+72556.15  SLMOD INFO: Create Events
+72575.267  SLMOD INFO: slmod_onPlayerDisconnect 2
+72575.267  SLMOD INFO: num clients: 1
+73383.84  SLMOD INFO: connected client 2
+73383.84  SLMOD INFO: num clients: 2
+74761.035  SLMOD INFO: slmod_onPlayerDisconnect 2
+74761.035  SLMOD INFO: num clients: 1
+81548.366  SLMOD INFO: connected client 2
+81548.366  SLMOD INFO: num clients: 2
+82792.295  SLMOD INFO: slmod_onPlayerDisconnect 2
+82792.295  SLMOD INFO: num clients: 1
+88243.411  SLMOD INFO: connected client 2
+88243.411  SLMOD INFO: num clients: 2
+89820.204  SLMOD INFO: slmod_onPlayerDisconnect 2
+89820.204  SLMOD INFO: num clients: 1
+91732.927  SLMOD INFO: connected client 2
+91732.927  SLMOD INFO: num clients: 2
+95597.751  SLMOD INFO: connected client 3
+95597.752  SLMOD INFO: num clients: 3
+95609.901  SLMOD INFO: slmod_onPlayerDisconnect 2
+95609.901  SLMOD INFO: num clients: 2
+97546.569  SLMOD INFO: connected client 2
+97546.569  SLMOD INFO: num clients: 3
+98427.176  SLMOD INFO: slmod_onPlayerDisconnect 3
+98427.176  SLMOD INFO: num clients: 2
+98545.184  SLMOD INFO: slmod_onPlayerDisconnect 2
+98545.184  SLMOD INFO: num clients: 1
+104213.855  SLMOD INFO: connected client 2
+104213.855  SLMOD INFO: num clients: 2
+104221.996  SLMOD INFO: connected client 3
+104221.997  SLMOD INFO: num clients: 3
+104389.727  SLMOD INFO: slmod_onPlayerDisconnect 2
+104389.727  SLMOD INFO: num clients: 2
+104420.661  SLMOD INFO: connected client 2
+104420.661  SLMOD INFO: num clients: 3
+105399.357  SLMOD INFO: connected client 4
+105399.357  SLMOD INFO: num clients: 4
+106575.305  SLMOD INFO: slmod_onPlayerDisconnect 2
+106575.305  SLMOD INFO: num clients: 3
+106576.695  SLMOD INFO: slmod_onPlayerDisconnect 3
+106576.695  SLMOD INFO: num clients: 2
+109133.025  SLMOD INFO: slmod_onPlayerDisconnect 4
+109133.026  SLMOD INFO: num clients: 1
+109664.963  SLMOD INFO: connected client 2
+109664.963  SLMOD INFO: num clients: 2
+112006.439  SLMOD INFO: slmod_onPlayerDisconnect 2
+112006.439  SLMOD INFO: num clients: 1
+117036.005  SLMOD INFO: connected client 2
+117036.005  SLMOD INFO: num clients: 2
+120645.639  SLMOD INFO: slmod_onPlayerDisconnect 2
+120645.639  SLMOD INFO: num clients: 1
+123606.889  SLMOD INFO: connected client 2
+123606.889  SLMOD INFO: num clients: 2
+123607.418  SLMOD INFO: connected client 3
+123607.418  SLMOD INFO: num clients: 3
+127448.088  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+127448.089  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+127448.089  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+127448.089  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+127448.089  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+127448.089  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+127448.126  SLMOD INFO: successfully loaded unitAttributes.
+127448.181  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+127448.188  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+127448.192  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\BannedClients.lua
+127448.192  SLMOD INFO: using server admins as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ServerAdmins.lua
+127448.192  SLMOD INFO: load exempt clients
+127448.193  SLMOD INFO: using exempt ucids as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ExemptClients.lua
+127448.326  SLMOD INFO: no misStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\Mission Stats\\4YA_NEV_PVE_v22B_[02_JUN_BKN]- Dec 12, 2021 at 07 24 20.lua
+127448.387  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+127448.387  SLMOD INFO: using random seed -1246
+127448.388  SLMOD INFO: Create Events
+128985.83  SLMOD INFO: connected client 4
+128985.83  SLMOD INFO: num clients: 4
+129979.497  SLMOD INFO: slmod_onPlayerDisconnect 3
+129979.497  SLMOD INFO: num clients: 3
+130613.379  SLMOD INFO: slmod_onPlayerDisconnect 2
+130613.379  SLMOD INFO: num clients: 2
+132449.211  SLMOD INFO: slmod_onPlayerDisconnect 4
+132449.211  SLMOD INFO: num clients: 1
+132578.514  SLMOD INFO: connected client 2
+132578.514  SLMOD INFO: num clients: 2
+137179.22  SLMOD INFO: connected client 3
+137179.22  SLMOD INFO: num clients: 3
+137606.961  SLMOD INFO: slmod_onPlayerDisconnect 3
+137606.961  SLMOD INFO: num clients: 2
+138671.815  SLMOD INFO: slmod_onPlayerDisconnect 2
+138671.816  SLMOD INFO: num clients: 1
+140207.604  SLMOD INFO: connected client 2
+140207.604  SLMOD INFO: num clients: 2
+140645.845  SLMOD INFO: connected client 3
+140645.845  SLMOD INFO: num clients: 3
+148299.987  SLMOD INFO: connected client 4
+148299.987  SLMOD INFO: num clients: 4
+148971.269  SLMOD INFO: slmod_onPlayerDisconnect 3
+148971.269  SLMOD INFO: num clients: 3
+149067.455  SLMOD INFO: connected client 3
+149067.455  SLMOD INFO: num clients: 4
+154597.195  SLMOD INFO: successfully loaded (name = slmod.basicSerialize) function into export.
+154597.196  SLMOD INFO: successfully loaded (name = slmod.serialize) function into export.
+154597.196  SLMOD INFO: successfully loaded (name = slmod.oneLineSerialize) function into export.
+154597.196  SLMOD INFO: successfully loaded (name = slmod.serializeWithCycles) function into export.
+154597.196  SLMOD INFO: successfully loaded (name = slmod.deepcopy) function into export.
+154597.197  SLMOD INFO: successfully loaded (name = slmod.tableshow) function into export.
+154597.229  SLMOD INFO: successfully loaded unitAttributes.
+154597.286  SLMOD INFO: successfully completed slmod.getMissionUnitData()
+154597.288  SLMOD INFO: slmod.importMissionZones: zones successfully loaded to net environment.
+154597.288  SLMOD INFO: using banned ucids and/or ips as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\BannedClients.lua
+154597.288  SLMOD INFO: using server admins as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ServerAdmins.lua
+154597.288  SLMOD INFO: load exempt clients
+154597.288  SLMOD INFO: using exempt ucids as defined in C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\ExemptClients.lua
+154597.33  SLMOD INFO: no misStats , loading from file: C:\Users\jayir\Saved Games\4YAPS1OB\Slmod\Mission Stats\\4YA_NEV_PVE_v22B_[03_DEC_SCT]- Dec 12, 2021 at 22 39 14.lua
+154597.387  SLMOD INFO: weapons_impacting_code loaded successfully to server env
+154597.387  SLMOD INFO: using random seed -4097
+154597.388  SLMOD INFO: Create Events
+156886.608  SLMOD INFO: slmod_onPlayerDisconnect 4
+156886.608  SLMOD INFO: num clients: 3
+167347.207  SLMOD INFO: slmod_onPlayerDisconnect 2
+167347.207  SLMOD INFO: num clients: 2
+167536.574  SLMOD INFO: slmod_onPlayerDisconnect 3
+167536.574  SLMOD INFO: num clients: 1
