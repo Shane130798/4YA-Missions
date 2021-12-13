@@ -1,0 +1,32 @@
+Slmod started at Dec 10, 2021, 06:55:46
+42.628  SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\config.lua
+42.638  SLMOD INFO: ./Scripts/MissionScripting.lua is up to date, no installation required.
+42.648  SLMOD INFO: SlmodUtils.lua loaded.
+42.655  SLMOD INFO: SlmodEvents.lua loaded.
+42.662  SLMOD INFO: SlmodUnits.lua loaded.
+42.669  SLMOD INFO: SlmodMenu.lua loaded.
+42.674  SLMOD INFO: SlmodConvMenu.lua loaded.
+42.681  SLMOD INFO: SlmodPTSMenu.lua loaded.
+42.686  SLMOD INFO: SlmodPOSMenu.lua loaded.
+42.694  SLMOD INFO: SlmodAdminMenu.lua loaded
+42.706  SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodStats.lua
+42.728  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodStats.lua
+42.768  SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodPenaltyStats.lua
+42.772  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodPenaltyStats.lua
+42.785  SLMOD INFO: SlmodStats.lua loaded.
+42.792  SLMOD INFO: SlmodStatsDisplay.lua loaded.
+42.798  SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodMetaStats.lua
+42.801  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodMetaStats.lua
+42.801  SLMOD INFO: SlmodMetaStats.lua loaded.
+42.808  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+42.815  SLMOD INFO: SlmodPingCheck.lua loaded.
+42.821  SLMOD INFO: SlmodVote.lua loaded.
+42.828  SLMOD INFO: SlmodLibs.lua loaded.
+42.834  SLMOD INFO: SlmodDebugger.lua loaded.
+42.839  SLMOD INFO: SlmodMOTD.lua loaded.
+42.844  SLMOD INFO: SlmodHelp.lua loaded.
+42.851  SLMOD INFO: SlmodCallbacks.lua loaded
+42.857  SLMOD INFO: SlmodTests.lua loaded.
+46.911  SLMOD INFO: Modifying netview... results: , true
+46.911  SLMOD INFO: connected client 1
+46.911  SLMOD INFO: num clients: 1

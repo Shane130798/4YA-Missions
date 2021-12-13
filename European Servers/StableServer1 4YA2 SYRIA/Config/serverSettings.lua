@@ -37,7 +37,7 @@ cfg = {
 		[4] = 'C:/Users/Administrator/Saved Games/StableServer1/Missions/4YA_Syria_Capture_Bases_BLUE-KING_v37MedCloud.miz',
 	},
 	['mode'] = 0,
-	['name'] = '[4YA] TRAINING 24/7 SYRIA PVE STABLE EU SERVER',
+	['name'] = '[4YA] TRAINING 24/7 SYRIA PVE STABLE EU',
 	['password'] = '',
 	['port'] = 10312,
 	['require_pure_clients'] = false,
