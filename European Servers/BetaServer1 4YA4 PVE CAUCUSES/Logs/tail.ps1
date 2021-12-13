@@ -1,0 +1,1 @@
+Get-Content dcs.log -Tail 0 -Wait

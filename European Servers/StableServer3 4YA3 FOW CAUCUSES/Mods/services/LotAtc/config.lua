@@ -15,7 +15,7 @@ lotatc_inst.options =  {
 
     -- LotAtc Server port
     -- (default=10310)
-    port = 10325,
+    port = 10310,
 
     -- Red password
     -- Put "" to disable it
@@ -156,6 +156,16 @@ lotatc_inst.options =  {
     -- (default="stats.json")
     dump_json_filename = "stats.json",
 
+    -- Enable CSV file export of the computed tactical situation
+    -- For monomodelisation, each radar will generate its own view + datalink
+    -- (default=false)
+    export_log = false,
+
+    -- Enable TacView file export of the computed tactical situation
+    -- For monomodelisation, each radar will generate its own view + datalink
+    -- (default=false)
+    export_tacview = false,
+
 
 
     ----------------------------------------------------------------------
@@ -194,7 +204,7 @@ lotatc_inst.options =  {
     ----------------------------------------------------------------------
     -- Optimisation flags [BE CAREFUL WITH THEM]
     ----------------------------------------------------------------------
-    -- Number of seconds between DCS data extraction
+    -- Number of seconds between data extraction
     -- Lower can reduce performances
     -- (default=2)
     update_time = 2,
