@@ -4604,4 +4604,82 @@ Version: 2.1.9-e398d1ea
 [18:44:00 +01:00] [W] [default] ------------ LOAD DB DONE ------------ 415
 [18:44:00 +01:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/StableServer2/LotAtc Data/Server/Licenses"
 [18:44:00 +01:00] [W] [default] ERROR "Unknown protocol specified"
-[18:44:12 +01:00] [W] [
+[18:44:12 +01:00] [W] [[13:52:44 -08:00] [I] 
+[13:52:44 -08:00] [I] --- STARTING LOG ---
+[13:52:44 -08:00] [I] Date: Wed Dec 8 13:52:44 2021
+[13:52:44 -08:00] [I] Version: 2.2.1-219e6df2
+[13:52:44 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[13:52:44 -08:00] [I] --------------------
+[13:52:44 -08:00] [W] [default] Logger: Filedump is true
+[13:52:49 -08:00] [W] [default] ------------ LOAD DB ------------ 424
+[13:52:49 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 424
+[13:52:49 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/StableServer1/LotAtc Data/Server/Licenses"
+[13:52:49 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[13:53:00 -08:00] [W] [default] Logger: Filedump is false
+[13:53:00 -08:00] [W] [default] [GM] Set Year 2020
+[13:53:00 -08:00] [W] [default] [GM] Set Theather angle True false
+[13:53:00 -08:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[13:54:22 -08:00] [W] [clienthandler] Init
+[13:54:22 -08:00] [W] [clientserver] ASK FOR REGISTRATION...
+[13:54:22 -08:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[13:54:22 -08:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[13:54:22 -08:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/StableServer1/Mods/services/LotAtc/userdb/drawings"
+[13:54:22 -08:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/StableServer1/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[13:54:22 -08:00] [W] [default] LOAD 0
+[13:54:22 -08:00] [W] [default] Init tracker...
+[13:54:22 -08:00] [W] [default] [TacView tracker] Check enabled  false
+[13:54:22 -08:00] [W] [default] [Log tracker] Check enabled  false
+[13:54:22 -08:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[13:54:22 -08:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/StableServer1/Mods/services/LotAtc/userdb"
+[13:54:23 -08:00] [W] [clientserver] REGISTRATION OF "troller" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[13:54:23 -08:00] [W] [clientserver] REGISTRATION DONE
+[13:54:29 -08:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[13:54:29 -08:00] [W] [clienthandler] Finish
+[13:54:29 -08:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[13:54:29 -08:00] [W] [clienthandler] Client deleted
+[14:02:30 -08:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2780815514040' is still in use, all queries will cease to work.
+[14:03:04 -08:00] [I] 
+[14:03:04 -08:00] [I] --- STARTING LOG ---
+[14:03:04 -08:00] [I] Date: Wed Dec 8 14:03:04 2021
+[14:03:04 -08:00] [I] Version: 2.2.1-219e6df2
+[14:03:04 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[14:03:04 -08:00] [I] --------------------
+[14:03:04 -08:00] [W] [default] Logger: Filedump is true
+[14:03:08 -08:00] [W] [default] ------------ LOAD DB ------------ 424
+[14:03:08 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 424
+[14:03:08 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/StableServer1/LotAtc Data/Server/Licenses"
+[14:03:08 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[14:03:19 -08:00] [W] [default] Logger: Filedump is false
+[14:03:19 -08:00] [W] [default] [GM] Set Year 2020
+[14:03:19 -08:00] [W] [default] [GM] Set Theather angle True false
+[14:16:18 -08:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[14:16:55 -08:00] [I] 
+[14:16:55 -08:00] [I] --- STARTING LOG ---
+[14:16:55 -08:00] [I] Date: Thu Dec 9 14:16:55 2021
+[14:16:55 -08:00] [I] Version: 2.2.1-219e6df2
+[14:16:55 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[14:16:55 -08:00] [I] --------------------
+[14:16:55 -08:00] [W] [default] Logger: Filedump is true
+[14:17:00 -08:00] [W] [default] ------------ LOAD DB ------------ 424
+[14:17:00 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 424
+[14:17:00 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/StableServer1/LotAtc Data/Server/Licenses"
+[14:17:00 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[14:17:14 -08:00] [W] [default] Logger: Filedump is false
+[14:17:14 -08:00] [W] [default] [GM] Set Year 2020
+[14:17:14 -08:00] [W] [default] [GM] Set Theather angle True false
+[08:29:27 -08:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[08:30:02 -08:00] [I] 
+[08:30:02 -08:00] [I] --- STARTING LOG ---
+[08:30:02 -08:00] [I] Date: Fri Dec 10 08:30:02 2021
+[08:30:02 -08:00] [I] Version: 2.2.1-219e6df2
+[08:30:02 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[08:30:02 -08:00] [I] --------------------
+[08:30:02 -08:00] [W] [default] Logger: Filedump is true
+[08:30:07 -08:00] [W] [default] ------------ LOAD DB ------------ 424
+[08:30:07 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 424
+[08:30:07 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/StableServer1/LotAtc Data/Server/Licenses"
+[08:30:07 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[08:30:17 -08:00] [W] [default] Logger: Filedump is false
+[08:30:17 -08:00] [W] [default] [GM] Set Year 2020
+[08:30:17 -08:00] [W] [default] [GM] Set Theather angle True false
+[03:15:45 -08:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread

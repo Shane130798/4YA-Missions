@@ -1,0 +1,72 @@
+[13:52:40 -08:00] [I] 
+[13:52:40 -08:00] [I] --- STARTING LOG ---
+[13:52:40 -08:00] [I] Date: Wed Dec 8 13:52:40 2021
+[13:52:40 -08:00] [I] Version: 2.2.1-219e6df2
+[13:52:40 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[13:52:40 -08:00] [I] --------------------
+[13:52:40 -08:00] [W] [default] Logger: Filedump is true
+[13:52:45 -08:00] [W] [default] ------------ LOAD DB ------------ 426
+[13:52:45 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 426
+[13:52:45 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer1/LotAtc Data/Server/Licenses"
+[13:52:45 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[13:52:56 -08:00] [W] [default] Logger: Filedump is false
+[13:52:56 -08:00] [W] [default] [GM] Set Year 2020
+[13:52:56 -08:00] [W] [default] [GM] Set Theather angle True false
+[13:54:09 -08:00] [W] [clienthandler] Init
+[13:54:09 -08:00] [W] [clientserver] ASK FOR REGISTRATION...
+[13:54:09 -08:00] [W] [client.auth] Check incoming IP QHostAddress("::ffff:217.45.171.19")
+[13:54:09 -08:00] [W] [client.auth] IP QHostAddress("::ffff:217.45.171.19") validated
+[13:54:09 -08:00] [W] [default] LOAD USER DRAWINGS "C:/Users/Administrator/Saved Games/BetaServer1/Mods/services/LotAtc/userdb/drawings"
+[13:54:09 -08:00] [W] [default] Enable flag is false for in drawing QUrl("file:///C:/Users/Administrator/Saved Games/BetaServer1/Mods/services/LotAtc/userdb/drawings/blue/example.json")
+[13:54:09 -08:00] [W] [default] LOAD 0
+[13:54:09 -08:00] [W] [default] Init tracker...
+[13:54:09 -08:00] [W] [default] [TacView tracker] Check enabled  false
+[13:54:09 -08:00] [W] [default] [Log tracker] Check enabled  false
+[13:54:09 -08:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/LotAtc Data/Server"
+[13:54:09 -08:00] [W] [default] LOAD USER ASSETS "C:/Users/Administrator/Saved Games/BetaServer1/Mods/services/LotAtc/userdb"
+[13:54:09 -08:00] [W] [clientserver] REGISTRATION OF "troller" | 1 | "LotAtc Server Side License - Individual Edition" is true "You are using a server license"
+[13:54:09 -08:00] [W] [clientserver] REGISTRATION DONE
+[13:54:15 -08:00] [W] [clientserver] "[NetServerThread]" SOCKET ERROR "The remote host closed the connection"
+[13:54:15 -08:00] [W] [clienthandler] Finish
+[13:54:15 -08:00] [W] [clientserver] CLIENT WILL BE DESTROYED
+[13:54:15 -08:00] [W] [clienthandler] Client deleted
+[14:02:30 -08:00] [W] [default] QSqlDatabasePrivate::removeDatabase: connection 'relief-2309661071736' is still in use, all queries will cease to work.
+[14:02:30 -08:00] [W] [default] QSocketNotifier: Socket notifiers cannot be enabled or disabled from another thread
+[14:03:05 -08:00] [I] 
+[14:03:05 -08:00] [I] --- STARTING LOG ---
+[14:03:05 -08:00] [I] Date: Wed Dec 8 14:03:05 2021
+[14:03:05 -08:00] [I] Version: 2.2.1-219e6df2
+[14:03:05 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[14:03:05 -08:00] [I] --------------------
+[14:03:05 -08:00] [W] [default] Logger: Filedump is true
+[14:03:09 -08:00] [W] [default] ------------ LOAD DB ------------ 426
+[14:03:09 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 426
+[14:03:09 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer1/LotAtc Data/Server/Licenses"
+[14:03:10 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[14:03:21 -08:00] [W] [default] Logger: Filedump is false
+[14:03:21 -08:00] [W] [default] [GM] Set Year 2020
+[14:03:21 -08:00] [W] [default] [GM] Set Theather angle True false
+[14:03:21 -08:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[14:13:02 -08:00] [W] [default] ------------ LOAD DB ------------ 426
+[14:13:02 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 426
+[14:13:02 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer1/LotAtc Data/Server/Licenses"
+[14:13:02 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[14:13:07 -08:00] [W] [default] Logger: Filedump is false
+[14:13:07 -08:00] [W] [default] [GM] Set Year 2020
+[14:13:07 -08:00] [W] [default] [GM] Set Theather angle True false
+[14:13:07 -08:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
+[08:30:13 -08:00] [I] 
+[08:30:13 -08:00] [I] --- STARTING LOG ---
+[08:30:13 -08:00] [I] Date: Fri Dec 10 08:30:13 2021
+[08:30:13 -08:00] [I] Version: 2.2.1-219e6df2
+[08:30:13 -08:00] [I] Machine: Windows Server 2016 Version 1809
+[08:30:13 -08:00] [I] --------------------
+[08:30:13 -08:00] [W] [default] Logger: Filedump is true
+[08:30:18 -08:00] [W] [default] ------------ LOAD DB ------------ 426
+[08:30:18 -08:00] [W] [default] ------------ LOAD DB DONE ------------ 426
+[08:30:18 -08:00] [W] [default] LICENSES: 4 FOUND IN "C:/Users/Administrator/Saved Games/BetaServer1/LotAtc Data/Server/Licenses"
+[08:30:18 -08:00] [W] [default] ERROR "Unknown protocol specified"
+[08:30:31 -08:00] [W] [default] Logger: Filedump is false
+[08:30:31 -08:00] [W] [default] [GM] Set Year 2020
+[08:30:31 -08:00] [W] [default] [GM] Set Theather angle True false
+[08:30:31 -08:00] [W] [server.json] "Unable to start the server: The bound address is already in use."
