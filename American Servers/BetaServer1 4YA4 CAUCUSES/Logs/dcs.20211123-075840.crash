@@ -1,0 +1,14 @@
+# -------------- 20211123-075840 --------------
+DCS/2.7.8.16140 (x86_64; Windows NT 10.0.17763)
+C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 1\bin\ed_sound.dll
+# C0000005 ACCESS_VIOLATION at 7ACF5266 00:00000000
+SymInit: Symbol-SearchPath: '.;C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 1;C:\Program Files\Eagle Dynamics\DCS World OpenBeta Server 1\bin;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*https://msdl.microsoft.com/download/symbols;', symOptions: 528, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x110-0x3
+0x0000000000015266 (ed_sound): SND_speaker_layout_get_info + 0xBF6
+0x000000000001478E (ed_sound): SND_speaker_layout_get_info + 0x11E
+0x000000000000392A (ed_sound): SND_exit + 0xEA
+0x0000000000802A72 (DCS): SW + 0x5018D2
+0x0000000001CF4A67 (DCS): AmdPowerXpressRequestHighPerformance + 0xED2A63
+0x0000000000A2E35E (DCS): SW + 0x72D1BE
+0x0000000000017974 (KERNEL32): BaseThreadInitThunk + 0x14
+0x000000000005A2F1 (ntdll): RtlUserThreadStart + 0x21

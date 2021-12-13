@@ -30,10 +30,10 @@ cfg = {
 	['listStartIndex'] = 1,
 	['maxPlayers'] = '25',
 	['missionList'] = {
-		[1] = 'C:/Users/Administrator/Saved Games/BetaServer3/Missions/4YA_Marianas_LS_V.1.15.miz',
+		[1] = 'C:/Users/Administrator/Saved Games/BetaServer3/Missions/4YA_MAR_PVE_V.1.18.miz',
 	},
 	['mode'] = 0,
-	['name'] = '[4YA] TRAINING 24/7 MARIANAS PVE BETA US SERVER',
+	['name'] = '[4YA] TRAINING 24/7 MARIANAS PVE BETA US',
 	['password'] = '',
 	['port'] = 10310,
 	['require_pure_clients'] = false,

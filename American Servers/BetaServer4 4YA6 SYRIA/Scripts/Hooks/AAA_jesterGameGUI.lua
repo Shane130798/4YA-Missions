@@ -1,4 +1,4 @@
--- Copyright (c) 2021, breadsticks-4ya
+-- Copyright (c) 2021, cytokine-dcs
 --
 -- Load Jester at DCS server startup.
 

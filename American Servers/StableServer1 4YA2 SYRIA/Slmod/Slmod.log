@@ -1,0 +1,32 @@
+Slmod started at Dec 11, 2021, 03:24:19
+31.43  SLMOD INFO: using settings defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\config.lua
+31.438  SLMOD WARNING: ./Scripts/MissionScripting.lua is not up to date.  Installing new ./Scripts/MissionScripting.lua.
+31.439  SLMOD INFO: SlmodConfig.lua loaded.
+31.455  SLMOD INFO: SlmodUtils.lua loaded.
+31.464  SLMOD INFO: SlmodEvents.lua loaded.
+31.472  SLMOD INFO: SlmodUnits.lua loaded.
+31.48  SLMOD INFO: SlmodMenu.lua loaded.
+31.487  SLMOD INFO: SlmodConvMenu.lua loaded.
+31.489  SLMOD INFO: SlmodPTSMenu.lua loaded.
+31.492  SLMOD INFO: SlmodPOSMenu.lua loaded.
+31.504  SLMOD INFO: SlmodAdminMenu.lua loaded
+31.518  SLMOD INFO: no stats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodStats.lua
+31.545  SLMOD INFO: using SlmodStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodStats.lua
+31.585  SLMOD INFO: no penStats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodPenaltyStats.lua
+31.591  SLMOD INFO: using SlmodPenaltyStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodPenaltyStats.lua
+31.602  SLMOD INFO: SlmodStats.lua loaded.
+31.609  SLMOD INFO: no metaStats , loading from file: C:\Users\Administrator\Saved Games\StableServer1\Slmod\\SlmodMetaStats.lua
+31.689  SLMOD INFO: using SlmodMetaStats.lua as defined in C:\Users\Administrator\Saved Games\StableServer1\Slmod\SlmodMetaStats.lua
+31.694  SLMOD INFO: SlmodMetaStats.lua loaded.
+31.702  SLMOD INFO: SlmodAutoAdmin.lua loaded.
+31.705  SLMOD INFO: SlmodPingCheck.lua loaded.
+31.712  SLMOD INFO: SlmodVote.lua loaded.
+31.722  SLMOD INFO: SlmodLibs.lua loaded.
+31.724  SLMOD INFO: SlmodDebugger.lua loaded.
+31.73  SLMOD INFO: SlmodMOTD.lua loaded.
+31.732  SLMOD INFO: SlmodHelp.lua loaded.
+31.739  SLMOD INFO: SlmodCallbacks.lua loaded
+31.745  SLMOD INFO: SlmodTests.lua loaded.
+35.76  SLMOD INFO: Modifying netview... results: , true
+35.76  SLMOD INFO: connected client 1
+35.76  SLMOD INFO: num clients: 1
